@@ -13,6 +13,10 @@ const H = '"$HOME/.claude/claude-harness';
 const ours = {
   UserPromptSubmit: [{ hooks: [{ type: "command", command: `bash ${H}/hooks/usage-guard.sh" prompt` }] }],
   PreToolUse: [{ matcher: "Agent|Task|Workflow", hooks: [{ type: "command", command: `bash ${H}/hooks/usage-guard.sh" tool` }] }],
+  Stop: [{ hooks: [
+    { type: "command", command: `node ${H}/hooks/turn-check.mjs"` },
+    { type: "command", command: `bash ${H}/hooks/unlazy-stop.sh"` },
+  ] }],
 };
 s.hooks ??= {};
 for (const [event, entries] of Object.entries(ours)) {

@@ -21,6 +21,7 @@ check "a skill he already has is not replaced" '[ ! -L "$t/.claude/skills/humani
 check "the other skills are linked" '[ -L "$t/.claude/skills/unlazy" ] && [ -L "$t/.claude/skills/resource-sourcing" ]'
 check "his settings keys and hooks are kept" 'node -e "const s=require(process.argv[1]);process.exit(s.theme===\"dark\"&&s.hooks.Stop[0].hooks[0].command===\"echo mine\"?0:1)" "$S"'
 check "a second install adds no duplicate hooks" 'node -e "const s=require(process.argv[1]);process.exit(s.hooks.PreToolUse.length===1&&s.hooks.UserPromptSubmit.length===1?0:1)" "$S"'
+check "the turn check and unlazy run once each at the stop" 'node -e "const s=require(process.argv[1]);const c=s.hooks.Stop.flatMap(e=>e.hooks.map(h=>h.command)).join(\"\\n\");process.exit((c.match(/turn-check.mjs/g)||[]).length===1&&(c.match(/unlazy-stop.sh/g)||[]).length===1?0:1)" "$S"'
 check "settings were backed up first" 'ls "$t/.claude/" | grep -q "settings.json.before-harness-"'
 check "the status line is added when there is none" 'node -e "const s=require(process.argv[1]);process.exit(String(s.statusLine&&s.statusLine.command).includes(\"usage-statusline\")?0:1)" "$S"'
 
@@ -55,6 +56,14 @@ check "no figure passes" '[ -z "$(echo "{}" | bash -c "$cmd_tool")" ]'
 
 echo '{"model":{}}' | bash -c "$cmd_status" >/dev/null
 check "a plan without usage data writes nothing" '[ ! -f "$t/.claude/state/usage.json" ]'
+
+# The stop hooks as installed run and pass a clean turn.
+printf '%s\n' '{"type":"user","message":{"content":"hi"}}' '{"type":"assistant","message":{"content":[{"type":"text","text":"Done.\\n\\n[skills: none]"}]}}' > "$t/s.jsonl"
+for c in $(node -e 'const s=require(process.argv[1]);s.hooks.Stop.flatMap(e=>e.hooks).filter(h=>/claude-harness/.test(h.command)).forEach((h,i)=>console.log(i))' "$S"); do
+  cmd=$(node -e 'const s=require(process.argv[1]);console.log(s.hooks.Stop.flatMap(e=>e.hooks).filter(h=>/claude-harness/.test(h.command))[process.argv[2]].command)' "$S" "$c")
+  out=$(printf '{"transcript_path":"%s","session_id":"t","cwd":"%s"}' "$t/s.jsonl" "$t" | CLAUDE_PROJECT_DIR="$t" bash -c "$cmd" 2>&1); code=$?
+  check "installed stop hook $c runs and passes a clean turn" '[ $code -eq 0 ] && ! printf "%s" "$out" | grep -q "\"block\""'
+done
 
 rm -rf "$t"
 if [ "$fails" -eq 0 ]; then echo "HARNESS TESTS OK"; else echo "$fails failed"; exit 1; fi

@@ -29,6 +29,10 @@ is a claim and needs evidence. Raise a limitation only when it changes what I do
   for it. Plain words: say what happens to my work, not file paths and sizes.
 - Never imply shared memory of an earlier chat. Reopen the source or name the point briefly.
 
+## Footer
+
+Every reply ends with a last line `[skills: <names that loaded this turn, or none>]`.
+
 ## Copy, in every reply and file
 
 No em or en dashes, nor a hyphen pair doing a dash's job: rewrite the sentence. No Oxford commas.
@@ -74,6 +78,12 @@ the threads and the next action. The new lead reads the handoff and git, never o
 
 Hook logs and gate ledgers that matter are kept in git with the work, not left in a folder that dies
 with the container.
+
+## What a hook holds
+
+On a computer, hooks check the dash, Oxford comma, footer and nothing unasked rules at the end of
+each turn, unlazy's gates before a done claim and the weekly usage guard. Everything else here is
+judgment: hold it without a hook watching.
 
 ## Reviewing a setup
 

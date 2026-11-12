@@ -13,6 +13,8 @@ checks, replay set and product facts in its own repo).
 | `skills/humanizer` | Strips the signs of AI writing from copy (MIT) |
 | `skills/resource-sourcing` | Searches for an existing skill, plugin or tool before anything is built |
 | `hooks/usage-guard.sh` | At 75% of the weekly limit it tells Claude to wrap up; at 85% it refuses to start agents or workflows |
+| `hooks/turn-check.mjs` | At the end of each turn, blocks a reply with a dash, an Oxford comma or no footer, and one that started a scheduled task, reminder or PR watch nobody asked for in that chat |
+| `hooks/unlazy-stop.sh` | Runs unlazy's own check, which refuses a done claim while gates are unmet |
 | `statusline/usage-statusline.sh` | Shows weekly and five hour usage, and saves the weekly figure for the guard |
 | `templates/lever-scorecard.md` | The ten lever review, for any project's agent setup |
 | `install.sh` | Puts all of the above in place on a computer |
@@ -28,11 +30,27 @@ ways in (from Anthropic's docs, checked 11 Nov 2026):
 | --- | --- | --- | --- |
 | `CLAUDE.md` | install script | setup script | no |
 | Skills | install script, or the claude.ai account | claude.ai account only | claude.ai account only |
-| Usage guard and status line | install script | no: user hooks do not run in the cloud | no |
+| Hooks (turn check, unlazy, usage guard) | install script | no: user hooks do not run in the cloud | no |
 
 So the skills also need to be turned on in each claude.ai account; that is the only route into
 cloud sessions and Cowork. A guard that must hold in cloud sessions has to live in that project's
 own repo.
+
+## What is enforced and what is only written
+
+Enforced by a tested hook, on a computer: no dashes, no Oxford commas, the footer, nothing scheduled
+or watched unasked, unlazy's gates and the usage guard. The tests plant each mistake and check the
+hook catches it, and plant clean replies (including two real false alarms) and check it stays quiet.
+
+Written only: deciding, holding a position, plain words, checking before sending, lead chat rotation
+and agents in one batch. These need judgment, so no script can hold them.
+
+In cloud sessions none of the personal hooks run. A project that needs these checks there keeps
+them in its own repo; Mondai does. When a project runs its own turn check or unlazy hook, the
+harness versions stand aside so nothing runs twice.
+
+The turn check blocks at most three times in a row, then lets the turn end and says why, so it can
+never trap a session. Every run is logged to `~/.claude/state/turn-check.jsonl`.
 
 ## Install on a computer
 
@@ -76,9 +94,10 @@ by itself.
 bash tests/run.sh
 ```
 
-It installs into a throwaway folder twice and checks the links, the backups and the guard at
-planted levels (90%, 80%, 40%, an old figure and none). It prints `HARNESS TESTS OK` when every
-case passes.
+It installs into a throwaway folder twice and checks the links, the backups, the stop hooks and the
+guard at planted levels (90%, 80%, 40%, an old figure and none). It prints `HARNESS TESTS OK` when
+every case passes. `node tests/turn-check-cases.mjs` runs the planted replies for the turn check and
+prints `TURN CASES OK`.
 
 ## Why we built it rather than adopting a base
 
