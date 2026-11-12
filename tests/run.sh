@@ -23,7 +23,7 @@ check "his settings keys and hooks are kept" 'node -e "const s=require(process.a
 check "a second install adds no duplicate hooks" 'node -e "const s=require(process.argv[1]);process.exit(s.hooks.PreToolUse.length===1&&s.hooks.UserPromptSubmit.length===1?0:1)" "$S"'
 check "the turn check and unlazy run once each at the stop" 'node -e "const s=require(process.argv[1]);const c=s.hooks.Stop.flatMap(e=>e.hooks.map(h=>h.command)).join(\"\\n\");process.exit((c.match(/turn-check.mjs/g)||[]).length===1&&(c.match(/unlazy-stop.sh/g)||[]).length===1?0:1)" "$S"'
 check "settings were backed up first" 'ls "$t/.claude/" | grep -q "settings.json.before-harness-"'
-check "the status line is added when there is none" 'node -e "const s=require(process.argv[1]);process.exit(String(s.statusLine&&s.statusLine.command).includes(\"usage-statusline\")?0:1)" "$S"'
+check "the status line is set" 'node -e "const s=require(process.argv[1]);process.exit(String(s.statusLine&&s.statusLine.command).includes(\"usage-statusline\")?0:1)" "$S"'
 
 # The hook commands as installed must run from the linked path.
 cmd_tool=$(node -e 'const s=require(process.argv[1]);console.log(s.hooks.PreToolUse[0].hooks[0].command)' "$S")
@@ -65,5 +65,17 @@ for c in $(node -e 'const s=require(process.argv[1]);s.hooks.Stop.flatMap(e=>e.h
   check "installed stop hook $c runs and passes a clean turn" '[ $code -eq 0 ] && ! printf "%s" "$out" | grep -q "\"block\""'
 done
 
+rm -rf "$t"
+
+# A status line of his own is kept: it still shows, the weekly figure is added and the guard gets it.
+t=$(mktemp -d); export HOME="$t"; mkdir -p "$t/.claude"
+echo '{"statusLine":{"type":"command","command":"echo my-line"}}' > "$t/.claude/settings.json"
+bash "$here/install.sh" >/dev/null 2>&1; bash "$here/install.sh" >/dev/null 2>&1
+S="$t/.claude/settings.json"
+cmd_status=$(node -e 'const s=require(process.argv[1]);console.log(s.statusLine.command)' "$S")
+out=$(sample 90 $((now+86400)) | bash -c "$cmd_status")
+check "his own status line still shows, with the weekly figure after it" '[ "$out" = "my-line  week 90%  5h 12%" ]'
+check "the guard gets the figure when he has his own status line" 'grep -q "\"weekly\":90" "$t/.claude/state/usage.json"'
+check "a second install does not wrap the harness inside itself" 'grep -q "echo my-line" "$t/.claude/state/statusline-wrapped.json"'
 rm -rf "$t"
 if [ "$fails" -eq 0 ]; then echo "HARNESS TESTS OK"; else echo "$fails failed"; exit 1; fi

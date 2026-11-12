@@ -68,8 +68,8 @@ What it changes in `~/.claude`:
 - links `CLAUDE.md`; if you already had one, it is moved to `CLAUDE.md.before-harness` first
 - links each skill, except one whose name you already have (it says which it skipped)
 - adds the usage guard and status line to `settings.json` and keeps a dated backup; a status line
-  you already have is kept, but then the guard has no figure to read, so add the save step from
-  `statusline/usage-statusline.sh` to yours
+  you already have keeps showing first, with the weekly figure added after it (its command is
+  saved in `~/.claude/state/statusline-wrapped.json`)
 
 The weekly figure only exists on Pro, Max and Ultra plans. With no figure the guard stays quiet.
 The levels can be changed with `HARNESS_WEEKLY_WARN` and `HARNESS_WEEKLY_STOP`.
