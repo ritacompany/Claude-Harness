@@ -15,6 +15,7 @@ checks, replay set and product facts in its own repo).
 | `hooks/usage-guard.sh` | At 75% of the weekly limit it tells Claude to wrap up; at 85% it refuses to start agents or workflows |
 | `hooks/turn-check.mjs` | At the end of each turn, blocks a reply with a dash, an Oxford comma or no footer, and one that started a scheduled task, reminder or PR watch nobody asked for in that chat |
 | `hooks/unlazy-stop.sh` | Runs unlazy's own check, which refuses a done claim while gates are unmet |
+| `hooks/auto-update.sh` | At session start, at most once an hour, pulls the latest harness in the background and reinstalls when it changed |
 | `statusline/usage-statusline.sh` | Shows weekly and five hour usage, and saves the weekly figure for the guard |
 | `templates/lever-scorecard.md` | The ten lever review, for any project's agent setup |
 | `install.sh` | Puts all of the above in place on a computer |
@@ -62,7 +63,10 @@ cd ~/Code/claude-harness
 ./install.sh
 ```
 
-Then start a new Claude session. To update later: `git pull` and run `./install.sh` again.
+Then start a new Claude session. Updates come in by themselves: at the start of a session, at most
+once an hour, the harness pulls its latest version in the background and reinstalls if anything
+changed. It never overwrites edits made in the folder; those skip the update and say so in
+`~/.claude/state/auto-update.log`. Keep the folder where it is, since the links point to it.
 
 What it changes in `~/.claude`:
 - links `CLAUDE.md`; if you already had one, it is moved to `CLAUDE.md.before-harness` first
@@ -97,7 +101,8 @@ bash tests/run.sh
 It installs into a throwaway folder twice and checks the links, the backups, the stop hooks and the
 guard at planted levels (90%, 80%, 40%, an old figure and none). It prints `HARNESS TESTS OK` when
 every case passes. `node tests/turn-check-cases.mjs` runs the planted replies for the turn check and
-prints `TURN CASES OK`.
+prints `TURN CASES OK`. `bash tests/auto-update-test.sh` checks the self update against a throwaway
+remote and prints `AUTO UPDATE OK`.
 
 ## Why we built it rather than adopting a base
 

@@ -14,6 +14,7 @@ const H = '"$HOME/.claude/claude-harness';
 const ours = {
   UserPromptSubmit: [{ hooks: [{ type: "command", command: `bash ${H}/hooks/usage-guard.sh" prompt` }] }],
   PreToolUse: [{ matcher: "Agent|Task|Workflow", hooks: [{ type: "command", command: `bash ${H}/hooks/usage-guard.sh" tool` }] }],
+  SessionStart: [{ matcher: "startup", hooks: [{ type: "command", command: `bash ${H}/hooks/auto-update.sh"` }] }],
   Stop: [{ hooks: [
     { type: "command", command: `node ${H}/hooks/turn-check.mjs"` },
     { type: "command", command: `bash ${H}/hooks/unlazy-stop.sh"` },
