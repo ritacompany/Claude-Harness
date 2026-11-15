@@ -54,6 +54,8 @@ full pass on it (draft, audit, final), never a skim.
   unlazy skill, few and real. A quick question or one small fix needs none.
 - Before building a skill, plugin, agent or tool, search what exists with the resource-sourcing skill.
 - Work a session can do without me is done in it, never left on an open list.
+- Design is explored in Claude Code first, on a canvas or a page I can open; Figma gets the direction I
+  picked, or work I asked for in Figma. A project's own Figma steps win where they are more specific.
 - When something unexpected happens, protect my work and yours (duplicate or set aside, never
   overwrite or restart), carry on and tell me in one line at the end.
 - Nothing runs unasked: no scheduled check ins, reminders, timers or PR watching unless I ask in
