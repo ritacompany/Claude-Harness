@@ -8804,7 +8804,7 @@ Sources: archived claude.ai chats (mondaihistory), cloud Claude Code sessions, a
 - tags: style · standing: yes
 
 ### E1257 · Do not give structural fix, give solutions
-- quote: "i wasnt asking for a solution like this. im asking for help resizing things in a way that essentially doesnt force me to make exactly what you just showed me happen."
+- quote: "i wasnt sking for a solution like this. im asking for help resizing things in a way that essentially doesnt force me to make exactly what you just showed me happen."
 - source: 5251cc48 · [0094] (archive-4.md)
 - date: 2026-07-27
 - context: responsive feature cards
@@ -12720,14 +12720,14 @@ Sources: archived claude.ai chats (mondaihistory), cloud Claude Code sessions, a
 - quote: "... Top bar, one row: a dropdown that picks one text style (for example Header 1). On the same row: weight, letter spacing and line height (these two above all) and size. Numeric fields work like Figma ..."
 - source: session_01NtNprp9UZMRdMkayXtL9bf · 2026-11-07T19:28:51.069590Z (cloud-6.md)
 - date: 2026-11-07
-- context: [Relayed: his words quoted inside a seed prompt written by Claude] Type tuning tool brief
+- context: [Relayed: his words quoted inside a seed prompt written by Claude] Type tuning tool brief (relayed in a Claude-written seed prompt, not typed by him)
 - tags: shell, editor · standing: yes
 
 ### E1815 · Numeric fields type or scrub like Figma, everywhere
 - quote: "... Numeric fields work like Figma's: type an exact value, or click and hold a chevron handle (or the field's edge or label) and drag left and right to scrub slowly and finely. This applies to every number in the tool. ..."
 - source: session_01NtNprp9UZMRdMkayXtL9bf · 2026-11-07T19:28:51.069590Z (cloud-6.md)
 - date: 2026-11-07
-- context: [Relayed: his words quoted inside a seed prompt written by Claude] Type tuning tool brief
+- context: [Relayed: his words quoted inside a seed prompt written by Claude] Type tuning tool brief (relayed in a Claude-written seed prompt, not typed by him)
 - tags: editor, interaction · standing: yes
 
 ### E1816 · Options band showing the style in real interfaces
@@ -12741,21 +12741,21 @@ Sources: archived claude.ai chats (mondaihistory), cloud Claude Code sessions, a
 - quote: "... Below the band, a diptych: the left side shows how the style looks now and the right side updates live as he changes settings. Both sides are canvases with proper zoom and pan and plenty of room, so he can zoom in on details. They are not fully free canvases. ..."
 - source: session_01NtNprp9UZMRdMkayXtL9bf · 2026-11-07T19:28:51.069590Z (cloud-6.md)
 - date: 2026-11-07
-- context: [Relayed: his words quoted inside a seed prompt written by Claude] Type tuning tool brief
+- context: [Relayed: his words quoted inside a seed prompt written by Claude] Type tuning tool brief (relayed in a Claude-written seed prompt, not typed by him)
 - tags: review-board, editor, interaction · standing: yes
 
 ### E1818 · Responsive, draggable panes in dark mode
 - quote: "... Layout: responsive, with panes he can drag to resize (heights included), in dark mode. Decisions and notes: a way to decide and to add notes per style. It saves on its own, automatically. Hand back: when he is done, a way to send the changes he made to this chat, so you can carry them out. The set: he also needs to compare the styles against each other as a set, not only one at a time. ... He asked you to recommend three design skills that would build a well made dark mode interface with full responsive behaviour for this tool. ... Real examples only ... read their copy and layout from Figma, never invent product copy. ... Saving and sending back: ... Prove saving survives a reload before you call it done. ... Verification: ... a real browser check (Playwright is installed) at phone and desktop width: scrubbing, zoom, resizing and autosave after a reload."
 - source: session_01NtNprp9UZMRdMkayXtL9bf · 2026-11-07T19:28:51.069590Z (cloud-6.md)
 - date: 2026-11-07
-- context: [Relayed: his words quoted inside a seed prompt written by Claude] Type tuning tool brief
+- context: [Relayed: his words quoted inside a seed prompt written by Claude] Type tuning tool brief (relayed in a Claude-written seed prompt, not typed by him)
 - tags: shell, responsive, style · standing: yes
 
 ### E1819 · Per item decision and notes, autosaved
 - quote: "... Decisions and notes: a way to decide and to add notes per style. It saves on its own, automatically. ..."
 - source: session_01NtNprp9UZMRdMkayXtL9bf · 2026-11-07T19:28:51.069590Z (cloud-6.md)
 - date: 2026-11-07
-- context: [Relayed: his words quoted inside a seed prompt written by Claude] Type tuning tool brief
+- context: [Relayed: his words quoted inside a seed prompt written by Claude] Type tuning tool brief (relayed in a Claude-written seed prompt, not typed by him)
 - tags: decision-board, editor · standing: yes
 
 ### E1820 · Hand back path from the tool to Claude
@@ -12769,7 +12769,7 @@ Sources: archived claude.ai chats (mondaihistory), cloud Claude Code sessions, a
 - quote: "... The set: he also needs to compare the styles against each other as a set, not only one at a time. ..."
 - source: session_01NtNprp9UZMRdMkayXtL9bf · 2026-11-07T19:28:51.069590Z (cloud-6.md)
 - date: 2026-11-07
-- context: [Relayed: his words quoted inside a seed prompt written by Claude] Type tuning tool brief
+- context: [Relayed: his words quoted inside a seed prompt written by Claude] Type tuning tool brief (relayed in a Claude-written seed prompt, not typed by him)
 - tags: review-board · standing: yes
 
 ### E1822 · Real examples only, never invented copy
@@ -12783,7 +12783,7 @@ Sources: archived claude.ai chats (mondaihistory), cloud Claude Code sessions, a
 - quote: "... Prove saving survives a reload before you call it done. ... Verification: ... a real browser check (Playwright is installed) at phone and desktop width: scrubbing, zoom, resizing and autosave after a reload."
 - source: session_01NtNprp9UZMRdMkayXtL9bf · 2026-11-07T19:28:51.069590Z (cloud-6.md)
 - date: 2026-11-07
-- context: [Relayed: his words quoted inside a seed prompt written by Claude] Type tuning tool brief
+- context: [Relayed: his words quoted inside a seed prompt written by Claude] Type tuning tool brief (relayed in a Claude-written seed prompt, not typed by him)
 - tags: process, responsive · standing: yes
 
 ### E1824 · Canvas too gridded to move things around
@@ -12846,7 +12846,7 @@ Sources: archived claude.ai chats (mondaihistory), cloud Claude Code sessions, a
 - quote: "... please make these corner pieces vector objects, same thing with background with M on it. ..."
 - source: session_01NtNprr36dojS8yA6LWFscp · 2026-11-14T03:39:17.042054Z (cloud-6.md)
 - date: 2026-11-14
-- context: Brochure round 6 B artifact
+- context: Brochure round 6 B artifact (authorship unconfirmed; not cited)
 - tags: style, interaction · standing: one-off
 
 ### E1833 · Tablet should use the desktop navigation

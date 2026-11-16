@@ -36,7 +36,7 @@ ways in (from Anthropic's docs, checked 11 Nov 2026):
 
 So the skills also need to be turned on in each claude.ai account; that is the only route into
 cloud sessions and Cowork. For tool-defaults, upload the zip that `scripts/skill-zip.sh tool-defaults` makes (it leaves
-out the evidence and test files, which stay in this repo). A guard that must hold in cloud sessions has to live in that project's
+out the test files, which stay in this repo). A guard that must hold in cloud sessions has to live in that project's
 own repo.
 
 ## What is enforced and what is only written
