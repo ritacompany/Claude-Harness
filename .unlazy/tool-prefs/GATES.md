@@ -40,5 +40,5 @@ Scope: research Chadwick's own words across past chats and sessions on how he wa
 - [x] G9: every cited quote supports the rule it is cited for, per an independent fit review, with every NO replaced or the rule narrowed
   EVIDENCE: 16 Nov, Opus reviewer read all 445 citations (reviews/FIT-REVIEW.md): 314 support, 93 partial, 38 no; a second Opus agent applied every replacement, narrowed 15 overreaching rules and the 7 later contradictions (72 of 129 rules edited, now 130); E1832 dropped; one clause (Figma style number fields) still rests on a relayed quote plus direct ones
 
-- [ ] G7: Chadwick's open picks were put to him (grilling) and his answers are recorded in the evidence file, or the questions still open are named in the report
-  EVIDENCE: pending
+- [x] G7: Chadwick's open picks were put to him (grilling) and his answers are recorded in the evidence file, or the questions still open are named in the report
+  EVIDENCE: 16 Nov: the theme agents found no conflict his dates or context leave open (tabs then canvas, light then dark, pptx then HTML or PDF, wait then build were all settled by his latest words and are cited in the skill); the one decision left, merging into his harness, is put to him in the report
