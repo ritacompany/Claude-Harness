@@ -1,0 +1,15371 @@
+# Evidence: his words on how tools should be built
+
+Every finding the research pulled from his own messages, one block each, verbatim. Ids are cited by the skill. Quotes keep his typos and his punctuation, so they are exempt from the copy rules.
+
+Sources: archived claude.ai chats (mondaihistory), cloud Claude Code sessions, artifact comments and quotes already recorded in the repos. See SOURCES.md for what was read.
+
+### E0001 · Scope: one thing asked, not a whole page
+- quote: "I never asked u to put together an entire page i am speciically focusing on icons or numbers to represent the pathwys and this output is absolutely boring"
+- source: 2026-04-06--pathway-icons-and-hover-animations-exploration--4cd87cd3 · [0002] (archive-1.md)
+- date: 2026-04-06
+- context: Exploring pathway icon or number treatments and hover animations
+- tags: frustration, process, style · standing: yes
+
+### E0002 · Hover animations should feel brand
+- quote: "doing cool unique hovevr animations that feel brand."
+- source: 2026-04-06--pathway-icons-and-hover-animations-exploration--4cd87cd3 · [0000] (archive-1.md)
+- date: 2026-04-06
+- context: Pathway icons, interactions and microinteractions
+- tags: interaction, style · standing: yes
+
+### E0003 · Wrong thing built, he stopped Claude mid-way
+- quote: "Sorry I hd to stop you. I am not asking you to do anything related to the component image i aattached."
+- source: 2026-04-03--figma-link-verification-for-design-sizing--2e7197cf · [0004] (archive-1.md)
+- date: 2026-04-03
+- context: Sizing variations for the large Your journey page version
+- tags: frustration, process · standing: one-off
+
+### E0004 · Three versions as an artifact in the right panel
+- quote: "I'm wondering if you can make like an artifact in the right panel of 3 different versiosn of how this could look"
+- source: 2026-04-03--figma-link-verification-for-design-sizing--2e7197cf · [0002] (archive-1.md)
+- date: 2026-04-03
+- context: Sizing options for the pathway circles page
+- tags: review-board, delivery · standing: yes
+
+### E0005 · Brutalist type contrast
+- quote: "take into consideration the brutalist foundation of a lot of our UI. So for instance more dramatic sizing contrast for fonts and bolder laarger typography for headers etc."
+- source: 2026-04-03--figma-link-verification-for-design-sizing--2e7197cf · [0002] (archive-1.md)
+- date: 2026-04-03
+- context: Sizing options for the Your journey page
+- tags: style, product · standing: yes
+
+### E0006 · Layouts go boxy
+- quote: "my original ask was bout improving claude's ability to create better more varied layouts. it tends to go boxy sometimes."
+- source: 2026-04-05--understanding-npx-and-claude-s-theme-factory--466f3caf · [0010] (archive-1.md)
+- date: 2026-04-05
+- context: Asking about skill files to improve Claude's layouts
+- tags: style, frustration · standing: yes
+
+### E0007 · Three hero background versions in separate tabs
+- quote: "create 3 different versions in one output that are viewable in separate tabs"
+- source: 2026-04-07--mondai-brochure-hero-background-concepts--7c922553 · [0000] (archive-1.md)
+- date: 2026-04-07
+- context: Brochure hero background concepts
+- tags: review-board, delivery, interaction · standing: yes
+
+### E0008 · Start with just the background, no UI
+- quote: "start with just a background dont add UI elements or anything."
+- source: 2026-04-07--mondai-brochure-hero-background-concepts--7c922553 · [0000] (archive-1.md)
+- date: 2026-04-07
+- context: Brochure hero background concepts
+- tags: process · standing: one-off
+
+### E0009 · Use the question card with options
+- quote: "ask in that questions mode that pops up with options or a custom input field please."
+- source: 2026-04-07--mondai-brochure-hero-background-concepts--7c922553 · [0004] (archive-1.md)
+- date: 2026-04-07
+- context: Hero background brief
+- tags: interaction, process · standing: yes
+
+### E0010 · Make the thing on the right, not text
+- quote: "omg just make a thing on the right like the three tabs i asked for"
+- source: 2026-04-07--mondai-brochure-hero-background-concepts--7c922553 · [0010] (archive-1.md)
+- date: 2026-04-07
+- context: Claude kept asking questions instead of building the tabbed artifact
+- tags: delivery, frustration · standing: yes
+
+### E0011 · Only text came back
+- quote: "all i see is your text..."
+- source: 2026-04-07--mondai-brochure-hero-background-concepts--7c922553 · [0012] (archive-1.md)
+- date: 2026-04-07
+- context: Expected tabbed artifact in the right panel
+- tags: delivery, frustration · standing: yes
+
+### E0012 · Artifact is not html only
+- quote: "i asked for this as an artifact.... or whatever thats what u told me its called whne its the drawer that comes out on the right side of the screen. tht doent have to be html only."
+- source: 2026-04-07--mondai-brochure-hero-background-concepts--7c922553 · [0018] (archive-1.md)
+- date: 2026-04-07
+- context: Claude stuck to strict html in the artifact
+- tags: delivery, frustration · standing: yes
+
+### E0013 · Not using full capability
+- quote: "woah wait thats not true.... why r u sticking to strict html ur introstructions and or documentation specifically advice against this"
+- source: 2026-04-07--mondai-brochure-hero-background-concepts--7c922553 · [0014] (archive-1.md)
+- date: 2026-04-07
+- context: Hero background artifact
+- tags: frustration, delivery · standing: yes
+
+### E0014 · Built the stars and nothing else, no brand thought
+- quote: "It feels like you just built the stars and nothing else. Like you have the branding guide. this should feel more mondai.... it just feels like you saw particles and said okay ya that too without any creative thought"
+- source: 2026-04-07--mondai-brochure-hero-background-concepts--7c922553 · [0020] (archive-1.md)
+- date: 2026-04-08
+- context: Hero background v1
+- tags: style, frustration · standing: yes
+
+### E0015 · Bare, no dynamic energy or dimension
+- quote: "it feels... bare.. the example i gave had a lot more dynamic energy and dimension like it told a story. i also feel like u dont get the branding."
+- source: 2026-04-07--mondai-brochure-hero-background-concepts--7c922553 · [0024] (archive-1.md)
+- date: 2026-04-08
+- context: Hero background v2
+- tags: style, frustration · standing: yes
+
+### E0016 · Too clean, more editorial
+- quote: "can you lean more into the glitch type aesthetic? this all feels \"too clean and not gen z enough\" make it sexier, more editorial even."
+- source: 2026-04-07--mondai-brochure-hero-background-concepts--7c922553 · [0026] (archive-1.md)
+- date: 2026-04-08
+- context: Hero background direction
+- tags: style · standing: one-off
+
+### E0017 · Use full capabilities
+- quote: "Are you limiting yourself right now in terms of using your full capabilities ex Java css"
+- source: 2026-04-07--mondai-brochure-hero-background-concepts--7c922553 · [0028] (archive-1.md)
+- date: 2026-04-08
+- context: Hero background looks weak
+- tags: style, frustration, process · standing: yes
+
+### E0018 · Do not iterate on past generations by default
+- quote: "Ya why the hell are toy not. This is why it looks so bad. Also stop basing new generations on past generations unless we decide we really like the direction of one"
+- source: 2026-04-07--mondai-brochure-hero-background-concepts--7c922553 · [0030] (archive-1.md)
+- date: 2026-04-08
+- context: Hero background rounds
+- tags: process, review-board, frustration · standing: yes
+
+### E0019 · Artifact tabs erroring
+- quote: "The second two are erroring"
+- source: 2026-04-07--mondai-brochure-hero-background-concepts--7c922553 · [0032] (archive-1.md)
+- date: 2026-04-08
+- context: Hero background tabs, tabs 2 and 3 broken
+- tags: frustration, process · standing: yes
+
+### E0020 · Concept he does not understand
+- quote: "a good start but i dont understand the concept of the weird like space vibes bakground.... or is that just an example?"
+- source: 2026-04-07--mondai-brochure-hero-background-concepts--7c922553 · [0034] (archive-1.md)
+- date: 2026-04-08
+- context: Hero background, unexplained concept
+- tags: copy, review-board · standing: one-off
+
+### E0021 · Stop the orange tags
+- quote: "stop doing those weird ornge tags i once again say idk what those mean its making it confusing to read."
+- source: 2026-03-24--figma-ai-agents-and-canvas-integration--caf83d91 · [0012] (archive-1.md)
+- date: 2026-03-24
+- context: Claude reply formatting in chat (citation-style tags)
+- tags: copy, frustration · standing: yes
+
+### E0022 · Spacing help means actual numbers, not variations
+- quote: "these are not variations...... thee are outlining the spacing...... because if u did actually thoroughly read that past convo we have been working on spacing forever"
+- source: 2026-03-18--starting-screen-design-review--7765dc4c · [0006] (archive-1.md)
+- date: 2026-03-18
+- context: Homepage vertical spacing, calendar view
+- tags: frustration, process · standing: one-off
+
+### E0023 · Cramped does not feel like a homepage
+- quote: "right now it feels cramped which makes it not feel like a homepage."
+- source: 2026-03-18--starting-screen-design-review--7765dc4c · [0006] (archive-1.md)
+- date: 2026-03-18
+- context: Starting screen spacing
+- tags: style, product · standing: yes
+
+### E0024 · Wants exact distances
+- quote: "hold on no you need to know exact distances for sure:"
+- source: 2026-03-18--starting-screen-design-review--7765dc4c · [0018] (archive-1.md)
+- date: 2026-03-18
+- context: Sharing Figma links so Claude can read spacing
+- tags: process · standing: yes
+
+### E0025 · Read the images I gave you
+- quote: "girl wtf r u talking about i just provided all those documented images with my current spacing and shit and u just dont reference them for some bizarre reason? what u said makes no sense"
+- source: 2026-03-18--starting-screen-design-review--7765dc4c · [0014] (archive-1.md)
+- date: 2026-03-18
+- context: Starting screen spacing
+- tags: frustration, process · standing: yes
+
+### E0026 · Use the code box on the right
+- quote: "honestly im surprised ur not doing the shit u usually do when u help me with pages? like the code box thing? on the right? wouldnt that be a way easier way to do tihs?"
+- source: 2026-03-18--starting-screen-design-review--7765dc4c · [0022] (archive-1.md)
+- date: 2026-03-18
+- context: Claude sent static images instead of an artifact for spacing
+- tags: delivery, process · standing: yes
+
+### E0027 · More white space and bigger header
+- quote: "right now we need more white space up top to make it feel more like a home page its still too crammed. i want to increase the header size too that should help"
+- source: 2026-03-18--starting-screen-design-review--7765dc4c · [0022] (archive-1.md)
+- date: 2026-03-18
+- context: Starting screen spacing review
+- tags: style, product · standing: yes
+
+### E0028 · Do not explain Figma basics
+- quote: "yeah you def dont need to explain figma layers to me."
+- source: 2026-03-18--starting-screen-design-review--7765dc4c · [0028] (archive-1.md)
+- date: 2026-03-18
+- context: Spacing mismatch between Claude version and his Figma
+- tags: copy, process · standing: yes
+
+### E0029 · Do not suggest comparing, he can copy frames
+- quote: "im not comparing one i can literally just copy and paste frames i dont get why you would ever suggest that it makes absolutely no sense. I AM ASKING FOR HELP GETTING GREAT SPACING"
+- source: 2026-03-18--starting-screen-design-review--7765dc4c · [0020] (archive-1.md)
+- date: 2026-03-18
+- context: Starting screen spacing
+- tags: frustration · standing: one-off
+
+### E0030 · Figma Make adds unnecessary frames
+- quote: "it didnt make a component which i was hoping for. can it not do that? additionally it always does this weird shit where it creates unnecessary frames for everything its like almost an additional layer they dont need for instance a text box doesnt always call for another frame but they always make it one lol."
+- source: 2026-03-10--mondai-rita-abc-design-flows--c9210d9e · [0016] (archive-1.md)
+- date: 2026-03-10
+- context: Figma Make output from flow screenshots
+- tags: process, frustration · standing: one-off
+
+### E0031 · Boss wants structure
+- quote: "my boss wants soem structure and too much freedom hes not going to be into."
+- source: 2026-03-10--mondai-rita-abc-design-flows--c9210d9e · [0006] (archive-1.md)
+- date: 2026-03-10
+- context: Flex and push to next week flow
+- tags: product · standing: one-off
+
+### E0032 · Icons from the T Design set
+- quote: "they ned to be from the t design icon set"
+- source: 2026-03-14--progress-tracking-indicators--5286b90f · [0008] (archive-1.md)
+- date: 2026-03-14
+- context: Pathway discovery icons to replace the circle
+- tags: product, style · standing: one-off
+
+### E0033 · Keep centered, adjust padding for consistency
+- quote: "for consistency wouldnt it be better if i left it directly centered then just added bototm pdding tho like i was doing but change the bototm padding number?"
+- source: 2026-03-24--vertical-centering-and-optical-balance-in-ui-design--4618a9f2 · [0004] (archive-1.md)
+- date: 2026-03-24
+- context: Black background screen with a centered module
+- tags: product, shell · standing: one-off
+
+### E0034 · No dashes or Oxford commas, even in drafts
+- quote: "get rid of any  —, didn't look but if there are any oxford comms please remove"
+- source: 2026-03-09--scheduling-intern-onboarding-meetings--da633d76 · [0002] (archive-1.md)
+- date: 2026-03-09
+- context: Email draft, early chat; later written into his project brief as a standing rule
+- tags: copy · standing: yes
+
+### E0035 · Show the concept visually, one at a time
+- quote: "intereseted in the idea of  seeing ll of these honestly but one t. time is probbly better right?"
+- source: 2026-03-09--scheduling-intern-onboarding-meetings--da633d76 · [0017] (archive-1.md)
+- date: 2026-03-09
+- context: Ten glitch effect ideas for Mondai UI transitions
+- tags: review-board, process · standing: yes
+
+### E0036 · See the concept in the real card
+- quote: "how about the scanline entrance first intersted in seeing this concept visually"
+- source: 2026-03-09--scheduling-intern-onboarding-meetings--da633d76 · [0019] (archive-1.md)
+- date: 2026-03-09
+- context: Glitch transition demos
+- tags: interaction, review-board · standing: one-off
+
+### E0037 · Effect should happen within the interface, not trace the card outline
+- quote: "it feels weird tht it is still defined to the outline of the card. can it be sone in. way that makes it seem like the effect is happening within the interface? like the noise clears to reveal the card? because the card lives within the general framework"
+- source: 2026-03-09--scheduling-intern-onboarding-meetings--da633d76 · [0038] (archive-1.md)
+- date: 2026-03-09
+- context: Signal noise card entrance demo
+- tags: interaction, style · standing: one-off
+
+### E0038 · Demo not visible
+- quote: "i didnt see the chromatic split for some reson"
+- source: 2026-03-09--scheduling-intern-onboarding-meetings--da633d76 · [0025] (archive-1.md)
+- date: 2026-03-09
+- context: Chromatic split hover demo did not show
+- tags: frustration, interaction · standing: one-off
+
+### E0039 · Wireframey first, UI later
+- quote: "more wireframey. if i need ui help i can ask for that later. tho it doesnt hurt to integrate it in some way i guess."
+- source: 2026-03-22--exploring-next-steps-from-research--fd429466 · [0002] (archive-1.md)
+- date: 2026-03-22
+- context: AI surface options for the Action Item page
+- tags: style, process · standing: yes
+
+### E0040 · Code panel on the right, desktop not mobile
+- quote: ".... this is supposed to be in the html code thing on the right....... and desktop not mobile..... this si like ur missing all the context from the product too?"
+- source: 2026-03-22--exploring-next-steps-from-research--fd429466 · [0004] (archive-1.md)
+- date: 2026-03-22
+- context: Options for AI placement on Journey Hub page
+- tags: delivery, responsive, frustration · standing: yes
+
+### E0041 · Three alternatives in the tab format
+- quote: "well i want alternatives. give me 3 alternatives. use the tab formatting we use so i can view ll in one output"
+- source: 2026-03-22--exploring-next-steps-from-research--fd429466 · [0010] (archive-1.md)
+- date: 2026-03-22
+- context: AI surface alternatives
+- tags: review-board, interaction, delivery · standing: yes
+
+### E0042 · Chat should not be always open
+- quote: "i do think having the chat like always open is problematic. we dont need that open at all times so we need to figure out how that works. for option a i like it but it takes up too much spce and should rpobbly have a collapsible version maybe?"
+- source: 2026-03-22--exploring-next-steps-from-research--fd429466 · [0012] (archive-1.md)
+- date: 2026-03-22
+- context: AI panel option A
+- tags: shell, product · standing: yes
+
+### E0043 · Thoughts before creating
+- quote: "before creating anything let me know yuor thoughts and potentil solutiions, ideas, etc. all of course still needs to be rooted in everything we have discovered and learned so far."
+- source: 2026-03-22--exploring-next-steps-from-research--fd429466 · [0012] (archive-1.md)
+- date: 2026-03-22
+- context: Reviewing three AI surface options
+- tags: process · standing: one-off
+
+### E0044 · Not reading previous research is a red flag
+- quote: "WOAH THIS SHOWS U R NOT LOOKING AT OUR PREVIOSU RESEARCH AT ALL THIS IS A HUGE RED FLAG FOR ME RIGHT NOW. im not even going to continue this until u have ur info updated this is crzy."
+- source: 2026-03-22--exploring-next-steps-from-research--fd429466 · [0014] (archive-1.md)
+- date: 2026-03-22
+- context: AI panel proposals contradicting earlier research
+- tags: frustration, process · standing: yes
+
+### E0045 · Chat box can be small
+- quote: "the chat also doesnt have to take up the whole damn screen it can be smaller as well lol. im actually still liking c the best but also a is good as well aside from the chat box (persistent issue always designing the same)"
+- source: 2026-03-22--exploring-next-steps-from-research--fd429466 · [0032] (archive-1.md)
+- date: 2026-03-22
+- context: AI panel options
+- tags: shell, frustration, product · standing: yes
+
+### E0046 · Be creative, do not wait for instructions
+- quote: "im asking u to be creative if i wnted to give u specific isntructions i wouldnt be using u to help me come up with ideas"
+- source: 2026-03-22--exploring-next-steps-from-research--fd429466 · [0034] (archive-1.md)
+- date: 2026-03-22
+- context: Alternatives for AI surface
+- tags: process, style · standing: yes
+
+### E0047 · Do not make me re-clarify, read past conversation
+- quote: "omg do i really have to clarify this? read the past cconvo already i already stated previously exactly how i needed this. this confirms u dont know enough u need to read that more"
+- source: 2026-04-01--mondai-career-navigation-design-kickoff--4ba05fa0 · [0006] (archive-1.md)
+- date: 2026-04-01
+- context: Question card asking what format the journey page alternatives should be
+- tags: frustration, process, delivery · standing: yes
+
+### E0048 · Desktop is the obvious default
+- quote: "obviously desktop why are u acting liek u dont have any project context this si wild"
+- source: 2026-04-01--mondai-career-navigation-design-kickoff--4ba05fa0 · [0006] (archive-1.md)
+- date: 2026-04-01
+- context: Question card asking desktop or mobile
+- tags: responsive, frustration · standing: yes
+
+### E0049 · No laziness, none of the details ignored
+- quote: "none of the details can be ignored. nONE AT ALL NO LAZYINESS NO EXCUSE."
+- source: 2026-04-01--mondai-career-navigation-design-kickoff--4ba05fa0 · [0002] (archive-1.md)
+- date: 2026-04-01
+- context: Context handoff for four journey page layouts
+- tags: process · standing: yes
+
+### E0050 · Standing instructions he writes into projects
+- quote: "Be casual and direct. Lead with the answer. Keep responses concise unless depth is needed. Never use em dashes or Oxford commas. When I share screens or designs give sharp specific feedback not generic observations. Flag open questions and edge cases."
+- source: 2026-04-01--mondai-career-navigation-design-kickoff--4ba05fa0 · [0000] (archive-1.md)
+- date: 2026-04-01
+- context: Kickoff brief for four layout alternative flows, 8 screens
+- tags: copy, process · standing: yes
+
+### E0051 · Wants artifacts, high-fi, as close to final as possible
+- quote: "ok go ahead and make the artifacts"
+- source: 2026-04-01--mondai-career-navigation-design-kickoff--4ba05fa0 · [0004] (archive-1.md)
+- date: 2026-04-01
+- context: Four layout flows
+- tags: delivery, style · standing: yes
+
+### E0052 · Collapsible sidebar, collapsed by default, toggle on the edge
+- quote: "State: Collapsed by default (icons only). Toggle: A button sitting directly on the sidebar's edge."
+- source: 2026-03-08--figma-prompt-for-minimalist-journey-hub-homepage--4acbd28a · [0000] (archive-1.md)
+- date: 2026-03-08
+- context: His own brief for the Journey Hub homepage
+- tags: shell, product · standing: yes
+
+### E0053 · Floating left rail, content never hugs it
+- quote: "Design: Floating left rail." ... "Spatial Logic: Strictly Centered Content. No content should hug the left sidebar."
+- source: 2026-03-08--figma-prompt-for-minimalist-journey-hub-homepage--4acbd28a · [0000] (archive-1.md)
+- date: 2026-03-08
+- context: His own brief for the Journey Hub homepage
+- tags: shell, product · standing: yes
+
+### E0054 · Zero container, max width
+- quote: "Zero-Container Rule: Absolutely no boxes, no cards, no panels, and no dividing lines. Achieve layout through spacing and typographic alignment only." ... "Max Width: Centered column must not exceed ~860px."
+- source: 2026-03-08--figma-prompt-for-minimalist-journey-hub-homepage--4acbd28a · [0000] (archive-1.md)
+- date: 2026-03-08
+- context: His own brief for the Journey Hub homepage
+- tags: style, shell, product · standing: yes
+
+### E0055 · Hide secondary actions until hover
+- quote: "Hidden Actions: All scheduling and rescheduling tools must be invisible by default (hover/click only) to keep the UI \"sexy\" and clean."
+- source: 2026-03-08--figma-prompt-for-minimalist-journey-hub-homepage--4acbd28a · [0000] (archive-1.md)
+- date: 2026-03-08
+- context: His own brief for the Journey Hub homepage
+- tags: interaction, style, product · standing: yes
+
+### E0056 · Historical failures: boxes, clutter, left hug
+- quote: "No Boxes: Past attempts failed because the AI used \"Cards\" and \"Panels.\" Everything must float." ... "No Clutter: ... They caused cognitive overload." ... "No Center-Hug: Past prompts produced left-aligned content. The design must be centered."
+- source: 2026-03-08--figma-prompt-for-minimalist-journey-hub-homepage--4acbd28a · [0000] (archive-1.md)
+- date: 2026-03-08
+- context: His own brief for the Journey Hub homepage
+- tags: style, frustration, product · standing: yes
+
+### E0057 · Make clickability obvious
+- quote: "there needs to be a more obvious way for the user to \"click into a task\" for instance so tey can go to the tsk page for that individual task."
+- source: 2026-03-08--figma-prompt-for-minimalist-journey-hub-homepage--4acbd28a · [0012] (archive-1.md)
+- date: 2026-03-08
+- context: First Journey Hub prototype
+- tags: interaction, product · standing: yes
+
+### E0058 · Do not make it feel like a Notion page, be creative with layouts
+- quote: "can you mke this more like centered? like te header text spectically. i dont want it to feel so \"notion page\"ish. if that makes sense? also i dont like that the calendar and notes section are hiding at the bottom. be more creative with your layouts."
+- source: 2026-03-08--figma-prompt-for-minimalist-journey-hub-homepage--4acbd28a · [0014] (archive-1.md)
+- date: 2026-03-08
+- context: First Journey Hub prototype
+- tags: style, shell, product · standing: yes
+
+### E0059 · Layout should reflect how things relate
+- quote: "youre struggling a bit with the info architecture of the page. for isntance the notes are directly related to the tasks but the events thing is just general rita ... events ... this design implies their relationship is the same?"
+- source: 2026-03-08--figma-prompt-for-minimalist-journey-hub-homepage--4acbd28a · [0016] (archive-1.md)
+- date: 2026-03-08
+- context: Journey Hub prototype
+- tags: shell, product, review-board · standing: yes
+
+### E0060 · Build in the code panel, not an image
+- quote: "dont create an image. i want you to do this in that code mode thing in the right panel."
+- source: 2026-03-18--project-assistance-needed--db6cdec6 · [0004] (archive-1.md)
+- date: 2026-03-18
+- context: First action items page design, built from scratch
+- tags: delivery · standing: yes
+
+### E0061 · Web based, not mobile
+- quote: "the design should be web based not mobile."
+- source: 2026-03-18--project-assistance-needed--db6cdec6 · [0008] (archive-1.md)
+- date: 2026-03-18
+- context: Action items page
+- tags: responsive · standing: yes
+
+### E0062 · Mode switch between list and calendar
+- quote: "can u create a version where i can switch from list to calendar view? also in this version i need a section for rita scheduled events. this is separate from the calendar view"
+- source: 2026-03-18--project-assistance-needed--db6cdec6 · [0018] (archive-1.md)
+- date: 2026-03-19
+- context: Action items page prototype
+- tags: interaction, review-board, product · standing: one-off
+
+### E0063 · Decide for me, do not ask where it lives
+- quote: "im askingg u to figure this out since u are the onw who created this hierarchy. obviously it should be paired with the tasks"
+- source: 2026-03-18--project-assistance-needed--db6cdec6 · [0022] (archive-1.md)
+- date: 2026-03-19
+- context: Question card asking where the week intro section should live
+- tags: process, frustration · standing: yes
+
+### E0064 · Wireframe fidelity is intentional
+- quote: "THIS IS A WIREFRAME NOT VISUALLY CLEAN."
+- source: 2026-03-18--project-assistance-needed--db6cdec6 · [0028] (archive-1.md)
+- date: 2026-03-19
+- context: Wireframe he will show his boss for approval
+- tags: style, process · standing: one-off
+
+### E0065 · Stop the double hyphens
+- quote: "ALSO STOP WITH THE -- I SPECIFICLLY OUTLINE THIS IN UR INSTRUCTIONS"
+- source: 2026-03-19--task-formatting-and-descriptions--6e6229a1 · [0034] (archive-1.md)
+- date: 2026-03-26
+- context: Claude wrote a task description with double hyphens as dashes
+- tags: copy, frustration · standing: yes
+
+### E0066 · Reference examples must be real flows with links
+- quote: "um i expected links?" ... "youre just giving me reference websites not examples of the flow types i was looking for"
+- source: 2026-04-09--your-journey-and-pathways-page--1289d949 · [0006], [0008] (archive-1.md)
+- date: 2026-04-09
+- context: Layout references for the Journey to Pathway flow
+- tags: delivery, frustration · standing: yes
+
+### E0067 · Show examples as usual
+- quote: "i want to see the examples as usual"
+- source: 2026-04-09--your-journey-and-pathways-page--1289d949 · [0042] (archive-1.md)
+- date: 2026-04-16
+- context: After Claude described options instead of building them
+- tags: delivery, review-board · standing: yes
+
+### E0068 · Prototype must be interactive across both pages
+- quote: "i need you to create something for me that has like a few different examples fo how we could do this in differnt tabs. each tab should not just be a solid screen but I should be able to go back and forth between the journey and apthway page. for instance if i cick on the pathway card or whatevevr on the journey page i go to that pathway."
+- source: 2026-04-09--your-journey-and-pathways-page--1289d949 · [0032] (archive-1.md)
+- date: 2026-04-16
+- context: Journey and pathway page alternatives
+- tags: review-board, interaction, navigation · standing: yes
+
+### E0069 · Back navigation, keep the current design
+- quote: "once im on the pathway page in each of the flows i also need to be able to go back. currently i have breadcrumbs above the title so i could just use that. ... i dont want to have to change this too much aside from what we mentioned so dont completely redo this please."
+- source: 2026-04-09--your-journey-and-pathways-page--1289d949 · [0032] (archive-1.md)
+- date: 2026-04-16
+- context: Journey and pathway page alternatives
+- tags: navigation, process · standing: yes
+
+### E0070 · Interactions that do nothing break the review
+- quote: "no like if i hover or click on any of the non current pathways nothing happens so i cant see how that works in relation tot he entrie page. also the second option is kind of messed up with text responsiveness being all weird"
+- source: 2026-04-09--your-journey-and-pathways-page--1289d949 · [0024] (archive-1.md)
+- date: 2026-04-16
+- context: Four journey page options in tabs
+- tags: interaction, responsive, frustration · standing: yes
+
+### E0071 · Not all the interactions work
+- quote: "i think one, two or potentially 3 work the best tho 3 im having a harder time understanding how it all connects. not all the interactions work."
+- source: 2026-04-09--your-journey-and-pathways-page--1289d949 · [0022] (archive-1.md)
+- date: 2026-04-16
+- context: Four journey page options in tabs
+- tags: interaction, frustration · standing: yes
+
+### E0072 · Needs progress shown, matches softer design system
+- quote: "it also doesnt show progress at all. there needs to be some progress through the different stages like a progress bar or SOMETHING. also the design is boring and doesnt go with my vibes in my current design system which has softer corneres and stuff."
+- source: 2026-04-09--your-journey-and-pathways-page--1289d949 · [0026] (archive-1.md)
+- date: 2026-04-16
+- context: Reviewing journey page option 2
+- tags: navigation, style, product · standing: yes
+
+### E0073 · Fully ditch rejected options
+- quote: "okay so fully ditch option 4. i like the tap half of the pages current design, it's working well. this blends them too much."
+- source: 2026-04-09--your-journey-and-pathways-page--1289d949 · [0026] (archive-1.md)
+- date: 2026-04-16
+- context: Reviewing journey page options
+- tags: review-board · standing: one-off
+
+### E0074 · Incomplete task
+- quote: "confused that u didnt complete the task? what happened to allt he info regarding \"\"where am i at tasks wise in this pool of tasks and what is coming up next\"\""
+- source: 2026-04-09--your-journey-and-pathways-page--1289d949 · [0034] (archive-1.md)
+- date: 2026-04-16
+- context: Journey and pathway page prototype missing a requirement
+- tags: frustration, process, navigation · standing: yes
+
+### E0075 · Why so boxy, match my designs
+- quote: "also why arent u trying harder to replicate my designs? why is everything so boxy? u need to look at what im sending and adapt ur results to that liek what u sent is more based on the style guide without actually looking at the current designs."
+- source: 2026-04-09--your-journey-and-pathways-page--1289d949 · [0040] (archive-1.md)
+- date: 2026-04-16
+- context: Pathway page prototype ignored his screenshots
+- tags: style, frustration, process · standing: yes
+
+### E0076 · Do not make lists that look like other lists
+- quote: "that ISNT in a list format. the list format u currently have literally is confusing with the aciton item list items..."
+- source: 2026-04-09--your-journey-and-pathways-page--1289d949 · [0038] (archive-1.md)
+- date: 2026-04-16
+- context: Resources section placed under action items
+- tags: style, product · standing: one-off
+
+### E0077 · Realistic content volume
+- quote: "u didnt realize that there were only 3 action items in the list and there would obviously be way more so putting the resources below them is not going to work."
+- source: 2026-04-09--your-journey-and-pathways-page--1289d949 · [0036] (archive-1.md)
+- date: 2026-04-16
+- context: Pathway page prototype used only 3 sample items
+- tags: review-board, frustration, process · standing: yes
+
+### E0078 · Minimal dashboards with little info
+- quote: "i honestly think what would be really helpful to see is more minimal dashboards that dont have a ton of info because as u kno my my journey page doesnt have as much info to add to the page for now"
+- source: 2026-04-09--your-journey-and-pathways-page--1289d949 · [0014] (archive-1.md)
+- date: 2026-04-09
+- context: Reference search for Your journey page
+- tags: style, product · standing: one-off
+
+### E0079 · Completed items should not push current ones out of view
+- quote: "so the user has to scroll through a bunch of action items marked as complete to find the one hes currently on then view the ones after? that quite doesnt make sense to me"
+- source: 2026-04-09--your-journey-and-pathways-page--1289d949 · [0050] (archive-1.md)
+- date: 2026-04-16
+- context: Pathway page action item list ordering
+- tags: navigation, product · standing: yes
+
+### E0080 · Consistency across pages
+- quote: "okay only thing with this is we hve this for completed on the action hub screen too. could we confuse the user if they are different or if theyre exactly the same?"
+- source: 2026-04-09--your-journey-and-pathways-page--1289d949 · [0052] (archive-1.md)
+- date: 2026-04-16
+- context: Collapsed completed section
+- tags: product, interaction · standing: yes
+
+### E0081 · Top quality sources with links
+- quote: "please look at top ux resources and provide links explaining to me why you suggest what u do. the sources should be top knotch."
+- source: 2026-04-09--your-journey-and-pathways-page--1289d949 · [0048] (archive-1.md)
+- date: 2026-04-16
+- context: Sort and filter strategy for action items
+- tags: process · standing: yes
+
+### E0082 · Reveal on hover must not blur what is clickable
+- quote: "it revealing when the card itself is hovered creates a huge confusion block - as a user im like wait so if i click the action item does it edit something or take me somewhere else? how is this not clearly a huge issue."
+- source: 2026-04-14--figma-design-system-link-verification--3b06609d · [0006] (archive-1.md)
+- date: 2026-04-14
+- context: Action item card with hover arrow and an edit button inside
+- tags: interaction, product · standing: yes
+
+### E0083 · Separate hover zones for separate actions
+- quote: "i think we need to have the animation for clicking into the acrd itself separate from the space where the circle lies. if the user hovers over where the circle lies and the entire box animates then it feels like clicking that area will also lead to the action item which is not true in all cases"
+- source: 2026-04-14--figma-design-system-link-verification--3b06609d · [0074] (archive-1.md)
+- date: 2026-04-14
+- context: Action item card with status circle
+- tags: interaction, product · standing: yes
+
+### E0084 · Clicks that do nothing create friction
+- quote: "but wont this cause friction if a user tries to click and and just nothing happens?"
+- source: 2026-04-14--figma-design-system-link-verification--3b06609d · [0026] (archive-1.md)
+- date: 2026-04-14
+- context: Locked or not started action item states
+- tags: interaction, product · standing: yes
+
+### E0085 · Show it in the artifact view on the right
+- quote: "how does that not end up lookign weird tho can u show me how it would look in artifact view on the right"
+- source: 2026-04-14--figma-design-system-link-verification--3b06609d · [0044] (archive-1.md)
+- date: 2026-04-14
+- context: Status circle interaction options
+- tags: delivery, review-board · standing: yes
+
+### E0086 · Try options in separate tabs
+- quote: "try both in separate tabs"
+- source: 2026-04-14--figma-design-system-link-verification--3b06609d · [0048] (archive-1.md)
+- date: 2026-04-14
+- context: Circle placement options
+- tags: review-board, delivery · standing: yes
+
+### E0087 · All options in tabs
+- quote: "try all of the options in separate tabs"
+- source: 2026-04-14--figma-design-system-link-verification--3b06609d · [0054] (archive-1.md)
+- date: 2026-04-14
+- context: Circle placement options
+- tags: review-board, delivery · standing: yes
+
+### E0088 · Artifact errored
+- quote: "it errored" ... "Uncaught Error: Uncaught SyntaxError: Invalid or unexpected token"
+- source: 2026-04-14--figma-design-system-link-verification--3b06609d · [0056], [0058] (archive-1.md)
+- date: 2026-04-14
+- context: Tabbed artifact with circle options threw a syntax error
+- tags: frustration, process · standing: yes
+
+### E0089 · Only strong UX suggestions
+- quote: "please make sure ur providing strong ux based product suggestions only. for instance i dont think right is a good ux pattern but i could be wrong."
+- source: 2026-04-14--figma-design-system-link-verification--3b06609d · [0052] (archive-1.md)
+- date: 2026-04-14
+- context: Placement options for the status circle
+- tags: process, interaction · standing: yes
+
+### E0090 · Do not just agree
+- quote: "dont just agree lol."
+- source: 2026-04-14--figma-design-system-link-verification--3b06609d · [0064] (archive-1.md)
+- date: 2026-04-14
+- context: Interaction logic for the status circle
+- tags: process · standing: yes
+
+### E0091 · Do not just agree every time
+- quote: "ok only thing is why does that feel misleading for the go to action item interaction on the not started action items and dont just agree every time omg"
+- source: 2026-04-14--figma-design-system-link-verification--3b06609d · [0114] (archive-1.md)
+- date: 2026-04-15
+- context: Pressed state for circle interactions
+- tags: process, frustration · standing: yes
+
+### E0092 · Think harder
+- quote: "idk doesnt feel like ur thinkign hard enough"
+- source: 2026-04-14--figma-design-system-link-verification--3b06609d · [0030] (archive-1.md)
+- date: 2026-04-14
+- context: Status interaction logic
+- tags: process, frustration · standing: yes
+
+### E0093 · Do not tell the designer what does not matter
+- quote: "why are you pointing this out? youre not the designer i am. none of that matters lol decisions are made without you and things change. you never did the arrow thing correctly."
+- source: 2026-04-14--figma-design-system-link-verification--3b06609d · [0086] (archive-1.md)
+- date: 2026-04-15
+- context: Rebuilding his Figma design in an artifact
+- tags: process, frustration · standing: yes
+
+### E0094 · Recreate exactly as designed
+- quote: "create this on the right in the artifact view please EXACTLY as i have it"
+- source: 2026-04-14--figma-design-system-link-verification--3b06609d · [0088] (archive-1.md)
+- date: 2026-04-15
+- context: Rebuilding the Action Hub from Figma in an artifact
+- tags: delivery, style, process · standing: yes
+
+### E0095 · Not exact: spacing, icons, whole page
+- quote: "...... this si not exactly the same. i can tell the spacing is off, the icons are wrong, etc. also this is stupposed to be the entire page wtf"
+- source: 2026-04-14--figma-design-system-link-verification--3b06609d · [0090] (archive-1.md)
+- date: 2026-04-15
+- context: Action Hub artifact recreation
+- tags: frustration, style, process · standing: yes
+
+### E0096 · Artifact scale too small vs Figma
+- quote: "wait what? how? how about the spacing between action items? the spacing EVERYWHERE ELSE TOO?"
+- source: 2026-04-14--figma-design-system-link-verification--3b06609d · [0098] (archive-1.md)
+- date: 2026-04-15
+- context: Artifact rendered zoomed out compared to the Figma frame
+- tags: frustration, responsive, style · standing: yes
+
+### E0097 · Margins responsive by breakpoint
+- quote: "u are not doing margins correctly. the example from the design that i did and gave u not the ones u made has margins of 136 for the core frame at a VP of 1920 x 1080. The margins should be responsive based on breakpoint so not 136 for all but they should be responsive"
+- source: 2026-04-14--figma-design-system-link-verification--3b06609d · [0100] (archive-1.md)
+- date: 2026-04-15
+- context: Action Hub artifact recreation
+- tags: responsive, shell, style · standing: yes
+
+### E0098 · Pull directly from the Figma link
+- quote: "i dont understand how this still looks so differnt cant u pull everything directly from my mcp link?"
+- source: 2026-04-14--figma-design-system-link-verification--3b06609d · [0104] (archive-1.md)
+- date: 2026-04-15
+- context: Artifact did not match Figma
+- tags: process, delivery · standing: yes
+
+### E0099 · Why reference a screenshot
+- quote: "what do u mean screenshot? why are you referencing a screenshot?"
+- source: 2026-04-14--figma-design-system-link-verification--3b06609d · [0106] (archive-1.md)
+- date: 2026-04-15
+- context: Claude blamed a screenshot rather than the Figma link
+- tags: process, frustration · standing: one-off
+
+### E0100 · Show me, with press animation timing
+- quote: "show me"
+- source: 2026-04-14--figma-design-system-link-verification--3b06609d · [0110] (archive-1.md)
+- date: 2026-04-15
+- context: Pressed state for the circle interactions
+- tags: delivery, interaction · standing: yes
+
+### E0101 · Wants real animation numbers
+- quote: "OK SO SMART ANIMATE HOW MANY MS"
+- source: 2026-04-14--figma-design-system-link-verification--3b06609d · [0116] (archive-1.md)
+- date: 2026-04-16
+- context: Pressed state for status circles in Figma prototype
+- tags: interaction · standing: one-off
+
+### E0102 · Find it out, do not make things up
+- quote: "nothing that you mentione work and collapse layer isnt an option so ur makign shit up im asking u to actually find this out for me"
+- source: 2026-04-11--multi-angle-video-editing-terminology--71d88c5b · [0040] (archive-1.md)
+- date: 2026-04-11
+- context: Figma shortcut for collapsing layers
+- tags: process, frustration · standing: yes
+
+### E0103 · Search, do not bluff
+- quote: "this will require u to actually search dont bullshit."
+- source: 2026-04-11--multi-angle-video-editing-terminology--71d88c5b · [0042] (archive-1.md)
+- date: 2026-04-11
+- context: Figma slots question
+- tags: process, frustration · standing: yes
+
+### E0104 · Calendar must work at 1280 wide
+- quote: "im already at this size so how the hell is this going to work for like 1280 by 832 vps"
+- source: 2026-04-11--multi-angle-video-editing-terminology--71d88c5b · [0050] (archive-1.md)
+- date: 2026-04-11
+- context: Calendar event cards at 1920 x 1080 with cramped content
+- tags: responsive, product · standing: yes
+
+### E0105 · Needs a visual example, not a description
+- quote: "can you show me a visual example of this? im not understanding what this actuallyl ooks like."
+- source: 2026-04-11--multi-angle-video-editing-terminology--71d88c5b · [0054] (archive-1.md)
+- date: 2026-04-11
+- context: Google Calendar narrow event card approach
+- tags: delivery, review-board · standing: yes
+
+### E0106 · Collapsed cards and detail access
+- quote: "then when they are collapsed how would i see more details? would I just hover?"
+- source: 2026-04-11--multi-angle-video-editing-terminology--71d88c5b · [0058] (archive-1.md)
+- date: 2026-04-11
+- context: Truncated calendar event cards at narrow widths
+- tags: interaction, responsive, product · standing: yes
+
+### E0107 · Margins vs grid are separate
+- quote: "the margin settings are not the same as the grid they are two separate figma features. they just work together like i set the preset margins based on the current grid."
+- source: 2026-04-11--multi-angle-video-editing-terminology--71d88c5b · [0068] (archive-1.md)
+- date: 2026-04-11
+- context: Smaller margins for calendar view while keeping 12 column grid
+- tags: shell, responsive, product · standing: one-off
+
+### E0108 · Sent the image repeatedly, Claude did not use it
+- quote: "holy shit are you joking..... this is my third time sendinf this image recently"
+- source: 2026-04-11--multi-angle-video-editing-terminology--71d88c5b · [0082] (archive-1.md)
+- date: 2026-04-11
+- context: Grid and margin question
+- tags: frustration, process · standing: yes
+
+### E0109 · Treat a new ask as new
+- quote: "what. holy shit i just said like 4 times this is not related to the previous ask and u keep bringing shit infor no reason"
+- source: 2026-04-11--multi-angle-video-editing-terminology--71d88c5b · [0142] (archive-1.md)
+- date: 2026-04-11
+- context: Responsive margin math question
+- tags: frustration, process · standing: yes
+
+### E0110 · Direct answer with the math wanted
+- quote: "this was the proper response \"6:13 PM If the margins are scaling responsively relative to viewport width, here's the math: ... So at 1280 × 832 your margins would be 32px.\""
+- source: 2026-04-11--multi-angle-video-editing-terminology--71d88c5b · [0138] (archive-1.md)
+- date: 2026-04-11
+- context: Responsive margin question; he pasted the reply he wanted. The quoted math is Claude's from another chat, kept here only to show the shape of answer he approved.
+- tags: process, responsive · standing: one-off
+
+### E0111 · Stop the em dash format
+- quote: "can you stop doing the — format"
+- source: 2026-03-12--standardizing-task-descriptions-across-notion-pages--1b1a1fb0 · [0035] (archive-1.md)
+- date: 2026-03-12
+- context: Notion task descriptions drafted by Claude
+- tags: copy, frustration · standing: yes
+
+### E0112 · Dash and title formatting repeated
+- quote: "you did that formatting shit with the title again sis"
+- source: 2026-03-12--standardizing-task-descriptions-across-notion-pages--1b1a1fb0 · [0039] (archive-1.md)
+- date: 2026-03-12
+- context: Notion task descriptions
+- tags: copy, frustration · standing: yes
+
+### E0113 · Told many times to cut the dash
+- quote: "ok i have told u so many times to cut the — shit."
+- source: 2026-03-31--nearly-finished-project--f906a86d · [0046] (archive-1.md)
+- date: 2026-03-31
+- context: Copy for the Action Hub screen
+- tags: copy, frustration · standing: yes
+
+### E0114 · Too detailed, match the other entries
+- quote: "okay this is way too detailed this is not how our other tasks are written... these details are way too much for the average viewer. i just need to have this task tracked in the sprint thats the only reason i need it added"
+- source: 2026-03-12--standardizing-task-descriptions-across-notion-pages--1b1a1fb0 · [0100] (archive-1.md)
+- date: 2026-03-12
+- context: Notion task description
+- tags: copy, process · standing: yes
+
+### E0115 · Minimal, just the facts
+- quote: "Minimal / just the facts"
+- source: 2026-03-12--standardizing-task-descriptions-across-notion-pages--1b1a1fb0 · [0004] (archive-1.md)
+- date: 2026-03-12
+- context: His answer to tone preference for task page body
+- tags: copy · standing: yes
+
+### E0116 · Break up so the reader can follow
+- quote: "can you just break this up a bit more and be more clear that there are two things that need to be done here. frankly the person i am giving this task to needs it lol"
+- source: 2026-03-12--standardizing-task-descriptions-across-notion-pages--1b1a1fb0 · [0088] (archive-1.md)
+- date: 2026-03-12
+- context: Notion task description
+- tags: copy · standing: yes
+
+### E0117 · Sticky search bar
+- quote: "we need to design a way for the search bar to be sticky to the top of the frame so the user doesnt have to scroll all the way up to get to it if scrolling further down."
+- source: 2026-03-12--standardizing-task-descriptions-across-notion-pages--1b1a1fb0 · [0080] (archive-1.md)
+- date: 2026-03-12
+- context: Career explorer screen
+- tags: navigation, shell, product · standing: yes
+
+### E0118 · Two-line sentence: viewports
+- quote: "fix the spacing, make sure it fits in smaller viewports nicely"
+- source: 2026-03-12--standardizing-task-descriptions-across-notion-pages--1b1a1fb0 · [0076] (archive-1.md)
+- date: 2026-03-12
+- context: Quiz introduction screen audit task
+- tags: responsive, product · standing: yes
+
+### E0119 · Open space, not boxy
+- quote: "if we push the action items up i feel itll feel too boxy. we need more open space in this design if anything."
+- source: 2026-03-31--nearly-finished-project--f906a86d · [0018] (archive-1.md)
+- date: 2026-03-31
+- context: Action Hub top section layout
+- tags: style, product · standing: yes
+
+### E0120 · Brutalism feel from big type
+- quote: "i think hving big text here is really cool. I don't know if it's possibly too distracting tho. But it really brings in the brutalism feel."
+- source: 2026-03-31--nearly-finished-project--f906a86d · [0002] (archive-1.md)
+- date: 2026-03-31
+- context: Action Hub hero text
+- tags: style, product · standing: yes
+
+### E0121 · Visual of it or edit the frame
+- quote: "cn you give me. a visual on what tht would look likr or can u even edit my frame for me"
+- source: 2026-03-31--nearly-finished-project--f906a86d · [0020] (archive-1.md)
+- date: 2026-03-31
+- context: Action Hub header options
+- tags: delivery, review-board · standing: yes
+
+### E0122 · Hex not rgba
+- quote: "i use hex not rgba"
+- source: 2026-03-31--nearly-finished-project--f906a86d · [0064] (archive-1.md)
+- date: 2026-03-31
+- context: Claude suggested a shadow value in rgba
+- tags: process, style · standing: yes
+
+### E0123 · Look at options side by side
+- quote: "well just look at these options"
+- source: 2026-03-31--nearly-finished-project--f906a86d · [0072] (archive-1.md)
+- date: 2026-03-31
+- context: Two header text color options
+- tags: review-board · standing: one-off
+
+### E0124 · Four flows, eight pages, tabs
+- quote: "can you make me like 4 alterntives? when i say 4 i mean like 8 pages in total, 4 flows. so for example: tab 1 staarts on the journey page design then has a shortcut to the pathways and i click into the pathwy paage which is the second in that set. make sense?"
+- source: 2026-03-31--nearly-finished-project--f906a86d · [0084] (archive-1.md)
+- date: 2026-04-01
+- context: Journey page alternatives
+- tags: review-board, delivery, navigation · standing: yes
+
+### E0125 · Design alternatives together so they make sense
+- quote: "we alraady decided journey ovewview first then dedicated pathway page. so we are doing alternatives of that flow. they obviously should be designed together so they make sense"
+- source: 2026-03-31--nearly-finished-project--f906a86d · [0086] (archive-1.md)
+- date: 2026-04-01
+- context: Journey page alternatives
+- tags: review-board, process · standing: yes
+
+### E0126 · Drift between chats
+- quote: "do you think i should think about creating a new chat in this project with n overview or are we still good? i want to make sure we dont start drifting soon."
+- source: 2026-03-31--nearly-finished-project--f906a86d · [0088] (archive-1.md)
+- date: 2026-04-01
+- context: Long working chat
+- tags: process · standing: yes
+
+### E0127 · Give me the exact text to send
+- quote: "ugh just tell me exactly wht to do and send me exaactly what i need to send them unless its soemthing like imges which is when u tell me exctly what to do"
+- source: 2026-03-31--nearly-finished-project--f906a86d · [0104] (archive-1.md)
+- date: 2026-04-01
+- context: Handing context to a new chat
+- tags: process, copy · standing: yes
+
+### E0128 · Right panel, downloadable, not mobile
+- quote: "this is supposed to be in the right panel and im suppoed to be able to download this... why does this look like mobile designs too?"
+- source: 2026-03-31--nearly-finished-project--f906a86d · [0116] (archive-1.md)
+- date: 2026-04-01
+- context: Journey page alternatives
+- tags: delivery, responsive, frustration · standing: yes
+
+### E0129 · Edgy techy visuals
+- quote: "if u want to add any visuals try anything in the category of glitch/distortion, nodes, those images made up of a bunch of dots or whatever anything edgy techy vibes."
+- source: 2026-03-31--nearly-finished-project--f906a86d · [0116] (archive-1.md)
+- date: 2026-04-01
+- context: Journey page alternatives
+- tags: style · standing: yes
+
+### E0130 · Tabs per flow and interactive
+- quote: "what is this? its supposed to be in tbs for each flow and interactive?"
+- source: 2026-03-31--nearly-finished-project--f906a86d · [0118] (archive-1.md)
+- date: 2026-04-01
+- context: Journey page alternatives delivered in wrong form
+- tags: delivery, review-board, frustration · standing: yes
+
+### E0131 · Do the tabs thing
+- quote: "do the tbs thing"
+- source: 2026-03-31--nearly-finished-project--f906a86d · [0126] (archive-1.md)
+- date: 2026-04-01
+- context: Paragraph frame alternatives
+- tags: review-board, delivery · standing: yes
+
+### E0132 · Tags felt like a cop out, forgot the requirement
+- quote: "honestly this doesnt give me a view of their journey enough. i think the one that does a best job of doing that is 01. i really like the stepper and stuff. but then you dont have the ux designer stuff i mentioned and the tags feel like a cop outits like u forgot what that part referenced."
+- source: 2026-03-31--nearly-finished-project--f906a86d · [0120] (archive-1.md)
+- date: 2026-04-01
+- context: Reviewing four journey page flows
+- tags: review-board, frustration, product · standing: yes
+
+### E0133 · Discuss before building
+- quote: "Dont build anything yet. Let's discuss first."
+- source: 2026-03-31--nearly-finished-project--f906a86d · [0078] (archive-1.md)
+- date: 2026-04-01
+- context: Giving the Journey page requirements
+- tags: process · standing: one-off
+
+### E0134 · Do not build my existing page back to me
+- quote: "all these things you mentioned are already somewhere on my screen i have no idea why you are suggesting any of these this is so odd"
+- source: 2026-03-31--nearly-finished-project--f906a86d · [0024] (archive-1.md)
+- date: 2026-03-31
+- context: Ideas for the Action Hub hero
+- tags: frustration, process · standing: yes
+
+### E0135 · Floating inset sidebar with fixed widths
+- quote: "yes why wouldnt it be? expanded is 234 px width and collapsed is 70px width"
+- source: 2026-03-17--collapsible-sidebar-margin-layout--935871a6 · [0020] (archive-1.md)
+- date: 2026-03-17
+- context: Collapsible sidebar, floating 24px from the edge, in Figma
+- tags: shell, product · standing: yes
+
+### E0136 · Equal 24 | 24 | 24 spacing around sidebar and content
+- quote: "i have to keep the spacing between the core content container and the sidebar 24px so it matches the margins on the right and left side of the core container so its 24 | 24 | 24"
+- source: 2026-03-17--collapsible-sidebar-margin-layout--935871a6 · [0026] (archive-1.md)
+- date: 2026-03-17
+- context: Sidebar margin layout
+- tags: shell, style, product · standing: yes
+
+### E0137 · Centered content must look symmetric
+- quote: "im not conident at all u solved anything at all because then if i center something in the main content frame it looks asymmetrical"
+- source: 2026-03-17--collapsible-sidebar-margin-layout--935871a6 · [0032] (archive-1.md)
+- date: 2026-03-17
+- context: Sidebar margin layout
+- tags: shell, style, product · standing: yes
+
+### E0138 · Catch the nuance, read the annotated image
+- quote: "NOT THE CENTER OF THE SCREEN OMFG I LITERALLY ANNOTATED THIS FOR U"
+- source: 2026-03-17--collapsible-sidebar-margin-layout--935871a6 · [0044] (archive-1.md)
+- date: 2026-03-17
+- context: Sidebar margin layout, annotated screenshot ignored
+- tags: frustration, process · standing: yes
+
+### E0139 · Design at one desktop size, not many breakpoints
+- quote: "okay but no its not standard practice to have that many viewports typically its one main desktop viewport..... SOMETIMES a larger one as well. this clashes with the point of breakpoints right?"
+- source: 2026-03-17--collapsible-sidebar-margin-layout--935871a6 · [0062] (archive-1.md)
+- date: 2026-03-17
+- context: Responsive grid for a collapsible sidebar layout
+- tags: responsive, product · standing: yes
+
+### E0140 · Responsive grid should be fluid, not stepped
+- quote: "anytging in between the 1280 and 1440 would automatically be off until it snaps to the next viewport beacuse it would still be following the grid unless the grid itself is completely responsive get it?"
+- source: 2026-03-17--collapsible-sidebar-margin-layout--935871a6 · [0062] (archive-1.md)
+- date: 2026-03-17
+- context: Responsive grid for a collapsible sidebar layout
+- tags: responsive, shell, product · standing: yes
+
+### E0141 · Double responsiveness: viewport and sidebar state
+- quote: "this is 1280. the margins also change depending on if this is collapsed or not so its like double responsiveness i gotta figure out which is confusing as fuck lol."
+- source: 2026-03-17--collapsible-sidebar-margin-layout--935871a6 · [0072] (archive-1.md)
+- date: 2026-03-17
+- context: Sidebar margin layout at 1280
+- tags: responsive, shell, product · standing: yes
+
+### E0142 · Max width on content could be the answer
+- quote: "\"Set a max-width on your content area. Something like 1200px or 1400px. The content frame fills available space but caps at that width and centers itself.\" i think this could actually be the solution...... hmm...."
+- source: 2026-03-17--collapsible-sidebar-margin-layout--935871a6 · [0080] (archive-1.md)
+- date: 2026-03-17
+- context: Sidebar margin layout; the quoted option is Claude's, the reaction is his
+- tags: shell, responsive · standing: yes
+
+### E0143 · Sidebar collapse before 1280
+- quote: "would it be weird to force collapisble sidebar nav before 1280?"
+- source: 2026-03-17--collapsible-sidebar-margin-layout--935871a6 · [0090] (archive-1.md)
+- date: 2026-03-17
+- context: Sidebar breakpoint
+- tags: shell, responsive · standing: yes
+
+### E0144 · Smallest desktop is 1280 x 832
+- quote: "the bottom are 1280 x 832 (smallest size before breakpoint switch to tablet view)"
+- source: 2026-03-17--collapsible-sidebar-margin-layout--935871a6 · [0092] (archive-1.md)
+- date: 2026-03-17
+- context: Design at 1920 x 1080 with 1280 x 832 as the smallest desktop
+- tags: responsive, shell · standing: yes
+
+### E0145 · Sidebar labels must be knowable when collapsed
+- quote: "ok but if you cant expand then you cant see what the buttons on the full version of the sidebar say?"
+- source: 2026-03-17--collapsible-sidebar-margin-layout--935871a6 · [0058] (archive-1.md)
+- date: 2026-03-17
+- context: Collapsed sidebar at smaller viewports
+- tags: shell, interaction · standing: yes
+
+### E0146 · Not suggest what a ux person would not
+- quote: "STOP wtf why are you suggesting this? youre supposed to be good at ux/ui?"
+- source: 2026-03-17--collapsible-sidebar-margin-layout--935871a6 · [0052] (archive-1.md)
+- date: 2026-03-17
+- context: Claude suggested more than 12 columns for desktop
+- tags: process, frustration · standing: yes
+
+### E0147 · Wants to try all options and see them
+- quote: "i want to try A, B, D AND C"
+- source: 2026-03-17--collapsible-sidebar-margin-layout--935871a6 · [0126] (archive-1.md)
+- date: 2026-03-17
+- context: Day header ideas for the schedule view
+- tags: review-board · standing: yes
+
+### E0148 · Output he can paste into Figma at the right size
+- quote: "i dont want these as a component ill do that part myself. i just want it to quickly make the frme so i can copy and paste it with correcy sixing and stuff and see it with everything else lol"
+- source: 2026-03-17--collapsible-sidebar-margin-layout--935871a6 · [0130] (archive-1.md)
+- date: 2026-03-17
+- context: Figma Make used to generate day header frames
+- tags: delivery, process · standing: yes
+
+### E0149 · Visualize it with the capabilities Claude has
+- quote: "thats not what im saying lol u have other capabiities that let me visualiz it here"
+- source: 2026-03-17--collapsible-sidebar-margin-layout--935871a6 · [0146] (archive-1.md)
+- date: 2026-03-17
+- context: Wanting a visual version of Figma frames with adjusted spacing
+- tags: delivery · standing: yes
+
+### E0150 · Be specific about sizing and spacing, not a better looking image
+- quote: "i wasnt asking for \"a better matching image\" i was asking you to be more specific about sizing and spacing and stuff because mine definitely looks different"
+- source: 2026-03-17--collapsible-sidebar-margin-layout--935871a6 · [0150] (archive-1.md)
+- date: 2026-03-17
+- context: Schedule view spacing compared with his Figma
+- tags: process, frustration · standing: yes
+
+### E0151 · Spacing in plain numbers, not x and y values
+- quote: "ok hold on stop explaining things in x and y values that is not helpful lol"
+- source: 2026-03-17--collapsible-sidebar-margin-layout--935871a6 · [0158] (archive-1.md)
+- date: 2026-03-17
+- context: Claude gave spacing as gap values
+- tags: copy, process · standing: yes
+
+### E0152 · Do not change my file to match yours
+- quote: "ok i had to stop because you strted \"making the html match my file\" which is NOT THE POINT."
+- source: 2026-03-17--collapsible-sidebar-margin-layout--935871a6 · [0162] (archive-1.md)
+- date: 2026-03-17
+- context: Schedule view spacing
+- tags: frustration, process · standing: yes
+
+### E0153 · Less confusing way
+- quote: "is there a less confusing way to do al this? youve lost me at this point."
+- source: 2026-03-17--collapsible-sidebar-margin-layout--935871a6 · [0168] (archive-1.md)
+- date: 2026-03-17
+- context: Spacing comparison between Figma and HTML
+- tags: process, copy · standing: yes
+
+### E0154 · Major vertical spacing between blocks
+- quote: "sure but now tell me the spacing.. i am mostly looking at major spcing like vertically between the main content blocks and stuff"
+- source: 2026-03-17--collapsible-sidebar-margin-layout--935871a6 · [0172] (archive-1.md)
+- date: 2026-03-17
+- context: Schedule view spacing
+- tags: style, process · standing: yes
+
+### E0155 · Get my image labels the right way around
+- quote: "NO THE SPACE IN MINE IS NOT MORE YOU ARE LOOKING AT IT BACKWARDS AGAIN FUCK WHY DO U KEEP DOING THAT I JUST SPECIFICALLY GAVE U THE INFO"
+- source: 2026-03-17--collapsible-sidebar-margin-layout--935871a6 · [0178] (archive-1.md)
+- date: 2026-03-17
+- context: Comparing two screenshots of the schedule view
+- tags: frustration, process · standing: yes
+
+### E0156 · Do not render, use the code panel
+- quote: "No I don't want you to render anything. Your assumption on that is part of the issue I think. Can't you do this in like one of those code box things on the right?"
+- source: 2026-03-17--collapsible-sidebar-margin-layout--935871a6 · [0186] (archive-1.md)
+- date: 2026-03-17
+- context: Comparing spacing
+- tags: delivery, frustration · standing: yes
+
+### E0157 · Listen
+- quote: "No I don't want that why aren't you listening to me at all over and over"
+- source: 2026-03-17--collapsible-sidebar-margin-layout--935871a6 · [0188] (archive-1.md)
+- date: 2026-03-17
+- context: Comparing spacing
+- tags: frustration · standing: yes
+
+### E0158 · Do it right
+- quote: "no do shit right"
+- source: 2026-03-17--collapsible-sidebar-margin-layout--935871a6 · [0182] (archive-1.md)
+- date: 2026-03-17
+- context: Comparing spacing
+- tags: frustration, process · standing: yes
+
+### E0159 · Clean, minimal clutter and boxiness
+- quote: "I want this page to feel very clean. Minimize the clutter or boxiness."
+- source: 2026-04-05--journey-screen-design-requirements-and-component-links--55c9b4f0 · [0006] (archive-1.md)
+- date: 2026-04-05
+- context: Your Journey page brief
+- tags: style · standing: yes
+
+### E0160 · Clean is not boring, one column is not flexible enough
+- quote: "i want clean but that doesnt mean boring. it feels like a simple one column layout with no flexibility outside of that which leaves this almost still feeling boxy without a bunch fo boxes existing themselves."
+- source: 2026-04-05--journey-screen-design-requirements-and-component-links--55c9b4f0 · [0010] (archive-1.md)
+- date: 2026-04-05
+- context: First Your Journey artifact
+- tags: style, frustration · standing: yes
+
+### E0161 · Artifact panel, tab method, three completely different designs
+- quote: "can you create these in the artifact panel on the right? also can u do that tabbe thing this time nd give me multiple options?" ... "in your next output do our tab method thing and gie me 3 alternative completely different designs."
+- source: 2026-04-05--journey-screen-design-requirements-and-component-links--55c9b4f0 · [0010] (archive-1.md)
+- date: 2026-04-05
+- context: Your Journey page
+- tags: review-board, delivery · standing: yes
+
+### E0162 · Pages in the same family should feel alike
+- quote: "look back at the pthwaty page again. notice everything is centered.. i think this page should have a similar feel considering they're prt of the same architectual family."
+- source: 2026-04-05--journey-screen-design-requirements-and-component-links--55c9b4f0 · [0010] (archive-1.md)
+- date: 2026-04-05
+- context: Your Journey page
+- tags: style, shell, product · standing: yes
+
+### E0163 · Stay within the design system
+- quote: "you should have full access to my design system plus you should be able to access the design system file i have attahed to this project. Many of these sizes nd styles are not in my system."
+- source: 2026-04-05--journey-screen-design-requirements-and-component-links--55c9b4f0 · [0012] (archive-1.md)
+- date: 2026-04-05
+- context: Your Journey artifacts invented sizes and styles
+- tags: style, process, frustration · standing: yes
+
+### E0164 · Boring output, and do not repeat the same metrics
+- quote: "I am finding these results to feel very boring (ALSO SIDE NOTE STOP PUTTING METRICS WITH PERSONALIZED UX DESIGNER JOURNEY THEYRE LITERALLY THE SAME METRICS AS THE TOP"
+- source: 2026-04-05--journey-screen-design-requirements-and-component-links--55c9b4f0 · [0012] (archive-1.md)
+- date: 2026-04-05
+- context: Your Journey artifacts
+- tags: frustration, style, product · standing: yes
+
+### E0165 · Skill file purpose: avoid boxiness, wider layouts
+- quote: "the point of crating it originally actually was to 1. avoid the boxiness shit we alwys end up with. 2. have a more creative, wider idea for layouts that still meet patterns and standards."
+- source: 2026-04-05--journey-screen-design-requirements-and-component-links--55c9b4f0 · [0014] (archive-1.md)
+- date: 2026-04-05
+- context: Skill file he attached to the project
+- tags: style, process · standing: yes
+
+### E0166 · Creative freedom while still doing what I ask
+- quote: "i want u to have creative freedom here not just following demands (but obviously still doing what i ask lol)."
+- source: 2026-04-05--journey-screen-design-requirements-and-component-links--55c9b4f0 · [0022] (archive-1.md)
+- date: 2026-04-05
+- context: Your Journey page
+- tags: process, style · standing: yes
+
+### E0167 · Page should be visually important
+- quote: "the your journey screen should feel more visually important. this is where the user UNDERSTANDS how it all works. that doesnt mean its a glorified tutorial page but it means that the page communicates more than it currently is communicting."
+- source: 2026-04-05--journey-screen-design-requirements-and-component-links--55c9b4f0 · [0022] (archive-1.md)
+- date: 2026-04-05
+- context: Your Journey page
+- tags: style, product · standing: one-off
+
+### E0168 · State the job, not the section
+- quote: "it doesnt mean \"create a seciton on the page for tihs\" it means MAKE IT MORE INTUITIVE SO THE USER UNDERSTANDS HOW EVERYTHING CONNECTS. This was a job the user needs the product to do not a specific strategy on how to do it."
+- source: 2026-04-05--journey-screen-design-requirements-and-component-links--55c9b4f0 · [0024] (archive-1.md)
+- date: 2026-04-05
+- context: Your Journey page
+- tags: process, product · standing: yes
+
+### E0169 · Do not ask me what you should decide
+- quote: "honestly this is a decision that will be up to you s you make creative decisions. this is a hierarchy decision and depends on the rest of the design. not sure why youre asking that."
+- source: 2026-04-05--journey-screen-design-requirements-and-component-links--55c9b4f0 · [0024] (archive-1.md)
+- date: 2026-04-05
+- context: Claude asked about a hierarchy decision
+- tags: process, frustration · standing: yes
+
+### E0170 · Do not set a rule that constrains all three options
+- quote: "when you mention aisha's name here you are setting a rule that effects the entirety of the rest of the design. when you are making 3 separate iteractions all of there iteractions should feel unique and setting a rule like that means everything has to be designed around that more than it should be"
+- source: 2026-04-05--journey-screen-design-requirements-and-component-links--55c9b4f0 · [0026] (archive-1.md)
+- date: 2026-04-05
+- context: Three alternative Your Journey designs
+- tags: review-board, process · standing: yes
+
+### E0171 · Force creative thinking
+- quote: "FORCE YOURSELF TO THINK CREATIVELY. This means adopting strategies, patterns nd skills necessary to create unique user friendly designs."
+- source: 2026-04-05--journey-screen-design-requirements-and-component-links--55c9b4f0 · [0030] (archive-1.md)
+- date: 2026-04-05
+- context: Updating the skill file
+- tags: process, style · standing: yes
+
+### E0172 · Wrong screen delivered
+- quote: "wait why are these pathway screen designs?????????? not journey?????"
+- source: 2026-04-05--journey-screen-design-requirements-and-component-links--55c9b4f0 · [0034] (archive-1.md)
+- date: 2026-04-05
+- context: Your Journey batch showed the pathway page again
+- tags: frustration, process · standing: one-off
+
+### E0173 · Told not to do it, then it was done again
+- quote: "I LITERALLY SPECIFICALLY TOLD U TO NOT DO THIS FOR THIS EXAACT REASON. THEN U TOLD ME LAST BATCH U DID THIS AND THATS WHY THE BATCH WAS BAD SO U JUST DO IT AGAIN???????"
+- source: 2026-04-05--journey-screen-design-requirements-and-component-links--55c9b4f0 · [0042] (archive-1.md)
+- date: 2026-04-05
+- context: Third Your Journey batch
+- tags: frustration, process · standing: yes
+
+### E0174 · Why is it so boring, explain the why
+- quote: "why are your outputs so boring still? no creativity.... ... its the deeper analysis and the WHY youre really struggling with."
+- source: 2026-04-05--journey-screen-design-requirements-and-component-links--55c9b4f0 · [0048] (archive-1.md)
+- date: 2026-04-05
+- context: Your Journey batch, nodes and metrics placement
+- tags: frustration, style · standing: yes
+
+### E0175 · Related elements should sit near each other
+- quote: "why is 2/5 pathway not near the literal pathway nodes?????? like this is the kind of stuff thats driving me nuts"
+- source: 2026-04-05--journey-screen-design-requirements-and-component-links--55c9b4f0 · [0048] (archive-1.md)
+- date: 2026-04-05
+- context: Your Journey metrics and nodes
+- tags: style, product · standing: yes
+
+### E0176 · Do not ask when I said be free
+- quote: "it's infuriating that youre asking me this when i have been stressing creative freedom for message after message."
+- source: 2026-04-05--journey-screen-design-requirements-and-component-links--55c9b4f0 · [0050] (archive-1.md)
+- date: 2026-04-05
+- context: Claude asked a clarifying question before building
+- tags: process, frustration · standing: yes
+
+### E0177 · Push creativity further
+- quote: "slightly better but push creativity x10 more"
+- source: 2026-04-05--journey-screen-design-requirements-and-component-links--55c9b4f0 · [0052] (archive-1.md)
+- date: 2026-04-05
+- context: Your Journey batch
+- tags: style · standing: yes
+
+### E0178 · Html-only was a restriction that should never have existed
+- quote: "You sticking strictly to html before is a HUGE insight and should never have been a restriction in the first place"
+- source: 2026-04-05--journey-screen-design-requirements-and-component-links--55c9b4f0 · [0058] (archive-1.md)
+- date: 2026-04-06
+- context: After Claude produced better output beyond plain html
+- tags: delivery, process, style · standing: yes
+
+### E0179 · Not everything on grid
+- quote: "This also being up the topic of off grid designs too nor everything always has to be one hundred percent on grid that's what makes shit boxy."
+- source: 2026-04-05--journey-screen-design-requirements-and-component-links--55c9b4f0 · [0064] (archive-1.md)
+- date: 2026-04-06
+- context: Skill file discussion
+- tags: style · standing: yes
+
+### E0180 · Too much reading
+- quote: "STOP THIS IS WAY TOO MUCH READING I DONR HAVE TIME FOR THIS"
+- source: 2026-04-05--journey-screen-design-requirements-and-component-links--55c9b4f0 · [0066] (archive-1.md)
+- date: 2026-04-06
+- context: Claude wrote a long summary and outline
+- tags: copy, process · standing: yes
+
+### E0181 · Lot of reading, cannot read now
+- quote: "Honestly this is a lot of reading and I can't read this all right now."
+- source: 2026-04-05--journey-screen-design-requirements-and-component-links--55c9b4f0 · [0062] (archive-1.md)
+- date: 2026-04-06
+- context: Claude proposed skill file changes
+- tags: copy, process · standing: yes
+
+### E0182 · Minimal with a high impact moment, brutalist but sexy
+- quote: "keep it minimal but with a high impact moment. make it feel more brutalist while still respecting my design system."
+- source: 2026-04-05--journey-screen-design-requirements-and-component-links--55c9b4f0 · [0072] (archive-1.md)
+- date: 2026-04-06
+- context: Your Journey redo with freedom from html
+- tags: style · standing: yes
+
+### E0183 · Do not yell the metric
+- quote: "avoid the 2/5 huge progress letters. this doesnt need to be stated so boldly, the journey view of the pathways should be enough to indicate this without yelling it at the user."
+- source: 2026-04-05--journey-screen-design-requirements-and-component-links--55c9b4f0 · [0072] (archive-1.md)
+- date: 2026-04-06
+- context: Your Journey
+- tags: style, product · standing: yes
+
+### E0184 · Product as a person: fashion forward Gen Z, techy but sexy
+- quote: "If the product were a person Imagine them as a cool fashionable gen z young adult who wears all black, cool baggy pants, unique black fashionable top, fashion forwrd hair and fashion forward sunglasses ... like very technie meets fashon influencer."
+- source: 2026-04-05--journey-screen-design-requirements-and-component-links--55c9b4f0 · [0072] (archive-1.md)
+- date: 2026-04-06
+- context: Describing the Mondai visual tone
+- tags: style, product · standing: yes
+
+### E0185 · More variations without losing the good ones
+- quote: "i love these but would almost like to see a few as more as well without losing these. can we add like 3 more variations?"
+- source: 2026-04-05--journey-screen-design-requirements-and-component-links--55c9b4f0 · [0074] (archive-1.md)
+- date: 2026-04-06
+- context: Your Journey variations
+- tags: review-board · standing: yes
+
+### E0186 · Interactive elements need hover states
+- quote: "the action item \"buttons/numbers/cards\" need to have active hover states."
+- source: 2026-04-05--journey-screen-design-requirements-and-component-links--55c9b4f0 · [0074] (archive-1.md)
+- date: 2026-04-06
+- context: Your Journey variations
+- tags: interaction · standing: yes
+
+### E0187 · Show where you are on the journey
+- quote: "also add something fore more clarity about \"this is where you are on your journey\""
+- source: 2026-04-05--journey-screen-design-requirements-and-component-links--55c9b4f0 · [0074] (archive-1.md)
+- date: 2026-04-06
+- context: Your Journey variations
+- tags: navigation, product · standing: yes
+
+### E0188 · Gray for inactive too small
+- quote: "honestly these outputs re meh. also the gray youre using for non active numbers is too small"
+- source: 2026-04-05--journey-screen-design-requirements-and-component-links--55c9b4f0 · [0076] (archive-1.md)
+- date: 2026-04-06
+- context: Journey variations
+- tags: style, frustration · standing: one-off
+
+### E0189 · Too much space
+- quote: "so i think the problem currently is that the pathway indicators are now taking up TOO MUCH space."
+- source: 2026-04-05--journey-screen-design-requirements-and-component-links--55c9b4f0 · [0078] (archive-1.md)
+- date: 2026-04-06
+- context: Pathway indicator variations
+- tags: style, product · standing: one-off
+
+### E0190 · Text only, do not make anything
+- quote: "respond in text only do not make anything btw."
+- source: 2026-04-05--journey-screen-design-requirements-and-component-links--55c9b4f0 · [0088] (archive-1.md)
+- date: 2026-04-08
+- context: Stepper component discussion
+- tags: process · standing: one-off
+
+### E0191 · Smooth transition between related pages, smart animate
+- quote: "i want there to be a smooth transition between the true where it does some kind of almost smart animate to a smaller size or something when it transitions from the journey to the pathway page?"
+- source: 2026-04-05--journey-screen-design-requirements-and-component-links--55c9b4f0 · [0088] (archive-1.md)
+- date: 2026-04-08
+- context: Number stepper component on journey and pathway pages
+- tags: interaction, navigation, product · standing: yes
+
+### E0192 · Designing at 1920x1080, text cannot shrink further
+- quote: "im designing at 1920x1080 and the fonts for some of the details like the labels for under the numbers are going to have to not get much smaller because theyre already quite small."
+- source: 2026-04-05--journey-screen-design-requirements-and-component-links--55c9b4f0 · [0090] (archive-1.md)
+- date: 2026-04-08
+- context: Stepper labels
+- tags: responsive, style, product · standing: yes
+
+### E0193 · Show tabs like we usually do
+- quote: "show me an example of all separated by tabs like we usually do as an artifact on the right"
+- source: 2026-04-05--journey-screen-design-requirements-and-component-links--55c9b4f0 · [0094] (archive-1.md)
+- date: 2026-04-08
+- context: Progress indicator options
+- tags: review-board, delivery · standing: yes
+
+### E0194 · Tabs not loading
+- quote: "i dont think these are loading right"
+- source: 2026-04-05--journey-screen-design-requirements-and-component-links--55c9b4f0 · [0096] (archive-1.md)
+- date: 2026-04-08
+- context: Tabbed artifact with progress indicator options
+- tags: frustration, process · standing: yes
+
+### E0195 · Awful, progress indicator invisible or odd
+- quote: "what? these look AWFUL. in the density one i dont even see the progress indicator, the fill line in two is just... weird.. looks like an accident ... why can u see the numbers behind them it makes no sense its like u dont know whats going on"
+- source: 2026-04-05--journey-screen-design-requirements-and-component-links--55c9b4f0 · [0098] (archive-1.md)
+- date: 2026-04-08
+- context: Progress indicator options
+- tags: frustration, review-board · standing: one-off
+
+### E0196 · Design the states: hover, selected, current
+- quote: "the biggest issue is figuring out the states. there needs to be a hovered, selected. However, we also need to represent where the user is alongside this."
+- source: 2026-04-05--journey-screen-design-requirements-and-component-links--55c9b4f0 · [0106] (archive-1.md)
+- date: 2026-04-08
+- context: Pathway stepper states
+- tags: interaction, navigation, product · standing: yes
+
+### E0197 · Behavior must match spec, discuss before producing
+- quote: "so first the behavior on these is all wrong. youre not supposed to be able to see the info on the tag at all until its hovered." ... "let me know yuor thoughts on all this before producing anything."
+- source: 2026-04-05--journey-screen-design-requirements-and-component-links--55c9b4f0 · [0106] (archive-1.md)
+- date: 2026-04-08
+- context: Stepper prototype
+- tags: interaction, process, frustration · standing: yes
+
+### E0198 · Need to see it
+- quote: "mm maybe i need to see it."
+- source: 2026-04-05--journey-screen-design-requirements-and-component-links--55c9b4f0 · [0117] (archive-1.md)
+- date: 2026-04-08
+- context: Describing an overlap treatment in words
+- tags: delivery · standing: yes
+
+### E0199 · Fill line through text looks like an accident
+- quote: "i disagree with the cutting through the text thing. for one it doesnt look good, it looks like an accident. secondly, it appears that text items that have been overlapped by the line are \"inactive\" in some way."
+- source: 2026-04-05--journey-screen-design-requirements-and-component-links--55c9b4f0 · [0113] (archive-1.md)
+- date: 2026-04-08
+- context: Progress line option
+- tags: style, interaction · standing: one-off
+
+### E0200 · Interaction broke, all tabs the same
+- quote: "This is just like a bunch of tabs with different selections chosen otherwise they're all the same. the interaction no longer works correctly."
+- source: 2026-04-05--journey-screen-design-requirements-and-component-links--55c9b4f0 · [0121] (archive-1.md)
+- date: 2026-04-08
+- context: Tabbed artifact with variants that were not really distinct
+- tags: review-board, frustration, interaction · standing: yes
+
+### E0201 · Parts that belong together must change together
+- quote: "also the number and tab are supposed to both change on highlight obviously not independently?"
+- source: 2026-04-05--journey-screen-design-requirements-and-component-links--55c9b4f0 · [0123] (archive-1.md)
+- date: 2026-04-08
+- context: Stepper highlight state
+- tags: interaction · standing: yes
+
+### E0202 · Help me problem solve
+- quote: "youre supposed to be helping me problem solve"
+- source: 2026-04-05--journey-screen-design-requirements-and-component-links--55c9b4f0 · [0125] (archive-1.md)
+- date: 2026-04-08
+- context: Stepper
+- tags: process, frustration · standing: yes
+
+### E0203 · Asking what the right panel is called
+- quote: "create a code box or whtever u call it to the right (if u can tell me whats this clled so i stop calling that it would be lovely lol)"
+- source: 2026-03-23--weekly-task-view-redesign-and-code-implementation--f059e097 · [0000] (archive-1.md)
+- date: 2026-03-23
+- context: Weekly task view rebuild; he calls the artifact panel the code box
+- tags: delivery · standing: yes
+
+### E0204 · Create it in the artifact
+- quote: "ok please create this in artifact please"
+- source: 2026-03-23--weekly-task-view-redesign-and-code-implementation--f059e097 · [0002] (archive-1.md)
+- date: 2026-03-23
+- context: Rebuild his screen from a screenshot
+- tags: delivery · standing: yes
+
+### E0205 · Match the attached design, not Claude's earlier style
+- quote: "this is close but not the same please look in more detail. for some reason you are editing it in the wy you were building things before and integrateing that style instead of doing it like the one i attached"
+- source: 2026-03-23--weekly-task-view-redesign-and-code-implementation--f059e097 · [0004] (archive-1.md)
+- date: 2026-03-23
+- context: Artifact recreation of the starting point
+- tags: frustration, process, style · standing: yes
+
+### E0206 · Colors not matching, how to give exact values
+- quote: "these arent the same colors? like i did this way differntly? like is there something on figma i can copy and pste to you to make you mke it more accurte?"
+- source: 2026-03-23--weekly-task-view-redesign-and-code-implementation--f059e097 · [0006] (archive-1.md)
+- date: 2026-03-23
+- context: Artifact recreation of the starting point
+- tags: process, frustration, delivery · standing: yes
+
+### E0207 · Odd responsiveness
+- quote: "close but something is going on oddly with the responsiveness."
+- source: 2026-03-23--weekly-task-view-redesign-and-code-implementation--f059e097 · [0012] (archive-1.md)
+- date: 2026-03-23
+- context: Artifact built from his exported code
+- tags: responsive, frustration · standing: yes
+
+### E0208 · Three tabs of alternatives
+- quote: "can you create a version of this page with 3 tbs showing alternatives?"
+- source: 2026-03-23--weekly-task-view-redesign-and-code-implementation--f059e097 · [0016] (archive-1.md)
+- date: 2026-03-23
+- context: Week date range placement
+- tags: review-board, delivery · standing: yes
+
+### E0209 · Integrate the chosen one into the current artifact
+- quote: "ok then integrate this into our current artifact"
+- source: 2026-03-23--weekly-task-view-redesign-and-code-implementation--f059e097 · [0020] (archive-1.md)
+- date: 2026-03-23
+- context: After choosing an alternative
+- tags: review-board, process · standing: yes
+
+### E0210 · Do not add things that are not in my version
+- quote: "wait i just relized you still have the filtering tgs in here thats not in my version we are doing. \"all, active, to do, complete\""
+- source: 2026-03-23--weekly-task-view-redesign-and-code-implementation--f059e097 · [0022] (archive-1.md)
+- date: 2026-03-23
+- context: Artifact included stale filter tags
+- tags: frustration, process · standing: yes
+
+### E0211 · Floating sidebar, 12px radius, no surprise scroll box
+- quote: "my left menu is \"floting\" so its not against the edge on the top or the bottom nd has a 12 px rdius. you have the details on this. fix this. also - for some reson it it putting the right container in a separate scroll box without me instructing that. please fix."
+- source: 2026-03-23--weekly-task-view-redesign-and-code-implementation--f059e097 · [0024] (archive-1.md)
+- date: 2026-03-23
+- context: Artifact of the starting point
+- tags: shell, frustration · standing: yes
+
+### E0212 · No outlined frames, not boxy
+- quote: "so in all of these outputs u put n outlined frame. i kind of dont wnt this to feel all boxy.... cn we not have tht?"
+- source: 2026-03-23--weekly-task-view-redesign-and-code-implementation--f059e097 · [0034] (archive-1.md)
+- date: 2026-03-23
+- context: Pace and target metrics alternatives
+- tags: style · standing: yes
+
+### E0213 · Match the formatting of my screenshot
+- quote: "ok sorry i lied letes do A3 instead and make sure all the formatting looks like this"
+- source: 2026-03-23--weekly-task-view-redesign-and-code-implementation--f059e097 · [0038] (archive-1.md)
+- date: 2026-03-23
+- context: Chosen metrics option
+- tags: process, style · standing: one-off
+
+### E0214 · Your version does not match again
+- quote: "i attahed this example because your version doesnt match again"
+- source: 2026-03-23--weekly-task-view-redesign-and-code-implementation--f059e097 · [0042] (archive-1.md)
+- date: 2026-03-23
+- context: Events section reference
+- tags: frustration, process · standing: yes
+
+### E0215 · Be creative, not limited to card states
+- quote: "be careful not to limit them to \"card states\" you eed to be creative here lol. im just ready to see your ideas for implementing the events rather thn focusing on the details. go ahead and produce the alternative ideas"
+- source: 2026-03-23--weekly-task-view-redesign-and-code-implementation--f059e097 · [0050] (archive-1.md)
+- date: 2026-03-23
+- context: Events section alternatives
+- tags: process, style, review-board · standing: yes
+
+### E0216 · Alternatives feel the same
+- quote: "only other one i like is 5.... but i think thats because its actully differnt? the others feel kind of the same?"
+- source: 2026-03-23--weekly-task-view-redesign-and-code-implementation--f059e097 · [0052] (archive-1.md)
+- date: 2026-03-23
+- context: Event section alternatives
+- tags: review-board, frustration · standing: yes
+
+### E0217 · Unexplained element
+- quote: "i dont understand what the square to the ight of the details button is?"
+- source: 2026-03-23--weekly-task-view-redesign-and-code-implementation--f059e097 · [0052] (archive-1.md)
+- date: 2026-03-23
+- context: Event alternatives
+- tags: copy, review-board · standing: one-off
+
+### E0218 · More varied creative ideas
+- quote: "sure but i wnt to see soem more varied creative ideas for the cards"
+- source: 2026-03-23--weekly-task-view-redesign-and-code-implementation--f059e097 · [0054] (archive-1.md)
+- date: 2026-03-23
+- context: Event cards
+- tags: review-board, style · standing: yes
+
+### E0219 · Interaction prototype in the artifact panel
+- quote: "can you create a prototype of maybe 3 alternatives in the artifact section that let me try that interction?"
+- source: 2026-03-23--weekly-task-view-redesign-and-code-implementation--f059e097 · [0060] (archive-1.md)
+- date: 2026-03-23
+- context: Hold to confirm interaction on status circles
+- tags: editor, interaction, review-board · standing: yes
+
+### E0220 · Prototype in context of the whole screen
+- quote: "only works. also can u please use the previous screen because part of this we need to design for is also how the rest of the screen reacts for instance how something shifts from active to complete"
+- source: 2026-03-23--weekly-task-view-redesign-and-code-implementation--f059e097 · [0062] (archive-1.md)
+- date: 2026-03-23
+- context: Hold to confirm prototype
+- tags: interaction, review-board, process · standing: yes
+
+### E0221 · Prototype must actually have interactions
+- quote: "that is just the previous version of the page? no interactions? huh?"
+- source: 2026-03-23--weekly-task-view-redesign-and-code-implementation--f059e097 · [0064] (archive-1.md)
+- date: 2026-03-23
+- context: Hold to confirm prototype was missing the interaction
+- tags: frustration, interaction · standing: yes
+
+### E0222 · Tabs outside the design
+- quote: "please dont do it like this the tabs should be separate from the design it makes it harder to see how they would look in the final design"
+- source: 2026-03-23--weekly-task-view-redesign-and-code-implementation--f059e097 · [0081] (archive-1.md)
+- date: 2026-03-26
+- context: Three focus area alternatives
+- tags: review-board, delivery, interaction · standing: yes
+
+### E0223 · Tab bar at the very top, outside the design, each tab a full design
+- quote: "no dude youre not geting it there shoudl be 3 options at the very top OUTSIDE the design. clicking these tbs will show the full design each with the separate idea"
+- source: 2026-03-23--weekly-task-view-redesign-and-code-implementation--f059e097 · [0085] (archive-1.md)
+- date: 2026-03-26
+- context: Three focus area alternatives
+- tags: review-board, delivery, interaction, frustration · standing: yes
+
+### E0224 · Lack of creativity, five results
+- quote: "honestly there feels like a huge lack of creativity here. ... to push you to be more creative and to push it futher this time i wnt 5 results."
+- source: 2026-03-23--weekly-task-view-redesign-and-code-implementation--f059e097 · [0087] (archive-1.md)
+- date: 2026-03-26
+- context: Focus area alternatives
+- tags: style, review-board, frustration · standing: yes
+
+### E0225 · Deep research when he says deep research
+- quote: "sorry this is supposde to be deep research"
+- source: 2026-03-23--weekly-task-view-redesign-and-code-implementation--f059e097 · [0101] (archive-1.md)
+- date: 2026-03-26
+- context: Hold to confirm UX research
+- tags: process · standing: yes
+
+### E0226 · Product centric and UX grounded
+- quote: "make sure all solutions are product centric and grounded in ux"
+- source: 2026-03-23--weekly-task-view-redesign-and-code-implementation--f059e097 · [0110] (archive-1.md)
+- date: 2026-03-26
+- context: Card checkmark placement alternatives
+- tags: process · standing: yes
+
+### E0227 · Animations too fast, work the branding in
+- quote: "the animations are a bit too fast. also can we somehow work rita's branding into this more? the tech/glitch vibe or whatever?"
+- source: 2026-03-23--weekly-task-view-redesign-and-code-implementation--f059e097 · [0128] (archive-1.md)
+- date: 2026-03-26
+- context: Completion animation prototypes
+- tags: interaction, style · standing: yes
+
+### E0228 · Keep earlier options as extra tabs
+- quote: "give me 3 examples of ideas. but include option a and option b as tab 4 and 5 in addition to the glitch explortion. lets try 600-800 ya"
+- source: 2026-03-23--weekly-task-view-redesign-and-code-implementation--f059e097 · [0130] (archive-1.md)
+- date: 2026-03-26
+- context: Animation prototype tabs with duration range in ms
+- tags: review-board, interaction · standing: yes
+
+### E0229 · Exploration board: many variants on one black sheet, no tabs, no UI
+- quote: "create 15 different animtions following that same branding logic for this animation. put them on. single black sheet where i can try each of them. no separate tabs no other ui elements for now just a big exploration board"
+- source: 2026-03-23--weekly-task-view-redesign-and-code-implementation--f059e097 · [0134] (archive-1.md)
+- date: 2026-03-26
+- context: Completion animation exploration
+- tags: review-board, style, delivery · standing: yes
+
+### E0230 · Numbered variants so he can name favorites
+- quote: "ok my faves are 003, 004 and 010. Are there any product design concerns with any of these?"
+- source: 2026-03-23--weekly-task-view-redesign-and-code-implementation--f059e097 · [0138] (archive-1.md)
+- date: 2026-03-27
+- context: Exploration board of 15 animations
+- tags: review-board, process · standing: yes
+
+### E0231 · Accessible version on request
+- quote: "can you just quickly show me what a wcag friendly version of 003 looks like?"
+- source: 2026-03-23--weekly-task-view-redesign-and-code-implementation--f059e097 · [0140] (archive-1.md)
+- date: 2026-03-27
+- context: Animation exploration board
+- tags: interaction, review-board, process · standing: one-off
+
+### E0232 · Ten layout variations in a top tab bar
+- quote: "Generate 10 structurally distinct layout variations, outputting them as 10 side-by-side frames with a top tab bar (\"Output 1\" to \"Output 10\")."
+- source: 2026-03-08--premium-dark-mode-saas-homepage-design-system--81cda2a5 · [0000] (archive-1.md)
+- date: 2026-03-08
+- context: His first prompt for the Mondai homepage
+- tags: review-board, delivery · standing: yes
+
+### E0233 · Premium and clean, not brutalism, not a boxy dashboard
+- quote: "Aesthetic: Premium, sexy, and clean consumer tech. DO NOT use brutalism. DO NOT build a boxy SaaS dashboard."
+- source: 2026-03-08--premium-dark-mode-saas-homepage-design-system--81cda2a5 · [0000] (archive-1.md)
+- date: 2026-03-08
+- context: First homepage prompt. Later chats ask for brutalist type contrast, so the brutalism line is a changed position.
+- tags: style, product · standing: one-off
+
+### E0234 · Functional but not overloaded, show real data
+- quote: "The design must be highly functional but avoid cognitive overload. Do not make it \"overly minimal\" (we need to see actual data like due dates), but do not trap that data in ugly, heavy containers."
+- source: 2026-03-08--premium-dark-mode-saas-homepage-design-system--81cda2a5 · [0000] (archive-1.md)
+- date: 2026-03-08
+- context: First homepage prompt
+- tags: style, shell, product · standing: yes
+
+### E0235 · Structure through type and spacing, avoid borders and shade changes
+- quote: "Separation: Achieve layout structure through typography, alignment, and subtle spacing. Avoid heavy borders, panels, and varying background shades."
+- source: 2026-03-08--premium-dark-mode-saas-homepage-design-system--81cda2a5 · [0000] (archive-1.md)
+- date: 2026-03-08
+- context: First homepage prompt
+- tags: style · standing: yes
+
+### E0236 · Collapsed sidebar with edge toggle (his spec again)
+- quote: "Show collapsed (icons only, ~52px wide) with the toggle button on the edge."
+- source: 2026-03-08--premium-dark-mode-saas-homepage-design-system--81cda2a5 · [0000] (archive-1.md)
+- date: 2026-03-08
+- context: First homepage prompt
+- tags: shell, product · standing: yes
+
+### E0237 · Affordance text for hidden interactions
+- quote: "Click vs. Hold Affordance: You MUST include visible UI text or a tool-tip state that clearly tells the user: \"Click to open details • Hold ring to mark complete\"."
+- source: 2026-03-08--premium-dark-mode-saas-homepage-design-system--81cda2a5 · [0000] (archive-1.md)
+- date: 2026-03-08
+- context: First homepage prompt
+- tags: interaction, copy, product · standing: yes
+
+### E0238 · Design the visible states in the output
+- quote: "MANDATORY INTERACTION UX (DESIGN THESE STATES VISIBLY):"
+- source: 2026-03-08--premium-dark-mode-saas-homepage-design-system--81cda2a5 · [0000] (archive-1.md)
+- date: 2026-03-08
+- context: First homepage prompt
+- tags: review-board, interaction · standing: yes
+
+### E0239 · Claude better than Figma Make for ideation
+- quote: "i really only use figm make for ideation anyway so this is genius"
+- source: 2026-03-08--premium-dark-mode-saas-homepage-design-system--81cda2a5 · [0006] (archive-1.md)
+- date: 2026-03-08
+- context: After Claude produced the first homepage options
+- tags: delivery · standing: one-off
+
+### E0240 · Redo, do not just move parts around
+- quote: "u can redo this more u dont have to just move around parts u know"
+- source: 2026-03-08--premium-dark-mode-saas-homepage-design-system--81cda2a5 · [0018] (archive-1.md)
+- date: 2026-03-08
+- context: Homepage hierarchy
+- tags: process, style · standing: yes
+
+### E0241 · Wireframe is a work in progress
+- quote: "ok so dont look at this in too much detail in terms of how cute it is or whatevs cuz its a wip fireframe."
+- source: 2026-03-08--premium-dark-mode-saas-homepage-design-system--81cda2a5 · [0020] (archive-1.md)
+- date: 2026-03-10
+- context: Hold to confirm interaction question
+- tags: style, process · standing: one-off
+
+### E0242 · Working examples he can interact with
+- quote: "can you help me by creating some working examples i can interact with?"
+- source: 2026-03-08--premium-dark-mode-saas-homepage-design-system--81cda2a5 · [0022] (archive-1.md)
+- date: 2026-03-10
+- context: Hold to confirm interaction
+- tags: interaction, delivery, review-board · standing: yes
+
+### E0243 · Freedom to change layout
+- quote: "also feel free to play with the layout a bit on the lists too to make it work you dont have to stick strictly to what i have currently."
+- source: 2026-03-08--premium-dark-mode-saas-homepage-design-system--81cda2a5 · [0024] (archive-1.md)
+- date: 2026-03-10
+- context: Hold to confirm interaction
+- tags: process · standing: yes
+
+### E0244 · Export code into Figma or Framer
+- quote: "is there a way for me to copy the code from this and put it into figma or framer somehow to recreate this exact design? probably not right?"
+- source: 2026-03-08--premium-dark-mode-saas-homepage-design-system--81cda2a5 · [0028] (archive-1.md)
+- date: 2026-03-10
+- context: Interactive HTML examples
+- tags: delivery · standing: yes
+
+### E0245 · Interactions must work on multiple viewports, invisible touch targets ok
+- quote: "the dev team is doing this weird thing for the mvp where they are somehow using java to create responsive breakpoints. so we need to think about the interactions on multiple viewports so we could 1. do a method that works for both or 2. do variations for how the completion interaction works on desktop vs mobile/tablet"
+- source: 2026-03-08--premium-dark-mode-saas-homepage-design-system--81cda2a5 · [0030] (archive-1.md)
+- date: 2026-03-10
+- context: Hold to confirm examples
+- tags: responsive, interaction, product · standing: yes
+
+### E0246 · Invisible larger touch target
+- quote: "the touchpoint (can be invisible like not every part of that touchpoint needs to be like for example the circle doesnt have to be that size cuz there can be an invisible container to help with that"
+- source: 2026-03-08--premium-dark-mode-saas-homepage-design-system--81cda2a5 · [0030] (archive-1.md)
+- date: 2026-03-10
+- context: Hold to confirm touchpoint
+- tags: interaction, responsive · standing: yes
+
+### E0247 · Thoughts before producing
+- quote: "thoughts before you produce anything?"
+- source: 2026-03-08--premium-dark-mode-saas-homepage-design-system--81cda2a5 · [0030] (archive-1.md)
+- date: 2026-03-10
+- context: Choosing between interaction variants
+- tags: process · standing: yes
+
+### E0248 · A couple of options for the boss to pick
+- quote: "i dont mind having a couple options to send to my boss for him to tell me his fave either"
+- source: 2026-03-08--premium-dark-mode-saas-homepage-design-system--81cda2a5 · [0034] (archive-1.md)
+- date: 2026-03-10
+- context: Hold to confirm variants
+- tags: review-board, process · standing: yes
+
+### E0249 · Animation too
+- quote: "yes but can you create an animation as well?"
+- source: 2026-03-08--premium-dark-mode-saas-homepage-design-system--81cda2a5 · [0065] (archive-1.md)
+- date: 2026-03-10
+- context: Popover flow for not yet scheduled tasks
+- tags: interaction, delivery · standing: yes
+
+### E0250 · Never amber or yellow, use magenta
+- quote: "remember to NEVER bring in amber or yellow if you need another color use magenta."
+- source: 2026-03-08--premium-dark-mode-saas-homepage-design-system--81cda2a5 · [0115] (archive-1.md)
+- date: 2026-03-11
+- context: Updated homepage from Figma
+- tags: style, product · standing: yes
+
+### E0251 · Stay inside the design system colors
+- quote: "that amber color isn't really part of the design system so I don't want to give it so much weight."
+- source: 2026-03-08--premium-dark-mode-saas-homepage-design-system--81cda2a5 · [0073] (archive-1.md)
+- date: 2026-03-10
+- context: Status colors in the task list
+- tags: style, process · standing: yes
+
+### E0252 · Borders are on brand, avoid boxy
+- quote: "having borders is very on brand for mondai."
+- source: 2026-03-08--premium-dark-mode-saas-homepage-design-system--81cda2a5 · [0099] (archive-1.md)
+- date: 2026-03-11
+- context: Active task card style
+- tags: style, product · standing: yes
+
+### E0253 · Do not add a card that feels boxy
+- quote: "adding in a card like that here may be confusing with the other cards on the page and I don't want the design to feel boxy which is why I left it feeling open up top."
+- source: 2026-03-08--premium-dark-mode-saas-homepage-design-system--81cda2a5 · [0111] (archive-1.md)
+- date: 2026-03-11
+- context: Pathway metrics at the top of the home page
+- tags: style, product · standing: yes
+
+### E0254 · Sources with each answer
+- quote: "please provide sources with each reason or answer to confirm solid ux/ui/product design sources"
+- source: 2026-03-08--premium-dark-mode-saas-homepage-design-system--81cda2a5 · [0081] (archive-1.md)
+- date: 2026-03-11
+- context: UX questions on completed tasks and contrast
+- tags: process · standing: yes
+
+### E0255 · Hover motion goes under, not over, other cards
+- quote: "i dont liek the green hover effect and it feels liekits going over other tasks rather than under? i think it should stay at the same height, the to do should raise and the active slider under to complete like you mentioned."
+- source: 2026-03-08--premium-dark-mode-saas-homepage-design-system--81cda2a5 · [0103] (archive-1.md)
+- date: 2026-03-11
+- context: Task transition animation
+- tags: interaction · standing: yes
+
+### E0256 · Suggest 3 options in words first, then produce
+- quote: "can you suggest 3 options then after i see them ill confirm i want you to produce them? so i can visualize?"
+- source: 2026-03-08--premium-dark-mode-saas-homepage-design-system--81cda2a5 · [0113] (archive-1.md)
+- date: 2026-03-11
+- context: Pathway metric section layout
+- tags: process, review-board · standing: yes
+
+### E0257 · Use the question card format
+- quote: "an you just ask the questions in that normal format where i can select or add custom optionidk why u stopped that i love it lol"
+- source: 2026-03-08--premium-dark-mode-saas-homepage-design-system--81cda2a5 · [0117] (archive-1.md)
+- date: 2026-03-11
+- context: Claude asked questions in plain chat
+- tags: interaction, process · standing: yes
+
+### E0258 · Custom answers in the question card were ignored
+- quote: "wait did you not see the rest of my responses to uour questions?"
+- source: 2026-03-08--premium-dark-mode-saas-homepage-design-system--81cda2a5 · [0150] (archive-1.md)
+- date: 2026-03-11
+- context: Question card answers typed into custom fields
+- tags: frustration, interaction · standing: yes
+
+### E0259 · Keep the home page feel, not an action items page
+- quote: "i dont necessarily want to move the task list to the right of the screen at this point just because we dont have enough content for the mvp and i dont want ti to start looking more like an action items or task page rather than a starting point/home page feel."
+- source: 2026-03-08--premium-dark-mode-saas-homepage-design-system--81cda2a5 · [0128] (archive-1.md)
+- date: 2026-03-11
+- context: Events section placement
+- tags: shell, style, product · standing: yes
+
+### E0260 · Already said that
+- quote: "I already spoke on this."
+- source: 2026-03-08--premium-dark-mode-saas-homepage-design-system--81cda2a5 · [0134] (archive-1.md)
+- date: 2026-03-11
+- context: Claude repeated a question about events section
+- tags: frustration · standing: yes
+
+### E0261 · Images to break up redundancy, still open
+- quote: "can we try adding images to beak up the redunancy? and keep them open and not boxed in?"
+- source: 2026-03-08--premium-dark-mode-saas-homepage-design-system--81cda2a5 · [0136] (archive-1.md)
+- date: 2026-03-11
+- context: Events section
+- tags: style · standing: yes
+
+### E0262 · Examples missed Sunday, an edge case
+- quote: "i just realized for soem reason in the calendar examples you made you didnt include sunday and so when i try to follow your lead design wise it doesnt fit"
+- source: 2026-03-08--premium-dark-mode-saas-homepage-design-system--81cda2a5 · [0138] (archive-1.md)
+- date: 2026-03-11
+- context: Weekly calendar view examples
+- tags: frustration, process, product · standing: yes
+
+### E0263 · Cannot go smaller on text, scroll sounds horrible
+- quote: "i cant really go much smaller with the text at this point and the scroll thing sounds horrible too"
+- source: 2026-03-08--premium-dark-mode-saas-homepage-design-system--81cda2a5 · [0140] (archive-1.md)
+- date: 2026-03-11
+- context: Calendar view at 1280
+- tags: responsive, style, interaction · standing: yes
+
+### E0264 · Must adapt to all viewports, smallest desktop is 1280 x 832
+- quote: "i have to adapt to basically all viewports to some extend. because basically im designing the desktop view and for the mvp the java the dev team has they use to \"adapt it\" but for desktop the smallest is like 1280 832"
+- source: 2026-03-08--premium-dark-mode-saas-homepage-design-system--81cda2a5 · [0154] (archive-1.md)
+- date: 2026-03-11
+- context: Calendar schedule view
+- tags: responsive, product · standing: yes
+
+### E0265 · Smallest text size and accessibility
+- quote: "i dont want my accessibility designer to freak at me"
+- source: 2026-03-08--premium-dark-mode-saas-homepage-design-system--81cda2a5 · [0156] (archive-1.md)
+- date: 2026-03-11
+- context: Fonts smaller than 12px for calendar cards
+- tags: style, product · standing: yes
+
+### E0266 · Where is the artifact
+- quote: "... where is the artifact?"
+- source: 2026-03-24--calendar-integration-flow--bb473d8a · [0004] (archive-1.md)
+- date: 2026-03-24
+- context: He asked Claude to recreate his screen in an artifact; Claude replied in chat
+- tags: delivery, frustration · standing: yes
+
+### E0267 · Five options in different tabs
+- quote: "okay please give me 5 options in different tabs of how we could do this"
+- source: 2026-03-24--calendar-integration-flow--bb473d8a · [0006] (archive-1.md)
+- date: 2026-03-24
+- context: Leftover tasks screen
+- tags: review-board, delivery · standing: yes
+
+### E0268 · Do not rebuild with historical context
+- quote: "yes. but becareful not to \"rebuild with historical context\" think bout how you would have approached it if you realized this info above from the get go."
+- source: 2026-03-24--calendar-integration-flow--bb473d8a · [0012] (archive-1.md)
+- date: 2026-03-24
+- context: Revising options after he corrected the flow
+- tags: process · standing: yes
+
+### E0269 · I want options
+- quote: "no i want options"
+- source: 2026-03-24--calendar-integration-flow--bb473d8a · [0018] (archive-1.md)
+- date: 2026-03-24
+- context: Claude offered a single recommendation instead of alternatives
+- tags: review-board, process · standing: yes
+
+### E0270 · Ask in the quiz format, alternatives in tabs
+- quote: "plese ask in tht quiz format" ... "create alternatives for this please with the tabs like we do"
+- source: 2026-03-24--calendar-integration-flow--bb473d8a · [0068], [0070] (archive-1.md)
+- date: 2026-03-24
+- context: Flex and scheduling flow
+- tags: interaction, review-board, process · standing: yes
+
+### E0271 · Examples of both
+- quote: "weekly calendr or chips would like to see examples of both"
+- source: 2026-03-24--calendar-integration-flow--bb473d8a · [0070] (archive-1.md)
+- date: 2026-03-24
+- context: Time slot display for scheduling
+- tags: review-board · standing: yes
+
+### E0272 · Too much, and he liked the earlier card
+- quote: "honestly? these all kind of feel like a lot? i also loved the card design before do you think its workble to use that still and mke it look good? it feels like this could be so much more intuitive to me?"
+- source: 2026-03-24--calendar-integration-flow--bb473d8a · [0117] (archive-1.md)
+- date: 2026-03-26
+- context: Leftover task allocation options
+- tags: style, review-board · standing: yes
+
+### E0273 · Too many dots and circles
+- quote: "this nice but u use those circles for like everythinggggg. like i changed the one for new week unfinished tasks but even with that u have a ddot for from last week and for each tsk doesnt that feel like a lot?"
+- source: 2026-03-24--calendar-integration-flow--bb473d8a · [0123] (archive-1.md)
+- date: 2026-03-26
+- context: Leftover task flow design
+- tags: style · standing: yes
+
+### E0274 · Bring my Figma frames into the artifact
+- quote: "can you actually pull this all up somehow into artifact view so we can work on them?"
+- source: 2026-03-24--calendar-integration-flow--bb473d8a · [0125] (archive-1.md)
+- date: 2026-03-27
+- context: Three Figma frames of the leftover task flow
+- tags: delivery, process · standing: yes
+
+### E0275 · Button states and sizes are fixed in his system
+- quote: "nope, look at it again. my button sizes are fixed." ... ".the next nd back buttons should each be fixed at 164."
+- source: 2026-03-24--calendar-integration-flow--bb473d8a · [0134], [0136] (archive-1.md)
+- date: 2026-03-27
+- context: Leftover task flow artifact
+- tags: style, process, frustration · standing: yes
+
+### E0276 · Use the exact state colors I sent
+- quote: "why do you still have the default state of the use a flex point button another color? i just sent u the images of the specific state colors"
+- source: 2026-03-24--calendar-integration-flow--bb473d8a · [0138] (archive-1.md)
+- date: 2026-03-27
+- context: Leftover task flow artifact
+- tags: frustration, style, process · standing: yes
+
+### E0277 · Inline cards fill their container
+- quote: "ive also attached updated states for pressed, hover and selected for the inline cards. make sure they fill the entire container theyre in too."
+- source: 2026-03-24--calendar-integration-flow--bb473d8a · [0136] (archive-1.md)
+- date: 2026-03-27
+- context: Leftover task flow artifact
+- tags: interaction, style · standing: yes
+
+### E0278 · Research no-reference patterns before moving on
+- quote: "we are currently working on a no reference ground which is a bit scary becuse i want to make sure the pattern makes sense and is useable and intuitive. can you do research on this to confirm before we move forward?"
+- source: 2026-03-24--calendar-integration-flow--bb473d8a · [0146] (archive-1.md)
+- date: 2026-03-29
+- context: Leftover task flow pattern
+- tags: process · standing: yes
+
+### E0279 · Chat for thinking, artifact only for visuals
+- quote: "yes but dont do it in artifact view because i think that costs more tokens right? rather than you showing me soemthing in chat?"
+- source: 2026-03-24--calendar-integration-flow--bb473d8a · [0154] (archive-1.md)
+- date: 2026-03-29
+- context: Discussing a restructured new week flow
+- tags: delivery, process · standing: yes
+
+### E0280 · Three options with reasoning
+- quote: "yes can you create 3 options in artifact view with the tab method we hve used previously and explain all of the reasonign behind each?"
+- source: 2026-03-24--calendar-integration-flow--bb473d8a · [0156] (archive-1.md)
+- date: 2026-03-29
+- context: New week flow
+- tags: review-board, delivery · standing: yes
+
+### E0281 · Cognitive load, simplicity, not boxy for flows
+- quote: "option 1 and 3 i dont like because it feels very heavy on my cognitive load personally. ... actually dont feel as compelled to stick to the boxy frame format we have been using. i thinka flow like this needs simplicity and clarity without too much distraction."
+- source: 2026-03-24--calendar-integration-flow--bb473d8a · [0158] (archive-1.md)
+- date: 2026-03-29
+- context: New week intro flow
+- tags: style, review-board · standing: yes
+
+### E0282 · Centered page feels like a moment
+- quote: "id like this to be designed so it is centered on the page rathe than being all left alligned. a centered page feels more like a moment."
+- source: 2026-03-24--calendar-integration-flow--bb473d8a · [0163] (archive-1.md)
+- date: 2026-03-29
+- context: New week flow step 1
+- tags: style, shell, product · standing: yes
+
+### E0283 · Show more, text less
+- quote: "it relies too much on text where we should be SHOWING the user more and mking it less heavy cognitively."
+- source: 2026-03-24--calendar-integration-flow--bb473d8a · [0163] (archive-1.md)
+- date: 2026-03-29
+- context: New week flow step 2
+- tags: style, copy, product · standing: yes
+
+### E0284 · Show how the process works
+- quote: "like i want to be able to see how the schedule process works. i am confused right now with wht the \"scheduled it\" butto is supposed to do"
+- source: 2026-03-24--calendar-integration-flow--bb473d8a · [0163] (archive-1.md)
+- date: 2026-03-29
+- context: Scheduling step of the flow
+- tags: review-board, interaction, product · standing: yes
+
+### E0285 · Hierarchy of suggestion versus button
+- quote: "there isnt enough clarity between the schedule it button and the suggestion. the hierarchy is off. additionally, when i try to pick a time I am limited to alternative suggested times. i shuld be able to choose any time"
+- source: 2026-03-24--calendar-integration-flow--bb473d8a · [0167] (archive-1.md)
+- date: 2026-03-29
+- context: Scheduling screen (he sent the same message three times)
+- tags: interaction, frustration, product · standing: yes
+
+### E0286 · Five alternative versions, optional ideas
+- quote: "can you create 5 alt versions" ... "full screen 3 layout i just want some optional ideas!"
+- source: 2026-03-24--calendar-integration-flow--bb473d8a · [0172], [0174] (archive-1.md)
+- date: 2026-03-29
+- context: Scheduling screen
+- tags: review-board · standing: yes
+
+### E0287 · Arrows for entering a day are not friendly on desktop
+- quote: "i noticed you did that thing with the arrows for the day but i dont believe thats super user friendly especially on desktop. i need info with sources on the best options for entering a day for date."
+- source: 2026-03-24--calendar-integration-flow--bb473d8a · [0176] (archive-1.md)
+- date: 2026-03-30
+- context: Date and time entry
+- tags: interaction, process, product · standing: yes
+
+### E0288 · Smoother animation by reusing a container
+- quote: "wouldnt the animation be smoother tho if it was utilizing the same container? that was my reasoning? otherwise sicne ther are multiple layers in the other the transition may be weird?"
+- source: 2026-03-24--calendar-integration-flow--bb473d8a · [0192] (archive-1.md)
+- date: 2026-03-30
+- context: Scheduled state transition
+- tags: interaction, product · standing: yes
+
+### E0289 · Priority content gets hierarchy, not necessarily the header
+- quote: "its not necessarily that those things need to be communicated IN THE HEADER. they just need to be communicated clearly and take hierarchical priority on the cards."
+- source: 2026-03-24--calendar-integration-flow--bb473d8a · [0196] (archive-1.md)
+- date: 2026-03-30
+- context: Allocation cards
+- tags: style, product · standing: yes
+
+### E0290 · Repeating the last output
+- quote: "this is almost exactly like what you just id last time....."
+- source: 2026-03-24--calendar-integration-flow--bb473d8a · [0208] (archive-1.md)
+- date: 2026-03-30
+- context: Card top section ideas
+- tags: frustration, style · standing: yes
+
+### E0291 · Ideas, brutalist roots, generic is the problem
+- quote: "im playing around with different things. im just looking for you to give me more ideas. remember the system is rooted in brutalism if that helps. dont touch anything on the card but the top section we have been working on. ... currently its giving generic and the structural layout of the numbers and information doesn't feel balanced and appealing."
+- source: 2026-03-24--calendar-integration-flow--bb473d8a · [0210] (archive-1.md)
+- date: 2026-03-30
+- context: Allocation card top section
+- tags: style, process · standing: yes
+
+### E0292 · Design system already given as PDF
+- quote: "ive alredy given that all to u before in a pdf"
+- source: 2026-03-24--calendar-integration-flow--bb473d8a · [0202] (archive-1.md)
+- date: 2026-03-30
+- context: Styling the allocation cards
+- tags: process, frustration · standing: yes
+
+### E0293 · Lighter color in dark mode raises an element
+- quote: "if you add a lgihter color in dark mode it \"raises it\" essneitllay making it feel cloer to the screen right?"
+- source: 2026-03-24--calendar-integration-flow--bb473d8a · [0034] (archive-1.md)
+- date: 2026-03-24
+- context: Journey versus pathway metric emphasis in dark mode
+- tags: style, product · standing: yes
+
+### E0294 · Build it in the side panel and modify together
+- quote: "what is this? i said do this in the code box thing on the side so we can build it and modify it together. also did u reference the link i sent at all? i want us to look at options not for u to just create an output either lets talk about the patterns on that link i sent"
+- source: 2026-03-20--integrating-ai-into-a-new-page--76e5a583 · [0012] (archive-1.md)
+- date: 2026-03-20
+- context: AI on the Action Item page
+- tags: delivery, process · standing: yes
+
+### E0295 · Right side panel workspace
+- quote: "can we use the code box thing on the right (sorry the right side panel workspace where you can create) to explore soem of these things?"
+- source: 2026-03-20--integrating-ai-into-a-new-page--76e5a583 · [0014] (archive-1.md)
+- date: 2026-03-20
+- context: AI on the Action Item page
+- tags: delivery · standing: yes
+
+### E0296 · Alternatives not creative enough, related controls grouped
+- quote: "the actions like \"simplify, go deeper\" etc sitting above the output the the text bar being underneath the output isnt good hierarchy as these are all actions. ... these altenrtaives arent creative enough i was hoping they would vary more."
+- source: 2026-03-20--integrating-ai-into-a-new-page--76e5a583 · [0016] (archive-1.md)
+- date: 2026-03-20
+- context: AI interaction options on the action item page
+- tags: review-board, style, interaction, product · standing: yes
+
+### E0297 · Content scannable and realistic
+- quote: "the content still feels very light to me. it also needs to feel more scannable."
+- source: 2026-03-20--integrating-ai-into-a-new-page--76e5a583 · [0024] (archive-1.md)
+- date: 2026-03-20
+- context: Action item lesson mock content
+- tags: review-board, style, product · standing: yes
+
+### E0298 · Artifact must expand on desktop
+- quote: "can you make this more desktop based? it doesnt expand or anything when i download it and open it ina. new tab its gving movile. im trying to imagine what this looks like as. apage"
+- source: 2026-03-20--integrating-ai-into-a-new-page--76e5a583 · [0026] (archive-1.md)
+- date: 2026-03-20
+- context: Downloaded HTML opened in a new tab rendered as mobile
+- tags: responsive, delivery, frustration · standing: yes
+
+### E0299 · You said alternatives
+- quote: "this is coool but i thought u were going to give alternatives?"
+- source: 2026-03-20--integrating-ai-into-a-new-page--76e5a583 · [0028] (archive-1.md)
+- date: 2026-03-20
+- context: Single AI concept delivered
+- tags: review-board, frustration · standing: yes
+
+### E0300 · Show examples of both in the next output
+- quote: "id like to see what it looks like as a passive layer as well. can you give examples of both in the next output?"
+- source: 2026-03-20--integrating-ai-into-a-new-page--76e5a583 · [0034] (archive-1.md)
+- date: 2026-03-20
+- context: AI chat integration options
+- tags: review-board · standing: yes
+
+### E0301 · Concept loading wrong, missing the thing
+- quote: "for some reason concept b is loading funny" ... "i dont understand whats going on with b.... i dont see any chat bot and i dont even see an option to type in soemthing custom to adjust the content amyore"
+- source: 2026-03-20--integrating-ai-into-a-new-page--76e5a583 · [0036], [0038] (archive-1.md)
+- date: 2026-03-20
+- context: Concept B in the artifact
+- tags: frustration, process · standing: yes
+
+### E0302 · Top bar not UX friendly, try completely different
+- quote: "id like to see some differnt solutions the top bar is not a great ux friendly idea. try somethign completely differnt. do your best to make it even more ux friendly. intuitive is important"
+- source: 2026-03-20--integrating-ai-into-a-new-page--76e5a583 · [0040] (archive-1.md)
+- date: 2026-03-20
+- context: AI command bar options
+- tags: interaction, review-board, process · standing: yes
+
+### E0303 · Bottom dock showing info that is not part of the design
+- quote: "why doesnt this work like the bar did when it was on the top? and why is it like in the dock thing at the bototm that just gives me info that really isnt part of the design???"
+- source: 2026-03-20--integrating-ai-into-a-new-page--76e5a583 · [0048] (archive-1.md)
+- date: 2026-03-20
+- context: Command bar at the bottom of the artifact
+- tags: interaction, frustration, shell · standing: yes
+
+### E0304 · Side panel too much for the use case
+- quote: "that ride side panel almost seems like too much for the use case. Would it be better to have something smaller with like a drawer or module... maybe a tab or something for \"chat mode\""
+- source: 2026-03-20--integrating-ai-into-a-new-page--76e5a583 · [0056] (archive-1.md)
+- date: 2026-03-21
+- context: AI and chat placement
+- tags: shell, product · standing: yes
+
+### E0305 · Where is the quiz
+- quote: "Where is the quiz?" ... "Omg the quiz u sent for me to answer the questions for you"
+- source: 2026-03-20--integrating-ai-into-a-new-page--76e5a583 · [0066], [0068] (archive-1.md)
+- date: 2026-03-21
+- context: The question card did not appear
+- tags: interaction, frustration · standing: yes
+
+### E0306 · Cliff notes version first
+- quote: "can you write 1. cliff notes version 2. give me your thoughts on the best way to integrate this research into what we have been working on"
+- source: 2026-03-20--integrating-ai-into-a-new-page--76e5a583 · [0072] (archive-1.md)
+- date: 2026-03-21
+- context: Long research output he could not read in full
+- tags: copy, process · standing: yes
+
+### E0307 · Sources beside the points, no sourcing meta
+- quote: "The sources should just be included next to the relevant points."
+- source: 2026-03-20--integrating-ai-into-a-new-page--76e5a583 · [0088] (archive-1.md)
+- date: 2026-03-21
+- context: Research summary document for the team
+- tags: copy, process · standing: one-off
+
+### E0308 · Written for a scientist, no we language
+- quote: "The entire document kind of feels all like its written for a scientist or academics." ... "ok again no \"we\" language"
+- source: 2026-03-20--integrating-ai-into-a-new-page--76e5a583 · [0090], [0092] (archive-1.md)
+- date: 2026-03-21
+- context: Research summary document
+- tags: copy · standing: yes
+
+### E0309 · Dash instruction ignored again
+- quote: "also im really confused on why u keep using — so much when its in ur instrucitons to not use it? is what is written in ur instrucitons incorrect?"
+- source: 2026-03-20--integrating-ai-into-a-new-page--76e5a583 · [0113] (archive-1.md)
+- date: 2026-03-21
+- context: Claude kept using em dashes
+- tags: copy, frustration · standing: yes
+
+### E0310 · Make it stop for good
+- quote: "yes - but girl u just did it in that output riht after saying u wouldnt... im asaking you how to make you stop using this stuff for good because clearly the wy i wrote the instructions is not the way"
+- source: 2026-03-20--integrating-ai-into-a-new-page--76e5a583 · [0117] (archive-1.md)
+- date: 2026-03-21
+- context: Claude used an em dash again right after promising not to
+- tags: copy, frustration, process · standing: yes
+
+### E0311 · Too academic, then too casual
+- quote: "you switched from overly academic to too casual. This makes me look like an idiot I can't read the rest of this. You pushed it too far."
+- source: 2026-03-20--integrating-ai-into-a-new-page--76e5a583 · [0127] (archive-1.md)
+- date: 2026-03-22
+- context: Research document tone
+- tags: copy, frustration · standing: yes
+
+### E0312 · Reapproach the layout, not a copy of the last
+- quote: "can we just look at reapproaching alternative ways to lay this out before we do anything else? again it feels like a copy of the previous format. give me some ideas on examples of formats as well please. this does just all feel a little watered down now. the recipient isnt a 10 year old lol"
+- source: 2026-03-20--integrating-ai-into-a-new-page--76e5a583 · [0129] (archive-1.md)
+- date: 2026-03-22
+- context: Research document layout
+- tags: review-board, copy, process · standing: yes
+
+### E0313 · Tab view to pick the best of three
+- quote: "can you create like a tab view so i can view all three at once and pick the best?"
+- source: 2026-03-20--integrating-ai-into-a-new-page--76e5a583 · [0133] (archive-1.md)
+- date: 2026-03-22
+- context: Three document layouts
+- tags: review-board, delivery · standing: yes
+
+### E0314 · Light grey is almost unseeable
+- quote: "can you update the supporting text fonts on all of these? the light grey youre choosing is almost unseeable"
+- source: 2026-03-20--integrating-ai-into-a-new-page--76e5a583 · [0135] (archive-1.md)
+- date: 2026-03-22
+- context: Three document layouts
+- tags: style, frustration · standing: yes
+
+### E0315 · Darken text for numbers and Source labels
+- quote: "great just daarken the text for the numbers and the super light font in instances like \"source\" that is almost unreadable."
+- source: 2026-03-20--integrating-ai-into-a-new-page--76e5a583 · [0167] (archive-1.md)
+- date: 2026-03-22
+- context: PDF of the research document
+- tags: style, frustration · standing: yes
+
+### E0316 · Editable format, not just a pretty page
+- quote: "can you create this in a format that i can edit? like a word doc or something?" ... "i want to be able to edit it. i think you can make this look better still"
+- source: 2026-03-20--integrating-ai-into-a-new-page--76e5a583 · [0151], [0155] (archive-1.md)
+- date: 2026-03-22
+- context: Research document deliverable
+- tags: delivery · standing: yes
+
+### E0317 · Ugly output after format change
+- quote: "ew now its ugly :( it was way cuter before"
+- source: 2026-03-20--integrating-ai-into-a-new-page--76e5a583 · [0153] (archive-1.md)
+- date: 2026-03-22
+- context: Editable document version lost the styling
+- tags: style, delivery · standing: yes
+
+### E0318 · PDF in the same style as the html
+- quote: "can you create a pdf file that looks like the html's style? but with this info instead?"
+- source: 2026-03-20--integrating-ai-into-a-new-page--76e5a583 · [0163] (archive-1.md)
+- date: 2026-03-22
+- context: Research document
+- tags: delivery, style · standing: yes
+
+### E0319 · Prefers free tools
+- quote: "you always suggest paid for shit"
+- source: 2026-04-15--action-item-arrow-hover-animation--f4d3c853 · 0006 (archive-2.md)
+- date: 2026-04-15
+- context: Recreating a hover arrow animation (Lottie, Figma prototype)
+- tags: frustration, process · standing: yes
+
+### E0320 · Do not assume tools or access he lacks
+- quote: "i dont have after effects......."
+- source: 2026-04-15--action-item-arrow-hover-animation--f4d3c853 · 0004 (archive-2.md)
+- date: 2026-04-15
+- context: Claude suggested an After Effects route for a Lottie animation
+- tags: frustration, process · standing: one-off
+
+### E0321 · Interaction: hover animation plays once per hover
+- quote: "i want it to play just once when hovered over. problem is after i highlight it once then take my mouse off once i highlight it again the arrow just ends up in the ending state instead of replaying the animation"
+- source: 2026-04-15--action-item-arrow-hover-animation--f4d3c853 · 0008 (archive-2.md)
+- date: 2026-04-15
+- context: Action item card hover arrow in Figma prototype
+- tags: interaction · standing: one-off
+
+### E0322 · Claude must read the structure he describes
+- quote: "ur not getting it lol. ur confusing the arrow animation which is its own thing.... and the action items component"
+- source: 2026-04-15--action-item-arrow-hover-animation--f4d3c853 · 0014 (archive-2.md)
+- date: 2026-04-15
+- context: Prototype hover animation setup
+- tags: frustration · standing: one-off
+
+### E0323 · Buttons simple, secondary option short
+- quote: "i just think you get too wordy with the buttons and the secoondary option neds to be simplified. all fo these still feel unclear to me"
+- source: 2026-04-19--career-selection-modal-redesign--7f2c3f09 · 0004 (archive-2.md)
+- date: 2026-04-19
+- context: Change career confirmation modal
+- tags: copy, product · standing: yes
+
+### E0324 · Buttons carry no extra context
+- quote: "\"switch to ui designer\" is absolutely not necessary. there is more than enough context on the card itself to do that heavy lifting. buttons should be simple."
+- source: 2026-04-19--career-selection-modal-redesign--7f2c3f09 · 0010 (archive-2.md)
+- date: 2026-04-19
+- context: Change career confirmation modal
+- tags: copy, product · standing: yes
+
+### E0325 · Design for variable content length
+- quote: "no but im saying this needs to be designed in a way that works well for any situation omg what do u not understand about design"
+- source: 2026-04-19--career-selection-modal-redesign--7f2c3f09 · 0038 (archive-2.md)
+- date: 2026-04-19
+- context: Job titles of differing lengths in comparison cards
+- tags: responsive, product, frustration · standing: yes
+
+### E0326 · Do not guess the longest case
+- quote: "no because u said \"set the height to whatever u best guess the longest title to be\""
+- source: 2026-04-19--career-selection-modal-redesign--7f2c3f09 · 0036 (archive-2.md)
+- date: 2026-04-19
+- context: Fixed height cards and long titles
+- tags: responsive, frustration, product · standing: yes
+
+### E0327 · Fixed sizing that pushes content is rejected
+- quote: "ok but ur suggestion still doesnt make sense. because if its fixed and wrapped and longer it fills and pushes the % down"
+- source: 2026-04-19--career-selection-modal-redesign--7f2c3f09 · 0020 (archive-2.md)
+- date: 2026-04-19
+- context: Auto layout in Figma for career cards
+- tags: responsive, product · standing: one-off
+
+### E0328 · Wants Claude to show, not describe
+- quote: "show me"
+- source: 2026-04-19--career-selection-modal-redesign--7f2c3f09 · 0046 (archive-2.md)
+- date: 2026-04-19
+- context: After Claude gave a layout idea for variable-length cards (repeated at 0086 "show me")
+- tags: process, delivery · standing: yes
+
+### E0329 · Plain explanation of vague design advice
+- quote: "i dont understand what bumping the padding means here. youre saying more space right.? but where?"
+- source: 2026-04-19--career-selection-modal-redesign--7f2c3f09 · 0084 (archive-2.md)
+- date: 2026-04-21
+- context: Career cards with and without progress bars
+- tags: copy, frustration, process · standing: yes
+
+### E0330 · Claude should have a solution, not throw ideas
+- quote: "wtf? so basically wat im getting right now is u dont have a solution and ur throwing shit at the wall. that makes no sense."
+- source: 2026-04-19--career-selection-modal-redesign--7f2c3f09 · 0042 (archive-2.md)
+- date: 2026-04-19
+- context: Variable length card layout
+- tags: frustration, process · standing: yes
+
+### E0331 · Active state must be unmistakable
+- quote: "do we think \"your journey\" is good enough? if we are supposed to be showing the user they are currently on this journey? like i think we need to doa. better job of saying HEY THIS IS THE ACTIVE JOURNEY"
+- source: 2026-04-19--career-selection-modal-redesign--7f2c3f09 · 0062 (archive-2.md)
+- date: 2026-04-20
+- context: Active career banner and card
+- tags: product, navigation · standing: one-off
+
+### E0332 · Do not grow the banner
+- quote: "i dont want the banner to increase in height."
+- source: 2026-04-19--career-selection-modal-redesign--7f2c3f09 · 0060 (archive-2.md)
+- date: 2026-04-20
+- context: Career page header banner with active career state
+- tags: shell, product · standing: one-off
+
+### E0333 · Output must match the attached reference
+- quote: "also this doesnt look anhthing like the attached?"
+- source: 2026-04-19--career-selection-modal-redesign--7f2c3f09 · 0056 (archive-2.md)
+- date: 2026-04-20
+- context: Claude's depiction of the active career state
+- tags: frustration, process · standing: yes
+
+### E0334 · Wants a variant for each state
+- quote: "like we will have to have a variant for each"
+- source: 2026-04-19--career-selection-modal-redesign--7f2c3f09 · 0062 (archive-2.md)
+- date: 2026-04-20
+- context: Active versus previous progress states of career page
+- tags: product, review-board · standing: one-off
+
+### E0335 · Sort options he values
+- quote: "hmm idk if ur analysis is correct i think things like avg salary are important to people"
+- source: 2026-04-19--career-selection-modal-redesign--7f2c3f09 · 0074 (archive-2.md)
+- date: 2026-04-20
+- context: Sort menu ordering
+- tags: product · standing: one-off
+
+### E0336 · Asks for heuristics and research on consistency
+- quote: "do you really think its a problem if the divider is in a different spot on a card with a progress bar vs a card tat is not? please look into the heuristics and research on this"
+- source: 2026-04-19--career-selection-modal-redesign--7f2c3f09 · 0088 (archive-2.md)
+- date: 2026-04-21
+- context: Card divider placement
+- tags: process, product · standing: yes
+
+### E0337 · Notification content must be coherent
+- quote: "i am less worried about you copying \"action item\" \"journey\" \"mondai chat\" \"feedback\" etc. I AM LOOKING FOR YOU TO MAKE A NOTIFICATIONS PAGE FULL OF INFO THAT MAKES SENSE"
+- source: 2026-04-19--mondai-notifications-consistency-review--edaeb89c · 0004 (archive-2.md)
+- date: 2026-04-19
+- context: Notifications screen filler content
+- tags: copy, frustration, product · standing: one-off
+
+### E0338 · Keeps headers for hierarchy
+- quote: "hierarchy wise right now the headers get a bold treatment and if i dont have that for messages that dont have context for a header then those notifications wont stand out in the same way so it makes me feel like i always need them"
+- source: 2026-04-19--mondai-notifications-consistency-review--edaeb89c · 0012 (archive-2.md)
+- date: 2026-04-19
+- context: Notification item hierarchy
+- tags: product, style · standing: one-off
+
+### E0339 · Unread state clarity
+- quote: "right now I have the green indicator for unread. I also have the text as slightly brighter. but what if I had unread notificaitons from yesterday or sunday? Would that text still be darker so would the lighter text just apply to the current day or would all unread be lighter"
+- source: 2026-04-19--mondai-notifications-consistency-review--edaeb89c · 0026 (archive-2.md)
+- date: 2026-04-19
+- context: Notifications unread styling
+- tags: product, review-board · standing: one-off
+
+### E0340 · Do not hallucinate at start of chat; read attachments
+- quote: "are you hallucinating at the start of a chat? i just sent u the images..... and have spoken about this over and over THIS IS EXACTLY WHAT IM DOING."
+- source: 2026-04-20--redesigning-core-frame-grid-system--f8b090e5 · 0010 (archive-2.md)
+- date: 2026-04-20
+- context: Core frame grid system discussion
+- tags: frustration, process · standing: yes
+
+### E0341 · Responsive: design at one size, dev handles scaling
+- quote: "cant he just solve that with coding? otherwise i have to design always 3 separate breakpoints? that is overkill."
+- source: 2026-04-20--redesigning-core-frame-grid-system--f8b090e5 · 0070 (archive-2.md)
+- date: 2026-04-20
+- context: Responsive margins handoff to the developer
+- tags: responsive, product · standing: yes
+
+### E0342 · Design at 1920x1080, beyond that stays at max widths
+- quote: "i need new values basically because wht i have isnt working. you also need to remember I am designing at 1920x1080 so we need to think about max widths here too and how those come into play. I think a good way to look at it honestly is probably to consider everything after 1920 x 1080 \"stuck\" at the 1920 x 1080 max widths?"
+- source: 2026-04-20--redesigning-core-frame-grid-system--f8b090e5 · 0020 (archive-2.md)
+- date: 2026-04-20
+- context: Core frame grid and max widths
+- tags: responsive, shell, product · standing: yes
+
+### E0343 · Sidebar collapsed and expanded states both matter
+- quote: "another part of all of this is taking into consideration the expanded and collapsed states. pretty sure the conclusion we came to before was we could only design for one or the other so the expanded state was the beset but maybe we decided collapsed i really dont remember."
+- source: 2026-04-20--redesigning-core-frame-grid-system--f8b090e5 · 0014 (archive-2.md)
+- date: 2026-04-20
+- context: Core frame vs sidebar grid
+- tags: shell, product · standing: yes
+
+### E0344 · Wants fixed width right panel with fill main content
+- quote: "why in the hell would that not be okay to have at a fixed width? that makes no sense to me lol because it also allows me to make the list items (the main content) set to fill?"
+- source: 2026-04-20--redesigning-core-frame-grid-system--f8b090e5 · 0024 (archive-2.md)
+- date: 2026-04-20
+- context: Core frame with right-hand side panel
+- tags: shell, responsive, product · standing: yes
+
+### E0345 · Margins as repeatable system with presets
+- quote: "i have preset variables in figma right now for 3 different margin sizes depending on the page that all aline with the outer edges of different columns"
+- source: 2026-04-20--redesigning-core-frame-grid-system--f8b090e5 · 0018 (archive-2.md)
+- date: 2026-04-20
+- context: Margin tokens per page type
+- tags: shell, product, style · standing: yes
+
+### E0346 · Do not flag everything; do not agree by reflex
+- quote: "ok quick question are you like wired to always flag shit? cuz i feel like u keep doingt hat and like its not necessary in every instance? like now ok i can figure that part out myself im the designer not u i dont need u to do everything im asking for something specific."
+- source: 2026-04-20--redesigning-core-frame-grid-system--f8b090e5 · 0030 (archive-2.md)
+- date: 2026-04-20
+- context: Grid discussion
+- tags: frustration, process · standing: yes
+
+### E0347 · Not to just agree
+- quote: "please please please dont just agree i need actual help on this"
+- source: 2026-04-20--redesigning-core-frame-grid-system--f8b090e5 · 0022 (archive-2.md)
+- date: 2026-04-20
+- context: Core frame grid values
+- tags: process, frustration · standing: yes
+
+### E0348 · Eager to agree vs fact based heuristics
+- quote: "you are just so \"eager to agree\" that when i try to respond to you with something like this you end up going off into some other land with your problem solving isntead of giving fact based heuristics and strategies so idkw hat the fuck to do."
+- source: 2026-04-20--redesigning-core-frame-grid-system--f8b090e5 · 0060 (archive-2.md)
+- date: 2026-04-20
+- context: Grid used for layout decisions
+- tags: frustration, process · standing: yes
+
+### E0349 · Wants a straightforward solution, ask what other dashboards do
+- quote: "ok but what the fuck do other dashboard based systems do? i feel like youre not in the right headspace so im not even going to read what you just laid out. it feels like there shoul be a much more straifht forward solution to my issue you are not solving"
+- source: 2026-04-20--redesigning-core-frame-grid-system--f8b090e5 · 0058 (archive-2.md)
+- date: 2026-04-20
+- context: Grid system explanation too complex
+- tags: frustration, process · standing: yes
+
+### E0350 · Do not make him design extra breakpoints
+- quote: "youre still asking me to design 3 separate breakpoints for desktop here......?"
+- source: 2026-04-20--redesigning-core-frame-grid-system--f8b090e5 · 0072 (archive-2.md)
+- date: 2026-04-20
+- context: Handoff to dev for responsive margins
+- tags: responsive, process, product · standing: yes
+
+### E0351 · Margin tiers and a logic pattern
+- quote: "i like the way u put that can u give me a specific logic pattern i should follow when deciding between 40, 80 or 120?"
+- source: 2026-04-20--redesigning-core-frame-grid-system--f8b090e5 · 0132 (archive-2.md)
+- date: 2026-04-20
+- context: Margin choice rules
+- tags: product, style · standing: one-off
+
+### E0352 · Wrap vs truncate at smaller sizes
+- quote: "it needs to wrap on these smaller cards? because i have to make the cards different at a smaller viewport to work"
+- source: 2026-04-20--redesigning-core-frame-grid-system--f8b090e5 · 0154 (archive-2.md)
+- date: 2026-04-20
+- context: Truncated job title on cards at smaller viewport
+- tags: responsive, product · standing: one-off
+
+### E0353 · Documentation for dev must be lean, not repetitive
+- quote: "it feels like it would just be way easier for him to look at the design frame itself then read all this repetitive bullshit?"
+- source: 2026-04-20--redesigning-core-frame-grid-system--f8b090e5 · 0128 (archive-2.md)
+- date: 2026-04-20
+- context: Spectral design documentation output for dev
+- tags: process, copy, delivery · standing: yes
+
+### E0354 · Wants copyable output and picture version
+- quote: "can u just make soemthign here i can copy"
+- source: 2026-04-20--redesigning-core-frame-grid-system--f8b090e5 · 0146 (archive-2.md)
+- date: 2026-04-20
+- context: After a bad output of design system documentation page
+- tags: delivery · standing: one-off
+
+### E0355 · Picture version
+- quote: "can u make like a picture version of this?"
+- source: 2026-04-20--redesigning-core-frame-grid-system--f8b090e5 · 0148 (archive-2.md)
+- date: 2026-04-20
+- context: Documentation text output
+- tags: delivery · standing: one-off
+
+### E0356 · Design system page: separate rules for core frame vs non core frame
+- quote: "i want to make sure i lay out -rules for frames with core frame/sidebar and rules for none core frame/sidebar frames together and separate them clearly."
+- source: 2026-04-20--redesigning-core-frame-grid-system--f8b090e5 · 0082 (archive-2.md)
+- date: 2026-04-20
+- context: Layout of design system documentation page
+- tags: process, style · standing: one-off
+
+### E0357 · Documentation: white text, consistent sizes
+- quote: "the format can change slightly as long as its still white text and the text sizing is somewhat consistent with what i have now."
+- source: 2026-04-20--redesigning-core-frame-grid-system--f8b090e5 · 0106 (archive-2.md)
+- date: 2026-04-20
+- context: Figma Make prompt for design system documentation page
+- tags: style, delivery · standing: one-off
+
+### E0358 · Output quality complaint
+- quote: "girl what is this output"
+- source: 2026-04-20--redesigning-core-frame-grid-system--f8b090e5 · 0144 (archive-2.md)
+- date: 2026-04-20
+- context: Figma Make design system documentation page result
+- tags: frustration, delivery · standing: one-off
+
+### E0359 · Full page design in an artifact
+- quote: "can you do these in a full page design tho in artifact?"
+- source: 2026-04-22--action-items-page-design--f3f4c69b · 0006 (archive-2.md)
+- date: 2026-04-22
+- context: Action item detail page options, Claude had shown smaller pieces
+- tags: delivery, review-board · standing: yes
+
+### E0360 · Separate results in separate tabs
+- quote: "lastly, produce 3-5 separate results in separate tabs like we usually do."
+- source: 2026-04-22--action-items-page-design--f3f4c69b · 0012 (archive-2.md)
+- date: 2026-04-22
+- context: Action item page design directions
+- tags: review-board, decision-board, delivery · standing: yes
+
+### E0361 · Prototype must work as shown
+- quote: "B seems closer but i dont understand how i works really because the prototype doesnt work. it says \"highlight text and ai actions appear above it\" but i just see a prehighlighted section and actions way below it?"
+- source: 2026-04-22--action-items-page-design--f3f4c69b · 0014 (archive-2.md)
+- date: 2026-04-22
+- context: Tabbed AI integration prototypes for action item page
+- tags: interaction, frustration, review-board · standing: yes
+
+### E0362 · Options must be genuinely different, not preset-looking
+- quote: "the way you designed this doesnt seem like ai it just seems like soemthing tat could be preset."
+- source: 2026-04-22--action-items-page-design--f3f4c69b · 0014 (archive-2.md)
+- date: 2026-04-22
+- context: Direction A of AI integration
+- tags: review-board, frustration, product · standing: one-off
+
+### E0363 · Do research for product design confidence
+- quote: "this needs to feel right and make sense for the user from a product design perpective as well so do some research on that too i need to feel confident out solution is solid."
+- source: 2026-04-22--action-items-page-design--f3f4c69b · 0014 (archive-2.md)
+- date: 2026-04-22
+- context: Contextual vs conversational AI on action item page
+- tags: process · standing: yes
+
+### E0364 · Do not quiz him; make something tangible
+- quote: "i stopped your little quiz thing because it felt liek you were asking me how to do it when i am essentially asking you to do that part for me in the context of creating soemthing more tangible for me to see before making those kind of decisions."
+- source: 2026-04-22--action-items-page-design--f3f4c69b · 0024 (archive-2.md)
+- date: 2026-04-22
+- context: Claude's clarifying question widget before designing
+- tags: process, frustration, review-board · standing: yes
+
+### E0365 · Exploration means ideas, not asking what to design
+- quote: "tell me exactly what to design\" and we are exploring ideas here so i dont know why you would ask me that."
+- source: 2026-04-22--action-items-page-design--f3f4c69b · 0024 (archive-2.md)
+- date: 2026-04-22
+- context: Claude's question widget
+- tags: process, frustration · standing: yes
+
+### E0366 · Do not lose earlier context or creativity
+- quote: "you also lost the rest of the context for this page and the creativity you showed in yuor outputs before we got into the nitty gritty."
+- source: 2026-04-22--action-items-page-design--f3f4c69b · 0026 (archive-2.md)
+- date: 2026-04-22
+- context: Revised action item page directions
+- tags: frustration, process · standing: yes
+
+### E0367 · Every button moment gets a custom input
+- quote: "all moments with buttons should also have a custom input spot i think. like how on 01 u have multiple sections with chips underneath there should be a custom option as well"
+- source: 2026-04-22--action-items-page-design--f3f4c69b · 0026 (archive-2.md)
+- date: 2026-04-22
+- context: AI chips on action item page
+- tags: interaction, product · standing: one-off
+
+### E0368 · Do not combine directions into one
+- quote: "wit one direction? i dont think this all makes sense togehter. youre supposed to take what im saying and come up with ideas..."
+- source: 2026-04-22--action-items-page-design--f3f4c69b · 0028 (archive-2.md)
+- date: 2026-04-22
+- context: Claude merged directions
+- tags: review-board, frustration · standing: one-off
+
+### E0369 · Confusing labels rejected
+- quote: "i dont understand the \"lens applied\" sections and the regenerate and dismiss parts that is very confusing"
+- source: 2026-04-22--action-items-page-design--f3f4c69b · 0030 (archive-2.md)
+- date: 2026-04-22
+- context: Action item page prototype labels
+- tags: copy, frustration · standing: yes
+
+### E0370 · Do not label the input "ask"
+- quote: "the \"ask box\" which i dont think should be labeled as ask because that sounds conversational"
+- source: 2026-04-22--action-items-page-design--f3f4c69b · 0032 (archive-2.md)
+- date: 2026-04-22
+- context: Contextual AI input on action item page
+- tags: copy, product · standing: one-off
+
+### E0371 · Create the ideas to see them in action
+- quote: "please create all of these ideas so i can see them in action"
+- source: 2026-04-22--action-items-page-design--f3f4c69b · 0036 (archive-2.md)
+- date: 2026-04-22
+- context: After discussing interaction ideas
+- tags: review-board, delivery, interaction · standing: yes
+
+### E0372 · Replace without original or undo causes friction
+- quote: "I could see this causing friction if the user is not able to view the original version, undo, etc."
+- source: 2026-04-22--action-items-page-design--f3f4c69b · 0020 (archive-2.md)
+- date: 2026-04-22
+- context: AI replacing content on action item page
+- tags: interaction, product · standing: yes
+
+### E0373 · Search project before asking
+- quote: "wait why do u keep failing to search project wtf"
+- source: 2026-04-22--progress-bar-design-for-linear-focus-areas--ebd54950 · 0002 (archive-2.md)
+- date: 2026-04-22
+- context: Progress rail for focus areas
+- tags: frustration, process · standing: yes
+
+### E0374 · Wants help problem solving, not just designing
+- quote: "im literally asking u to help em problem solve not just to design soemthing for me i can dot hat my self"
+- source: 2026-04-22--progress-bar-design-for-linear-focus-areas--ebd54950 · 0006 (archive-2.md)
+- date: 2026-04-22
+- context: Answer to a clarifying question
+- tags: process, frustration · standing: yes
+
+### E0375 · Three separate ideas as artifacts on the right
+- quote: "i want 3 separate ideas in your output in artifacts on the right side of the screen"
+- source: 2026-04-22--progress-bar-design-for-linear-focus-areas--ebd54950 · 0000 (archive-2.md)
+- date: 2026-04-22
+- context: Progress rail on Pathway page
+- tags: review-board, delivery · standing: yes
+
+### E0376 · Progress rail should not be mistaken for scrollbar
+- quote: "the only concern i have is there being confusion or friction and the uesr mistaking it for a scroll bar. do u think the sticky pattern you used gets rid of this or do you think it could be a problem? make sure to look up and reference ux and product design research, heuristic and values to determine your advice"
+- source: 2026-04-22--progress-bar-design-for-linear-focus-areas--ebd54950 · 0014 (archive-2.md)
+- date: 2026-04-24
+- context: Pathway page sticky progress trail
+- tags: navigation, process, product · standing: yes
+
+### E0377 · Shadows: look at the image he sent
+- quote: "wait imagining? why are you imagining anything? i sent the fucking image"
+- source: 2026-04-22--progress-bar-design-for-linear-focus-areas--ebd54950 · 0026 (archive-2.md)
+- date: 2026-04-24
+- context: Shadow tuning on dark UI
+- tags: frustration, process, style · standing: yes
+
+### E0378 · Dark UI shadows still visible
+- quote: "i really love how i can cast a shadow on a black background with the colors i used adding a bit of depth while still being dark but i am not sure of how i can get the settings to look the most natural"
+- source: 2026-04-22--progress-bar-design-for-linear-focus-areas--ebd54950 · 0020 (archive-2.md)
+- date: 2026-04-24
+- context: Shadows on metrics box, sidebar and action items frame (dark theme)
+- tags: style, product · standing: yes
+
+### E0379 · Exact replication accuracy
+- quote: "okay i asked that specifically because typically you dont do shit like that and i need this to be as accurate as possible"
+- source: 2026-04-22--progress-bar-design-for-linear-focus-areas--ebd54950 · 0036 (archive-2.md)
+- date: 2026-04-24
+- context: Replicating a Figma frame as a working component via MCP link
+- tags: process, delivery · standing: yes
+
+### E0380 · Do not claim MCP limit without checking
+- quote: "you always say this but i check and its bullshit i have a ton of tokens left on the figma mcp side"
+- source: 2026-04-22--progress-bar-design-for-linear-focus-areas--ebd54950 · 0040 (archive-2.md)
+- date: 2026-04-24
+- context: Claude said Figma MCP limit reached
+- tags: frustration, process · standing: yes
+
+### E0381 · Clarity that top items are the current ones
+- quote: "We need to add clarity to two things 1. add clarity about the top action items being the current ones. 2. show where new focus areas begin in the list itself as well"
+- source: 2026-04-22--progress-bar-design-for-linear-focus-areas--ebd54950 · 0050 (archive-2.md)
+- date: 2026-04-27
+- context: Pathway page list orientation
+- tags: navigation, product · standing: one-off
+
+### E0382 · Compress screen recording, avoid paid tools
+- quote: "upload to loom is only avail through subscribed users"
+- source: 2026-04-23--compressing-screen-recordings-with-handbrake--0abc8776 · 0006 (archive-2.md)
+- date: 2026-04-23
+- context: Sharing a screen recording with the CEO
+- tags: delivery, frustration · standing: one-off
+
+### E0383 · Claude should know the brand
+- quote: "ok why do u keep ignoring my comments about u supposed to kno the branding"
+- source: 2026-04-23--refining-onboarding-transition-design--a52374da · 0026 (archive-2.md)
+- date: 2026-04-24
+- context: Onboarding loading transition in HTML
+- tags: style, frustration · standing: yes
+
+### E0384 · Use what Claude knows to be true to Mondai
+- quote: "i mean use what u kno to be true to mondai. tho its not that noticeably different tbh"
+- source: 2026-04-23--refining-onboarding-transition-design--a52374da · 0006 (archive-2.md)
+- date: 2026-04-23
+- context: Green hex mismatch in an HTML prototype
+- tags: style, process · standing: yes
+
+### E0385 · Three tabbed ideas
+- quote: "wait sorry can u give me 3 tabbed ideas"
+- source: 2026-04-23--refining-onboarding-transition-design--a52374da · 0010 (archive-2.md)
+- date: 2026-04-23
+- context: Onboarding transition concepts
+- tags: review-board, delivery · standing: yes
+
+### E0386 · Tabs as usual
+- quote: "give 3 different versions in your next output and put them in tabs as usual"
+- source: 2026-04-23--refining-onboarding-transition-design--a52374da · 0038 (archive-2.md)
+- date: 2026-04-24
+- context: Onboarding transition versions
+- tags: review-board, delivery · standing: yes
+
+### E0387 · Be extremely creative, use all capabilities
+- quote: "use all your capabilities java etc i am expecting a great result for these."
+- source: 2026-04-23--refining-onboarding-transition-design--a52374da · 0040 (archive-2.md)
+- date: 2026-04-24
+- context: Onboarding transition HTML prototypes
+- tags: style, process · standing: yes
+
+### E0388 · Creativity protocol and not scared of trying
+- quote: "you know the style of mondai so idk why u keep getting scared of just trying stuff... have u switched to creative mode 3 yet?"
+- source: 2026-04-23--refining-onboarding-transition-design--a52374da · 0018 (archive-2.md)
+- date: 2026-04-24
+- context: Timid outputs
+- tags: style, frustration · standing: yes
+
+### E0389 · One output per generation until understood
+- quote: "lets focus on one output per generation for now until u have a bettergrasp on the concept."
+- source: 2026-04-23--refining-onboarding-transition-design--a52374da · 0016 (archive-2.md)
+- date: 2026-04-24
+- context: Onboarding transition iterations
+- tags: process, review-board · standing: one-off
+
+### E0390 · Output awful, ignored brief
+- quote: "ok idk what ur doing here lol.. this is awful."
+- source: 2026-04-23--refining-onboarding-transition-design--a52374da · 0014 (archive-2.md)
+- date: 2026-04-24
+- context: First onboarding transition tabs
+- tags: frustration · standing: one-off
+
+### E0391 · No numbers, no tags, only the text
+- quote: "the only text should be these things no tags, no unmbers, nothing."
+- source: 2026-04-23--refining-onboarding-transition-design--a52374da · 0016 (archive-2.md)
+- date: 2026-04-24
+- context: Onboarding loading transition text
+- tags: copy, style · standing: one-off
+
+### E0392 · Font files and brand font
+- quote: "also ive said this so many fucking times bro but IT SHOULD BE IBM PLEX SANS MONO I LITERALLY SENT U THE FONT FILES."
+- source: 2026-04-23--refining-onboarding-transition-design--a52374da · 0044 (archive-2.md)
+- date: 2026-04-24
+- context: Halftone build animation
+- tags: style, frustration · standing: yes
+
+### E0393 · Font mismatch on part of page
+- quote: "why does the profile complete text at the end look like its the correct font but the main font still is not?"
+- source: 2026-04-23--refining-onboarding-transition-design--a52374da · 0048 (archive-2.md)
+- date: 2026-04-25
+- context: Onboarding transition prototype
+- tags: style, frustration · standing: yes
+
+### E0394 · Animation should be clean and load top to bottom
+- quote: "3 the halftone build could be cool if the animation was cleaned up cuz it looks a bit messy and it instead loaded in from top to bottom."
+- source: 2026-04-23--refining-onboarding-transition-design--a52374da · 0044 (archive-2.md)
+- date: 2026-04-24
+- context: Halftone circle build
+- tags: interaction, style · standing: one-off
+
+### E0395 · Digital darker translucent look
+- quote: "no... DARKER. like the outline could be bright but the fill maybe darker so it feels a litle translucent like u kno??? DIGITAL VIBES"
+- source: 2026-04-23--refining-onboarding-transition-design--a52374da · 0032 (archive-2.md)
+- date: 2026-04-24
+- context: Loading circle fill colour
+- tags: style · standing: one-off
+
+### E0396 · Do not rip off references
+- quote: "yeah totally just dont make it feel like a matrix rip off."
+- source: 2026-04-23--refining-onboarding-transition-design--a52374da · 0038 (archive-2.md)
+- date: 2026-04-24
+- context: References for onboarding transition
+- tags: style · standing: one-off
+
+### E0397 · Reads brief; does not repeat
+- quote: "It doesn't fit the brief in terms of what I was trying to accomplish. I told you what I am trying to do here."
+- source: 2026-04-23--refining-onboarding-transition-design--a52374da · 0034 (archive-2.md)
+- date: 2026-04-24
+- context: Onboarding transition
+- tags: frustration, process · standing: yes
+
+### E0398 · This isnt working for me
+- quote: "this isnt working for me"
+- source: 2026-04-23--refining-onboarding-transition-design--a52374da · 0042 (archive-2.md)
+- date: 2026-04-24
+- context: Screenshot of a broken artifact
+- tags: frustration · standing: one-off
+
+### E0399 · Working artifact on the right side
+- quote: "Please create an artifact on the right that shows the working version of the filter/sort option"
+- source: 2026-04-25--organizing-filter-and-sort-options-for-ux--4d0dba16 · 0000 (archive-2.md)
+- date: 2026-04-25
+- context: Resource page filter and sort
+- tags: delivery, editor, interaction · standing: yes
+
+### E0400 · Asked for artifact, reminded
+- quote: "i specifically asked for this as an artifact on the right side"
+- source: 2026-04-25--organizing-filter-and-sort-options-for-ux--4d0dba16 · 0002 (archive-2.md)
+- date: 2026-04-25
+- context: Claude gave text instead of the artifact
+- tags: delivery, frustration · standing: yes
+
+### E0401 · Deep dive and best practices
+- quote: "need you to deep dive into the best way for me to organize the filter/sort options on this page based on UX/Product design best practices and heuristics. Do ur due diligence in searching for this solution."
+- source: 2026-04-25--organizing-filter-and-sort-options-for-ux--4d0dba16 · 0000 (archive-2.md)
+- date: 2026-04-25
+- context: Resource page filter and sort
+- tags: process, product · standing: yes
+
+### E0402 · Do not add rows of controls
+- quote: "do we really need that additional fitlering by row? doesnt the pathway drop down that has cognition in it say enough? couldnt we just add \"filter\" to the left of that and save the random row? this just seems like overkill."
+- source: 2026-04-25--organizing-filter-and-sort-options-for-ux--4d0dba16 · 0004 (archive-2.md)
+- date: 2026-04-25
+- context: Filter row on resources page
+- tags: product, shell · standing: yes
+
+### E0403 · Card grid adjusts to sidebar state and viewport
+- quote: "Obviously they need to adjust for 1. sidebar expand/collapse statues and then per viewport."
+- source: 2026-04-25--organizing-filter-and-sort-options-for-ux--4d0dba16 · 0008 (archive-2.md)
+- date: 2026-04-26
+- context: Max/min and fill patterns for resource cards
+- tags: responsive, shell, product · standing: yes
+
+### E0404 · Options, five card options in tabs
+- quote: "can you design me 5 card options in total in separate tabs for me to look at as options?"
+- source: 2026-04-25--organizing-filter-and-sort-options-for-ux--4d0dba16 · 0054 (archive-2.md)
+- date: 2026-04-26
+- context: Resource card design
+- tags: review-board, delivery · standing: yes
+
+### E0405 · Options must be user friendly
+- quote: "just make some options and make sure theyre user friendly please thanks"
+- source: 2026-04-25--organizing-filter-and-sort-options-for-ux--4d0dba16 · 0066 (archive-2.md)
+- date: 2026-04-26
+- context: External link affordance on cards
+- tags: review-board, process · standing: yes
+
+### E0406 · Hover only affordance not clear enough
+- quote: "i dont think any of these are clear enough for one, ti doesnt appear until hover? yu need to check produxr esign heuristics and practices online for this. also the icon is sooooo SMALL"
+- source: 2026-04-25--organizing-filter-and-sort-options-for-ux--4d0dba16 · 0062 (archive-2.md)
+- date: 2026-04-26
+- context: Card external-link indicator
+- tags: interaction, process, style · standing: yes
+
+### E0407 · Icons at least 16px
+- quote: "why are your icons so small? they shouldnt be smaller than 16 x 16 MINIMUM"
+- source: 2026-04-25--organizing-filter-and-sort-options-for-ux--4d0dba16 · 0068 (archive-2.md)
+- date: 2026-04-26
+- context: Card icons in prototype
+- tags: style, interaction · standing: yes
+
+### E0408 · Rethink instead of piling on
+- quote: "these cards are looking unorganized and sloppy stop just adding it to what already exists you need to rethink the card designs with the new info"
+- source: 2026-04-25--organizing-filter-and-sort-options-for-ux--4d0dba16 · 0074 (archive-2.md)
+- date: 2026-04-26
+- context: Card iterations
+- tags: frustration, process, style · standing: yes
+
+### E0409 · Creativity in action, sexy brutalist influence
+- quote: "honestly im just looking for ideas. so i want creativity in action here. incorporate brutalism where appropriate but the sexy \"brutalist influence\" rather than a full on brutalist motif."
+- source: 2026-04-25--organizing-filter-and-sort-options-for-ux--4d0dba16 · 0078 (archive-2.md)
+- date: 2026-04-26
+- context: Resource card options
+- tags: style · standing: one-off
+
+### E0410 · Hierarchy of icons buttons wrong
+- quote: "the icon with the square and the jump icon being in a button like that makes one believe it should behave like the button to its left (save) so its weird that it is in the position it is too considering the action is for the entire card. the hierarchy therefor is incorrect as well."
+- source: 2026-04-25--organizing-filter-and-sort-options-for-ux--4d0dba16 · 0080 (archive-2.md)
+- date: 2026-04-27
+- context: Resource card actions
+- tags: interaction, product · standing: one-off
+
+### E0411 · Text size too small
+- quote: "what text sizes are you using here? they look great but i feel like the text size is pretty small?"
+- source: 2026-04-25--organizing-filter-and-sort-options-for-ux--4d0dba16 · 0083 (archive-2.md)
+- date: 2026-04-27
+- context: Card prototype
+- tags: style · standing: yes
+
+### E0412 · Gradient plus brand distortion
+- quote: "i love these backgrounds or at least the idea of a gradient that matches the color for the category but i think these need to feel more brand with some kind of distortion. any ideas?"
+- source: 2026-04-25--organizing-filter-and-sort-options-for-ux--4d0dba16 · 0087 (archive-2.md)
+- date: 2026-04-27
+- context: Card image backgrounds
+- tags: style · standing: one-off
+
+### E0413 · Give exact settings and hexes
+- quote: "cant u just give me the exact settings and hexs from urs? this looks nothing like what u did"
+- source: 2026-04-25--organizing-filter-and-sort-options-for-ux--4d0dba16 · 0095 (archive-2.md)
+- date: 2026-04-27
+- context: Recreating the damaged signal gradient in Figma
+- tags: delivery, editor, frustration · standing: yes
+
+### E0414 · Wants Figma Make to replicate
+- quote: "see this si why i asked about figma make earlier beacuse u should be able to replicate this eact thing in figma make if i can do it in figma itself"
+- source: 2026-04-25--organizing-filter-and-sort-options-for-ux--4d0dba16 · 0137 (archive-2.md)
+- date: 2026-04-27
+- context: Damaged signal effect
+- tags: delivery, frustration · standing: one-off
+
+### E0415 · Instructions that did not match
+- quote: "ugh can we start over? i really want to create this effect but you are not being helpful at all"
+- source: 2026-04-25--organizing-filter-and-sort-options-for-ux--4d0dba16 · 0129 (archive-2.md)
+- date: 2026-04-27
+- context: Figma instructions for the gradient grid effect
+- tags: frustration · standing: one-off
+
+### E0416 · Notion tasks: only what matters, simple copy-paste
+- quote: "i dont have time to make 2000000000 tasks so thats what they are going to get lmao."
+- source: 2026-04-27--converting-progress-list-to-notion-task-format--6588ec3a · 0000 (archive-2.md)
+- date: 2026-04-27
+- context: Converting progress list to Notion tasks
+- tags: process · standing: one-off
+
+### E0417 · Need the actual content, not helper lists
+- quote: "no that copy button thing made absolutely no sense like why would i need a list of task titles i can copy? I NEED THE CONTENT FOR THE PAGES"
+- source: 2026-04-27--converting-progress-list-to-notion-task-format--6588ec3a · 0018 (archive-2.md)
+- date: 2026-04-27
+- context: Claude's copy-button artifact for Notion tasks
+- tags: delivery, frustration · standing: yes
+
+### E0418 · Importable files
+- quote: "9 separate .md files I can import to Notion as pages"
+- source: 2026-04-27--converting-progress-list-to-notion-task-format--6588ec3a · 0010 (archive-2.md)
+- date: 2026-04-27
+- context: Choice for how to receive the Notion tasks
+- tags: delivery · standing: one-off
+
+### E0419 · Format mismatch should be checked against what he showed
+- quote: "no omg i literally just said that the format used in the screenshots is incorrect are you kidding me"
+- source: 2026-04-27--converting-progress-list-to-notion-task-format--6588ec3a · 0014 (archive-2.md)
+- date: 2026-04-27
+- context: Notion page format
+- tags: frustration, delivery · standing: one-off
+
+### E0420 · Claude should use the Figma MCP, not claim it cannot
+- quote: "...... girl the mcp im saying"
+- source: 2026-04-27--figma-design-system-access--b3fa5d36 · 0002 (archive-2.md)
+- date: 2026-04-27
+- context: Reading a Figma link
+- tags: frustration, delivery · standing: yes
+
+### E0421 · Dev handoff: lean, not over-detailed
+- quote: "they have access to my figma components some fo this info is too detailed"
+- source: 2026-04-27--figma-design-system-access--b3fa5d36 · 0016 (archive-2.md)
+- date: 2026-04-27
+- context: Dev handoff doc for resource cards
+- tags: delivery, copy, process · standing: yes
+
+### E0422 · Dev doc: no unnecessary code, no hand holding
+- quote: "what i need is a document to give directly to dev with dev instructions. i am the designer they are dev so the instructions should make sense not include a lot of unnecessary code and hand holding them but also making sure to focus on everything necessary"
+- source: 2026-04-27--figma-design-system-access--b3fa5d36 · 0026 (archive-2.md)
+- date: 2026-04-27
+- context: Dev handoff for resource page
+- tags: delivery, copy · standing: yes
+
+### E0423 · Research and sources for advice
+- quote: "anything i asked for aedvice or was unsure about here needs to be researched and u need to provide sources and rational on your decisions to me"
+- source: 2026-04-27--figma-design-system-access--b3fa5d36 · 0028 (archive-2.md)
+- date: 2026-04-27
+- context: Dev handoff questions
+- tags: process · standing: yes
+
+### E0424 · Not mobile first
+- quote: "this is absolutely not a mobile first product not sure where in the fuck you got that idea when this is literally inside the mondai product and this design is for mondai why are you seriously asking me this?"
+- source: 2026-04-27--figma-design-system-access--b3fa5d36 · 0028 (archive-2.md)
+- date: 2026-04-27
+- context: Claude asked about mobile first
+- tags: responsive, product, frustration · standing: yes
+
+### E0425 · Wants a document he can copy into Figma
+- quote: "can you liek create a document or something? i cant really copy and paste this anywhere into figma"
+- source: 2026-04-27--figma-design-system-access--b3fa5d36 · 0032 (archive-2.md)
+- date: 2026-04-27
+- context: Dev doc in chat
+- tags: delivery · standing: yes
+
+### E0426 · Card info matters across breakpoints
+- quote: "remember card info is important here that is a big part of this so like we talked about before with responsiveness breakpoints etc"
+- source: 2026-04-27--figma-design-system-access--b3fa5d36 · 0030 (archive-2.md)
+- date: 2026-04-27
+- context: Resource card layout
+- tags: responsive, product · standing: one-off
+
+### E0427 · Set max width so section does not expand
+- quote: "we also need to set a max width for this section too right? like for all this so it doesnt expand after a certain viewport size?"
+- source: 2026-04-27--figma-design-system-access--b3fa5d36 · 0046 (archive-2.md)
+- date: 2026-04-27
+- context: Resource card grid
+- tags: responsive, shell · standing: yes
+
+### E0428 · Constrain AI-generated content lengths
+- quote: "part of this is needing to set constraints because the ai will be doing some of this generation whne the product is running"
+- source: 2026-04-27--figma-design-system-access--b3fa5d36 · 0038 (archive-2.md)
+- date: 2026-04-27
+- context: Card description length
+- tags: copy, product · standing: one-off
+
+### E0429 · Cards in a row should match heights
+- quote: "right but it would look weird as fuck if the card on the left is shorter height wise than the one to it's right wouldnt it?"
+- source: 2026-04-27--figma-design-system-access--b3fa5d36 · 0020 (archive-2.md)
+- date: 2026-04-27
+- context: Hug height card rows
+- tags: responsive, style, product · standing: yes
+
+### E0430 · Lost confidence because he keeps pointing things out
+- quote: "ok see i am not confident at all at this point that any of your instructions are good since i keep having to point stuff like this out"
+- source: 2026-04-27--figma-design-system-access--b3fa5d36 · 0024 (archive-2.md)
+- date: 2026-04-27
+- context: Dev instructions for card sizing
+- tags: frustration, process · standing: yes
+
+### E0431 · Text overlapping dividers in card
+- quote: "the bottom of the text on the main section of the tool card is literally overlapping into the divider line instead of maintaining consistent spacing?????"
+- source: 2026-04-27--figma-design-system-access--b3fa5d36 · 0050 (archive-2.md)
+- date: 2026-04-27
+- context: Tool card at narrow width
+- tags: responsive, frustration, product · standing: yes
+
+### E0432 · Card refinement only, not major change
+- quote: "i am not proposing you suggest major change just lookign for refinement here on these cards."
+- source: 2026-04-28--refining-card-design-and-interactions--46ecb816 · 0000 (archive-2.md)
+- date: 2026-04-28
+- context: Growth Journey pathway cards
+- tags: process, style · standing: one-off
+
+### E0433 · Hover on cards: wonders if flat
+- quote: "the card interaction here is something to think about. ... the card should still have some kind of hover interaction, if they would feel too flat or break any product design rules"
+- source: 2026-04-28--refining-card-design-and-interactions--46ecb816 · 0000 (archive-2.md)
+- date: 2026-04-28
+- context: Pathway cards with a view pathway button
+- tags: interaction, product · standing: one-off
+
+### E0434 · Push to the artifact view on the right to iterate
+- quote: "lets actualyl push this to the artifact view on the right side of the screen so we can iterate."
+- source: 2026-04-28--refining-card-design-and-interactions--46ecb816 · 0016 (archive-2.md)
+- date: 2026-04-28
+- context: Journey page metric variations
+- tags: delivery, review-board · standing: yes
+
+### E0435 · Each tab a full-page variation
+- quote: "u should be putting the entire page design in here with the metric sections modified in each output to reflect a different approach"
+- source: 2026-04-28--refining-card-design-and-interactions--46ecb816 · 0020 (archive-2.md)
+- date: 2026-04-28
+- context: Tabbed artifact variants
+- tags: review-board, delivery, frustration · standing: yes
+
+### E0436 · Three separate tabs, each a variation
+- quote: "can we just do three separate tabs? each tab with a different variation of these that you just showed and thne the ask part about the cards i said which u seemed to completely ignore?"
+- source: 2026-04-28--refining-card-design-and-interactions--46ecb816 · 0018 (archive-2.md)
+- date: 2026-04-28
+- context: Journey page metric variants
+- tags: review-board, delivery, frustration · standing: yes
+
+### E0437 · Do not ignore parts of the ask
+- quote: "OK STOP. wha tis the issue here why do you keep ignoring the fucking pathway level target/pace metric shit i keep saying."
+- source: 2026-04-28--refining-card-design-and-interactions--46ecb816 · 0020 (archive-2.md)
+- date: 2026-04-28
+- context: Tabs of metric variations
+- tags: frustration, process · standing: yes
+
+### E0438 · Match the style of his screenshot
+- quote: "can u please look at my creenshot again and amke sure the style matches a lot more closely cuz ur current output style is absolutely looking noting like my screenshot style"
+- source: 2026-04-28--refining-card-design-and-interactions--46ecb816 · 0034 (archive-2.md)
+- date: 2026-04-28
+- context: Prototype metric boxes versus his screenshot
+- tags: style, frustration · standing: yes
+
+### E0439 · Design new element alongside existing ones
+- quote: "u also need to design it in tandom with the other metrics like put it alongside it so we can figure out how the spacing and everything works together."
+- source: 2026-04-28--refining-card-design-and-interactions--46ecb816 · 0034 (archive-2.md)
+- date: 2026-04-28
+- context: Momentum metric on Journey page
+- tags: review-board, process · standing: yes
+
+### E0440 · Space for a layout was set for three items
+- quote: "the problem is just that the space those metric boxes filled up was perfectly set up for 3 before if i get rid of the third look lol"
+- source: 2026-04-28--refining-card-design-and-interactions--46ecb816 · 0024 (archive-2.md)
+- date: 2026-04-28
+- context: Metric box row
+- tags: product, style · standing: one-off
+
+### E0441 · Info icon to explain
+- quote: "i can always add the i with the circle icon to explain to users what it is"
+- source: 2026-04-28--refining-card-design-and-interactions--46ecb816 · 0032 (archive-2.md)
+- date: 2026-04-28
+- context: Momentum metric explanation
+- tags: product, interaction · standing: one-off
+
+### E0442 · Do not show him flags he did not ask for
+- quote: "ALRIGHT not reading any of the flagging rn because thats not what im here for."
+- source: 2026-04-28--understanding-the-action-hub-page--8a6cbc5a · 0004 (archive-2.md)
+- date: 2026-04-28
+- context: Action hub variations discussion
+- tags: frustration, process · standing: yes
+
+### E0443 · Tab per item to work on many things at once
+- quote: "i'm wondering if we can do that tab thing we normally do but maybe separate each of these into a different tab that way we can kind of work on all of themt ogether or at tte same time"
+- source: 2026-04-28--understanding-the-action-hub-page--8a6cbc5a · 0006 (archive-2.md)
+- date: 2026-04-28
+- context: Action hub list of variations and additions
+- tags: review-board, delivery · standing: yes
+
+### E0444 · Concern about quality of full flows per tab
+- quote: "are you going to be able to do entire flows ina. tab like that without loosing quality beacuse we have so many different tabs and stuff?"
+- source: 2026-04-28--understanding-the-action-hub-page--8a6cbc5a · 0020 (archive-2.md)
+- date: 2026-04-28
+- context: Many action hub states in one tabbed artifact
+- tags: review-board, process · standing: yes
+
+### E0445 · Desktop first, no mobile for MVP
+- quote: "so mobile isnt even likely happening for the mvp at this stage this is entirely desktop first at this point."
+- source: 2026-04-28--understanding-the-action-hub-page--8a6cbc5a · 0026 (archive-2.md)
+- date: 2026-04-28
+- context: Action hub Sunday flow and responsiveness
+- tags: responsive, product · standing: yes
+
+### E0446 · Same location feel across states
+- quote: "something tells me it should feel like "the same location""
+- source: 2026-04-28--understanding-the-action-hub-page--8a6cbc5a · 0026 (archive-2.md)
+- date: 2026-04-28
+- context: Matching the action hub for new states
+- tags: navigation, product · standing: one-off
+
+### E0447 · Add to existing page, not a new screen
+- quote: "i dont think this needs to feel like a different screen so much. i think in the same way that you did a simple addition to the top for 4 is a better direction."
+- source: 2026-04-28--understanding-the-action-hub-page--8a6cbc5a · 0034 (archive-2.md)
+- date: 2026-04-28
+- context: Get ahead and calendar states on Action hub
+- tags: product, shell · standing: one-off
+
+### E0448 · Try both suggestions in the next output
+- quote: "why dont you try both versions of your suggestions in the next output. you dont need to keep doing the other 3 things we were working on now since we have those solved."
+- source: 2026-04-28--understanding-the-action-hub-page--8a6cbc5a · 0036 (archive-2.md)
+- date: 2026-04-28
+- context: Action hub get ahead options
+- tags: review-board, process · standing: one-off
+
+### E0449 · Not doing what he asked
+- quote: "why are you not doing what i asked -_- nvm ill just fix it yself. lets move on what do we need to work on next"
+- source: 2026-04-28--understanding-the-action-hub-page--8a6cbc5a · 0042 (archive-2.md)
+- date: 2026-04-28
+- context: Get ahead card placement
+- tags: frustration · standing: one-off
+
+### E0450 · Memory loss reads as unhelpful
+- quote: "i dont understand your question and wonder if its necessary or a reflection that you are losing memory from the earlier discussions in the chat. you are supposed to be helping me solve problems."
+- source: 2026-04-28--understanding-the-action-hub-page--8a6cbc5a · 0044 (archive-2.md)
+- date: 2026-04-28
+- context: Claude asked a redundant question
+- tags: frustration, process · standing: yes
+
+### E0451 · Clean PDF or deck, not a lot of information at once
+- quote: "can u create me a clean pdf document or slideshow presentaiton to make all of this decision making extremely clean and clear to michael? like very clear. michael doesnt do well when bombarded with a ton of information at once."
+- source: 2026-04-28--understanding-the-action-hub-page--8a6cbc5a · 0068 (archive-2.md)
+- date: 2026-04-28
+- context: Presenting decisions to the CEO
+- tags: delivery, copy · standing: yes
+
+### E0452 · Accent colour must not compete with CTAs
+- quote: "If we use the magenta specifically for leftover action items it kind ofdraws the attention from any CTAs at that point"
+- source: 2026-04-28--understanding-the-action-hub-page--8a6cbc5a · 0076 (archive-2.md)
+- date: 2026-04-29
+- context: Leftover action items styling
+- tags: style, product · standing: one-off
+
+### E0453 · Persistent panel element feels like an eye sore
+- quote: "it's kind of an eye sore if it's just always kind of sitting there."
+- source: 2026-04-28--understanding-the-action-hub-page--8a6cbc5a · 0076 (archive-2.md)
+- date: 2026-04-29
+- context: Flex point element in right panel
+- tags: style, product · standing: one-off
+
+### E0454 · Output worse than before, layout not matching
+- quote: "what the hell is this? thats not even the layout of the action items? also wtf? there is litereally no indication to separate those as leftover tasks now aside from the line? im so underwelmed rn. i updated everything i dont know why your outputs are getting worse."
+- source: 2026-04-28--understanding-the-action-hub-page--8a6cbc5a · 0080 (archive-2.md)
+- date: 2026-04-29
+- context: Leftover action item variants
+- tags: frustration, style · standing: yes
+
+### E0455 · Soft colour use, not permeating
+- quote: "before it was just like permeating everything was my problem"
+- source: 2026-04-28--understanding-the-action-hub-page--8a6cbc5a · 0082 (archive-2.md)
+- date: 2026-04-29
+- context: Magenta usage
+- tags: style · standing: one-off
+
+### E0456 · Do not make things up
+- quote: "WOAH WAIT. no one said magenta was tied to flex state u made that up in ur head"
+- source: 2026-04-28--understanding-the-action-hub-page--8a6cbc5a · 0086 (archive-2.md)
+- date: 2026-04-29
+- context: Colour semantics
+- tags: frustration, process · standing: yes
+
+### E0457 · Same element placed in three spots
+- quote: "lol girl! you jsut put the button in 3 different places lmao what the  what is happening with you"
+- source: 2026-04-28--understanding-the-action-hub-page--8a6cbc5a · 0096 (archive-2.md)
+- date: 2026-04-29
+- context: Get ahead moment variations
+- tags: frustration, review-board · standing: one-off
+
+### E0458 · Reference UX and product patterns
+- quote: "well another part of the problem here is you seem to not be referencing ux/product design patterns at all which is very odd its like you're broken."
+- source: 2026-04-28--understanding-the-action-hub-page--8a6cbc5a · 0098 (archive-2.md)
+- date: 2026-04-29
+- context: Get ahead moment variations
+- tags: process, frustration · standing: yes
+
+### E0459 · Do not lose track of the page being worked on
+- quote: "journey level? what the fuck? we are talking bout the action hub what is going on? DO U NOT REMEMBER WHAT WE ARE WORKING ON??"
+- source: 2026-04-28--understanding-the-action-hub-page--8a6cbc5a · 0108 (archive-2.md)
+- date: 2026-04-30
+- context: Action hub week completion
+- tags: frustration, process · standing: yes
+
+### E0460 · Celebration moment must feel like one
+- quote: "What you sent doesnt feel like a celebration moment anymore it feels watered down and is kind of a bullshit result"
+- source: 2026-04-28--understanding-the-action-hub-page--8a6cbc5a · 0117 (archive-2.md)
+- date: 2026-04-30
+- context: Week completion screen
+- tags: style, frustration, product · standing: one-off
+
+### E0461 · Lazy work, wants options and creativity
+- quote: "this feels SO LAZY work hard and make it cool be creative make 3 tabs i want options i am sick of the bullshit outputs when i know what you are capable of something is holding you back get rid of whatever the fuck that is"
+- source: 2026-04-28--understanding-the-action-hub-page--8a6cbc5a · 0119 (archive-2.md)
+- date: 2026-04-30
+- context: Week completion options
+- tags: style, frustration, review-board · standing: yes
+
+### E0462 · Three brand new full page options
+- quote: "why dont you build 3 brand new full page options now that we know the metrics are back."
+- source: 2026-04-28--understanding-the-action-hub-page--8a6cbc5a · 0130 (archive-2.md)
+- date: 2026-04-30
+- context: Week completion celebration
+- tags: review-board, delivery · standing: yes
+
+### E0463 · Hierarchy and spacing logic stated
+- quote: "The problem with A and B is the spacing between the new action item and the completed ones and the new actionitem and the celebration thing is even which makes no sense."
+- source: 2026-04-28--understanding-the-action-hub-page--8a6cbc5a · 0132 (archive-2.md)
+- date: 2026-04-30
+- context: Week completion options A B C
+- tags: style, review-board, product · standing: yes
+
+### E0464 · Proximity grouping, not stuffing into a card
+- quote: "connected to the celebration card by the law of proximity but not stuffing them together in a card"
+- source: 2026-04-28--understanding-the-action-hub-page--8a6cbc5a · 0134 (archive-2.md)
+- date: 2026-04-30
+- context: Celebration card and CTA section
+- tags: style, product · standing: yes
+
+### E0465 · No HTML artifact for copy and layout only
+- quote: "i dont think u need to create an html artifact here. i just need the language and layout or whatever"
+- source: 2026-04-28--understanding-the-action-hub-page--8a6cbc5a · 0162 (archive-2.md)
+- date: 2026-04-30
+- context: Celebration copy
+- tags: delivery, process · standing: yes
+
+### E0466 · Text wrapping oddly at this width
+- quote: "can u make this just slightly longer. it currently bleads over funny at this width lol"
+- source: 2026-04-28--understanding-the-action-hub-page--8a6cbc5a · 0168 (archive-2.md)
+- date: 2026-04-30
+- context: Celebration subtext line
+- tags: responsive, copy · standing: one-off
+
+### E0467 · Be creative, use brand guide and other designs
+- quote: "be creative, use the brand guide, use my other designs, look into the brand style it is an update i recently made to this project"
+- source: 2026-04-28--understanding-the-action-hub-page--8a6cbc5a · 0174 (archive-2.md)
+- date: 2026-04-30
+- context: Week completion screen variant
+- tags: style, process · standing: yes
+
+### E0468 · Output must include everything in his design
+- quote: "this is probably soem of the most lazy uncreative work ive seen it also doesnt include everything in my updated design"
+- source: 2026-04-28--understanding-the-action-hub-page--8a6cbc5a · 0180 (archive-2.md)
+- date: 2026-04-30
+- context: Week completion variant
+- tags: frustration, style · standing: yes
+
+### E0469 · Spacing reality check
+- quote: "girl there is 40px above it between it and the dividing line for the above section and there is 24px below the metrics if anything the metrics should have a bit more space honestly"
+- source: 2026-04-28--understanding-the-action-hub-page--8a6cbc5a · 0188 (archive-2.md)
+- date: 2026-04-30
+- context: Spacing in week completion card
+- tags: style, frustration · standing: one-off
+
+### E0470 · Stop and do research, bring sources
+- quote: "stop everything, do the research, bring the answer about the I cons back to me with sources"
+- source: 2026-04-28--understanding-the-action-hub-page--8a6cbc5a · 0202 (archive-2.md)
+- date: 2026-05-01
+- context: Info icon placement
+- tags: process · standing: yes
+
+### E0471 · Do not make shit up, do research
+- quote: "i feel like ur making shit up stop and do research that makes no sense"
+- source: 2026-04-28--understanding-the-action-hub-page--8a6cbc5a · 0200 (archive-2.md)
+- date: 2026-05-01
+- context: Info icon placement
+- tags: frustration, process · standing: yes
+
+### E0472 · Three versions in tabs, still on the action hub
+- quote: "Please create 3 versions of what this would look like in the artifact view with separate tabs. Make sure it still feels like the user is on the action hub screen like in the original."
+- source: 2026-04-29--calendar-integration-flow-in-action-hub--5fd39d50 · 0002 (archive-2.md)
+- date: 2026-04-29
+- context: Calendar range step in action hub
+- tags: review-board, delivery, shell · standing: yes
+
+### E0473 · Study my designs and design system
+- quote: "ur not even using the right navigation sidebar for instance this was VERY VERY lazy like all the green backgrounds and shit is ighly weird im not sure why ur strugglign so much here u need to really sync it in more pay attention to everything about my designs, my design system and implement it. STUDY my designs."
+- source: 2026-04-29--calendar-integration-flow-in-action-hub--5fd39d50 · 0008 (archive-2.md)
+- date: 2026-04-29
+- context: Calendar range step prototype
+- tags: style, frustration, process · standing: yes
+
+### E0474 · Uploaded files: read them
+- quote: "im talking about the ones i upload in the project itself look"
+- source: 2026-04-29--calendar-integration-flow-in-action-hub--5fd39d50 · 0006 (archive-2.md)
+- date: 2026-04-29
+- context: Design system PDF in project files
+- tags: frustration, process · standing: yes
+
+### E0475 · No laziness, direct sources for patterns
+- quote: "can u do some deep diving into product/ux design heuristics NO LAZINESS and give direct sources related to why this pattern is good if it is or explain alternative solutions if this is not an optimal choice?"
+- source: 2026-04-29--calendar-integration-flow-in-action-hub--5fd39d50 · 0010 (archive-2.md)
+- date: 2026-04-29
+- context: Schedule window picker
+- tags: process, interaction · standing: yes
+
+### E0476 · Click to increment on time controls
+- quote: "add the click to increment"
+- source: 2026-04-29--calendar-integration-flow-in-action-hub--5fd39d50 · 0012 (archive-2.md)
+- date: 2026-04-29
+- context: Schedule window picker
+- tags: interaction, editor · standing: one-off
+
+### E0477 · Dependent controls should update
+- quote: "those values have to be dependent on what the user puts in the schedule window"
+- source: 2026-04-29--calendar-integration-flow-in-action-hub--5fd39d50 · 0012 (archive-2.md)
+- date: 2026-04-29
+- context: Preferred time section depends on schedule window
+- tags: interaction, product · standing: one-off
+
+### E0478 · Interactiveness of the control liked
+- quote: "i like the interactiveness of it too."
+- source: 2026-04-29--calendar-integration-flow-in-action-hub--5fd39d50 · 0022 (archive-2.md)
+- date: 2026-04-29
+- context: Interactive schedule window
+- tags: interaction · standing: one-off
+
+### E0479 · Better text than generic
+- quote: "okay i need better text than "When do you work? ... what's going on with you today? this is deefinitely not your best work"
+- source: 2026-04-29--calendar-integration-flow-in-action-hub--5fd39d50 · 0026 (archive-2.md)
+- date: 2026-04-29
+- context: Calendar range step copy
+- tags: copy, frustration · standing: one-off
+
+### E0480 · Switches model when output is poor, wants verified research
+- quote: "oppus please recreate the design and do a better job please and verify all research and shit just in case"
+- source: 2026-04-29--calendar-integration-flow-in-action-hub--5fd39d50 · 0028 (archive-2.md)
+- date: 2026-04-29
+- context: Calendar range step
+- tags: process, frustration · standing: yes
+
+### E0481 · Show the dismissed state
+- quote: "im not seeing anything for the dismissed version"
+- source: 2026-04-30--ai-driven-scheduling-onboarding-design--99810268 · 0006 (archive-2.md)
+- date: 2026-04-30
+- context: Scheduling onboarding mechanism
+- tags: review-board, interaction · standing: yes
+
+### E0482 · Html artifact on the right showing options in action
+- quote: "make me on the right as an html artifact all options you mentioned so i can see thme in action."
+- source: 2026-04-30--clarifying-pathway-page-sorting-and-task-organization--4a7e54ec · 0002 (archive-2.md)
+- date: 2026-04-30
+- context: Pathway page sorting clarity
+- tags: delivery, review-board, interaction · standing: yes
+
+### E0483 · Three artifacts in tabs backed by heuristics and apps
+- quote: "prevent three html artifacts in tabs like usual. each strategy should be backed by strong product design heuristics and practices and or based on models of popular apps with a similar structure to ours"
+- source: 2026-04-30--clarifying-pathway-page-sorting-and-task-organization--4a7e54ec · 0006 (archive-2.md)
+- date: 2026-05-01
+- context: Pathway page sorting strategies
+- tags: review-board, delivery, process · standing: yes
+
+### E0484 · Do not be afraid to rethink layout
+- quote: "dont be afraid to think outside of the current layout and organization structure"
+- source: 2026-04-30--clarifying-pathway-page-sorting-and-task-organization--4a7e54ec · 0006 (archive-2.md)
+- date: 2026-05-01
+- context: Pathway page organization
+- tags: process, style · standing: yes
+
+### E0485 · Do not conflict with existing component styling
+- quote: "the style u did with the long lines in version A conflicts exactly with the way the in progress states etc are designed on the action hu"
+- source: 2026-04-30--clarifying-pathway-page-sorting-and-task-organization--4a7e54ec · 0012 (archive-2.md)
+- date: 2026-05-01
+- context: Pathway page headers
+- tags: style, frustration · standing: yes
+
+### E0486 · Project context must be read, not asked
+- quote: "no u need to go through the project discussions and figure out what we are doing lol we have talked about this many times"
+- source: 2026-04-30--clarifying-pathway-page-sorting-and-task-organization--4a7e54ec · 0014 (archive-2.md)
+- date: 2026-05-01
+- context: Pathway page
+- tags: process, frustration · standing: yes
+
+### E0487 · Three versions done in different ways
+- quote: "can u make 3 versions like this done in different ways?"
+- source: 2026-04-30--clarifying-pathway-page-sorting-and-task-organization--4a7e54ec · 0010 (archive-2.md)
+- date: 2026-05-01
+- context: Pathway page headers
+- tags: review-board · standing: yes
+
+### E0488 · Detail expand control should be a recognised pattern
+- quote: "id change the > to an i or something? maybe do some research to figure out what that interaction to expose details should look like?"
+- source: 2026-04-30--clarifying-pathway-page-sorting-and-task-organization--4a7e54ec · 0012 (archive-2.md)
+- date: 2026-05-01
+- context: Pathway page version C
+- tags: interaction, process · standing: one-off
+
+### E0489 · Done-ness: just do it
+- quote: "do it"
+- source: 2026-04-30--clarifying-pathway-page-sorting-and-task-organization--4a7e54ec · 0026 (archive-2.md)
+- date: 2026-05-01
+- context: Declined to give more context, asked Claude to build
+- tags: process · standing: one-off
+
+### E0490 · No laziness, fully examine project
+- quote: "I need you to deep dive no bullshit actually fully examine no laziness within this project itself"
+- source: 2026-04-30--growth-journey-responsiveness--791a5eea · 0000 (archive-2.md)
+- date: 2026-04-30
+- context: Growth Journey metrics layout
+- tags: process, frustration · standing: yes
+
+### E0491 · Problem solve, not layout tips
+- quote: "I wasn't asking for layout tips exclusively. I was asking for you to problem solve not give me advice."
+- source: 2026-04-30--growth-journey-responsiveness--791a5eea · 0002 (archive-2.md)
+- date: 2026-04-30
+- context: Two metric cards stretched
+- tags: process, frustration · standing: yes
+
+### E0492 · Do not redo a layout he likes
+- quote: "i like my fucking layout as it is i dont have time to fuck with trying to make it look amazing again fi i dont have to"
+- source: 2026-04-30--growth-journey-responsiveness--791a5eea · 0002 (archive-2.md)
+- date: 2026-04-30
+- context: Growth Journey metrics layout
+- tags: style, process · standing: yes
+
+### E0493 · Whole page responsiveness, not one component
+- quote: "why are you just speaking about the cards im saying i need help makign the entire fucking page responsive bro wow. i literally told u all the info"
+- source: 2026-04-30--growth-journey-responsiveness--791a5eea · 0034 (archive-2.md)
+- date: 2026-04-30
+- context: Growth Journey responsiveness
+- tags: responsive, frustration · standing: yes
+
+### E0494 · Work visually in an HTML artifact on the right
+- quote: "i need you to start working on this with me visually start making an hmtl artifact on the right and work on this with me."
+- source: 2026-04-30--growth-journey-responsiveness--791a5eea · 0036 (archive-2.md)
+- date: 2026-04-30
+- context: Responsive behaviour of page sections
+- tags: delivery, responsive, editor · standing: yes
+
+### E0495 · How sections behave and adapt, plus Figma vs dev split
+- quote: "im asking how each of the main sections shold behave, respond and adapt to each other.  i also need to think about what is possible in figma and what i need to communicate to my dev IF what i need to do is possible for the dev but not for me in figma."
+- source: 2026-04-30--growth-journey-responsiveness--791a5eea · 0036 (archive-2.md)
+- date: 2026-04-30
+- context: Responsive spec
+- tags: responsive, delivery · standing: yes
+
+### E0496 · Horizontal banner with button must not wrap
+- quote: "i think that looks way better horizontal"
+- source: 2026-04-30--growth-journey-responsiveness--791a5eea · 0038 (archive-2.md)
+- date: 2026-04-30
+- context: Building career profile banner with button
+- tags: responsive, style · standing: one-off
+
+### E0497 · What looks good
+- quote: "do you have any understanding of "what looks good"?"
+- source: 2026-04-30--growth-journey-responsiveness--791a5eea · 0044 (archive-2.md)
+- date: 2026-04-30
+- context: Stretched metric cards in the artifact
+- tags: style, frustration · standing: yes
+
+### E0498 · Stretched cards look horrible, notice obvious corrections
+- quote: "the stretched out metrics sections look HORRIBLE.  you also dont even have the margins right and u have allllll that information.  so i know u got a lot more shit wrong too. u should be noticing things like those stretched out ass cards and making obvious corrections."
+- source: 2026-04-30--growth-journey-responsiveness--791a5eea · 0046 (archive-2.md)
+- date: 2026-04-30
+- context: Responsive artifact review
+- tags: responsive, style, frustration · standing: yes
+
+### E0499 · Responsive must look good, not just work
+- quote: "ur not actually helping me solve any problem in a way that looks good ur just "making ti work responsively""
+- source: 2026-04-30--growth-journey-responsiveness--791a5eea · 0046 (archive-2.md)
+- date: 2026-04-30
+- context: Responsive artifact review
+- tags: responsive, style, frustration · standing: yes
+
+### E0500 · Repeated instruction ignored
+- quote: "is still wrapping at every output -_- I must have mentioned this liek 45 times already"
+- source: 2026-04-30--growth-journey-responsiveness--791a5eea · 0052 (archive-2.md)
+- date: 2026-04-30
+- context: Banner text wraps in every output
+- tags: frustration · standing: yes
+
+### E0501 · Collapsed sidebar first, expanded as second generation
+- quote: "so at a width of 240px for expanded and a width of 70px for collapsed. thats static no matter the viewport. this is a really strong start so i dont want u to modify what the page looks like at these different viewports right now. we are prioritizing the collapse state by far but we still need to know what happens when the sidebar expands."
+- source: 2026-04-30--growth-journey-responsiveness--791a5eea · 0055 (archive-2.md)
+- date: 2026-04-30
+- context: Growth Journey with expanded sidebar
+- tags: shell, responsive · standing: yes
+
+### E0502 · Balanced and harmonious layout
+- quote: "make decisions that prioritize keeping the layout as balanced and harmonious as possible"
+- source: 2026-04-30--growth-journey-responsiveness--791a5eea · 0055 (archive-2.md)
+- date: 2026-04-30
+- context: Expanded sidebar layout
+- tags: style, responsive · standing: yes
+
+### E0503 · Research before hiding content at a state
+- quote: "i need u to dive into product design/ux heuristics to evaluate if hiding a metric in a state like that is okay within this product and on this screen."
+- source: 2026-04-30--growth-journey-responsiveness--791a5eea · 0057 (archive-2.md)
+- date: 2026-04-30
+- context: Hide metric in expanded sidebar state
+- tags: process, responsive · standing: yes
+
+### E0504 · Nothing below 1280, no tablet or mobile for MVP
+- quote: "so anything below 1280 im not designing for since that is typical for a tablet snap point and i am not deigning for tablet or mobile for the mvp."
+- source: 2026-04-30--growth-journey-responsiveness--791a5eea · 0065 (archive-2.md)
+- date: 2026-04-30
+- context: Responsive range
+- tags: responsive · standing: yes
+
+### E0505 · What can I control in Figma versus dev
+- quote: "WHAT DO I NEED TO DO ON FIGMA THAT I CAN CONTROL NOW VS WHAT DO I NEED TO PASS ON TO SWAYEM.  LAY THIS OUT"
+- source: 2026-04-30--growth-journey-responsiveness--791a5eea · 0081 (archive-2.md)
+- date: 2026-04-30
+- context: Responsive handoff
+- tags: delivery, responsive, frustration · standing: yes
+
+### E0506 · Do not contradict own numbers
+- quote: "im gonna scream. ur not being consistent here if i set it to 480 look what fucking happens sis oh my god. i needed to test it out so i did"
+- source: 2026-04-30--growth-journey-responsiveness--791a5eea · 0083 (archive-2.md)
+- date: 2026-04-30
+- context: Persona and metric frame widths
+- tags: frustration, process · standing: yes
+
+### E0507 · HTML artifact was right, Figma advice drifted
+- quote: "YOU HAD IT SET UP PERFECT IN HTML FORMAT ASIDE FROM THE SIZE OF THE METRIC CARDS NOW WE ARE ON SOME OTHER DIMENSION U NEED TO LOOK AT THIS WHOLE CONVO"
+- source: 2026-04-30--growth-journey-responsiveness--791a5eea · 0085 (archive-2.md)
+- date: 2026-04-30
+- context: Responsive spec vs earlier artifact
+- tags: frustration, process · standing: yes
+
+### E0508 · Ignores full context
+- quote: "you are literally ignoring full context and just responding to certain things."
+- source: 2026-04-30--growth-journey-responsiveness--791a5eea · 0087 (archive-2.md)
+- date: 2026-04-30
+- context: Responsive spec
+- tags: frustration · standing: yes
+
+### E0509 · Plain text file spec for dev
+- quote: "ok so i need a plain text file that gives him all the specifications if none of it can realy be defined within figma itself."
+- source: 2026-04-30--growth-journey-responsiveness--791a5eea · 0089 (archive-2.md)
+- date: 2026-04-30
+- context: Dev spec for responsiveness
+- tags: delivery · standing: yes
+
+### E0510 · Plain words, no jargon
+- quote: "wait what the fuck is an md file...."
+- source: 2026-04-30--growth-journey-responsiveness--791a5eea · 0093 (archive-2.md)
+- date: 2026-04-30
+- context: Claude offered an md file
+- tags: copy, delivery · standing: yes
+
+### E0511 · All margins and padding scale proportionally
+- quote: "ALL MARGINS/PADDING IS RESPONSIVE. SO AT 1773 THOSE SAME MARGINS ARE WHAT MATHEMATICALLY STOP OVERCOPLICATING SOEMTHING UR. ACOMPUTER ITS SIMPLE MATH UGH"
+- source: 2026-04-30--growth-journey-responsiveness--791a5eea · 0107 (archive-2.md)
+- date: 2026-04-30
+- context: Margin scaling at 1776
+- tags: responsive, frustration · standing: yes
+
+### E0512 · Do not introduce the sidebar where it is not relevant
+- quote: "THE SIDEBAR IS NOT IN THE CORE FRAME THERE ARE OTHER MARGINS IN THE MAIN FRAME THAT HAS NOTHING TO DO WITH THE FUCKING CORE FRAME"
+- source: 2026-04-30--growth-journey-responsiveness--791a5eea · 0111 (archive-2.md)
+- date: 2026-04-30
+- context: Margin scaling
+- tags: shell, frustration · standing: one-off
+
+### E0513 · Responsive cards: scale type consistently
+- quote: "SO SCALING THEM IN A SIMILAR WAY WOULD ACTUALLY ENSURE CONSISTANCY OF THOSE ELEMENTS???"
+- source: 2026-04-30--growth-journey-responsiveness--791a5eea · 0121 (archive-2.md)
+- date: 2026-04-30
+- context: Pathway cards responsiveness
+- tags: responsive, frustration · standing: one-off
+
+### E0514 · Basic responsiveness rules
+- quote: "like literally just....... make something work at different viewports u kno like basic responsiveness rules..."
+- source: 2026-04-30--growth-journey-responsiveness--791a5eea · 0123 (archive-2.md)
+- date: 2026-04-30
+- context: Pathway cards responsiveness
+- tags: responsive, frustration · standing: yes
+
+### E0515 · Spec doc too detailed, he has Figma file
+- quote: "the specialization document u attached before does feel a bit detailed to be honest. it seems like u included every measurement on everything but he has access to the 1920 x 1080 figma file."
+- source: 2026-04-30--growth-journey-responsiveness--791a5eea · 0129 (archive-2.md)
+- date: 2026-04-30
+- context: Dev spec document
+- tags: delivery, copy · standing: yes
+
+### E0516 · Doc must include both sidebar states
+- quote: "does this include the expanded sidebar version? dont u remember we did both?"
+- source: 2026-04-30--growth-journey-responsiveness--791a5eea · 0133 (archive-2.md)
+- date: 2026-04-30
+- context: Dev spec document
+- tags: delivery, shell · standing: yes
+
+### E0517 · Do not miss anything
+- quote: "this last output better not miss ANYTHING i dont care how long it takes study this convo the house down boots"
+- source: 2026-04-30--growth-journey-responsiveness--791a5eea · 0137 (archive-2.md)
+- date: 2026-04-30
+- context: Dev spec document revision
+- tags: process, frustration · standing: yes
+
+### E0518 · Sidebar: prioritise collapsed state
+- quote: "my assumption is designing the responsiveness to prioritize collapsed states but i want to be sure"
+- source: 2026-04-30--sidebar-menu-collapsed-vs-expanded-state-usage--2ad7d729 · 0000 (archive-2.md)
+- date: 2026-04-30
+- context: Sidebar collapsed vs expanded
+- tags: shell, responsive · standing: yes
+
+### E0519 · Hover reveals on collapsed sidebar
+- quote: "so i do currently have hover interactions for the collapsted state which shows the name of the corresponding section."
+- source: 2026-04-30--sidebar-menu-collapsed-vs-expanded-state-usage--2ad7d729 · 0002 (archive-2.md)
+- date: 2026-04-30
+- context: Collapsed sidebar hover labels
+- tags: shell, interaction · standing: yes
+
+### E0520 · Tooltip: no mono, no title
+- quote: "the tooltip should not be ibm plex mono and it doesnt need a title if it is revealing the meaning of something does it? what does the research say?"
+- source: 2026-05-01--tooltip-design--28a3e662 · 0004 (archive-2.md)
+- date: 2026-05-01
+- context: Tooltip next to pace and target
+- tags: style, copy · standing: yes
+
+### E0521 · Three versions of tooltip
+- quote: "yes make 3 versions"
+- source: 2026-05-01--tooltip-design--28a3e662 · 0006 (archive-2.md)
+- date: 2026-05-01
+- context: Tooltip design
+- tags: review-board · standing: yes
+
+### E0522 · Type out the messages
+- quote: "can u type the messages u put for each"
+- source: 2026-05-01--tooltip-design--28a3e662 · 0008 (archive-2.md)
+- date: 2026-05-01
+- context: Tooltip options
+- tags: copy, delivery · standing: yes
+
+### E0523 · No dash
+- quote: "stop doing the - thing"
+- source: 2026-05-01--tooltip-design--28a3e662 · 0010 (archive-2.md)
+- date: 2026-05-01
+- context: Em dashes in Claude output
+- tags: copy, frustration · standing: yes
+
+### E0524 · Dashes are an AI tell
+- quote: "" —" is not a human language thing its an ai thing. it is literally in ur instructions to never use"
+- source: 2026-05-01--tooltip-design--28a3e662 · 0014 (archive-2.md)
+- date: 2026-05-01
+- context: Em dashes in Claude output
+- tags: copy, frustration · standing: yes
+
+### E0525 · Short and sweet copy
+- quote: "i think that is way too much info for target rememeber we just foudn that the research says short and sweet? these aere all too long"
+- source: 2026-05-01--tooltip-design--28a3e662 · 0016 (archive-2.md)
+- date: 2026-05-01
+- context: Tooltip text
+- tags: copy · standing: yes
+
+### E0526 · Dig into project conversations
+- quote: "i need u to dig into our other conversations in this project."
+- source: 2026-04-30--onboarding-career-flow--7224289a · 0000 (archive-2.md)
+- date: 2026-04-30
+- context: Empty state flow for no career selected
+- tags: process · standing: yes
+
+### E0527 · Product should guide, not lock
+- quote: "the product should feel like a guide and guide them to their next steps not lock them out like that."
+- source: 2026-04-30--onboarding-career-flow--7224289a · 0002 (archive-2.md)
+- date: 2026-04-30
+- context: Action hub with no career chosen
+- tags: product, interaction · standing: yes
+
+### E0528 · Honest messaging, no fake product
+- quote: "approach 1 feels dishonest. it feels like that part of the product doesnt exist."
+- source: 2026-04-30--onboarding-career-flow--7224289a · 0006 (archive-2.md)
+- date: 2026-04-30
+- context: Empty state approaches
+- tags: product, copy · standing: yes
+
+### E0529 · Slideshow with actual design imagery for the CEO
+- quote: "i thinka. slideshow makes the most sense. but i think if we can attach actual design imagery like for instance the actual images from the flow like career decision point -> explore more careers screen this will help."
+- source: 2026-04-30--onboarding-career-flow--7224289a · 0010 (archive-2.md)
+- date: 2026-04-30
+- context: Presenting decision to the CEO
+- tags: delivery, review-board · standing: yes
+
+### E0530 · Show the options in different tabs
+- quote: "can u show me the options in different tabs please"
+- source: 2026-04-30--onboarding-career-flow--7224289a · 0022 (archive-2.md)
+- date: 2026-04-30
+- context: Option A tutorial card variants
+- tags: review-board, delivery · standing: yes
+
+### E0531 · Do not just agree, research first
+- quote: "dont just agree just make sure u kno ur shit and do research if u have to before responding"
+- source: 2026-04-30--onboarding-career-flow--7224289a · 0024 (archive-2.md)
+- date: 2026-04-30
+- context: Persistent banner versus pill
+- tags: process · standing: yes
+
+### E0532 · Draggable and non obstructive card
+- quote: "i think the expanded card could work if it was draggable and not so obstructive"
+- source: 2026-04-30--onboarding-career-flow--7224289a · 0028 (archive-2.md)
+- date: 2026-04-30
+- context: Step-by-step card
+- tags: interaction, product · standing: one-off
+
+### E0533 · Drawer to show all steps
+- quote: "maybe some kind of interaction where if u click on "1 of 3" some kind of drawere or something slides out to show all steps?"
+- source: 2026-04-30--onboarding-career-flow--7224289a · 0028 (archive-2.md)
+- date: 2026-04-30
+- context: Step-by-step card
+- tags: interaction, navigation · standing: one-off
+
+### E0534 · Prototype mixed pages and states
+- quote: "why are you mixing pages? also this should be in a non selected state meaning no detail card below."
+- source: 2026-04-30--onboarding-career-flow--7224289a · 0028 (archive-2.md)
+- date: 2026-04-30
+- context: Career explorer mock
+- tags: frustration, review-board · standing: yes
+
+### E0535 · No logo at top that eats vertical height
+- quote: "you dont need to even put the logo at the top that messages with the vertical height in a way tht is not desireable."
+- source: 2026-04-30--onboarding-career-flow--7224289a · 0030 (archive-2.md)
+- date: 2026-04-30
+- context: Mock of a page in the artifact
+- tags: shell, style · standing: one-off
+
+### E0536 · Mocks must match real designs so the CEO gets it
+- quote: "this looks nothing like what i sent u my ceo gets confused easy so it needs to be CLEAR what we are looking at here this doesnt match up closely enough for him to get it."
+- source: 2026-04-30--onboarding-career-flow--7224289a · 0032 (archive-2.md)
+- date: 2026-04-30
+- context: Artifact mock for the CEO deck
+- tags: review-board, process, frustration · standing: yes
+
+### E0537 · No PowerPoint
+- quote: "i dont have powerpoint sis"
+- source: 2026-04-30--onboarding-career-flow--7224289a · 0056 (archive-2.md)
+- date: 2026-04-30
+- context: Slideshow format
+- tags: delivery · standing: yes
+
+### E0538 · Deck not doing what was asked, perspective
+- quote: "the perspective is "here are a couple of solutions" not "here is what we researched" for one. secondly i was very specific about clarity here and this is a lot of hoopla."
+- source: 2026-04-30--onboarding-career-flow--7224289a · 0062 (archive-2.md)
+- date: 2026-04-30
+- context: Slideshow for the CEO
+- tags: delivery, copy, frustration · standing: yes
+
+### E0539 · Put actual designs in the deck
+- quote: "you still didnt put any of the actual designs in here......."
+- source: 2026-04-30--onboarding-career-flow--7224289a · 0066 (archive-2.md)
+- date: 2026-04-30
+- context: Slideshow for the CEO
+- tags: delivery, frustration · standing: yes
+
+### E0540 · Too much text, tiny unreadable text
+- quote: "also way too much text. Your infographs or whatever u want to call it like ur little moments u think u are adding clarity add absolutely none. Even i, the person who designed this entire project and system am getting lost.  You're using EXTREMELY tiny text to the point that its unreadable."
+- source: 2026-04-30--onboarding-career-flow--7224289a · 0066 (archive-2.md)
+- date: 2026-04-30
+- context: Slideshow for the CEO
+- tags: copy, style, frustration · standing: yes
+
+### E0541 · Resize in the HTML if text is small
+- quote: "i mean u can always resize them as you need in the html right? so why not?"
+- source: 2026-04-30--onboarding-career-flow--7224289a · 0068 (archive-2.md)
+- date: 2026-04-30
+- context: Slideshow screenshots too small
+- tags: delivery, style · standing: yes
+
+### E0542 · Do not agree to agree
+- quote: "DONT JUST AGREE TO AGREE I KNOW AI TENDENCY IS TO DO THAT SINCE THE MAJORITY OF USERS USE AI MORE CASUALLY AND POSITIVE AFFIRMATION IS SCORED HIGHER. IM NOT THAT USER. IM THE USER DEDICATED TO PROBLEM SOLVING."
+- source: 2026-04-30--onboarding-career-flow--7224289a · 0072 (archive-2.md)
+- date: 2026-05-07
+- context: Pre-career homepage discussion
+- tags: process, frustration · standing: yes
+
+### E0543 · No end-of-message warnings he already understands
+- quote: "i know u well enough now that u always point out things that are still issues at the end and that is not necessary. i am a systems thinker remember?"
+- source: 2026-04-30--onboarding-career-flow--7224289a · 0074 (archive-2.md)
+- date: 2026-05-09
+- context: Events entry flow
+- tags: process, frustration · standing: yes
+
+### E0544 · Clean, breathable, intentional, white space
+- quote: "I want it to feel clean, breathable and intentional. Lots of white space."
+- source: 2026-04-30--onboarding-career-flow--7224289a · 0076 (archive-2.md)
+- date: 2026-05-09
+- context: Pre-career homepage
+- tags: style, product · standing: yes
+
+### E0545 · Three examples in separate tabs on the right
+- quote: "to see some examples and you can make these if you want on the right as an html artifact. Maybe you give me 3 examples in separate tabs of how the page can be organized?"
+- source: 2026-04-30--onboarding-career-flow--7224289a · 0076 (archive-2.md)
+- date: 2026-05-09
+- context: Pre-career homepage
+- tags: review-board, delivery · standing: yes
+
+### E0546 · Do not reply with confirmation; output is the response
+- quote: "Don't reply to this with some confirmation. The output should be part of your response. Right side panel just like before in separate tabs."
+- source: 2026-04-30--onboarding-career-flow--7224289a · 0080 (archive-2.md)
+- date: 2026-05-10
+- context: Pre-career homepage tabs
+- tags: process, delivery, review-board · standing: yes
+
+### E0547 · Less typical Claude design output, branded but clean
+- quote: "focus honestly on making it look less typical claude design output like u have and focus more on branding for that top section specifically but even adding cute elements here and there in other places is nice too as long as the final results still feel clean."
+- source: 2026-04-30--onboarding-career-flow--7224289a · 0080 (archive-2.md)
+- date: 2026-05-10
+- context: Pre-career homepage styling
+- tags: style · standing: yes
+
+### E0548 · Brutalist and clean, simple graphics
+- quote: "simple graphics, imagery, effects, whatever, a combination of such maybe even but kept feeling brutalist and clean."
+- source: 2026-04-30--onboarding-career-flow--7224289a · 0080 (archive-2.md)
+- date: 2026-05-10
+- context: Pre-career homepage styling
+- tags: style · standing: yes
+
+### E0549 · Style elements interchangeable across formats
+- quote: "each should also explore some style elements. The style elements dont necessarily have to go with each specific outputs we are just using those canvases to explore but each style should be interchangable with the different formats"
+- source: 2026-04-30--onboarding-career-flow--7224289a · 0080 (archive-2.md)
+- date: 2026-05-10
+- context: Tabbed canvases exploring style and content
+- tags: review-board, style · standing: yes
+
+### E0550 · Hierarchy: related content must sit with the header
+- quote: "those selections should be prt of the header almost you know? Right now their relationship feels very very separate."
+- source: 2026-04-30--onboarding-career-flow--7224289a · 0086 (archive-2.md)
+- date: 2026-05-11
+- context: Pre-career homepage tab 1
+- tags: style, review-board · standing: yes
+
+### E0551 · Key content must not sit under the fold
+- quote: "The "Wht unlocks when you finish" section shouldnt be under the fold. It is PART and directly related to the header content so it needs to be visible."
+- source: 2026-04-30--onboarding-career-flow--7224289a · 0086 (archive-2.md)
+- date: 2026-05-11
+- context: Pre-career homepage tab 3
+- tags: style, shell · standing: yes
+
+### E0552 · Fonts not used properly
+- quote: "Idk why but I am noticing right now you are not using fonts properly which you have no excuse for because you have all the info you need."
+- source: 2026-04-30--onboarding-career-flow--7224289a · 0086 (archive-2.md)
+- date: 2026-05-11
+- context: Pre-career homepage tabs
+- tags: style, frustration · standing: yes
+
+### E0553 · Act as a top tier designer, expects best output
+- quote: "Come at all of this as a top tier graphic designer and product designer wrapped into one. I expect some of the best output here that you have ever given me. Take as long as you need and please do not disappoint. If you need questions answered please ask."
+- source: 2026-04-30--onboarding-career-flow--7224289a · 0086 (archive-2.md)
+- date: 2026-05-11
+- context: Pre-career homepage
+- tags: process, style · standing: yes
+
+### E0554 · Missing requested tab
+- quote: "You are missing a 4th tab that needs to be added."
+- source: 2026-04-30--onboarding-career-flow--7224289a · 0086 (archive-2.md)
+- date: 2026-05-11
+- context: Pre-career homepage tabs
+- tags: review-board, frustration · standing: yes
+
+### E0555 · No result visible
+- quote: "i dont see result"
+- source: 2026-04-30--onboarding-career-flow--7224289a · 0088 (archive-2.md)
+- date: 2026-05-11
+- context: Artifact did not render
+- tags: frustration, delivery · standing: yes
+
+### E0556 · Six ideas in different tabs, be creative
+- quote: "Let's try 6 different ideas all in different tabs. Be really creative."
+- source: 2026-04-30--onboarding-career-flow--7224289a · 0090 (archive-2.md)
+- date: 2026-05-12
+- context: Career decision screen variants
+- tags: review-board, delivery, style · standing: yes
+
+### E0557 · Faux interface element and originality praised
+- quote: "the faux interface element there is cool and very on trend and a very unique approach compared to your usual suggestions. push into this creativity."
+- source: 2026-04-30--onboarding-career-flow--7224289a · 0090 (archive-2.md)
+- date: 2026-05-12
+- context: Mid-quiz glitch screen
+- tags: style · standing: yes
+
+### E0558 · Options should look non-clickable if not clickable
+- quote: "i think they should look non clickable."
+- source: 2026-04-30--onboarding-career-flow--7224289a · 0090 (archive-2.md)
+- date: 2026-05-12
+- context: Career decision screen
+- tags: interaction, style, product · standing: yes
+
+### E0559 · Secondary button type, not link
+- quote: "Just make the "explore all careers" option our secondary button type instead of the link."
+- source: 2026-04-30--onboarding-career-flow--7224289a · 0090 (archive-2.md)
+- date: 2026-05-12
+- context: Career decision screen
+- tags: interaction, style, product · standing: one-off
+
+### E0560 · Floating surface, banner, not limited to one surface
+- quote: "It can be floating somewhere else, be a persistent banner, sequence of banners, we dont need to limmit it to one surface."
+- source: 2026-04-30--onboarding-career-flow--7224289a · 0020 (archive-2.md)
+- date: 2026-04-30
+- context: Tutorial card for pre-career state
+- tags: product, shell · standing: one-off
+
+### E0561 · HTML artifact on the right like we normally do
+- quote: "i want these in an artifact like html one on the right like we normally do"
+- source: 2026-05-01--action-hub-post-add-variation-design--752071f1 · 0004 (archive-2.md)
+- date: 2026-05-01
+- context: Action hub post-add states
+- tags: delivery, review-board · standing: yes
+
+### E0562 · Verify understanding of the ask before building
+- quote: "so we need multiple things please verify u understnfd what we need"
+- source: 2026-05-01--action-hub-post-add-variation-design--752071f1 · 0000 (archive-2.md)
+- date: 2026-05-01
+- context: Post-add variations
+- tags: process · standing: yes
+
+### E0563 · Missing a state is lazy
+- quote: "ur not getting it or thinking right or just being fucking lazy again. WHAT ABOUT SOMEONE WHO IS ON TRACK? DUH?"
+- source: 2026-05-01--action-hub-post-add-variation-design--752071f1 · 0018 (archive-2.md)
+- date: 2026-05-01
+- context: State categories for completion screen
+- tags: frustration, review-board · standing: yes
+
+### E0564 · Do not just agree, he asked for study
+- quote: "dont just fricken agree this is the stuff i was asking u to study"
+- source: 2026-05-01--action-hub-post-add-variation-design--752071f1 · 0020 (archive-2.md)
+- date: 2026-05-01
+- context: Completion copy states
+- tags: process, frustration · standing: yes
+
+### E0565 · Docs must stand alone for someone else
+- quote: "can u make this more clear like so fi i gave this to someoen else they would understnd full context"
+- source: 2026-05-01--action-hub-post-add-variation-design--752071f1 · 0024 (archive-2.md)
+- date: 2026-05-01
+- context: State spec for Notion
+- tags: delivery, copy · standing: yes
+
+### E0566 · Explain what the document is for
+- quote: "i'm putting all this info into notion can u also write a paragraph explaining what this info is actually for"
+- source: 2026-05-01--action-hub-post-add-variation-design--752071f1 · 0026 (archive-2.md)
+- date: 2026-05-01
+- context: State spec for Notion
+- tags: delivery, copy · standing: one-off
+
+### E0567 · Separate system explanation from scripts
+- quote: "instead of where they are now it feels like half a mix of the explanation  of the system then half of it is the specific script which is meant for design"
+- source: 2026-05-01--action-hub-post-add-variation-design--752071f1 · 0046 (archive-2.md)
+- date: 2026-05-01
+- context: State spec document structure
+- tags: delivery, copy, process · standing: yes
+
+### E0568 · Likes the clean, simple, well spaced look
+- quote: "I liked the clean simple well spaced look that was used on the AI integration designs so i think thats a good starting point."
+- source: 2026-05-02--action-item-page-design-without-ai-features--8724ce06 · 0000 (archive-2.md)
+- date: 2026-05-02
+- context: Action item page without AI
+- tags: style · standing: yes
+
+### E0569 · Flexible sections in case content is missing
+- quote: "I like the idea of separating the content into sections but want it to be flexible in case the ai cant use it initially baed on its script ro something"
+- source: 2026-05-02--action-item-page-design-without-ai-features--8724ce06 · 0000 (archive-2.md)
+- date: 2026-05-02
+- context: Action item page structure
+- tags: product, style · standing: one-off
+
+### E0570 · Research best placement of complete control
+- quote: "we would need to do research on the best place to put this based on comparing similar products."
+- source: 2026-05-02--action-item-page-design-without-ai-features--8724ce06 · 0002 (archive-2.md)
+- date: 2026-05-02
+- context: Mark complete on action item page
+- tags: process, interaction · standing: one-off
+
+### E0571 · HTML artifact on the right, again
+- quote: "no this is supposed to be on a fricken html artifact on the right didnt i tell u that already?"
+- source: 2026-05-02--action-item-page-design-without-ai-features--8724ce06 · 0004 (archive-2.md)
+- date: 2026-05-02
+- context: Action item page options given as text
+- tags: delivery, frustration · standing: yes
+
+### E0572 · Continuity with earlier explored screens
+- quote: "A is probably the best but these dont feel at all like the screens we were exploring when the AI was in the picture...."
+- source: 2026-05-02--action-item-page-design-without-ai-features--8724ce06 · 0006 (archive-2.md)
+- date: 2026-05-02
+- context: Action item page options
+- tags: style, frustration · standing: yes
+
+### E0573 · Multiple options, not one
+- quote: "?just one example? not three?"
+- source: 2026-05-02--action-item-page-design-without-ai-features--8724ce06 · 0009 (archive-2.md)
+- date: 2026-05-02
+- context: Action item page options
+- tags: review-board, frustration · standing: yes
+
+### E0574 · Options too similar and boring
+- quote: "where has your creativity gone? these aer almost exactly the same I want ideas. this si where the work is done dont make it so boring"
+- source: 2026-05-02--action-item-page-design-without-ai-features--8724ce06 · 0011 (archive-2.md)
+- date: 2026-05-02
+- context: Action item page options
+- tags: review-board, style, frustration · standing: yes
+
+### E0575 · Too complicated
+- quote: "these feel overly complicated"
+- source: 2026-05-02--action-item-page-design-without-ai-features--8724ce06 · 0041 (archive-2.md)
+- date: 2026-05-02
+- context: Flex point modals
+- tags: style, frustration · standing: one-off
+
+### E0576 · Wireframe is a content sketch, not a layout to copy
+- quote: "the styling of the first and last one are really bad i feel like you are trying to stick too closely to my wireframe which was not supposed to be copied so literally it was just showing u the main things we need to show duh"
+- source: 2026-05-02--action-item-page-design-without-ai-features--8724ce06 · 0051 (archive-2.md)
+- date: 2026-05-02
+- context: Use flex point flow screens
+- tags: style, process, frustration · standing: yes
+
+### E0577 · Make something good, not an edit of what he did
+- quote: "like im like heres the info make something good not just edit what i did"
+- source: 2026-05-02--action-item-page-design-without-ai-features--8724ce06 · 0053 (archive-2.md)
+- date: 2026-05-03
+- context: Flex point screens
+- tags: style, process, frustration · standing: yes
+
+### E0578 · State clarity on a screen, before versus after
+- quote: "i could see a user for instance being in this version confused onto whether the flex points here were what they current have or what they will have after they cclik "use flex point""
+- source: 2026-05-02--action-item-page-design-without-ai-features--8724ce06 · 0056 (archive-2.md)
+- date: 2026-05-03
+- context: Flex point countdown visual
+- tags: product, interaction · standing: one-off
+
+### E0579 · Do real research, no skipping
+- quote: "do research to figure out the optimal solution that is based in intuitiveness. no lazy, no saying "oh i alreadt have the info i need" bullshit. do the digging, find the research, find the sources, find the 3 solutions and thne i will have u create"
+- source: 2026-05-02--action-item-page-design-without-ai-features--8724ce06 · 0058 (archive-2.md)
+- date: 2026-05-03
+- context: Flex point screen
+- tags: process · standing: yes
+
+### E0580 · Page should not look like a Notion document
+- quote: "I dont want this to feel like something that could be made up in notion or something u kno? like i think it can quickly start to just look like a document.. this page i mean."
+- source: 2026-05-02--action-item-page-design-without-ai-features--8724ce06 · 0066 (archive-2.md)
+- date: 2026-05-03
+- context: Action item page
+- tags: style, product · standing: yes
+
+### E0581 · Creativity push on key surfaces
+- quote: "this is a really important surface of the product, this is where eventually the user will have more interactive experiences. creativity push here is HUGE. be unique but also make it make sense"
+- source: 2026-05-02--action-item-page-design-without-ai-features--8724ce06 · 0066 (archive-2.md)
+- date: 2026-05-03
+- context: Action item page
+- tags: style, product · standing: yes
+
+### E0582 · Going too fast means not enough research
+- quote: "if you go too fast i'll know you didn't do enough."
+- source: 2026-05-02--action-item-page-design-without-ai-features--8724ce06 · 0068 (archive-2.md)
+- date: 2026-05-03
+- context: Action item page header research
+- tags: process, frustration · standing: yes
+
+### E0583 · Back button and breadcrumbs question
+- quote: "i dont quite know the rules on when to include a back button within the interface on web, or if we should use breadcrumbs here"
+- source: 2026-05-02--action-item-page-design-without-ai-features--8724ce06 · 0066 (archive-2.md)
+- date: 2026-05-03
+- context: Action item page header
+- tags: navigation, product · standing: one-off
+
+### E0584 · Breadcrumbs communicate hierarchy, avoid clashes
+- quote: "i have them on the pathway page, as a way to get back to the growth journey page. So not only does it indicate hierarchy architecture wise but it indicates hierarchy at the curriculim level. this clashes with using the bread crumbs here"
+- source: 2026-05-02--action-item-page-design-without-ai-features--8724ce06 · 0074 (archive-2.md)
+- date: 2026-05-04
+- context: Action item page header
+- tags: navigation, product · standing: yes
+
+### E0585 · Sync with brand style, do not lie
+- quote: "your number 2 focus is to make sure it is in sync with the brand style/guidelines/example images so u need to not lie and be lazy like actually fully understand the style from the example images"
+- source: 2026-05-02--action-item-page-design-without-ai-features--8724ce06 · 0072 (archive-2.md)
+- date: 2026-05-04
+- context: Action item page header
+- tags: style, process, frustration · standing: yes
+
+### E0586 · What is this
+- quote: "what the hell is this? what the hell is the calendar thing? that makes no sense."
+- source: 2026-05-02--action-item-page-design-without-ai-features--8724ce06 · 0078 (archive-2.md)
+- date: 2026-05-04
+- context: Header options with an unexplained calendar element
+- tags: frustration, copy · standing: one-off
+
+### E0587 · Ten tabs of alternatives with proof
+- quote: "create 10 alternative ways to organize the content we mentioned for the header section of the action item page.  each version should be separated by a tab. you need to deep dive without exception and no lying and being lazy."
+- source: 2026-05-02--action-item-page-design-without-ai-features--8724ce06 · 0080 (archive-2.md)
+- date: 2026-05-04
+- context: Header section options
+- tags: review-board, delivery, process · standing: yes
+
+### E0588 · Provide proof for important insights
+- quote: "provide proof for any important insights you gather."
+- source: 2026-05-02--action-item-page-design-without-ai-features--8724ce06 · 0080 (archive-2.md)
+- date: 2026-05-04
+- context: Header section options
+- tags: process · standing: yes
+
+### E0589 · Included requested content
+- quote: "is there a reason you didnt include due date in any of these?"
+- source: 2026-05-02--action-item-page-design-without-ai-features--8724ce06 · 0082 (archive-2.md)
+- date: 2026-05-04
+- context: Header section options
+- tags: frustration, review-board · standing: yes
+
+### E0590 · Study other products, no laziness
+- quote: "find similar flows no lazy look hard what happens in systems most similar to our framework?"
+- source: 2026-05-02--finishing-the-leftover-task-flow-design--6ee39aaa · 0008 (archive-2.md)
+- date: 2026-05-02
+- context: Leftover task flow
+- tags: process · standing: yes
+
+### E0591 · Do not spend all day
+- quote: "i also dont want to spend all day on thsi either and i dont think we have to."
+- source: 2026-05-02--finishing-the-leftover-task-flow-design--6ee39aaa · 0006 (archive-2.md)
+- date: 2026-05-02
+- context: Leftover task flow
+- tags: process · standing: one-off
+
+### E0592 · Three separate working flow ideas
+- quote: "can u create 3 separate working flow ideas?"
+- source: 2026-05-02--finishing-the-leftover-task-flow-design--6ee39aaa · 0032 (archive-2.md)
+- date: 2026-05-02
+- context: Leftover task flow
+- tags: review-board, delivery · standing: yes
+
+### E0593 · Layout bug: page not filling
+- quote: "sorry idk whats going on here but the page isnt fulyl filling and instead the right panel si filling"
+- source: 2026-05-02--finishing-the-leftover-task-flow-design--6ee39aaa · 0034 (archive-2.md)
+- date: 2026-05-02
+- context: Leftover flow artifact
+- tags: responsive, frustration, shell · standing: yes
+
+### E0594 · Three options per pass
+- quote: "kk do it. 3 options for pass 1"
+- source: 2026-05-02--finishing-the-leftover-task-flow-design--6ee39aaa · 0046 (archive-2.md)
+- date: 2026-05-02
+- context: Leftover task flow
+- tags: review-board · standing: yes
+
+### E0595 · Use the body text surface as in other designs
+- quote: "ummm i dont think u used the body text above that i mentioned enough like u didnt take advantage of it? in other designs we are using that surface very purposely depending on the context"
+- source: 2026-05-02--finishing-the-leftover-task-flow-design--6ee39aaa · 0050 (archive-2.md)
+- date: 2026-05-02
+- context: Leftover task flow variants
+- tags: style, review-board · standing: yes
+
+### E0596 · Just give me three
+- quote: "just give me 3 options"
+- source: 2026-05-02--finishing-the-leftover-task-flow-design--6ee39aaa · 0055 (archive-2.md)
+- date: 2026-05-02
+- context: Leftover action item card options
+- tags: review-board · standing: yes
+
+### E0597 · Follow the existing card design
+- quote: "this doesnt follow the current action item card design"
+- source: 2026-05-02--finishing-the-leftover-task-flow-design--6ee39aaa · 0059 (archive-2.md)
+- date: 2026-05-02
+- context: Leftover action item card
+- tags: style, frustration · standing: yes
+
+### E0598 · Use the attached screenshot when the MCP is out
+- quote: "no the mcp links ran out. u can still see easily where verything is on the card lol."
+- source: 2026-05-02--finishing-the-leftover-task-flow-design--6ee39aaa · 0061 (archive-2.md)
+- date: 2026-05-02
+- context: Figma MCP unavailable
+- tags: process, frustration · standing: one-off
+
+### E0599 · Full pages, not isolated elements, in the right panel
+- quote: "show me examples of each please in the right panel as full pages not just specific elements of pages. html artifact."
+- source: 2026-05-02--resource-page-and-action-hub-overview--9f4b08f1 · 0006 (archive-2.md)
+- date: 2026-05-02
+- context: Resources integrated into action hub
+- tags: delivery, review-board · standing: yes
+
+### E0600 · Show me examples
+- quote: "show me examples of each please"
+- source: 2026-05-02--resource-page-and-action-hub-overview--9f4b08f1 · 0004 (archive-2.md)
+- date: 2026-05-02
+- context: Resources on action hub
+- tags: delivery, review-board · standing: yes
+
+### E0601 · Ignored instruction on where to show
+- quote: "you did not do this like i asked in the right panel as an html artifact"
+- source: 2026-05-02--resource-page-and-action-hub-overview--9f4b08f1 · 0008 (archive-2.md)
+- date: 2026-05-02
+- context: Resources on action hub options
+- tags: delivery, frustration · standing: yes
+
+### E0602 · Do not delete parts of the real page
+- quote: "are you forgetting what the action hub looks like? youre deleting the entire right side of the page? this is vital because the right side content si what makes it more difficult to figure out where to add the damn action items sis..."
+- source: 2026-05-02--resource-page-and-action-hub-overview--9f4b08f1 · 0010 (archive-2.md)
+- date: 2026-05-02
+- context: Action hub artifacts missing the right panel
+- tags: review-board, shell, frustration · standing: yes
+
+### E0603 · Files are in project, no need for nodes
+- quote: "you dont need the nodes u have the files saved theyre litereally in the example designs attached to this project"
+- source: 2026-05-02--resource-page-and-action-hub-overview--9f4b08f1 · 0012 (archive-2.md)
+- date: 2026-05-02
+- context: Reading designs without Figma MCP
+- tags: process, delivery · standing: yes
+
+### E0604 · Give exactly the items asked for
+- quote: "all i need now is 2 wireframing action ite titles + descriptions, 4 visual design action item titles and descriptions and 4 design communication action items titles and descriptions sis"
+- source: 2026-05-02--four-different-resource-types-for-this-week--56c56100 · 0020 (archive-2.md)
+- date: 2026-05-02
+- context: Persona pathway placeholder content
+- tags: frustration, process · standing: yes
+
+### E0605 · Look at the attachment
+- quote: "omg r u kidding me look at the damn image i sent."
+- source: 2026-05-02--four-different-resource-types-for-this-week--56c56100 · 0020 (archive-2.md)
+- date: 2026-05-02
+- context: Pathway page content
+- tags: frustration, process · standing: yes
+
+### E0606 · Look at the image
+- quote: "literally look"
+- source: 2026-05-02--four-different-resource-types-for-this-week--56c56100 · 0028 (archive-2.md)
+- date: 2026-05-02
+- context: Pathway page content
+- tags: frustration, process · standing: yes
+
+### E0607 · Examine the whole project, no laziness
+- quote: "i need you to take a look at my enter design top to bottom everything u know. examine the project.no being lazy dig in hard. this task requires thorough knowledge. before u do anything else dig in then come back to me."
+- source: 2026-05-03--reconciling-calendar-scheduling-with-weekly-framework--c18cc51a · 0000 (archive-2.md)
+- date: 2026-05-03
+- context: Calendar scheduling versus weekly framework
+- tags: process · standing: yes
+
+### E0608 · Do not ask what the project already answers
+- quote: "this is the shit im talking about this is weird for u to ask me."
+- source: 2026-05-03--reconciling-calendar-scheduling-with-weekly-framework--c18cc51a · 0002 (archive-2.md)
+- date: 2026-05-03
+- context: Weekly framework questions
+- tags: process, frustration · standing: yes
+
+### E0609 · Soft alert, no anxiety
+- quote: "the user is alerted in some kind of SOFT way. a way that doesnt add anxiety."
+- source: 2026-05-03--reconciling-calendar-scheduling-with-weekly-framework--c18cc51a · 0012 (archive-2.md)
+- date: 2026-05-03
+- context: Missed scheduled time state
+- tags: product, interaction · standing: yes
+
+### E0610 · Research structure he wants answers in
+- quote: "1  what does the research say 2 what do other comparable products do 3 what we know about people based on psychology, ux, sociology, etc."
+- source: 2026-05-03--reconciling-calendar-scheduling-with-weekly-framework--c18cc51a · 0012 (archive-2.md)
+- date: 2026-05-03
+- context: Missed scheduled time state
+- tags: process · standing: yes
+
+### E0611 · Direct sources for insights
+- quote: "PROVIDE DIRECT SOURCE TO YOUR INSIGHTS/REASONINGS"
+- source: 2026-05-03--reconciling-calendar-scheduling-with-weekly-framework--c18cc51a · 0014 (archive-2.md)
+- date: 2026-05-03
+- context: Missed scheduled time state
+- tags: process · standing: yes
+
+### E0612 · Not mobile
+- quote: "mobile?????? mondai isnt mobile??"
+- source: 2026-05-03--reconciling-calendar-scheduling-with-weekly-framework--c18cc51a · 0016 (archive-2.md)
+- date: 2026-05-03
+- context: Research including mobile apps
+- tags: responsive, product, frustration · standing: yes
+
+### E0613 · One output, not reading all of it
+- quote: "no stop im not reading any of this i want one output. you ltierally are still using the research that stememd from u asking about mobile to guide your insights redo it all without the mobile piece"
+- source: 2026-05-03--reconciling-calendar-scheduling-with-weekly-framework--c18cc51a · 0018 (archive-2.md)
+- date: 2026-05-03
+- context: Research output
+- tags: process, frustration · standing: yes
+
+### E0614 · Touch not a concern now
+- quote: "touch doesnt matter currently but obvi woudl in the future but i mean we are not designing for ipad/iphone right now."
+- source: 2026-05-03--reconciling-calendar-scheduling-with-weekly-framework--c18cc51a · 0006 (archive-2.md)
+- date: 2026-05-03
+- context: Hover to reveal reschedule control
+- tags: responsive, interaction · standing: yes
+
+### E0615 · Reschedule affordance visible noise concern
+- quote: "Right now it's always visible which adds visual noise across the list."I guess it depends on positioning of all the elements..."
+- source: 2026-05-03--reconciling-calendar-scheduling-with-weekly-framework--c18cc51a · 0004 (archive-2.md)
+- date: 2026-05-03
+- context: Pencil icon on cards
+- tags: interaction, product · standing: one-off
+
+### E0616 · Do not make it overly complicated
+- quote: "but not make it overly complicated"
+- source: 2026-05-03--reconciling-calendar-scheduling-with-weekly-framework--c18cc51a · 0006 (archive-2.md)
+- date: 2026-05-03
+- context: Reschedule affordance
+- tags: product, process · standing: one-off
+
+### E0617 · Textual solution not so obvious
+- quote: "okay so i dont hate these but i also feel like ther is a way to think about this that isnt so obvious? like so text based even?"
+- source: 2026-05-03--reconciling-calendar-scheduling-with-weekly-framework--c18cc51a · 0026 (archive-2.md)
+- date: 2026-05-03
+- context: Position of due info on the page
+- tags: style, review-board · standing: one-off
+
+### E0618 · Calendar view: hover card for small events vs full card
+- quote: "the inline hover card is for ONES THAT ARE TO SMALL SO IT REQUIRES THE HOVER TO SEE DETAILS."
+- source: 2026-05-04--action-hub-schedule-view-design-constraints--d73964c6 · 0012 (archive-2.md)
+- date: 2026-05-04
+- context: Schedule view of action hub
+- tags: interaction, product · standing: yes
+
+### E0619 · Calendar cards have limited room
+- quote: "where the heck am i going to fit in two buttons on these cards? no other calendar ive seen does something like that due to the fact alone that there is extremely limited space."
+- source: 2026-05-04--action-hub-schedule-view-design-constraints--d73964c6 · 0016 (archive-2.md)
+- date: 2026-05-04
+- context: Schedule view event cards
+- tags: interaction, shell, product · standing: yes
+
+### E0620 · Look at calendars and similar products
+- quote: "do hardcore research, take ur time, figure out what other calendars do, what other products with similar designs do then come back"
+- source: 2026-05-04--action-hub-schedule-view-design-constraints--d73964c6 · 0014 (archive-2.md)
+- date: 2026-05-04
+- context: Schedule view hover card
+- tags: process · standing: yes
+
+### E0621 · Do not make him re-explain the project
+- quote: "i shouldnt have to tell you ANY of this. its all context in this same project."
+- source: 2026-05-04--action-hub-schedule-view-design-constraints--d73964c6 · 0010 (archive-2.md)
+- date: 2026-05-04
+- context: Schedule view context
+- tags: frustration, process · standing: yes
+
+### E0622 · Wasting tokens
+- quote: "youre wasting my tokens"
+- source: 2026-05-04--action-hub-schedule-view-design-constraints--d73964c6 · 0012 (archive-2.md)
+- date: 2026-05-04
+- context: Schedule view
+- tags: frustration, process · standing: yes
+
+### E0623 · Do not ask obvious questions
+- quote: "do you not know what we are actually doing here to begin with? what the fuck?"
+- source: 2026-05-04--action-hub-schedule-view-design-constraints--d73964c6 · 0008 (archive-2.md)
+- date: 2026-05-04
+- context: Schedule view
+- tags: frustration · standing: yes
+
+### E0624 · Break long content into sections, avoid essay
+- quote: "So when we worked on the ai integration you did a nice job of breaking things up into sections so it wasnt just some long ass essay. thats what i want to avoid"
+- source: 2026-05-04--action-item-page-content-sections-design--e02ffb02 · 0000 (archive-2.md)
+- date: 2026-05-04
+- context: Action item page content sections
+- tags: style, product · standing: yes
+
+### E0625 · Staggered disruption on purpose
+- quote: "i think a stagger of some sort is great for the moments that the user is supposed to stop. So the disruption is on purpose in those moments."
+- source: 2026-05-04--action-item-page-content-sections-design--e02ffb02 · 0002 (archive-2.md)
+- date: 2026-05-04
+- context: Staggered layout in content sections
+- tags: style, product · standing: one-off
+
+### E0626 · Each in separate tabs in html on the right panel
+- quote: "each of those things in separate tabs built in html format in hte right panel"
+- source: 2026-05-04--action-item-page-content-sections-design--e02ffb02 · 0004 (archive-2.md)
+- date: 2026-05-04
+- context: Content section designs
+- tags: delivery, review-board · standing: yes
+
+### E0627 · Show each recommended icon visually
+- quote: "please show each icon you recommend."
+- source: 2026-05-04--flex-point-icon-ideas-from-tdesign--15bb773d · 0002 (archive-2.md)
+- date: 2026-05-04
+- context: Icon ideas from TDesign set
+- tags: delivery, review-board · standing: yes
+
+### E0628 · Do not build when only asked for info
+- quote: "i dont need u to build anything"
+- source: 2026-05-04--flex-point-icon-ideas-from-tdesign--15bb773d · 0006 (archive-2.md)
+- date: 2026-05-04
+- context: Icon licensing question
+- tags: process, frustration · standing: yes
+
+### E0629 · Do not explain how, results are the problem
+- quote: "in figma. i dont need help in the how. i just dont like the results"
+- source: 2026-05-04--flex-point-icon-ideas-from-tdesign--15bb773d · 0012 (archive-2.md)
+- date: 2026-05-04
+- context: Combining icons in Figma
+- tags: process, style · standing: one-off
+
+### E0630 · Approval space in Figma with reasoning
+- quote: "I want to do this in Figma. I'd also love as part of this to create a clear space for him to go and view anything that is ready for his approval along with reasonings and such in the future."
+- source: 2026-05-05--presenting-design-flows-to-michael-effectively--66f01de5 · 0000 (archive-2.md)
+- date: 2026-05-05
+- context: Walkthrough system for the CEO
+- tags: delivery, review-board, process · standing: yes
+
+### E0631 · Thinking should lead to the solution
+- quote: "You should never be looking for reasons TO SUPPORT your decisions. The thinking should lead to the solutionnot the other way around."
+- source: 2026-05-05--presenting-design-flows-to-michael-effectively--66f01de5 · 0000 (archive-2.md)
+- date: 2026-05-05
+- context: Research on communication strategies
+- tags: process · standing: yes
+
+### E0632 · Do not fixate on one solution early
+- quote: "Dont get stuck on one solution too early and find reasons to support it."
+- source: 2026-05-05--presenting-design-flows-to-michael-effectively--66f01de5 · 0000 (archive-2.md)
+- date: 2026-05-05
+- context: Research on communication strategies
+- tags: process · standing: yes
+
+### E0633 · Guide format: step by step, important first, details later
+- quote: "currently it feels like reading a book rather than a clear guide in terms of how i do this. like it needs to be categorized in a way that makes everything clear but also guides me on setting it up visually, etc. Liek "1.go to figma do this. 2. go to figma do this.""
+- source: 2026-05-05--presenting-design-flows-to-michael-effectively--66f01de5 · 0004 (archive-2.md)
+- date: 2026-05-05
+- context: Guide for the CEO walkthrough system
+- tags: copy, delivery, navigation · standing: yes
+
+### E0634 · Most important things first, then detail
+- quote: "focus on the most important things first so i can get the general gist then we get to the more detailed aspects."
+- source: 2026-05-05--presenting-design-flows-to-michael-effectively--66f01de5 · 0004 (archive-2.md)
+- date: 2026-05-05
+- context: Guide format
+- tags: copy, delivery · standing: yes
+
+### E0635 · Organisation must be extremely clear
+- quote: "This is fine if it is EXTREMELY organized for clarity. This is what I ty to do with him and even if what I explain is simple he often can quickly get overwelmed."
+- source: 2026-05-05--presenting-design-flows-to-michael-effectively--66f01de5 · 0002 (archive-2.md)
+- date: 2026-05-05
+- context: Approval flow artifact for the CEO
+- tags: review-board, copy, style · standing: yes
+
+### E0636 · He approves everything
+- quote: "he needs to approve everything."
+- source: 2026-05-05--presenting-design-flows-to-michael-effectively--66f01de5 · 0002 (archive-2.md)
+- date: 2026-05-05
+- context: Approval and comment page for the CEO
+- tags: review-board, decision-board · standing: yes
+
+### E0637 · Flows as diagrams with arrows helped most
+- quote: "just simplying having things laid out as flows made a big impact here. in fact michael said this is the best meeting we have had."
+- source: 2026-05-05--presenting-design-flows-to-michael-effectively--66f01de5 · 0008 (archive-2.md)
+- date: 2026-05-06
+- context: Figma flow board
+- tags: review-board, process · standing: yes
+
+### E0638 · Board layout: problems on the board, updates nearby
+- quote: "i need the layout and format of the page to work in a way where when things need changed i can lay out on the board (not just the table) what problems came up regarding that flow durin the walk through and then a place nearby where i can show any updates"
+- source: 2026-05-05--presenting-design-flows-to-michael-effectively--66f01de5 · 0008 (archive-2.md)
+- date: 2026-05-06
+- context: Flow board with feedback
+- tags: review-board, decision-board · standing: yes
+
+### E0639 · Suggestions without knowing his layout
+- quote: "you are making these suggestions without knowing my currentlayout or ever suggesting a layout for the entire file which would be the starting ppoint."
+- source: 2026-05-05--presenting-design-flows-to-michael-effectively--66f01de5 · 0010 (archive-2.md)
+- date: 2026-05-06
+- context: Figma flow board
+- tags: process, frustration · standing: yes
+
+### E0640 · Everything stacked vertically problem
+- quote: "everything is stacked vertically currently."
+- source: 2026-05-05--presenting-design-flows-to-michael-effectively--66f01de5 · 0014 (archive-2.md)
+- date: 2026-05-06
+- context: Figma flow board
+- tags: shell, review-board · standing: one-off
+
+### E0641 · Mimic a Figma board in the HTML panel, branded
+- quote: "can u mimic a figma board in the html pannel and create a layout for me that is not only well organized but also looks good and mondai branded?"
+- source: 2026-05-05--presenting-design-flows-to-michael-effectively--66f01de5 · 0016 (archive-2.md)
+- date: 2026-05-06
+- context: Flow board layout
+- tags: delivery, review-board, style · standing: yes
+
+### E0642 · Flow versus design distinction connected
+- quote: "how do i resolve the differentiation between the idea of a flow vs a design while also connecting them if needed"
+- source: 2026-05-05--presenting-design-flows-to-michael-effectively--66f01de5 · 0018 (archive-2.md)
+- date: 2026-05-06
+- context: Flow board taxonomy
+- tags: navigation, review-board · standing: one-off
+
+### E0643 · Lazy and not well thought out
+- quote: "this seems very lazy and not well thought otu"
+- source: 2026-05-05--presenting-design-flows-to-michael-effectively--66f01de5 · 0022 (archive-2.md)
+- date: 2026-05-06
+- context: Flow board layout
+- tags: frustration · standing: yes
+
+### E0644 · Do not forget stated requirements; expects great intuitive result
+- quote: "SO U JUST FORGET THAT I SAID THINGS NEED TO BE CONNECTED? ... STOP BEING LAZY FUCKING FIX ALL OF THIS I EXPECT. GREAT INTUITIVE RESULT FOR THIS NEXT OUTPUT GO."
+- source: 2026-05-05--presenting-design-flows-to-michael-effectively--66f01de5 · 0026 (archive-2.md)
+- date: 2026-05-06
+- context: Flow board layout
+- tags: frustration, process · standing: yes
+
+### E0645 · Dive deeper into project files
+- quote: "you need to dive deeper into these project files. It is a HUGE issue to me that you don't even realize that when it is vital for you to understand the entire project to make sure your insight re correct."
+- source: 2026-05-05--unfinished-action-items-in-get-ahead-flow--7ad9f71b · 0004 (archive-2.md)
+- date: 2026-05-05
+- context: Get ahead flow
+- tags: process, frustration · standing: yes
+
+### E0646 · Wasted tokens and time from shallow work
+- quote: "so you just wasted a ton of my time along with my tokens because you didnt do a thorough enough job despite my instruction to be extremely thorough."
+- source: 2026-05-05--unfinished-action-items-in-get-ahead-flow--7ad9f71b · 0010 (archive-2.md)
+- date: 2026-05-05
+- context: Get ahead flow
+- tags: frustration, process · standing: yes
+
+### E0647 · Response lazy even if not wrong
+- quote: "something about this response feels lazy af and uninformed. im not even saying u r wrong im just saying its lazy."
+- source: 2026-05-05--unfinished-action-items-in-get-ahead-flow--7ad9f71b · 0014 (archive-2.md)
+- date: 2026-05-05
+- context: Get ahead flow
+- tags: frustration · standing: yes
+
+### E0648 · Give options
+- quote: "i need options"
+- source: 2026-05-05--unfinished-action-items-in-get-ahead-flow--7ad9f71b · 0020 (archive-2.md)
+- date: 2026-05-05
+- context: Bonus task language
+- tags: review-board · standing: yes
+
+### E0649 · Give one when one is asked
+- quote: "YES I NEED ONE jesus"
+- source: 2026-05-05--unfinished-action-items-in-get-ahead-flow--7ad9f71b · 0016 (archive-2.md)
+- date: 2026-05-05
+- context: Bonus task label
+- tags: review-board, frustration · standing: yes
+
+### E0650 · Self check logic
+- quote: "i need you to stop and self check and figure out what the fuck youre doing"
+- source: 2026-05-05--unfinished-action-items-in-get-ahead-flow--7ad9f71b · 0028 (archive-2.md)
+- date: 2026-05-05
+- context: Get ahead flow
+- tags: process, frustration · standing: yes
+
+### E0651 · Solutions written to be consumed: impact, risk, fit
+- quote: "I'd liek to see your solutions written otu in a way that is easier to consume so I can better process them. This means a clear impact, risk and how it works within the current system."
+- source: 2026-05-06--simplifying-product-rollover-automation-and-user-clarity--6bea79a8 · 0002 (archive-2.md)
+- date: 2026-05-06
+- context: Rollover solutions
+- tags: copy, decision-board, review-board · standing: yes
+
+### E0652 · Offer three solutions at the end
+- quote: "at the end of your response offer 3 solutions based on your insights."
+- source: 2026-05-06--simplifying-product-rollover-automation-and-user-clarity--6bea79a8 · 0000 (archive-2.md)
+- date: 2026-05-06
+- context: Rollover problem
+- tags: review-board, decision-board · standing: yes
+
+### E0653 · Slide-like format he can share with the CEO, with sources
+- quote: "id like to see this in some presentaton/slide like format. In a way that I could share the solutions with Michael. I want this presented with 1. a clear overview of what we were currently working on and the positives and negatives specifically in regard to hwo it impacts the user."
+- source: 2026-05-06--simplifying-product-rollover-automation-and-user-clarity--6bea79a8 · 0004 (archive-2.md)
+- date: 2026-05-06
+- context: Rollover options for the CEO
+- tags: delivery, decision-board · standing: yes
+
+### E0654 · Asks for alternatives to PowerPoint, html okay
+- quote: "ive done html method in the past which im not totally against but want to know alternatives first."
+- source: 2026-05-06--simplifying-product-rollover-automation-and-user-clarity--6bea79a8 · 0004 (archive-2.md)
+- date: 2026-05-06
+- context: Presentation format
+- tags: delivery · standing: yes
+
+### E0655 · Do not solve a different problem
+- quote: "I did not ask for u to "fix flex" (which you didnt do well anyway). The entire problem to begin with si what to do with leftover action items. THAT IS THE PROBLEM THAT NEEDS SOVLED."
+- source: 2026-05-06--simplifying-product-rollover-automation-and-user-clarity--6bea79a8 · 0008 (archive-2.md)
+- date: 2026-05-06
+- context: Rollover solutions
+- tags: process, frustration · standing: yes
+
+### E0656 · Do not propose full revamps
+- quote: "why are your solutions requiring a full revamp of the current framework? you expect me to redo the entire fuckign design because of this problem?"
+- source: 2026-05-06--simplifying-product-rollover-automation-and-user-clarity--6bea79a8 · 0010 (archive-2.md)
+- date: 2026-05-06
+- context: Rollover solutions
+- tags: process, frustration · standing: yes
+
+### E0657 · Where is the research
+- quote: "WHERE THE FUCK IS THE RESEARCH U HAVE BEEN DOING SO MUCH RESEARCH AND I EXPECT THE SAME KIND OF WORK BEING DONE HERE"
+- source: 2026-05-06--simplifying-product-rollover-automation-and-user-clarity--6bea79a8 · 0018 (archive-2.md)
+- date: 2026-05-06
+- context: Rollover solutions
+- tags: process, frustration · standing: yes
+
+### E0658 · Separate tabs as html in the right window, newest screenshots first
+- quote: "can u design examples fo each all in separate tabs as html in the right window? i need you to deeply examine all informationa and screenshots about the action hub page into account prioritizing most recent ones."
+- source: 2026-05-06--simplifying-product-rollover-automation-and-user-clarity--6bea79a8 · 0020 (archive-2.md)
+- date: 2026-05-06
+- context: Rollover solution artifact
+- tags: delivery, review-board · standing: yes
+
+### E0659 · Tabs at the top, not on the right
+- quote: "idk why u keep putting the tabs on the right and this keeps happening it was better when they were at the top we didnt have these problems"
+- source: 2026-05-06--simplifying-product-rollover-automation-and-user-clarity--6bea79a8 · 0022 (archive-2.md)
+- date: 2026-05-06
+- context: Tab placement in the artifact
+- tags: shell, navigation, frustration · standing: yes
+
+### E0660 · Variants must be real solutions, not tiny tweaks
+- quote: "oh my god wtf are these solutions? these arent even solutions? they create more problems dont u get it? ur just showing different tiny microscopic ways of showing the rollover action items."
+- source: 2026-05-06--simplifying-product-rollover-automation-and-user-clarity--6bea79a8 · 0024 (archive-2.md)
+- date: 2026-05-06
+- context: Rollover options
+- tags: review-board, frustration · standing: yes
+
+### E0661 · Take a long time, accuracy over speed
+- quote: "take a long ass time i dont care abotut hat what i care about is accurate results that actually work for the user."
+- source: 2026-05-06--simplifying-product-rollover-automation-and-user-clarity--6bea79a8 · 0036 (archive-2.md)
+- date: 2026-05-06
+- context: Rollover analysis
+- tags: process · standing: yes
+
+### E0662 · Do not default to yes or no
+- quote: "dont just say yes i know ur tendency because its easy and lazy to just say yes but then again now im feeling liek u may go the opposite way as again a lazy option"
+- source: 2026-05-06--simplifying-product-rollover-automation-and-user-clarity--6bea79a8 · 0038 (archive-2.md)
+- date: 2026-05-06
+- context: Rollover analysis
+- tags: process, frustration · standing: yes
+
+### E0663 · Think outside the box, use project knowledge creatively
+- quote: "i already have more creative solutions than you do. ... you are completely ignorign that is why i use this project to begin with because you can access a full understanding of hte product adn youre not utilizing that enough creatively."
+- source: 2026-05-06--simplifying-product-rollover-automation-and-user-clarity--6bea79a8 · 0040 (archive-2.md)
+- date: 2026-05-06
+- context: Rollover analysis
+- tags: process, style · standing: yes
+
+### E0664 · Wants honest pushback, not agreement
+- quote: "why r u just acceptign what i say without actually thinking about ti and being afraid to ever give honest push back when it is needed?"
+- source: 2026-05-06--simplifying-product-rollover-automation-and-user-clarity--6bea79a8 · 0054 (archive-2.md)
+- date: 2026-05-06
+- context: Framework discussion
+- tags: process, frustration · standing: yes
+
+### E0665 · Explain context and why it is better
+- quote: "ok but ur not explaining any of this contextually....... ur also not explaining why it is better....."
+- source: 2026-05-06--simplifying-product-rollover-automation-and-user-clarity--6bea79a8 · 0064 (archive-2.md)
+- date: 2026-05-06
+- context: Framework discussion
+- tags: process, copy, frustration · standing: yes
+
+### E0666 · Fetch project data instead of a new chat
+- quote: "ok but we are in a project so cant u jsut fetch the info ina. new chat isnide the project....?"
+- source: 2026-05-06--simplifying-product-rollover-automation-and-user-clarity--6bea79a8 · 0066 (archive-2.md)
+- date: 2026-05-06
+- context: Long chat
+- tags: process · standing: yes
+
+### E0667 · HTML presentation: black background, Heebo and IBM Plex Sans Mono
+- quote: "The visuals of the presentation itself should be clean. Black background, heebo/ibm plex sans mono text."
+- source: 2026-05-06--simplifying-product-rollover-automation-and-user-clarity--6bea79a8 · 0068 (archive-2.md)
+- date: 2026-05-11
+- context: Leadership presentation prompt
+- tags: style, delivery · standing: yes
+
+### E0668 · Visual aids assist, not distract; not overly wordy
+- quote: "So the visuals should be aids and not distract from what I am saying but assist with it."
+- source: 2026-05-06--simplifying-product-rollover-automation-and-user-clarity--6bea79a8 · 0068 (archive-2.md)
+- date: 2026-05-11
+- context: Leadership presentation prompt
+- tags: style, copy · standing: yes
+
+### E0669 · Presentation plus an outline guide
+- quote: "Instead it should provide me an outline to go alongside it that serves as a guide and includes the most important details for me to share with top leadership of mondai."
+- source: 2026-05-06--simplifying-product-rollover-automation-and-user-clarity--6bea79a8 · 0068 (archive-2.md)
+- date: 2026-05-11
+- context: Leadership presentation prompt
+- tags: delivery · standing: yes
+
+### E0670 · Search first, then ask what is unresolved
+- quote: "dont be lazy. search yourself first and discover the answers to your questions"
+- source: 2026-05-06--simplifying-product-rollover-automation-and-user-clarity--6bea79a8 · 0070 (archive-2.md)
+- date: 2026-05-11
+- context: Claude asked clarifying questions
+- tags: process, frustration · standing: yes
+
+### E0671 · Fast response with little work will be noticed
+- quote: "take time on this if you repsond quickly and barely do work ill notice."
+- source: 2026-05-06--simplifying-product-rollover-automation-and-user-clarity--6bea79a8 · 0072 (archive-2.md)
+- date: 2026-05-11
+- context: Leadership presentation prompt
+- tags: process · standing: yes
+
+### E0672 · Refer to screens by name, not image numbers
+- quote: "wait i get confused when u say image 1 image 2 all that idkw hat ones u r referring to"
+- source: 2026-05-06--stress-and-serious-life-changes-needed--4b322696 · 0024 (archive-2.md)
+- date: 2026-05-06
+- context: Claude referenced attached screenshots by number
+- tags: copy, frustration · standing: yes
+
+### E0673 · Search the project, do not ask him to do work
+- quote: "no there are way too many and u can find full context in this project stop askign for me to do work for u"
+- source: 2026-05-06--stress-and-serious-life-changes-needed--4b322696 · 0036 (archive-2.md)
+- date: 2026-05-06
+- context: Get ahead flow context
+- tags: process, frustration · standing: yes
+
+### E0674 · Do not make him ask questions he should be asking
+- quote: "ok why are u asking me that? arent u supposed to be helping me come up with solutons now? i just showed u that flow in case they needed to be connected now ur asking me for stuff that i should be asking u for? reread this entire convo to make sure ur not losing context"
+- source: 2026-05-06--stress-and-serious-life-changes-needed--4b322696 · 0044 (archive-2.md)
+- date: 2026-05-06
+- context: Framework discussion
+- tags: process, frustration · standing: yes
+
+### E0675 · Self-correct as you go
+- quote: "why are you not correcting yourself as you go along?"
+- source: 2026-05-06--stress-and-serious-life-changes-needed--4b322696 · 0046 (archive-2.md)
+- date: 2026-05-06
+- context: Framework discussion
+- tags: process, frustration · standing: yes
+
+### E0676 · Large-level problem solving, not element-level fixes
+- quote: "stop fixing this at element specific levels this is a large level problem solving conversation. nothing can be changed without that."
+- source: 2026-05-06--stress-and-serious-life-changes-needed--4b322696 · 0048 (archive-2.md)
+- date: 2026-05-06
+- context: Rollover badge discussion
+- tags: process, frustration · standing: yes
+
+### E0677 · Endless redirecting
+- quote: "i have to keep redirecting u endlessly"
+- source: 2026-05-06--stress-and-serious-life-changes-needed--4b322696 · 0054 (archive-2.md)
+- date: 2026-05-06
+- context: Framework discussion
+- tags: frustration · standing: yes
+
+### E0678 · Stop talking in abstracts
+- quote: "adapt the journey vs hold the line what does that even mean? stop talking in abstracts."
+- source: 2026-05-06--stress-and-serious-life-changes-needed--4b322696 · 0090 (archive-2.md)
+- date: 2026-05-06
+- context: Framework discussion
+- tags: copy, frustration · standing: yes
+
+### E0679 · Explain jargon plainly
+- quote: ""The cognitive load cap solves accumulation." what does this actually mean tho? u keep saying this but what does that actually mean?"
+- source: 2026-05-06--stress-and-serious-life-changes-needed--4b322696 · 0086 (archive-2.md)
+- date: 2026-05-06
+- context: Framework discussion
+- tags: copy, frustration · standing: yes
+
+### E0680 · Quick retrieval despite deep dive requested
+- quote: "then u literally took .2 seconds to pull the info? bullshit. when u actually put work in it takes longer"
+- source: 2026-05-06--stress-and-serious-life-changes-needed--4b322696 · 0084 (archive-2.md)
+- date: 2026-05-06
+- context: Project retrieval
+- tags: process, frustration · standing: yes
+
+### E0681 · No need to keep retyping context
+- quote: "i cant fucking write a book in every god damn message"
+- source: 2026-05-06--stress-and-serious-life-changes-needed--4b322696 · 0076 (archive-2.md)
+- date: 2026-05-06
+- context: Framework discussion
+- tags: process, frustration · standing: yes
+
+### E0682 · Do not give unnecessary context in a prompt
+- quote: "stop. ur giving context that is not necessary i think arent u? im creating a new convo literally in this same project?"
+- source: 2026-05-06--stress-and-serious-life-changes-needed--4b322696 · 0128 (archive-2.md)
+- date: 2026-05-06
+- context: Prompt for a new project chat
+- tags: process, delivery · standing: yes
+
+### E0683 · Break the problem down simply to defend it
+- quote: "im trying to simplify this down into specific parts nd establish th relationship of all items in a clear simplistic state so i can easily say "this relationship is the problem""
+- source: 2026-05-06--stress-and-serious-life-changes-needed--4b322696 · 0110 (archive-2.md)
+- date: 2026-05-06
+- context: Framework map for CEO discussion
+- tags: process, decision-board · standing: one-off
+
+### E0684 · Sunday through Saturday week, remember it
+- quote: "u need to hardgrain the sunday through saturday logic into this project's core u keep asking abotu monday and i have no idea why"
+- source: 2026-05-06--stress-and-serious-life-changes-needed--4b322696 · 0040 (archive-2.md)
+- date: 2026-05-06
+- context: Week logic
+- tags: process, frustration · standing: yes
+
+### E0685 · Read first, no generation before
+- quote: "Do not generate anything until you have done that work."
+- source: 2026-05-07--framework-mapping-and-mvp-rollover-solution--92eca2a4 · 0000 (archive-2.md)
+- date: 2026-05-07
+- context: Framework mapping brief
+- tags: process · standing: yes
+
+### E0686 · No contradictions, no regenerating rejected ideas
+- quote: "Do not contradict yourself between messages. Do not regenerate solutions we already rejected."
+- source: 2026-05-07--framework-mapping-and-mvp-rollover-solution--92eca2a4 · 0000 (archive-2.md)
+- date: 2026-05-07
+- context: Framework mapping brief
+- tags: process · standing: yes
+
+### E0687 · Clear thinking, not more options
+- quote: "The thing I need most is clear thinking, not more options."
+- source: 2026-05-07--framework-mapping-and-mvp-rollover-solution--92eca2a4 · 0000 (archive-2.md)
+- date: 2026-05-07
+- context: Framework mapping brief
+- tags: process, decision-board · standing: yes
+
+### E0688 · Be honest, do not relax me
+- quote: "Do not treat the framework tension as a small thing or try to relax me. Be honest about what the actual problems are even when they are uncomfortable."
+- source: 2026-05-07--framework-mapping-and-mvp-rollover-solution--92eca2a4 · 0000 (archive-2.md)
+- date: 2026-05-07
+- context: Framework mapping brief
+- tags: process · standing: yes
+
+### E0689 · System in outline form, isolated enough to grasp whole
+- quote: "Keep it simple in this next output. Give me the fully functional system in more of an outline way no going into crazy detail and stuff i need it to be isolated enough that I can grasp the system as a whole."
+- source: 2026-05-07--framework-mapping-and-mvp-rollover-solution--92eca2a4 · 0010 (archive-2.md)
+- date: 2026-05-07
+- context: Framework system summary
+- tags: copy, delivery · standing: yes
+
+### E0690 · Process must be 100 percent clear and intuitive
+- quote: "The only thing with all of this we have to really make sure of is that the process is 100% clear to the user and feels as intuitive as possible"
+- source: 2026-05-07--framework-mapping-and-mvp-rollover-solution--92eca2a4 · 0012 (archive-2.md)
+- date: 2026-05-10
+- context: Rollover framework
+- tags: product · standing: yes
+
+### E0691 · Just build it here
+- quote: "honestly why dont you just do it here. i was worried you had too much drift but you seem fine so just make it."
+- source: 2026-05-07--framework-mapping-and-mvp-rollover-solution--92eca2a4 · 0018 (archive-2.md)
+- date: 2026-05-11
+- context: Leadership deck
+- tags: process · standing: one-off
+
+### E0692 · Slides: minimal text, visual aids, he is the communicator
+- quote: "All text in the deck itself should be very minimal. I can elaborate more in what I say. I don't want the user to get confused trying to listen to me and read the slide at the same time."
+- source: 2026-05-07--framework-mapping-and-mvp-rollover-solution--92eca2a4 · 0020 (archive-2.md)
+- date: 2026-05-11
+- context: Leadership deck
+- tags: style, copy, delivery · standing: yes
+
+### E0693 · Slides help understanding, not carry content
+- quote: "The job of the slides is to help make what I am walking them through more understandable."
+- source: 2026-05-07--framework-mapping-and-mvp-rollover-solution--92eca2a4 · 0020 (archive-2.md)
+- date: 2026-05-11
+- context: Leadership deck
+- tags: style, copy · standing: yes
+
+### E0694 · Details go in the outline
+- quote: "Any important data can be in the outline"
+- source: 2026-05-07--framework-mapping-and-mvp-rollover-solution--92eca2a4 · 0020 (archive-2.md)
+- date: 2026-05-11
+- context: Leadership deck
+- tags: delivery, copy · standing: yes
+
+### E0695 · Deck too text heavy
+- quote: "The presentation was way too text heavy. The people viewing the presentation shouldnt be having to read a shit ton at the same time i am talking that is just a horrible idea."
+- source: 2026-05-07--framework-mapping-and-mvp-rollover-solution--92eca2a4 · 0030 (archive-2.md)
+- date: 2026-05-11
+- context: Leadership deck
+- tags: style, copy, frustration · standing: yes
+
+### E0696 · Slide deck is a visual aid
+- quote: "a HUGE part lacking here is that the slides are supposed to be first and foremost a visual aide for them to better understand visually what I am talking about. It should not require additional work it should support what im saying not just exist alongside it."
+- source: 2026-05-07--framework-mapping-and-mvp-rollover-solution--92eca2a4 · 0030 (archive-2.md)
+- date: 2026-05-11
+- context: Leadership deck
+- tags: style, delivery · standing: yes
+
+### E0697 · HTML deck scrolls and cuts content, cannot see parts
+- quote: "the html format is not working. i literally couldnt see parts of the slide deck because i had to scroll and couldnt so i need to figure out what format we should do this in."
+- source: 2026-05-07--framework-mapping-and-mvp-rollover-solution--92eca2a4 · 0030 (archive-2.md)
+- date: 2026-05-11
+- context: HTML slide deck
+- tags: responsive, shell, delivery, frustration · standing: yes
+
+### E0698 · Outline: simple to digest, not a script
+- quote: "an outline for me to use should be created alongside it. that is where the bulk of the content goes but ti should still be simple so i can easily digest it and use it without it being a script ro something."
+- source: 2026-05-07--framework-mapping-and-mvp-rollover-solution--92eca2a4 · 0030 (archive-2.md)
+- date: 2026-05-11
+- context: Presenter outline
+- tags: delivery, copy · standing: yes
+
+### E0699 · Deleted deliverables
+- quote: "you also had an outline file included with this you just deleted all of it what the hell"
+- source: 2026-05-07--framework-mapping-and-mvp-rollover-solution--92eca2a4 · 0028 (archive-2.md)
+- date: 2026-05-11
+- context: Lost deck and outline in a long chat
+- tags: frustration, delivery · standing: yes
+
+### E0700 · Switch to PPTX
+- quote: "just switch to pptx."
+- source: 2026-05-07--framework-mapping-and-mvp-rollover-solution--92eca2a4 · 0032 (archive-2.md)
+- date: 2026-05-11
+- context: Leadership deck format
+- tags: delivery · standing: one-off
+
+### E0701 · Do not ask what was already told or is in the file
+- quote: "this is literally in the presentation file its a fuckign leadership meeting jesus chrsit REALLY REALLY???????"
+- source: 2026-05-07--framework-mapping-and-mvp-rollover-solution--92eca2a4 · 0032 (archive-2.md)
+- date: 2026-05-11
+- context: Claude asked clarifying questions
+- tags: process, frustration · standing: yes
+
+### E0702 · Slide software changes fonts
+- quote: "its changing all my fonts and shit ugh for now can u just make another html version but just make sure there isnt some massive space at the top so i have to scroll and shit."
+- source: 2026-05-07--framework-mapping-and-mvp-rollover-solution--92eca2a4 · 0038 (archive-2.md)
+- date: 2026-05-11
+- context: PPTX opened in other software
+- tags: style, shell, responsive, delivery · standing: yes
+
+### E0703 · Outline must not be plain text; must show where I am
+- quote: "can u put this outlinein a format that isnt plain text????? this is so hard to read i should be able to use this alongside the presentation as i go and always know where i am ugh."
+- source: 2026-05-07--framework-mapping-and-mvp-rollover-solution--92eca2a4 · 0042 (archive-2.md)
+- date: 2026-05-12
+- context: Presenter outline
+- tags: delivery, navigation, style, frustration · standing: yes
+
+### E0704 · PDF delivery
+- quote: "yes. pdf"
+- source: 2026-05-07--framework-mapping-and-mvp-rollover-solution--92eca2a4 · 0050 (archive-2.md)
+- date: 2026-05-12
+- context: Outline format choice
+- tags: delivery · standing: one-off
+
+### E0705 · Do not be lazy, examine the project first (UI flow chat)
+- quote: "You didnt examine it enough clearly. All of these questions can be answered by the knowlege you have access to of the current UI ... examine the conversation again stop being lazy."
+- source: 2026-05-07--ui-flow-solving-for-framework-mapping-mvp--3bbdaf8b · [0002] (archive-3.md)
+- date: 2026-05-07
+- context: Asking Claude to read an earlier conversation before solving UI flow problems
+- tags: process, frustration · standing: yes
+
+### E0706 · Spend real time, not two seconds
+- quote: "nope not even reading. you took two seconds to reveal try again and spend some damn time"
+- source: 2026-05-07--ui-flow-solving-for-framework-mapping-mvp--3bbdaf8b · [0006] (archive-3.md)
+- date: 2026-05-07
+- context: Same chat, Claude answered too fast without reading context
+- tags: process, frustration · standing: yes
+
+### E0707 · Do not do work nobody asked for
+- quote: "okay so yuo are stressing me the fuck out no one even asked you to do all this"
+- source: 2026-05-07--ui-flow-solving-for-framework-mapping-mvp--3bbdaf8b · [0008] (archive-3.md)
+- date: 2026-05-07
+- context: Claude over-delivered scope in the UI flow chat
+- tags: process, frustration · standing: yes
+
+### E0708 · Research before solutions, based on what exists in the product
+- quote: "This is all presented as more solution based whithout doing the research for best practice, implementation and taking a look at what exist now within the product. that means deep research and deep analysis of the information you have within this project of our current designs."
+- source: 2026-05-07--ui-flow-solving-for-framework-mapping-mvp--3bbdaf8b · [0012] (archive-3.md)
+- date: 2026-05-09
+- context: Reviewing Claude's list of screens to design
+- tags: process · standing: yes
+
+### E0709 · Stop adding steps to onboarding
+- quote: "I just dont want to keep adding STEPS. There are already so many. Giving this one small input it's own page in the onboarding flow seems completely unnecessary and frankly not creative."
+- source: 2026-05-07--ui-flow-solving-for-framework-mapping-mvp--3bbdaf8b · [0016] (archive-3.md)
+- date: 2026-05-10
+- context: Where capacity input lives in onboarding
+- tags: product · standing: yes
+
+### E0710 · Laziest solution is always adding more to the flow
+- quote: "the laziest onboarding solution ever is adding more and more and more to the flow."
+- source: 2026-05-07--ui-flow-solving-for-framework-mapping-mvp--3bbdaf8b · [0016] (archive-3.md)
+- date: 2026-05-10
+- context: Onboarding flow length
+- tags: product · standing: yes
+
+### E0711 · Do not just agree or disagree, give sourced perspectives
+- quote: "Don't just disagree or agree. Have well thought out source backed perspectives and insights."
+- source: 2026-05-07--ui-flow-solving-for-framework-mapping-mvp--3bbdaf8b · [0014] (archive-3.md)
+- date: 2026-05-09
+- context: Onboarding capacity discussion
+- tags: process · standing: yes
+
+### E0712 · Take your time, research hard (brochure plan)
+- quote: "Tak your time with this.. Don't be lazy. Research hard."
+- source: 2026-05-08--mondai-brochure-website-strategy-and-portfolio-positioning--6e1cbea6 · [0002] (archive-3.md)
+- date: 2026-05-08
+- context: Brochure site planning strategy
+- tags: process · standing: yes
+
+### E0713 · Use foundational best practice but make it unique to him
+- quote: "It's important that we rely on best practices and strategies for this type of situation from the design world. Using foundational knowledge backed approaches while also making the approach unique to me as a designer."
+- source: 2026-05-08--mondai-brochure-website-strategy-and-portfolio-positioning--6e1cbea6 · [0000] (archive-3.md)
+- date: 2026-05-08
+- context: Brochure site planning
+- tags: process · standing: yes
+
+### E0714 · Primary CTA should not be hidden on a separate page (brochure)
+- quote: "Having a get access/join page separate from the home page is a really bad direction. The user shouln't have to search for this."
+- source: 2026-05-08--mondai-brochure-website-strategy-and-portfolio-positioning--6e1cbea6 · [0004] (archive-3.md)
+- date: 2026-05-08
+- context: Brochure site page structure recommendation
+- tags: product · standing: one-off
+
+### E0715 · He wants no page recommendations unless asked
+- quote: "I don't need suggestions for page recommendations but thanks."
+- source: 2026-05-08--mondai-brochure-website-strategy-and-portfolio-positioning--6e1cbea6 · [0006] (archive-3.md)
+- date: 2026-05-08
+- context: Brochure planning chat
+- tags: process · standing: one-off
+
+### E0716 · You have the info, no excuse (study project before output)
+- quote: "You have all the info on Mondai there is no excuse for u not to nail this shit down pack. ... Study the mondai info hard take a long time u need to kno the info before producing ur next set of output"
+- source: 2026-05-08--mondai-brochure-website-strategy-and-portfolio-positioning--6e1cbea6 · [0012] (archive-3.md)
+- date: 2026-05-08
+- context: Tagline copy examples
+- tags: process, frustration · standing: yes
+
+### E0717 · Examples he gives are meant to steer, do not cargo cult one
+- quote: "those examples are clearly meant to push you in the right direction this is some of the laziest shit i have ever seen from an AI what is going on?"
+- source: 2026-05-08--mondai-brochure-website-strategy-and-portfolio-positioning--6e1cbea6 · [0024] (archive-3.md)
+- date: 2026-05-08
+- context: Claude copied one connector from one good example into all outputs
+- tags: process, frustration · standing: yes
+
+### E0718 · Glitch effect must apply to content only, not a visible box
+- quote: "much stronger but do it without that eird square that appears so it looks like just the content is having the effect the background breaks the illusion and makes it feel flat"
+- source: 2026-05-08--replicating-website-animations--11dba617 · [0010] (archive-3.md)
+- date: 2026-05-08
+- context: React glitch/distortion component replicating a reference site
+- tags: style, interaction · standing: one-off
+
+### E0719 · Effect strength: match the reference, not a faint version
+- quote: "no these just slightly glitch the examples i gave had digital chunks of the imagery moving with the glitch idk what u call that but"
+- source: 2026-05-08--replicating-website-animations--11dba617 · [0008] (archive-3.md)
+- date: 2026-05-08
+- context: Replicating distortion effect from a screen recording
+- tags: style, frustration · standing: one-off
+
+### E0720 · Variations in the right panel as HTML under tabs
+- quote: "Create me 3 variations in html format in the right panel all under different tabs."
+- source: 2026-05-12--refining-the-hero-section-design--f7401b33 · [0002] (archive-3.md)
+- date: 2026-05-12
+- context: Hero section options for the no-quiz home screen
+- tags: delivery, review-board · standing: yes
+
+### E0721 · Be creative within what he already has
+- quote: "what are you doing????? i needed creativity with what i already had not something completely new jesus."
+- source: 2026-05-12--refining-the-hero-section-design--f7401b33 · [0004] (archive-3.md)
+- date: 2026-05-12
+- context: Hero options moved away from his reference design
+- tags: frustration, process · standing: yes
+
+### E0722 · Barely changed anything is also a failure
+- quote: "you barely changed anything? so you can be super creative and out of the box when yuore cretings omething new but u lose that ability when i give u my reference?"
+- source: 2026-05-12--refining-the-hero-section-design--f7401b33 · [0006] (archive-3.md)
+- date: 2026-05-12
+- context: Second round of hero variations
+- tags: frustration, review-board · standing: yes
+
+### E0723 · No italic Heebo
+- quote: "you are always using italic heebo how are you doing this when it doesnt have an italic version :("
+- source: 2026-05-12--refining-the-hero-section-design--f7401b33 · [0008] (archive-3.md)
+- date: 2026-05-13
+- context: HTML hero variations
+- tags: style, frustration · standing: yes
+
+### E0724 · Dig deeper, I keep having to repeat "do not be lazy"
+- quote: "Take your time and dont be lazy on this task. I am emphasizing this again in another sentence because even when I ask this you still ignore me."
+- source: 2026-05-12--differentiating-top-match-recommendations-without-percentage--2b3415fc · [0000] (archive-3.md)
+- date: 2026-05-12
+- context: Top match label research
+- tags: process, frustration · standing: yes
+
+### E0725 · Investigate research, heuristics and other products
+- quote: "there definitely must be alternatives or other options for us to explore right now i feel like you are being shit lazy tbh and not invesitgating the research, heuristics and what other products do."
+- source: 2026-05-12--differentiating-top-match-recommendations-without-percentage--2b3415fc · [0008] (archive-3.md)
+- date: 2026-05-12
+- context: Top match differentiation options
+- tags: process, frustration · standing: yes
+
+### E0726 · Suggestions must be grounded in how the product actually works
+- quote: "these feel like non informative suggestions beacuse theyre only lightly based in the product itself."
+- source: 2026-05-12--differentiating-top-match-recommendations-without-percentage--2b3415fc · [0010] (archive-3.md)
+- date: 2026-05-12
+- context: Claude's options for differentiating career cards
+- tags: process, frustration · standing: yes
+
+### E0727 · Sources must be given and verified
+- quote: "where the hell are the sources i asked for?"
+- source: 2026-05-12--differentiating-top-match-recommendations-without-percentage--2b3415fc · [0016] (archive-3.md)
+- date: 2026-05-12
+- context: Research on optimal number of recommendations
+- tags: process, frustration · standing: yes
+
+### E0728 · Direct links to sources
+- quote: "send me a direct link to this"
+- source: 2026-05-12--differentiating-top-match-recommendations-without-percentage--2b3415fc · [0018] (archive-3.md)
+- date: 2026-05-12
+- context: A cited academic paper
+- tags: process · standing: yes
+
+### E0729 · Trust lost when sources do not support the claim
+- quote: "okay so at this point i dont trust anything you said"
+- source: 2026-05-12--differentiating-top-match-recommendations-without-percentage--2b3415fc · [0026] (archive-3.md)
+- date: 2026-05-12
+- context: Cited research did not contain the claimed number
+- tags: process, frustration · standing: yes
+
+### E0730 · AI should do the finding of relevant information without hand holding
+- quote: "I shouldnt have to hold your hand the point is I am using you, an ai assistant to save me time and do the work that would take me much longer. That work is to find information that is relative to our ask whatever relative may mean."
+- source: 2026-05-12--differentiating-top-match-recommendations-without-percentage--2b3415fc · [0034] (archive-3.md)
+- date: 2026-05-12
+- context: Research for optimal number of suggestions
+- tags: process, frustration · standing: yes
+
+### E0731 · Deep dive into the project first so he does not re-explain
+- quote: "Deep dive without any laziness into the project itself before doing anything else. ... Basically I dont want to have to rewrite long bodies of text to explains things about Mondai to you that you should already know."
+- source: 2026-05-13--designing-content-blocks-for-action-item-pages--740a1467 · [0000] (archive-3.md)
+- date: 2026-05-13
+- context: Content block taxonomy for action item pages
+- tags: process, frustration · standing: yes
+
+### E0732 · Ask clarifying questions up front
+- quote: "I need to make sure you get any clarification questions out of the way from the start and don't want to find out you didn't do the research on an important piece of information that you could have obtined within the file."
+- source: 2026-05-13--designing-content-blocks-for-action-item-pages--740a1467 · [0000] (archive-3.md)
+- date: 2026-05-13
+- context: Same chat
+- tags: process · standing: yes
+
+### E0733 · Do not stray into feature-based content blocks
+- quote: "Your insights are smart but they could easily lean more feature based.  Just be careeful not to push too much into that. For example in this reference I dont have any specific content listed just spaces with filler text for the AI to decide what to do with"
+- source: 2026-05-13--designing-content-blocks-for-action-item-pages--740a1467 · [0002] (archive-3.md)
+- date: 2026-05-13
+- context: Content block taxonomy
+- tags: product, process · standing: one-off
+
+### E0734 · Minimal, not fancy, for a text-led page
+- quote: "dont go crazy on the design here in terms of fanciness i think this page needs to be minimal the main thing here is content organization. you can see the examples i gave were very minimal but still looked nice that is the fine we are going for."
+- source: 2026-05-13--designing-content-blocks-for-action-item-pages--740a1467 · [0011] (archive-3.md)
+- date: 2026-05-13
+- context: Action item content block designs
+- tags: style, product · standing: yes
+
+### E0735 · Stand-out moments from breaking the grid, used by purpose
+- quote: "because the main body content will be text and layout base any obvious frames are going to naturally be a "stand out" moment. ... def have some more grid based and some impact moments in your output based on purpose."
+- source: 2026-05-13--designing-content-blocks-for-action-item-pages--740a1467 · [0011] (archive-3.md)
+- date: 2026-05-13
+- context: Action item content blocks
+- tags: style, product · standing: one-off
+
+### E0736 · Right rail page navigation (documentation pattern)
+- quote: "another thing we need is a way for the user to jump to a certain content section. like an page level navigation. I am thinking something on the right with all the diffefrent sections where u click to navigate to a certain section on the page."
+- source: 2026-05-13--designing-content-blocks-for-action-item-pages--740a1467 · [0013] (archive-3.md)
+- date: 2026-05-13
+- context: Action item page navigation
+- tags: navigation, product · standing: yes
+
+### E0737 · Nav always present for consistency
+- quote: "in most instances there will be enough scrolling to need the menu so probably good to just always have it for consistency."
+- source: 2026-05-13--designing-content-blocks-for-action-item-pages--740a1467 · [0019] (archive-3.md)
+- date: 2026-05-13
+- context: Right rail nav visibility
+- tags: navigation, product · standing: yes
+
+### E0738 · Two levels of hierarchy in nav
+- quote: "Can we also add another level of hierarchy somehow? like for instance if there content blocks we are designing now were sub sections and there were also main sections within here?"
+- source: 2026-05-13--designing-content-blocks-for-action-item-pages--740a1467 · [0015] (archive-3.md)
+- date: 2026-05-13
+- context: Right rail nav
+- tags: navigation, product · standing: one-off
+
+### E0739 · Recreate exactly, only fix spacing, responsive, working menu
+- quote: "I basically want you to recreate everything EXACTLY i mean EXACTLY as it is where I have it, but fix all the spacing and stuff."
+- source: 2026-05-13--designing-content-blocks-for-action-item-pages--740a1467 · [0027] (archive-3.md)
+- date: 2026-05-13
+- context: Pulling a Figma design into a coded page
+- tags: process, delivery · standing: yes
+
+### E0740 · Make it responsive and menu working as a given
+- quote: "I just asked you to pull it but fix things like spacing and make it responsive obvi. also make things like the menu work properly of course too."
+- source: 2026-05-13--designing-content-blocks-for-action-item-pages--740a1467 · [0031] (archive-3.md)
+- date: 2026-05-13
+- context: Coded recreation of a Figma page
+- tags: responsive, interaction, frustration · standing: yes
+
+### E0741 · Tool deletes things from his design
+- quote: "ugh its doing that thing where it deletes stuff which is sooooo annoying."
+- source: 2026-05-13--designing-content-blocks-for-action-item-pages--740a1467 · [0031] (archive-3.md)
+- date: 2026-05-13
+- context: Coded recreation of Figma page dropped content
+- tags: frustration, delivery · standing: yes
+
+### E0742 · Wants Claude to Figma transfer
+- quote: "I recently saw something online about a new plugin or way to actually transfer designs right from Claude to Figma."
+- source: 2026-05-13--designing-content-blocks-for-action-item-pages--740a1467 · [0021] (archive-3.md)
+- date: 2026-05-13
+- context: Asking about Figma tooling
+- tags: delivery · standing: one-off
+
+### E0743 · Sections should fill most of the viewport, one at a time
+- quote: "I love how each of the sections takes up a significant amount of the page like the scrolling is set up nicely so you mostly see one section at a time"
+- source: 2026-05-14--action-items-page-header-and-spacing-redesign--7f12ba4b · [0000] (archive-3.md)
+- date: 2026-05-14
+- context: Action item page scroll feel
+- tags: style, interaction, product · standing: one-off
+
+### E0744 · Right menu sticky from the start, not appearing on scroll
+- quote: "Remember the right menu needs to be sticky ... UX wise I think it needs to be sticky from the get go not appear as you scroll."
+- source: 2026-05-14--action-items-page-header-and-spacing-redesign--7f12ba4b · [0002] (archive-3.md)
+- date: 2026-05-14
+- context: Action item page right rail nav
+- tags: navigation, shell, product · standing: yes
+
+### E0745 · Nav shows where you are, active state follows scroll
+- quote: "when that area is selected i believe the text turns green and the space on the line to the left of the selected subsection that the user is currently on is highlighte green as well. so in turn these would also switch to show where you are as you are scrolling downt he page."
+- source: 2026-05-14--action-items-page-header-and-spacing-redesign--7f12ba4b · [0004] (archive-3.md)
+- date: 2026-05-14
+- context: Right rail nav behaviour he already designed
+- tags: navigation, interaction, product · standing: yes
+
+### E0746 · Not the designer, problem solving together
+- quote: "Hold on for a moment sis. You are not the designer. We are problem solving together."
+- source: 2026-05-14--action-items-page-header-and-spacing-redesign--7f12ba4b · [0002] (archive-3.md)
+- date: 2026-05-14
+- context: Claude took over design direction
+- tags: process, frustration · standing: yes
+
+### E0747 · Do not just agree or disagree
+- quote: "Dont just disagree  or just agree - come back to me with a well thought out knowledgeable research based response. We are problem solving."
+- source: 2026-05-14--action-items-page-header-and-spacing-redesign--7f12ba4b · [0010] (archive-3.md)
+- date: 2026-05-14
+- context: In Progress vs Active status
+- tags: process · standing: yes
+
+### E0748 · Existing patterns (breadcrumbs) must not clash with flow
+- quote: "no this is very confusing because we use breadcrumbs on the pathway pages to get back to hte growth journey page."
+- source: 2026-05-14--action-items-page-header-and-spacing-redesign--7f12ba4b · [0004] (archive-3.md)
+- date: 2026-05-14
+- context: Breadcrumb proposal for action item header
+- tags: product, navigation · standing: one-off
+
+### E0749 · No dropdown for status; sticky status button
+- quote: "I definitely dont want to do a drop down tho and I do think that the button that you click or whatever we use should probably be sticky too? maybe to the right?"
+- source: 2026-05-14--action-items-page-header-and-spacing-redesign--7f12ba4b · [0004] (archive-3.md)
+- date: 2026-05-14
+- context: Status change control on action item page
+- tags: product, interaction · standing: one-off
+
+### E0750 · Wants short paragraph in his tone for a stakeholder
+- quote: "Can you craft me a very short paragraph to send to Michael that is written in my tone of voice"
+- source: 2026-05-14--action-items-page-header-and-spacing-redesign--7f12ba4b · [0014] (archive-3.md)
+- date: 2026-05-14
+- context: Communicating a decision to Michael
+- tags: process, copy · standing: yes
+
+### E0751 · Three options with different layouts and interactions, sourced
+- quote: "Can you give me 3 options? Each should have different header layouts and different mark as complete interaction etc. Do deep digging here on how other products ... include sources with all insights and ensure the information on the resources supports your conclusion directly."
+- source: 2026-05-14--action-items-page-header-and-spacing-redesign--7f12ba4b · [0020] (archive-3.md)
+- date: 2026-05-14
+- context: Action item page options
+- tags: review-board, decision-board, process · standing: yes
+
+### E0752 · Do not flag things for the hell of it
+- quote: "sometimes i feel like you just flag things for the hell of it."
+- source: 2026-05-14--action-items-page-header-and-spacing-redesign--7f12ba4b · [0030] (archive-3.md)
+- date: 2026-05-14
+- context: Claude critiqued details of his action item page
+- tags: process, frustration · standing: yes
+
+### E0753 · Give content, not a question about content
+- quote: "I'm honestly confused as hell why you didnt jsut give me content for that honestly thats annoying lol."
+- source: 2026-05-14--action-items-page-header-and-spacing-redesign--7f12ba4b · [0030] (archive-3.md)
+- date: 2026-05-14
+- context: Quote block placeholder
+- tags: process, frustration · standing: yes
+
+### E0754 · Section title and first subsection should feel connected; sticky title
+- quote: "the seection title comes into view, but it sticks for a moment to kind of like indicate it is the start of a new section but doesnt move into the subsection and disappear that is strange as hell."
+- source: 2026-05-14--action-items-page-header-and-spacing-redesign--7f12ba4b · [0061] (archive-3.md)
+- date: 2026-05-15
+- context: Scroll behaviour of section titles on action item page
+- tags: interaction, product · standing: one-off
+
+### E0755 · Always one more thing at the end
+- quote: "are you just honestly saying this because u are programmed to always or often have some kind of "one more thing" thing at the end? because i feel like we could go on forever and ever and youll always have a note"
+- source: 2026-05-14--action-items-page-header-and-spacing-redesign--7f12ba4b · [0048] (archive-3.md)
+- date: 2026-05-14
+- context: Claude closed a reply with a caveat
+- tags: process, frustration · standing: yes
+
+### E0756 · Mimic my menu exactly, do not reinvent it
+- quote: "thats why there is a line to the left for each that yoy for some weird ass reason didnt include despite me telling you to mimic my menu. I told you how this works earlier and we have discussed it multiple times."
+- source: 2026-05-14--action-items-page-header-and-spacing-redesign--7f12ba4b · [0061] (archive-3.md)
+- date: 2026-05-15
+- context: Coded options for the action item page
+- tags: process, frustration, navigation · standing: yes
+
+### E0757 · Cheap parallax looks ridiculous, not what he meant
+- quote: "also the parallax is lazy as hell. Why would you ever do it like that you know it looks ridiculous."
+- source: 2026-05-14--action-items-page-header-and-spacing-redesign--7f12ba4b · [0061] (archive-3.md)
+- date: 2026-05-15
+- context: Section title scroll effect options
+- tags: style, interaction, frustration · standing: one-off
+
+### E0758 · Show a combined version too, do not make him ask
+- quote: "waitwaitwait you just suggested a and b combined and are onyl going to create versions of them separately? why wouldnt you also make a third tab with them combined? duh?"
+- source: 2026-05-14--action-items-page-header-and-spacing-redesign--7f12ba4b · [0063] (archive-3.md)
+- date: 2026-05-15
+- context: Tabbed HTML options
+- tags: review-board, delivery, frustration · standing: yes
+
+### E0759 · Versions in different tabs
+- quote: "can you just do all the versions in different tabs?"
+- source: 2026-05-14--action-items-page-header-and-spacing-redesign--7f12ba4b · [0059] (archive-3.md)
+- date: 2026-05-14
+- context: Scroll effect options for section titles
+- tags: review-board, delivery · standing: yes
+
+### E0760 · Include the full content, otherwise hard to judge
+- quote: "honestly? why arent you including the full content blocks? it makes it really hard to judge also this just doesnt feel smooth idk how to explain it. do we slow the scroll or something a bit? what do we need to do to not make this feel so amateur"
+- source: 2026-05-14--action-items-page-header-and-spacing-redesign--7f12ba4b · [0065] (archive-3.md)
+- date: 2026-05-15
+- context: Coded scroll prototypes with truncated content
+- tags: review-board, style, interaction, frustration · standing: yes
+
+### E0761 · Polish: must not feel amateur, scroll should feel smooth
+- quote: "this just doesnt feel smooth idk how to explain it. do we slow the scroll or something a bit? what do we need to do to not make this feel so amateur"
+- source: 2026-05-14--action-items-page-header-and-spacing-redesign--7f12ba4b · [0065] (archive-3.md)
+- date: 2026-05-15
+- context: Coded scroll prototype
+- tags: style, interaction · standing: yes
+
+### E0762 · I need help, I should not figure it out alone
+- quote: "idk literally looking for some damn help here i shouldnt have to figure this all out alone and im about to run out of tokens for the night so this is not cool."
+- source: 2026-05-14--action-items-page-header-and-spacing-redesign--7f12ba4b · [0061] (archive-3.md)
+- date: 2026-05-15
+- context: Section title scroll treatment
+- tags: process, frustration · standing: yes
+
+### E0763 · Token limits matter, text-only when low
+- quote: "i dont have enough tokens for that right now. so until my tokens revamp can you just give me the specific changes i need to make for the completed/not started versions of the action item page. like just tell me what i need to change on each no visuals i dont have enough tokens"
+- source: 2026-05-14--action-items-page-header-and-spacing-redesign--7f12ba4b · [0067] (archive-3.md)
+- date: 2026-05-15
+- context: Usage limits
+- tags: delivery, process · standing: one-off
+
+### E0764 · Show it with everything decided applied, not re-ask
+- quote: "idk why youre asking any of that unless you havent seen the page. plus the viewport thing did we not literally just decide every one takes up the whole thing?"
+- source: 2026-05-14--action-items-page-header-and-spacing-redesign--7f12ba4b · [0055] (archive-3.md)
+- date: 2026-05-14
+- context: Claude re-asked settled decisions in a coded mock
+- tags: process, frustration · standing: yes
+
+### E0765 · Mock does not match his design (menu has labels, not a border)
+- quote: "also why is the menu like that? thats not how it is in my design that impacts the way the sticky behavior feels. i do not have a border like that i have labels etc"
+- source: 2026-05-14--action-items-page-header-and-spacing-redesign--7f12ba4b · [0053] (archive-3.md)
+- date: 2026-05-14
+- context: Coded mock of action item page
+- tags: frustration, delivery · standing: yes
+
+### E0766 · Reading prior decisions: he re-explains settled flows
+- quote: "Think about and fully absorb what we have already decided in this project and where we are."
+- source: 2026-05-14--action-items-page-header-and-spacing-redesign--7f12ba4b · [0075] (archive-3.md)
+- date: 2026-05-15
+- context: Action hub status and circle click behaviour
+- tags: process, frustration · standing: yes
+
+### E0767 · Wasting time re-exploring settled decisions
+- quote: "You literally already helped me solve this exact thing previously now I am spending time back tracking. Time I do not have time for."
+- source: 2026-05-14--action-items-page-header-and-spacing-redesign--7f12ba4b · [0089] (archive-3.md)
+- date: 2026-05-15
+- context: Circle click interaction on action hub
+- tags: process, frustration · standing: yes
+
+### E0768 · Comparable references must actually be comparable
+- quote: "Comparing it to something like pinterest is absolutely ridiculous these are not comparable surfaces."
+- source: 2026-05-14--action-items-page-header-and-spacing-redesign--7f12ba4b · [0089] (archive-3.md)
+- date: 2026-05-15
+- context: Reference products used to justify interaction
+- tags: process, product · standing: yes
+
+### E0769 · Consistent interaction across states (same click, same kind of action)
+- quote: "The difference between what happens between a not started item when the same place is clicked on the other cards a substantial action occurs is a huge glaring red flag."
+- source: 2026-05-14--action-items-page-header-and-spacing-redesign--7f12ba4b · [0089] (archive-3.md)
+- date: 2026-05-15
+- context: Action hub circle control
+- tags: product, interaction · standing: yes
+
+### E0770 · Undo by single click on a completion circle is a bad pattern for this product
+- quote: "the simple undo completion from just clicking the complete circle is also a horrible pattern for this case."
+- source: 2026-05-14--action-items-page-header-and-spacing-redesign--7f12ba4b · [0089] (archive-3.md)
+- date: 2026-05-15
+- context: Action hub circle control
+- tags: product, interaction · standing: one-off
+
+### E0771 · Destructive or consequential actions need confirmation (hold to confirm idea)
+- quote: "I initially wanted to do a hold to confirm type of interaction where the user couldnt just click it had to hold to confirm and some kind of text would make sure they knew what tey wre confirming so they had time to stop holding."
+- source: 2026-05-14--action-items-page-header-and-spacing-redesign--7f12ba4b · [0089] (archive-3.md)
+- date: 2026-05-15
+- context: Action hub complete interaction history
+- tags: product, interaction · standing: yes
+
+### E0772 · Context menu for circle actions
+- quote: "remember when you click the circles a context menu pops up and the user selects or confirms or whatever. so it needs to still be in a context menu."
+- source: 2026-05-14--action-items-page-header-and-spacing-redesign--7f12ba4b · [0085] (archive-3.md)
+- date: 2026-05-15
+- context: Action hub circle control
+- tags: product, interaction · standing: one-off
+
+### E0773 · Clicking should never do nothing (friction)
+- quote: "I didnt want clicking on it to not do anything because i felt like that would be friction."
+- source: 2026-05-14--action-items-page-header-and-spacing-redesign--7f12ba4b · [0081] (archive-3.md)
+- date: 2026-05-15
+- context: Not started circle click
+- tags: product, interaction · standing: yes
+
+### E0774 · Icon placement: after text when user should read text
+- quote: "for the action items with an icon like complete or undo should the icon go before or after the text in this case? i know typically it goes before but because we want the user to read the text do we actually put it after?"
+- source: 2026-05-14--action-items-page-header-and-spacing-redesign--7f12ba4b · [0101] (archive-3.md)
+- date: 2026-05-15
+- context: Context menu items
+- tags: product, style · standing: one-off
+
+### E0775 · Copy that implies a locked item cannot be viewed is wrong
+- quote: "Nah this is bad language. It sohuld be soemthing more along the lines of "More actions will become available when this becomes your active action item""
+- source: 2026-05-14--action-items-page-header-and-spacing-redesign--7f12ba4b · [0099] (archive-3.md)
+- date: 2026-05-15
+- context: Action hub context menu helper text
+- tags: copy, product · standing: one-off
+
+### E0776 · Do not bother with design-system-costly refinements
+- quote: "the wider line height is too annoying to do in the design system so not sure if its worth it? thoughts?"
+- source: 2026-05-14--action-items-page-header-and-spacing-redesign--7f12ba4b · [0038] (archive-3.md)
+- date: 2026-05-14
+- context: Expanded list text styling
+- tags: product, style · standing: one-off
+
+### E0777 · Keep documents simple, informative, pretty (PDF for stakeholder)
+- quote: "obvi keep it simple but informative. im also not sure of the best format here either. maybe a pdf with like really nice organization and stuff?"
+- source: 2026-05-14--claude-max-account-business-case-for-michael--73d4bb73 · [0000] (archive-3.md)
+- date: 2026-05-14
+- context: Business case document for Michael
+- tags: delivery, style · standing: one-off
+
+### E0778 · Do not make him look like AI does his design work
+- quote: "definitely dont make this sound like i get all my designs from you or something lol"
+- source: 2026-05-14--claude-max-account-business-case-for-michael--73d4bb73 · [0000] (archive-3.md)
+- date: 2026-05-14
+- context: Business case document tone
+- tags: process, copy · standing: one-off
+
+### E0779 · Table at a glance confusing for non-users, drop irrelevant items
+- quote: "the pro vs max at a glance table is a little confusing for someone who doesnt use claude much. ... model acess not relevant, early access not relevant."
+- source: 2026-05-14--claude-max-account-business-case-for-michael--73d4bb73 · [0014] (archive-3.md)
+- date: 2026-05-14
+- context: Review of a stakeholder document
+- tags: copy, review-board · standing: one-off
+
+### E0780 · Human experience outweighs Claude's refusal; frame it and go
+- quote: "okay like this is so annoying girl. like i get it. from your view this isnt true. ... the point is to explain why opus is necessary here and how much that costs and if you need to just frame it that way k? now go ahead and create the new one"
+- source: 2026-05-14--claude-max-account-business-case-for-michael--73d4bb73 · [0016] (archive-3.md)
+- date: 2026-05-14
+- context: Claude pushed back on a claim in a stakeholder document
+- tags: process, frustration · standing: one-off
+
+### E0781 · Plain text in a code box so spacing survives
+- quote: "i asked for plain text please so like a code box thats the nly way the spacing and stuff transfers"
+- source: 2026-05-14--converting-brochure-screenshots-to-plain-text-sections--58b5fdaf · [0002] (archive-3.md)
+- date: 2026-05-14
+- context: Transcribing brochure copy from screenshots
+- tags: delivery, copy · standing: yes
+
+### E0782 · Do not do visual work when asked for copy order and story
+- quote: "I am not asking for you to do anything visual for me right now so i just want to make that clear. we are talking about copy, order and story."
+- source: 2026-05-14--converting-brochure-screenshots-to-plain-text-sections--58b5fdaf · [0012] (archive-3.md)
+- date: 2026-05-14
+- context: Brochure copy restructure
+- tags: process · standing: yes
+
+### E0783 · Brochure: too busy, reference high converting SaaS landing pages
+- quote: "One big problem with this design as well is it's just too busy. We should be referencing websites like the websites featured on https://saaslandingpage.com/ which use layouts and design that have proven high conversion rates...."
+- source: 2026-05-14--converting-brochure-screenshots-to-plain-text-sections--58b5fdaf · [0008] (archive-3.md)
+- date: 2026-05-14
+- context: Existing brochure site critique
+- tags: style, product · standing: yes
+
+### E0784 · Context menu alignment under the circle (question)
+- quote: "how should the alignment be? should it go underneath and left align in this instance with the circle or?"
+- source: 2026-05-15--action-hub-context-menu-alignment--f2e240c4 · [0000] (archive-3.md)
+- date: 2026-05-15
+- context: Popover menu alignment on action hub
+- tags: interaction, product · standing: one-off
+
+### E0785 · Be not lazy and deep dive before scroll design
+- quote: "I need you to be not lazy and deep dive into this and make sure you understnd everything."
+- source: 2026-05-15--action-items-page-scrolling-and-layout-strategy--8bf13090 · [0000] (archive-3.md)
+- date: 2026-05-15
+- context: Action item page scroll behaviour
+- tags: process · standing: yes
+
+### E0786 · Content blocks cramped, hierarchy bad, no space
+- quote: "everything feels cramped and the hierarchy is shit."
+- source: 2026-05-15--action-items-page-scrolling-and-layout-strategy--8bf13090 · [0004] (archive-3.md)
+- date: 2026-05-15
+- context: Claude's coded layout options for action item page
+- tags: style, frustration, review-board · standing: yes
+
+### E0787 · Right menu takes too much space, must highlight with scroll and stick to top
+- quote: "why is the right menu taking up so much damn spacE? Why is it not highlighting the sections as you scroll? ... the highlighted menu item should change as you scroll the page based on the content in frame.  It should also stick to the top this is really weird positioning."
+- source: 2026-05-15--action-items-page-scrolling-and-layout-strategy--8bf13090 · [0006] (archive-3.md)
+- date: 2026-05-15
+- context: Coded right rail nav in Claude's mock
+- tags: navigation, shell, interaction, frustration · standing: yes
+
+### E0788 · Next section must be visible before previous fully leaves
+- quote: "in some of these  you see a section end and the next section doesnt even come into view until the other section above is completely out of view... That is an issue"
+- source: 2026-05-15--action-items-page-scrolling-and-layout-strategy--8bf13090 · [0006] (archive-3.md)
+- date: 2026-05-15
+- context: Coded scroll layout
+- tags: interaction, frustration · standing: yes
+
+### E0789 · Line length: 72 feels narrow at wide viewports
+- quote: "Lastly I need advice on line length here so I can set up my min/maxs properly. Obvi 72 is recommended but that also feels rather narrow honestly especially at higher viewports so im not sure how to handle that either."
+- source: 2026-05-15--action-items-page-scrolling-and-layout-strategy--8bf13090 · [0006] (archive-3.md)
+- date: 2026-05-15
+- context: Reading column width
+- tags: responsive, style · standing: yes
+
+### E0790 · Not a document, not Notion or Linear as reference
+- quote: "i want us to be careful and not use things like notion so much as an example because that is an entirely different kind of surface. This shouldn't feel "like reading a document""
+- source: 2026-05-15--action-items-page-scrolling-and-layout-strategy--8bf13090 · [0008] (archive-3.md)
+- date: 2026-05-15
+- context: Action item page references
+- tags: style, product · standing: yes
+
+### E0791 · Stop referencing Notion and Linear
+- quote: "stop focusing on notion and linear specifically for reference we already discussed thiss jesus christ why are you referencing them at all this is not a related circumstance"
+- source: 2026-05-15--action-items-page-scrolling-and-layout-strategy--8bf13090 · [0022] (archive-3.md)
+- date: 2026-05-15
+- context: Repeated drift to document-style layout
+- tags: process, frustration, style · standing: yes
+
+### E0792 · Editorial whitespace is the point; his spacing beats Claude's
+- quote: "My spacing in the original feels much more editorial and utilizes white space much better than you have in any of these outputs. The white space is what makes the product feel more editorial and modern in my designs"
+- source: 2026-05-15--action-items-page-scrolling-and-layout-strategy--8bf13090 · [0016] (archive-3.md)
+- date: 2026-05-15
+- context: Comparing Claude's mocks with his original
+- tags: style, frustration · standing: yes
+
+### E0793 · Claude redesigns instead of matching his sizes
+- quote: "your sizing is super bad and not matching up ... Its liek youre trying to design what you think is "better" but it jsut clearly isnt."
+- source: 2026-05-15--action-items-page-scrolling-and-layout-strategy--8bf13090 · [0016] (archive-3.md)
+- date: 2026-05-15
+- context: Coded versions of action item page
+- tags: process, frustration · standing: yes
+
+### E0794 · Talk plainly, no weird numbering of sections
+- quote: "youre using these numbers to identify sections and i have no fucking clue what sections you are referrign to when you use this weird number system ... you are typing a LOT. this needs to be discussed with me in a way that isnt so damn detailed in every single spot"
+- source: 2026-05-15--action-items-page-scrolling-and-layout-strategy--8bf13090 · [0016] (archive-3.md)
+- date: 2026-05-15
+- context: Claude's critique with pixel numbers
+- tags: copy, process, frustration · standing: yes
+
+### E0795 · Spacing system, not hierarchy
+- quote: "this is literally what i have been sayin from the start.. rebuild."
+- source: 2026-05-15--action-items-page-scrolling-and-layout-strategy--8bf13090 · [0018] (archive-3.md)
+- date: 2026-05-15
+- context: Claude finally listed a spacing system
+- tags: style, frustration · standing: yes
+
+### E0796 · Lots of space between subsections, one subsection in focus
+- quote: "The idea is that with each subsection in view it allows the user to focus in on the specific seciton with out all the damn visual clutter. Right now the outputs you're creating feel really heavy, the content blocks don't serve their purpose and are almost pointless when they are all stuck together."
+- source: 2026-05-15--action-items-page-scrolling-and-layout-strategy--8bf13090 · [0020] (archive-3.md)
+- date: 2026-05-15
+- context: Action item page layout
+- tags: style, product · standing: yes
+
+### E0797 · Do not make an output until he confirms understanding
+- quote: "Do not make an output here i want to make sure you understand what im saying"
+- source: 2026-05-15--action-items-page-scrolling-and-layout-strategy--8bf13090 · [0020] (archive-3.md)
+- date: 2026-05-15
+- context: After repeated misses
+- tags: process · standing: yes
+
+### E0798 · Pixel specs are dev's job; values differ per viewport
+- quote: "setting specific pixel distances is irrelevent because they will need to be differnt per viewport so the point is to make dev make this work properly."
+- source: 2026-05-15--action-items-page-scrolling-and-layout-strategy--8bf13090 · [0026] (archive-3.md)
+- date: 2026-05-15
+- context: Section spacing across viewports
+- tags: responsive, process · standing: yes
+
+### E0799 · Next subsection should peek: first element in upper 25% of frame
+- quote: "I'm thinking once the first element whether its section or subsection its the upper 25% of the frame so when there is 75% below it something like the screenshot attached."
+- source: 2026-05-15--action-items-page-scrolling-and-layout-strategy--8bf13090 · [0034] (archive-3.md)
+- date: 2026-05-15
+- context: Scroll positioning for sections
+- tags: interaction, responsive · standing: one-off
+
+### E0800 · Nav already figured out, do not re-raise
+- quote: "why are you even talking about navigation here? i already have the navigaiton part figured out and i told you this and exactly how it is supposed to work what the heck?"
+- source: 2026-05-15--action-items-page-scrolling-and-layout-strategy--8bf13090 · [0010] (archive-3.md)
+- date: 2026-05-15
+- context: Survey question about navigation
+- tags: process, frustration, navigation · standing: yes
+
+### E0801 · Survey questions confusing; do more than show examples
+- quote: "this only address a small fraction of the issues so you need to be doing a lot more in this output than showing me these examples thats for fucking sure."
+- source: 2026-05-15--action-items-page-scrolling-and-layout-strategy--8bf13090 · [0012] (archive-3.md)
+- date: 2026-05-15
+- context: Claude asked pick-one questions instead of solving
+- tags: process, frustration, review-board · standing: yes
+
+### E0802 · Want to see both versions side by side (when unsure)
+- quote: "Not sure, want to see both"
+- source: 2026-05-15--action-items-page-scrolling-and-layout-strategy--8bf13090 · [0002] (archive-3.md)
+- date: 2026-05-15
+- context: Depth structure choice
+- tags: review-board, decision-board · standing: yes
+
+### E0803 · Want to see both extremes side by side
+- quote: "Want to see both extremes side by side"
+- source: 2026-05-15--action-items-page-scrolling-and-layout-strategy--8bf13090 · [0002] (archive-3.md)
+- date: 2026-05-15
+- context: Section arrival "moment" size
+- tags: review-board, decision-board · standing: yes
+
+### E0804 · Dev docs: short, only what dev needs, in his preferred PDF style
+- quote: "I just now need some kind of documentation for dev that outlines the scroll behavior and such. Nothing overly complicated no explaining a bunc h of necessary shit just enough for them to understand and get the job done. I have recently asked another claude window to put in this project that all pdfs of this sort should be in the same style as the document i wrote up for michael"
+- source: 2026-05-15--action-items-page-scrolling-and-layout-strategy--8bf13090 · [0040] (archive-3.md)
+- date: 2026-05-15
+- context: Dev handoff document
+- tags: delivery, style, copy · standing: yes
+
+### E0805 · Docs: pretty like the Michael doc, no mid-section page breaks
+- quote: "additionally i hate how this keeps breaking like the sections keep breaking in the middle. also rrememeber the original reference was that michael doc which was similar to this but just.... prettier... i need you to take a look at that and make this prettier like that one."
+- source: 2026-05-15--action-items-page-scrolling-and-layout-strategy--8bf13090 · [0097] (archive-3.md)
+- date: 2026-05-15
+- context: PDF for dev and AI team
+- tags: delivery, style, frustration · standing: yes
+
+### E0806 · Document: straight to the point, add intro on why it matters
+- quote: "It shouldnt be overly long just straight to the point. ... Like before, dont add a bunch of text this should be easy to read and understand and not include a bunch of unnecessary conjecture."
+- source: 2026-05-15--action-items-page-scrolling-and-layout-strategy--8bf13090 · [0093] (archive-3.md)
+- date: 2026-05-15
+- context: Spec document for dev and AI
+- tags: copy, delivery · standing: yes
+
+### E0807 · Do not just agree: help problem solve
+- quote: "HELP ME PROBLEM SOLVE DONT JUST FUCKING AGREE I AM NOT ASKING U FOR ADVICE ON RELATIONSHIP RPOBLEMS I AM ASKING U IN A VERY CLEARLY PURPOSEFUL PROBLEM SOLVING CLAUDE PROJECT WHAT ANGLE WORKS BEST HERE"
+- source: 2026-05-15--action-items-page-scrolling-and-layout-strategy--8bf13090 · [0062] (archive-3.md)
+- date: 2026-05-15
+- context: End-of-page moment on action item page
+- tags: process, frustration · standing: yes
+
+### E0808 · Look at what other patterns do
+- quote: "HOW ABOUT U ACTUALLY LOOK INTO WHAT OTHER PATTERNS DO JESUS CHRIST"
+- source: 2026-05-15--action-items-page-scrolling-and-layout-strategy--8bf13090 · [0054] (archive-3.md)
+- date: 2026-05-15
+- context: End of page moment
+- tags: process, frustration · standing: yes
+
+### E0809 · Connect the dots, system thinking across several problems
+- quote: "yuore not connecting any of the damnd ots here or doing research or actually trying to problem solve you are utilizing no system thinking abilities this is what im talking about. ther are multiple things to figure out and solve for at once"
+- source: 2026-05-15--action-items-page-scrolling-and-layout-strategy--8bf13090 · [0066] (archive-3.md)
+- date: 2026-05-15
+- context: End moment and confirm button
+- tags: process, frustration · standing: yes
+
+### E0810 · Duplicate CTAs confuse the user
+- quote: "i just feel like its weird to the user still... like they get down there and see that new button then i imagine the user being like "wait what about the button at the top?" i think there is a lot of potential friction here."
+- source: 2026-05-15--action-items-page-scrolling-and-layout-strategy--8bf13090 · [0046] (archive-3.md)
+- date: 2026-05-15
+- context: Complete button at end of page
+- tags: product, interaction · standing: yes
+
+### E0811 · Small text needs the accent colour to feel important
+- quote: "it needs to stand out if its going to be small if its not green it feels unimportant."
+- source: 2026-05-15--action-items-page-scrolling-and-layout-strategy--8bf13090 · [0050] (archive-3.md)
+- date: 2026-05-15
+- context: End of task label
+- tags: style, product · standing: one-off
+
+### E0812 · Same action, same place across states
+- quote: "this pattern was established so the action is the same in all locations which mirrors the way the patterns are the same for the same actions on the action hub screen"
+- source: 2026-05-15--action-items-page-scrolling-and-layout-strategy--8bf13090 · [0070] (archive-3.md)
+- date: 2026-05-15
+- context: Complete action on action item page
+- tags: product, interaction · standing: yes
+
+### E0813 · Product knowledge must anchor all advice (AI-generated product)
+- quote: "ALL UR ADVICE AND THOUGHTS AND SHIT ARE SUPPOSED TO BE ROOTED IN YOUR PRODUCT KNOWLEDGE LIKE ACTUALLY ACKNOWLEDGE THIS RIGHT NOW OTHERWISE EVERYTHING WE ARE DOING AND ALL THE TIME AND MY MONEY BEING WASTED IS WORTHLESS"
+- source: 2026-05-15--action-items-page-scrolling-and-layout-strategy--8bf13090 · [0087] (archive-3.md)
+- date: 2026-05-15
+- context: Claude treated AI-generated page as static
+- tags: process, frustration · standing: yes
+
+### E0814 · Be self critical, do not contradict yourself
+- quote: "u keep honestly contradicting yourself i cant believe we are still working on this ending moment :/"
+- source: 2026-05-15--action-items-page-scrolling-and-layout-strategy--8bf13090 · [0081] (archive-3.md)
+- date: 2026-05-15
+- context: Difficulty estimates
+- tags: process, frustration · standing: yes
+
+### E0815 · Example screenshot is only an example, not a spec
+- quote: "what? i never said this was the final version. i litereally just said this was an example. i was going to use claude ina. new window to help with this what the fuck? can you not even read now?"
+- source: 2026-05-15--action-items-page-scrolling-and-layout-strategy--8bf13090 · [0101] (archive-3.md)
+- date: 2026-05-15
+- context: Typography-led sketch
+- tags: process, frustration · standing: yes
+
+### E0816 · Long chats lose context: he can't restart in a new window
+- quote: "I CANT JUST GO INTO A NEW CHAT AND EXPECT THEM TO KNOW EVERYTHING WE JUST DISCUSSED FUCK"
+- source: 2026-05-15--action-items-page-scrolling-and-layout-strategy--8bf13090 · [0105] (archive-3.md)
+- date: 2026-05-15
+- context: Handoff to new chat
+- tags: process, frustration, delivery · standing: yes
+
+### E0817 · Pressed state for components
+- quote: "does there need to be a "pressed state" for the expandable list items component? i currently have these four which are default and hover states"
+- source: 2026-05-15--action-items-page-scrolling-and-layout-strategy--8bf13090 · [0034] (archive-3.md)
+- date: 2026-05-15
+- context: Expandable list component states
+- tags: interaction, product · standing: one-off
+
+### E0818 · Typography options: bolder, more contrast, use the whole font system
+- quote: "I think there needs to be more contrast in the differences and text sizes also why aren't you playing with ibm plex sans or ibm plex mono. This is pretty basic typography rules here I'm asking for in terms of good looking typography.... also the plat with spacing and stuff here is so boring as well"
+- source: 2026-05-15--html-file-mystery--fcc195a0 · [0006] (archive-3.md)
+- date: 2026-05-16
+- context: Closing moment typography direction options in tabbed HTML
+- tags: style, review-board, frustration · standing: yes
+
+### E0819 · Settled system must be applied, not ignored
+- quote: "umm you didn't listen to what I said"
+- source: 2026-05-15--html-file-mystery--fcc195a0 · [0008] (archive-3.md)
+- date: 2026-05-16
+- context: Typography options round 2
+- tags: process, frustration · standing: yes
+
+### E0820 · Maximize creativity but reusable; type first, no dividers, small accents ok
+- quote: "I'm asking you to maximize creativity and be intentional just so that it can be replicated with other sayings and still feel powerful. ... Focus on just type first for the most part unless they're small accents like that which I really enjoyed but things like dividers and likes no thanks."
+- source: 2026-05-15--html-file-mystery--fcc195a0 · [0010] (archive-3.md)
+- date: 2026-05-16
+- context: Closing moment typography
+- tags: style, product · standing: yes
+
+### E0821 · Truth seeking, not satisfying him, no forced both-sides answer
+- quote: "Your job  is not to satisfy me jere. I don't want toy to tell me im weong or right for any reason other than seeking the truth. I also don't want to to a force a "they're both equal in different ways" bullshit answer either"
+- source: 2026-05-15--html-file-mystery--fcc195a0 · [0012] (archive-3.md)
+- date: 2026-05-16
+- context: Judging whether an earlier AI session drifted
+- tags: process · standing: yes
+
+### E0822 · Needs full context from earlier conversations
+- quote: "It's really important you deep dive that convo and are up to date. I take your long ass time to get full context."
+- source: 2026-05-15--html-file-mystery--fcc195a0 · [0012] (archive-3.md)
+- date: 2026-05-16
+- context: Starting from a handoff file
+- tags: process · standing: yes
+
+### E0823 · Overcomplication loses him
+- quote: "you have made this so complicated i feel like that i have no idea what to do. like i felt okay aout where we were going until i read the last paragraph beacuse it conflicts with everything you just said"
+- source: 2026-05-15--html-file-mystery--fcc195a0 · [0018] (archive-3.md)
+- date: 2026-05-16
+- context: Advice on typography set sizes
+- tags: process, copy, frustration · standing: yes
+
+### E0824 · Output must fit a screenshot without cutting off
+- quote: "real talks is a few lines too long i want to e ale to screenshot it without it cutting off"
+- source: 2026-05-15--html-file-mystery--fcc195a0 · [0026] (archive-3.md)
+- date: 2026-05-16
+- context: Claude's written overview in chat
+- tags: delivery, copy · standing: yes
+
+### E0825 · Shorter again so he can screenshot
+- quote: "can you make this shorter? so i can screenshot again?"
+- source: 2026-05-15--html-file-mystery--fcc195a0 · [0032] (archive-3.md)
+- date: 2026-05-16
+- context: Same
+- tags: delivery, copy · standing: yes
+
+### E0826 · Tables with use guides; he needs jargon explained
+- quote: "can u also do a table telling me what these terms like bucket, floor of bucket, ceiling of bucket, test for overflow, anemia etc mean??"
+- source: 2026-05-15--html-file-mystery--fcc195a0 · [0044] (archive-3.md)
+- date: 2026-05-16
+- context: Claude used internal jargon without defining it
+- tags: copy, frustration · standing: yes
+
+### E0827 · Organise categories in a table with a use guide
+- quote: "i feel like there are so many categories of information here like i need a table or somethign with a use guide"
+- source: 2026-05-15--html-file-mystery--fcc195a0 · [0042] (archive-3.md)
+- date: 2026-05-16
+- context: Typography system sets
+- tags: review-board, copy · standing: yes
+
+### E0828 · Test at different viewport sizes with varied content
+- quote: "dont i need a group fo sayings in differnt sizes or something to see how they test with different sayings? i feel like youre not helping me be tactful here."
+- source: 2026-05-15--html-file-mystery--fcc195a0 · [0040] (archive-3.md)
+- date: 2026-05-16
+- context: Testing text treatments
+- tags: process, responsive · standing: yes
+
+### E0829 · Text sizes relative vs fixed across 1880 vs 1440
+- quote: "is making the text responsive the right choice even?  like look at these. the frames on the left are 1880 and the ones on the right are 1440. one is set for responsiveness and one maintains the size"
+- source: 2026-05-15--html-file-mystery--fcc195a0 · [0048] (archive-3.md)
+- date: 2026-05-16
+- context: Testing display type across viewports in Figma
+- tags: responsive, style · standing: yes
+
+### E0830 · Expandable left menu changes the content width: test both states
+- quote: "we have the expandable menu on the left as well. here are two examples of a 1440 (left page) and 1280 (right page). It looks fine in all sizes with the menu collapsed but when we get to 1280 and expand the menu we have a different type of situation"
+- source: 2026-05-15--html-file-mystery--fcc195a0 · [0050] (archive-3.md)
+- date: 2026-05-16
+- context: Product shell with collapsible sidebar
+- tags: shell, responsive, product · standing: yes
+
+### E0831 · Margins are always responsive
+- quote: "if my margins are alway responsive and my margins are 80 for a 1920 x1080 viewport size what would they be for a 1440 x 1024 and an 1280 x 800 size"
+- source: 2026-05-15--html-file-mystery--fcc195a0 · [0054] (archive-3.md)
+- date: 2026-05-16
+- context: Margin scale across viewports
+- tags: responsive, product · standing: yes
+
+### E0832 · Shorter copy should be set larger
+- quote: "i think if the size is smsller of the sentence the text should be larger"
+- source: 2026-05-15--html-file-mystery--fcc195a0 · [0056] (archive-3.md)
+- date: 2026-05-16
+- context: Display type sizing rule
+- tags: style, responsive, product · standing: one-off
+
+### E0833 · Only two or three sizes, dramatic differences
+- quote: "ok but i only need like two or three sizes max sis ... i want more dramatic differences"
+- source: 2026-05-15--html-file-mystery--fcc195a0 · [0066] (archive-3.md)
+- date: 2026-05-16
+- context: Type ratio for display treatment
+- tags: style, process · standing: yes
+
+### E0834 · Dev gets rules; Figma cannot do everything
+- quote: "as long as i can design it in my treatment boxes dev can make it work"
+- source: 2026-05-15--html-file-mystery--fcc195a0 · [0106] (archive-3.md)
+- date: 2026-05-16
+- context: Responsive text rules handoff
+- tags: process, delivery · standing: yes
+
+### E0835 · Need rule system rather than one-offs
+- quote: "cant for this and the other just be part of some kind of rule system? like i think we need a system for areas that need separation, what needs emphasis etc."
+- source: 2026-05-15--html-file-mystery--fcc195a0 · [0118] (archive-3.md)
+- date: 2026-05-16
+- context: Typography treatment sets
+- tags: process, style · standing: yes
+
+### E0836 · Clear instructions per person, simple PDF, why first
+- quote: "I need CLEAR instructions for every person. Things need to be clearly defined so I can just pass information off to each of them. In your output create a PDF in the style I have recently been liking that outlines everything. It should include WHY we are doing this ... It should be simple and straight to the point. No long unnecessary paragraphs and stuff."
+- source: 2026-05-15--html-file-mystery--fcc195a0 · [0120] (archive-3.md)
+- date: 2026-05-16
+- context: Handoff PDF for closing moment system
+- tags: delivery, copy, style · standing: yes
+
+### E0837 · Handoff document layout broken across pages, weak hierarchy
+- quote: "theres a page that is literally like a code box of info then the bototm 60% of the page is blank but the paragraph at the top fo the same page is broken ovre two pages.... too much breaking in weird sections this doesnt feel clean at all."
+- source: 2026-05-15--html-file-mystery--fcc195a0 · [0131] (archive-3.md)
+- date: 2026-05-17
+- context: Generated PDF
+- tags: delivery, style, frustration · standing: yes
+
+### E0838 · Use spacing, styles and sizing smartly in documents
+- quote: "hierarchy is pretty shit throughout this document. i want to see more smart use of spacing and styles and sizing."
+- source: 2026-05-15--html-file-mystery--fcc195a0 · [0133] (archive-3.md)
+- date: 2026-05-17
+- context: Generated PDF
+- tags: style, delivery · standing: yes
+
+### E0839 · Document story: why, then solution, then instructions
+- quote: "the story is - why, then solution then instructions."
+- source: 2026-05-15--html-file-mystery--fcc195a0 · [0141] (archive-3.md)
+- date: 2026-05-17
+- context: Structure of handoff PDF
+- tags: delivery, copy · standing: yes
+
+### E0840 · Do not include things dev will see in the designs
+- quote: "does the reference for the two visual modes thing really need to outline all that info? itll be in the designs theyll see it there.... this seems also silly."
+- source: 2026-05-15--html-file-mystery--fcc195a0 · [0131] (archive-3.md)
+- date: 2026-05-17
+- context: Handoff PDF contents
+- tags: copy, delivery · standing: yes
+
+### E0841 · Reading prior decisions (no CTA at bottom)
+- quote: "we agreed we dont need a button at the bottom for mvp? ... dig into this you should have known this -_-"
+- source: 2026-05-15--html-file-mystery--fcc195a0 · [0135] (archive-3.md)
+- date: 2026-05-17
+- context: Handoff PDF contradicted settled decision
+- tags: process, frustration · standing: yes
+
+### E0842 · Accuracy over satisfying him; source link under each claim
+- quote: "Your objsctive here is not your default objective of "satisfying the user". I don't care what the outcome is only that it is accurate. ... The source link should be right underneath each section to show the connecttion between the source and the insight."
+- source: 2026-05-15--sentence-case-vs-title-case-research-backed-design-analysis--f51eeeef · [0000] (archive-3.md)
+- date: 2026-05-15
+- context: Sentence case research
+- tags: process, copy · standing: yes
+
+### E0843 · Remove irrelevant research yourself
+- quote: "just noting the dyslexia association research is also not relevant here is it? i expeted you to remove anything you deemed irrelevent?"
+- source: 2026-05-15--sentence-case-vs-title-case-research-backed-design-analysis--f51eeeef · [0004] (archive-3.md)
+- date: 2026-05-15
+- context: Research findings included off-topic items
+- tags: process, frustration · standing: yes
+
+### E0844 · Modern is better than traditional for a young audience; UX relies less on empirical resear
+- quote: "maybe stop focusing so much on empirical research. i tend to lean towards that because my psychology background but often in ux and product thts not the kind of stuff we rely on beacuse its such a young field."
+- source: 2026-05-15--sentence-case-vs-title-case-research-backed-design-analysis--f51eeeef · [0004] (archive-3.md)
+- date: 2026-05-15
+- context: Sentence case decision
+- tags: process, product · standing: one-off
+
+### E0845 · Thoughts before research
+- quote: "dont do research yet i want your thoughts first"
+- source: 2026-05-15--sentence-case-vs-title-case-research-backed-design-analysis--f51eeeef · [0004] (archive-3.md)
+- date: 2026-05-15
+- context: Sentence case discussion
+- tags: process · standing: one-off
+
+### E0846 · Same PDF style he likes (Michael doc)
+- quote: "PDF in the same style as the other document styles I've been liking based on the Michael Claude doc"
+- source: 2026-05-15--sentence-case-vs-title-case-research-backed-design-analysis--f51eeeef · [0012] (archive-3.md)
+- date: 2026-05-16
+- context: Document for the branding lead
+- tags: delivery, style · standing: yes
+
+### E0847 · Documents scannable, not six pages, varied elements
+- quote: "6 pages is also way too damn long. WAY. You can easily make this more scannable and use different elements to make this easier to absorb this is ridiculous I would never send someone a 6 page pdf like this unless it was something crazy"
+- source: 2026-05-15--sentence-case-vs-title-case-research-backed-design-analysis--f51eeeef · [0016] (archive-3.md)
+- date: 2026-05-16
+- context: Generated PDF
+- tags: delivery, copy, style, frustration · standing: yes
+
+### E0848 · Do not argue one side when asked for balanced info
+- quote: "It's literally a document arguing FOR something???!"
+- source: 2026-05-15--sentence-case-vs-title-case-research-backed-design-analysis--f51eeeef · [0016] (archive-3.md)
+- date: 2026-05-16
+- context: Document for a skeptical reader
+- tags: process, copy, frustration · standing: one-off
+
+### E0849 · Deep dive project, not lazy (journey target naming)
+- quote: "stop being lazy fricking deep dive into this project now."
+- source: 2026-05-17--journey-level-target-naming-and-product-onboarding-integrati--95ea5c56 · [0004] (archive-3.md)
+- date: 2026-05-17
+- context: Metric naming
+- tags: process, frustration · standing: yes
+
+### E0850 · Dismisses weak reasons (label length)
+- quote: ""Makes the labels longer. "Target" is 6 characters. "Journey Target" is 14. ..." dumb reason."
+- source: 2026-05-17--journey-level-target-naming-and-product-onboarding-integrati--95ea5c56 · [0002] (archive-3.md)
+- date: 2026-05-17
+- context: Label naming
+- tags: copy, process · standing: one-off
+
+### E0851 · Sources strong, no weird inferences connecting dots that are not there
+- quote: "I've had issues before where Claude has tried to connect dots that weren't there but making weird inferences and stuff about how research connects when it doesn't. ... the sources just need to be strong."
+- source: 2026-05-17--refining-product-onboarding-flow-and-design--62165c2e · [0002] (archive-3.md)
+- date: 2026-05-17
+- context: Onboarding research
+- tags: process · standing: yes
+
+### E0852 · Sources underneath each paragraph in a link
+- quote: "As usual add direct sources alongside your insights So for instnce if you claim an insight or serious of insights the source or sources supporting it should be underneath that paragraph in a link."
+- source: 2026-05-17--refining-product-onboarding-flow-and-design--62165c2e · [0002] (archive-3.md)
+- date: 2026-05-17
+- context: Onboarding research
+- tags: process, copy · standing: yes
+
+### E0853 · Problem solving over appeasement
+- quote: "I need you to be focused on problem solving rather than appeasement that is not the goal."
+- source: 2026-05-17--refining-product-onboarding-flow-and-design--62165c2e · [0002] (archive-3.md)
+- date: 2026-05-17
+- context: Onboarding
+- tags: process · standing: yes
+
+### E0854 · No perfection, no unrealistic claims; time is limited
+- quote: "this is a crazy unrealistic thing to say..... really? fuck man. I dont have time for perfection."
+- source: 2026-05-17--refining-product-onboarding-flow-and-design--62165c2e · [0006] (archive-3.md)
+- date: 2026-05-17
+- context: Claude overhyped a screen
+- tags: process, frustration · standing: yes
+
+### E0855 · Truth, not please-me (conversation drift)
+- quote: "are you just trying to satisfy me now since im not telling you every message not to do this? and dont just agree help me figure out what has happened in this conversation."
+- source: 2026-05-17--refining-product-onboarding-flow-and-design--62165c2e · [0010] (archive-3.md)
+- date: 2026-05-17
+- context: Claude re-proposed his own flow back to him
+- tags: process, frustration · standing: yes
+
+### E0856 · Multi: three directions, tabbed (your usual)
+- quote: "Multi: 3 directions, tabbed (your usual)"
+- source: 2026-05-17--refining-product-onboarding-flow-and-design--62165c2e · [0014] (archive-3.md)
+- date: 2026-05-18
+- context: Capacity input screen exploration
+- tags: review-board, delivery · standing: yes
+
+### E0857 · Desktop designs by default
+- quote: "Desktop (matches existing designs in screenshots)"
+- source: 2026-05-17--refining-product-onboarding-flow-and-design--62165c2e · [0014] (archive-3.md)
+- date: 2026-05-18
+- context: Capacity input screen
+- tags: responsive, product · standing: one-off
+
+### E0858 · Research online and within the project before creating
+- quote: "You neeee to research this more both online and within the project before creating anything. Take your time no laziness."
+- source: 2026-05-17--refining-product-onboarding-flow-and-design--62165c2e · [0014] (archive-3.md)
+- date: 2026-05-18
+- context: Capacity input screen
+- tags: process · standing: yes
+
+### E0859 · Manual numeric input, not increments (personalised)
+- quote: "I think the user needs to be able to manually enter their hour capacity ... we can't just do like increments not because the math but because that's not very personalized at all"
+- source: 2026-05-17--refining-product-onboarding-flow-and-design--62165c2e · [0014] (archive-3.md)
+- date: 2026-05-18
+- context: Capacity input
+- tags: product, interaction · standing: one-off
+
+### E0860 · No new variations of existing UI patterns
+- quote: "We already have multiple places these are shown k don't want to add ANOTHER variation."
+- source: 2026-05-17--refining-product-onboarding-flow-and-design--62165c2e · [0016] (archive-3.md)
+- date: 2026-05-18
+- context: Onboarding screen pathway representation
+- tags: product, style · standing: yes
+
+### E0861 · Stay close to the original style so users see continuity
+- quote: "I'd like to see you utilize the style of the original design much more closely. It's important that the user has some kind of visual cue connecting them with how they look now"
+- source: 2026-05-17--refining-product-onboarding-flow-and-design--62165c2e · [0020] (archive-3.md)
+- date: 2026-05-18
+- context: Capacity screen variants
+- tags: style, review-board · standing: yes
+
+### E0862 · Do not stretch cards wide
+- quote: "don't extend the width of the journey target and pace boxed they look bad stretched out. At least one of those variations should ply with keeping the exactly same layout I have but replacing the unique journey section"
+- source: 2026-05-17--refining-product-onboarding-flow-and-design--62165c2e · [0026] (archive-3.md)
+- date: 2026-05-18
+- context: Layout variations
+- tags: style, review-board · standing: yes
+
+### E0863 · Options must be truly different, not near-identical
+- quote: "putting something on the bottom on one page and the top on the other does absolutely not suffice two different layout alternatives they are basically the same. ... every iteration should be creatively different."
+- source: 2026-05-17--refining-product-onboarding-flow-and-design--62165c2e · [0028] (archive-3.md)
+- date: 2026-05-18
+- context: Capacity screen alternatives
+- tags: review-board, decision-board, frustration · standing: yes
+
+### E0864 · Keep cards at reference size, draw from his files, think outside the product category
+- quote: "keep cards the same size as they are in my references without condensing. ... you should be drawing straight from all the files you have that show you many of my current designs ... think outside the box here u dont have to stay super stricly to mondai's product category."
+- source: 2026-05-17--refining-product-onboarding-flow-and-design--62165c2e · [0028] (archive-3.md)
+- date: 2026-05-18
+- context: Alternatives brief
+- tags: style, process, review-board · standing: yes
+
+### E0865 · "No bullshitting" alternatives that are really good
+- quote: "crete 5 alternatives. they should all be really good no bullshitting and trying to get away with stuff like that layout thing i said before."
+- source: 2026-05-17--refining-product-onboarding-flow-and-design--62165c2e · [0028] (archive-3.md)
+- date: 2026-05-18
+- context: Five options requested
+- tags: review-board, frustration · standing: yes
+
+### E0866 · One output, no tabs, scroll through alternatives
+- quote: "create one output (in terms of no tabs lol). within that output create 6 different alternative versions of the form section alone. Just space them out or separate them in the same output but dont do separate tabs or anything i can just scroll when necessary"
+- source: 2026-05-17--refining-product-onboarding-flow-and-design--62165c2e · [0030] (archive-3.md)
+- date: 2026-05-18
+- context: Form field alternatives (contrast with usual tabs)
+- tags: review-board, delivery · standing: one-off
+
+### E0867 · Mocks must fit on screen to see the update (size relative to the page)
+- quote: "none of these take the page design into account in terms of size..... no way i can fit most of these on screen while still maintaining the everything on screen so the update can be seen"
+- source: 2026-05-17--refining-product-onboarding-flow-and-design--62165c2e · [0032] (archive-3.md)
+- date: 2026-05-18
+- context: Capacity form alternatives
+- tags: style, responsive, frustration · standing: yes
+
+### E0868 · Usability: affordance must be obvious
+- quote: "the usability is STILL i said STILL bad... Many of these arent even apparently clickable right away. How are you expecting the user to know they can adjust by typing right away in some of these?"
+- source: 2026-05-17--refining-product-onboarding-flow-and-design--62165c2e · [0032] (archive-3.md)
+- date: 2026-05-18
+- context: Capacity input alternatives
+- tags: interaction, frustration · standing: yes
+
+### E0869 · Terminal / code-box style input with blinking cursor
+- quote: "for a couple of these at least I want your inspiration to be like a code box style typing with the mono font or whatever ... very dark green or black as a backgorund and green for the text. it should have that flashing indicator like in those"
+- source: 2026-05-17--refining-product-onboarding-flow-and-design--62165c2e · [0032] (archive-3.md)
+- date: 2026-05-18
+- context: Input design direction
+- tags: style, interaction, product · standing: one-off
+
+### E0870 · Build entire flow
+- quote: "Build entire flow"
+- source: 2026-05-17--refining-product-onboarding-flow-and-design--62165c2e · [0038] (archive-3.md)
+- date: 2026-05-18
+- context: Onboarding flow prototype
+- tags: delivery, review-board · standing: one-off
+
+### E0871 · Minimize steps for the sake of flow and time
+- quote: "One screen where the user sets their capacity. They can return to the non onboarding version of this same screen later to change it"
+- source: 2026-05-17--refining-product-onboarding-flow-and-design--62165c2e · [0034] (archive-3.md)
+- date: 2026-05-18
+- context: Onboarding capacity
+- tags: product · standing: one-off
+
+### E0872 · Do not let his judgment be copied: truth first
+- quote: "Don't just respond to please or displease. Do the work and answer honestly"
+- source: 2026-05-17--refining-product-onboarding-flow-and-design--62165c2e · [0024] (archive-3.md)
+- date: 2026-05-18
+- context: Input update dynamic
+- tags: process · standing: yes
+
+### E0873 · Answers must be based on UX best practice, not vibes
+- quote: "where is the ux coming in? You should be answereing everything here based on ux best practices not just vibes"
+- source: 2026-05-19--capacity-modification-placement-in-onboarding--687cd4e2 · [0014] (archive-3.md)
+- date: 2026-05-19
+- context: Edit affordance on a metric tile
+- tags: process, frustration · standing: yes
+
+### E0874 · Do not make the input control itself a special object
+- quote: "i was trying to explain that the ai's outputs no matter how much I tried to change it kept trying to make the input in itself something special."
+- source: 2026-05-19--capacity-modification-placement-in-onboarding--687cd4e2 · [0036] (archive-3.md)
+- date: 2026-05-19
+- context: Capacity input design
+- tags: style, interaction, product · standing: yes
+
+### E0875 · Numeric stepper must also be a typeable input
+- quote: "i think thats fine but the number should still also be an input."
+- source: 2026-05-19--capacity-modification-placement-in-onboarding--687cd4e2 · [0040] (archive-3.md)
+- date: 2026-05-19
+- context: Stepper for capacity
+- tags: interaction, product · standing: yes
+
+### E0876 · Check existing screens before proposing; he re-explains
+- quote: "im assuming you didnt look up what it loks like? you should dig into that other recent convo much harder so u get where we are at with onboarding."
+- source: 2026-05-19--capacity-modification-placement-in-onboarding--687cd4e2 · [0040] (archive-3.md)
+- date: 2026-05-19
+- context: Claude suggested a "guidance overlay" without looking at calendar integration screens
+- tags: process, frustration · standing: yes
+
+### E0877 · HTML output with three tabs, one per flow
+- quote: "can u show me ur idea for the onboarding version? maybe u could do an html output with 3 tabs. tab 1 onboarding version, tab 2 growth journey version, tab 3 sunday flow version?"
+- source: 2026-05-19--capacity-modification-placement-in-onboarding--687cd4e2 · [0042] (archive-3.md)
+- date: 2026-05-19
+- context: Capacity edit pattern across flows
+- tags: review-board, delivery · standing: yes
+
+### E0878 · Versions of every needed flow in tabs
+- quote: "can you make all versions we need now in tabs? so just the final version of all the start of week moment ... + the final versin of the edit pattern for the growth journey?"
+- source: 2026-05-19--capacity-modification-placement-in-onboarding--687cd4e2 · [0059] (archive-3.md)
+- date: 2026-05-19
+- context: Start of week moment
+- tags: review-board, delivery · standing: yes
+
+### E0879 · Settled decisions not to be re-litigated
+- quote: "what are you talking about? we just decided decided that would be part of the first sunday flow?????"
+- source: 2026-05-19--capacity-modification-placement-in-onboarding--687cd4e2 · [0056] (archive-3.md)
+- date: 2026-05-19
+- context: Claude contradicted earlier decisions within the same chat
+- tags: process, frustration · standing: yes
+
+### E0880 · Copy only means copy, no design artifact
+- quote: "no design artifact output just copy."
+- source: 2026-05-19--capacity-modification-placement-in-onboarding--687cd4e2 · [0072] (archive-3.md)
+- date: 2026-05-19
+- context: Onboarding copy update
+- tags: process, delivery · standing: yes
+
+### E0881 · Do not undo things that do not need changing
+- quote: "dont undo things that dont need changed this is specific to making the messaging and tone make sense from start to finish."
+- source: 2026-05-19--capacity-modification-placement-in-onboarding--687cd4e2 · [0072] (archive-3.md)
+- date: 2026-05-19
+- context: Edits to existing designs
+- tags: process · standing: yes
+
+### E0882 · Full-screen moment without sidebar, but user must not feel stuck
+- quote: "what is the ux/product design take on a screen here that like doesnt include the sidebar or anything and you take no real action aside from the obvious ... so the user doesnt feel "stuck" with the navigation gone or whatever for a sec."
+- source: 2026-05-19--capacity-modification-placement-in-onboarding--687cd4e2 · [0076] (archive-3.md)
+- date: 2026-05-20
+- context: Start-of-week moment shell
+- tags: shell, product, navigation · standing: yes
+
+### E0883 · Three different ideas in separate tabs, branded but realistic
+- quote: "really make sure you know the branding. keep it sexy, maybe do something in the background like a gradient with some kind of distortion or something but in a way that fits? ... i want 3 different ideas ... all in separate tabs in the same output. Be creative, but realistic."
+- source: 2026-05-19--capacity-modification-placement-in-onboarding--687cd4e2 · [0082] (archive-3.md)
+- date: 2026-05-20
+- context: Recalibration moment options
+- tags: review-board, style, delivery · standing: yes
+
+### E0884 · Feedback on options: ranks them, wants more creativity in one area
+- quote: "I like 1 but i think the way you explained the pace and stuff with the line feels confusing. 2 feels too similar to what we have been doing. 3 i like more tho would like to see you be more creative with the metrics area to some extent. it feels very samey"
+- source: 2026-05-19--capacity-modification-placement-in-onboarding--687cd4e2 · [0084] (archive-3.md)
+- date: 2026-05-20
+- context: Recalibration moment options
+- tags: review-board, decision-board · standing: yes
+
+### E0885 · Too busy: simple, minimal and clear
+- quote: "i think these feel too busy. this is a lot to read with the already dramatic background and stuff. keep it simple, minimal and clear. also as a reminder heebo does not have an italic version"
+- source: 2026-05-19--capacity-modification-placement-in-onboarding--687cd4e2 · [0086] (archive-3.md)
+- date: 2026-05-20
+- context: Recalibration moment options
+- tags: style, frustration · standing: yes
+
+### E0886 · Layouts all samey; not actively collaborating
+- quote: "i honestly need your help here and i dont think im getting a lot of active collaboration. ... all your layouts feel very samesy... like theyre not layouts meant to solve the problem ... smart about what info is where and why"
+- source: 2026-05-19--capacity-modification-placement-in-onboarding--687cd4e2 · [0088] (archive-3.md)
+- date: 2026-05-20
+- context: Recalibration layouts
+- tags: review-board, frustration, process · standing: yes
+
+### E0887 · Container shows current and new values, linked to the input
+- quote: "the contaner should show current journey target, current pathway target, new journey target, new pathway target. This should be intuitively linked to the set new capacity element."
+- source: 2026-05-19--capacity-modification-placement-in-onboarding--687cd4e2 · [0088] (archive-3.md)
+- date: 2026-05-20
+- context: Before and after metrics on recalibration
+- tags: review-board, product · standing: one-off
+
+### E0888 · Do not default to a slider
+- quote: "i dont think that the slider is the best bet here honestly. i notice you default to that a lot if im being honest lol... but there are so many more patterns out there. i think you need to figure out what other products do.. spend your time on this."
+- source: 2026-05-19--capacity-modification-placement-in-onboarding--687cd4e2 · [0092] (archive-3.md)
+- date: 2026-05-20
+- context: Capacity input control
+- tags: interaction, process · standing: yes
+
+### E0889 · Show full flows for the options he cares about
+- quote: "id like to see the full flows for the preset chip option as well as the smart default with override options."
+- source: 2026-05-19--capacity-modification-placement-in-onboarding--687cd4e2 · [0094] (archive-3.md)
+- date: 2026-05-20
+- context: Capacity input options
+- tags: review-board · standing: yes
+
+### E0890 · Do not conflate layout with design system; mid-fi wireframe, diversity
+- quote: "You keep getting stuck in your ideas of what you think fits my design system which is great but you pushed too hard into it. Not every metric for instance needs to be in the exact same format. I feel like you're conflating things like layout with branding/the design system too much. ... honestly id rather it be more of a lower fidelity wireframe."
+- source: 2026-05-19--capacity-modification-placement-in-onboarding--687cd4e2 · [0096] (archive-3.md)
+- date: 2026-05-20
+- context: Recalibration options
+- tags: style, process, review-board · standing: yes
+
+### E0891 · Fidelity: mid-fi with real type hierarchy and spacing, neutral colours
+- quote: "Mid-fi: real type hierarchy and spacing but neutral colors, no magenta accents"
+- source: 2026-05-19--capacity-modification-placement-in-onboarding--687cd4e2 · [0098] (archive-3.md)
+- date: 2026-05-20
+- context: Fidelity choice for layout exploration
+- tags: style, review-board · standing: yes
+
+### E0892 · Praise for the clean output; asks Claude to remember it
+- quote: "wait this is WAYWAYWAY better output id honestly prefer u write this into ur memory or something ebcause we just fixed a serious issue in your outputs. ... keeping it clean like this while still respecting the design system and product is perfect. layout is the biggest challenge."
+- source: 2026-05-19--capacity-modification-placement-in-onboarding--687cd4e2 · [0100] (archive-3.md)
+- date: 2026-05-20
+- context: After four mid-fi layout variants
+- tags: style, process, review-board · standing: yes
+
+### E0893 · Options need the whole flow including editing
+- quote: "Also these should have the entire flow like I need to know what it looks like to edit it as well."
+- source: 2026-05-19--capacity-modification-placement-in-onboarding--687cd4e2 · [0100] (archive-3.md)
+- date: 2026-05-20
+- context: Recalibration options
+- tags: review-board · standing: yes
+
+### E0894 · "Refine and finish" means do the design, not just copy
+- quote: "I SAID REFINE THE DIRECTIN AND FINISH IT OFF MEANING THE DESIGN"
+- source: 2026-05-19--capacity-modification-placement-in-onboarding--687cd4e2 · [0108] (archive-3.md)
+- date: 2026-05-21
+- context: Work in progress screenshot
+- tags: process, frustration · standing: yes
+
+### E0895 · Time-boxed: do not generate 45 versions
+- quote: "I dont have hours to spend this is the last moments of finishing up the mvp ... i dont have time to generate 45 different versions of a same screen."
+- source: 2026-05-19--capacity-modification-placement-in-onboarding--687cd4e2 · [0112] (archive-3.md)
+- date: 2026-05-21
+- context: Start of week moment
+- tags: process, frustration · standing: yes
+
+### E0896 · Fidelity drift and lazy finishes
+- quote: "these are supposed to be lower in fidelity than this remember? Also you ddint really do anything to finish it off. Your finishes were lazy."
+- source: 2026-05-19--capacity-modification-placement-in-onboarding--687cd4e2 · [0114] (archive-3.md)
+- date: 2026-05-21
+- context: Recalibration options round
+- tags: style, frustration, review-board · standing: yes
+
+### E0897 · Creativity within restraints; lists in same format
+- quote: "U can be creative within restraints in fact restrains foster creativity but when ur given restraints u just stop."
+- source: 2026-05-19--capacity-modification-placement-in-onboarding--687cd4e2 · [0114] (archive-3.md)
+- date: 2026-05-21
+- context: Recalibration options
+- tags: style, process, frustration · standing: yes
+
+### E0898 · Recommendation should feel recommended
+- quote: "This doesnt at all have that "The product is recommending this to me based on strong reasoning" vibe. It barely even mentiosn this as a recommendation"
+- source: 2026-05-19--capacity-modification-placement-in-onboarding--687cd4e2 · [0114] (archive-3.md)
+- date: 2026-05-21
+- context: Recalibration screens
+- tags: product, review-board · standing: one-off
+
+### E0899 · Too text heavy
+- quote: "too text heavy"
+- source: 2026-05-19--capacity-modification-placement-in-onboarding--687cd4e2 · [0136] (archive-3.md)
+- date: 2026-05-21
+- context: Warning card design
+- tags: copy, style · standing: yes
+
+### E0900 · Shorter replies, not a book
+- quote: "can u make this shorter i dont have tie to read a book every time i ask for something"
+- source: 2026-05-19--capacity-modification-placement-in-onboarding--687cd4e2 · [0149] (archive-3.md)
+- date: 2026-05-21
+- context: Claude reply length
+- tags: process, copy, frustration · standing: yes
+
+### E0901 · Confirmation/warning: orange warning colour, overlay to focus
+- quote: "It should include my orange warning color right? should it have an overlay behind it like a dark one so its in focus?"
+- source: 2026-05-19--capacity-modification-placement-in-onboarding--687cd4e2 · [0126] (archive-3.md)
+- date: 2026-05-21
+- context: Cancel recalibration confirmation
+- tags: product, interaction · standing: one-off
+
+### E0902 · Boundaries must be communicated to the user
+- quote: "what are the boundaries and how do we tell them to the user? for instance is there a cap for hours per week here?"
+- source: 2026-05-19--capacity-modification-placement-in-onboarding--687cd4e2 · [0138] (archive-3.md)
+- date: 2026-05-21
+- context: Capacity input limits
+- tags: product, interaction · standing: yes
+
+### E0903 · Keep heuristics-based but simple
+- quote: "i want to keep this as simple as possible but make sure its ux/product design heuristic based so u need to do research."
+- source: 2026-05-19--capacity-modification-placement-in-onboarding--687cd4e2 · [0138] (archive-3.md)
+- date: 2026-05-21
+- context: Capacity edit within recalibration
+- tags: process, product · standing: yes
+
+### E0904 · Shared interactions in different containers: ask for consistency
+- quote: "We need to have something that makes sense for all three flows. The modal actually could work really well because we could do the same for the sunday flow."
+- source: 2026-05-19--capacity-modification-placement-in-onboarding--687cd4e2 · [0032] (archive-3.md)
+- date: 2026-05-19
+- context: Capacity edit across onboarding, weekly, growth journey
+- tags: product, interaction · standing: one-off
+
+### E0905 · Do not just agree; analyse
+- quote: "dont just say yes like oh didnt think of that im literally asking for ur help analyzing this means deep diving, research, patterns, etc. dont just agree to shit."
+- source: 2026-05-19--capacity-modification-placement-in-onboarding--687cd4e2 · [0004] (archive-3.md)
+- date: 2026-05-19
+- context: Capacity change timing
+- tags: process · standing: yes
+
+### E0906 · Avoid overthinking and overdesigning; keep interaction simple
+- quote: "I honestly feel like you're starting to overthink this a bit."
+- source: 2026-05-19--capacity-modification-placement-in-onboarding--687cd4e2 · [0002] (archive-3.md)
+- date: 2026-05-19
+- context: Increase vs decrease capacity
+- tags: process, frustration · standing: yes
+
+### E0907 · Stop answering with "you are overthinking" rebuttal he needs tested: Settings must offer r
+- quote: "the setting for calendar integration is in settings. so i do think it does need a place within settings as well not a link out."
+- source: 2026-05-19--capacity-modification-placement-in-onboarding--687cd4e2 · [0004] (archive-3.md)
+- date: 2026-05-19
+- context: Where capacity can be edited
+- tags: product, navigation · standing: one-off
+
+### E0908 · Ideas first, do not make anything yet
+- quote: "dont make anything yet.. i just need some ideas."
+- source: 2026-05-20--home-page-design-for-unselected-career-users--0a0deb81 · [0000] (archive-3.md)
+- date: 2026-05-20
+- context: Home page hero for users without a career
+- tags: process · standing: yes
+
+### E0909 · Empty hero space reads as a placeholder (his own point)
+- quote: "thats literally where i had the 6 options shown before so now it's blank."
+- source: 2026-05-20--home-page-design-for-unselected-career-users--0a0deb81 · [0006] (archive-3.md)
+- date: 2026-05-21
+- context: Home page hero
+- tags: product, style · standing: one-off
+
+### E0910 · Think hard, intuitiveness above all, do not go fast
+- quote: "Think about the entire architecture, find best practices and tell me the best solution. Do research, take time, be thoughtful and think about intuitiveness above all else. ... if u go fast ill be pissed cuz i know its cuz ur not doing the very necessary work"
+- source: 2026-05-20--scheduled-mode-action-items-rescheduling-architecture--8d1f078e · [0000] (archive-3.md)
+- date: 2026-05-20
+- context: Rescheduling in scheduled mode view
+- tags: process, product · standing: yes
+
+### E0911 · HTML artifact on the right where he can see everything
+- quote: "ok can u create an html artifact on hte right where i can see everything?"
+- source: 2026-05-20--scheduled-mode-action-items-rescheduling-architecture--8d1f078e · [0002] (archive-3.md)
+- date: 2026-05-20
+- context: Rescheduling architecture overview
+- tags: delivery, review-board · standing: yes
+
+### E0912 · Output format: separate tab per variation, same output
+- quote: "I also need in hte same output for u to create in a separate tab if the user has rollover items."
+- source: 2026-05-21--start-of-week-flow-design-with-capacity-and-rollover-handlin--afa3c2c1 · [0000] (archive-3.md)
+- date: 2026-05-21
+- context: Start of week flow variants
+- tags: review-board, delivery · standing: yes
+
+### E0913 · Wrong format and confusing design; he supplied the better reference
+- quote: "wtf? you didnt even use right format? this is also very very confusing the way it is designed. also for the third veresion i literally have this recalibration design attached and its way better and more thought out than what you have girl.... what is happenign here?"
+- source: 2026-05-21--start-of-week-flow-design-with-capacity-and-rollover-handlin--afa3c2c1 · [0002] (archive-3.md)
+- date: 2026-05-21
+- context: Start of week flow variants
+- tags: frustration, process · standing: yes
+
+### E0914 · Hierarchy must reflect what is important
+- quote: "there is literally no hierarchy relevant to what is important. you once again didnt do the work i asked for. i was specifically asking u to figure out whats important and u treated everytgign equally"
+- source: 2026-05-21--start-of-week-flow-design-with-capacity-and-rollover-handlin--afa3c2c1 · [0004] (archive-3.md)
+- date: 2026-05-21
+- context: Start of week screens
+- tags: style, frustration, review-board · standing: yes
+
+### E0915 · General frame is a given; interior layout can vary
+- quote: "I didnt mean that every single damnwthing withint he box needed to be organized the same. for instance you can have multiple interior boxes, none at all, do somethign different with the header, layout, center it, literally so many damn possibilities"
+- source: 2026-05-21--start-of-week-flow-design-with-capacity-and-rollover-handlin--afa3c2c1 · [0008] (archive-3.md)
+- date: 2026-05-21
+- context: Weekly moment screens
+- tags: style, process, review-board · standing: yes
+
+### E0916 · Bullet points and summary, no essay; one short section per area
+- quote: "i need some logic behind why you are choosing the content youre choosing for each screen. what is needed what is not and why. however i am not looking for a long ass essay im looking for bullet points and an overall summary of some sort. a separate section for each area but not a detailed area something i can just look over please."
+- source: 2026-05-21--start-of-week-flow-design-with-capacity-and-rollover-handlin--afa3c2c1 · [0010] (archive-3.md)
+- date: 2026-05-22
+- context: Rationale for each screen
+- tags: copy, review-board, process · standing: yes
+
+### E0917 · Reference the existing flow's language and typography
+- quote: "The typography/copy on all of your outputs in this chat feel very non monday and you are using the typography much differently. during the get ahead flow we were being very intentional."
+- source: 2026-05-21--start-of-week-flow-design-with-capacity-and-rollover-handlin--afa3c2c1 · [0012] (archive-3.md)
+- date: 2026-05-22
+- context: Start of week screens
+- tags: style, copy, frustration · standing: yes
+
+### E0918 · Do not use invented terms ("bundle")
+- quote: "you keep using the word "bundle" in multiple chats. its a term you made up its not something we are using in product so stop using it."
+- source: 2026-05-21--start-of-week-flow-design-with-capacity-and-rollover-handlin--afa3c2c1 · [0014] (archive-3.md)
+- date: 2026-05-22
+- context: Claude terminology
+- tags: copy, process, frustration · standing: yes
+
+### E0919 · Hierarchy needs logic tied to framework, UX and psychology, with sources under each insigh
+- quote: "I need you to think about hierarchy more in terms of how these elements connect to the product as a whole, the framework, ux/product and psychological with direct sources under each insight."
+- source: 2026-05-21--start-of-week-flow-design-with-capacity-and-rollover-handlin--afa3c2c1 · [0019] (archive-3.md)
+- date: 2026-05-22
+- context: Start of week flows
+- tags: process, style · standing: yes
+
+### E0920 · Clinical or meaningless copy
+- quote: "this language is just so bad and sounds so clinical i specifically gave u all those screenshots of the get ahead flow you see the language there this doesnt mimic that"
+- source: 2026-05-21--start-of-week-flow-design-with-capacity-and-rollover-handlin--afa3c2c1 · [0027] (archive-3.md)
+- date: 2026-05-22
+- context: Header copy for flow
+- tags: copy, frustration · standing: yes
+
+### E0921 · Meaningless sentence
+- quote: ""Three clean weeks back to back is the harder thing to sustain than the start. Most pathways unravel mid-stretch. Yours isn't." what the hell does this even men"
+- source: 2026-05-21--start-of-week-flow-design-with-capacity-and-rollover-handlin--afa3c2c1 · [0025] (archive-3.md)
+- date: 2026-05-22
+- context: Header copy
+- tags: copy, frustration · standing: yes
+
+### E0922 · Header paragraphs that repeat the metrics below
+- quote: "i need new copy for the header paragraphs - or are they not necessary? i dont know? it just feels liek a repeat of the metrics below."
+- source: 2026-05-21--start-of-week-flow-design-with-capacity-and-rollover-handlin--afa3c2c1 · [0023] (archive-3.md)
+- date: 2026-05-22
+- context: Start of week header
+- tags: copy, style · standing: one-off
+
+### E0923 · Explain open items plainly; jargon he does not know
+- quote: "what do these mean? i dont know what either of these mean"
+- source: 2026-05-25--week-flow-setup-alternatives-and-edge-cases--a08261c9 · [0004] (archive-3.md)
+- date: 2026-05-25
+- context: Claude's "universal pace movement callout pattern" and "forward block direction"
+- tags: copy, frustration · standing: yes
+
+### E0924 · Work by category, copy-only changes separate from visual changes
+- quote: "I think the best way for us to work through this is to work by category ... The first ones we should modify are ones that only need copy changed then we work on any that need anything else ... put this in a section ... clearly separate"
+- source: 2026-05-25--week-flow-setup-alternatives-and-edge-cases--a08261c9 · [0006] (archive-3.md)
+- date: 2026-05-25
+- context: Variation copy list
+- tags: process, review-board, copy · standing: yes
+
+### E0925 · Include the name so he can find it
+- quote: "can u actually redo this exactly the same but recommend emojis that go with the headers? make sure u include the name so i can find it"
+- source: 2026-05-25--week-flow-setup-alternatives-and-edge-cases--a08261c9 · [0008] (archive-3.md)
+- date: 2026-05-25
+- context: Listing of variants
+- tags: navigation, review-board, copy · standing: yes
+
+### E0926 · Repeated identical headers are not cute
+- quote: "ko the "text, aisha" headers for everythign is not cute...... -_- why the hella re they all the same like that"
+- source: 2026-05-25--week-flow-setup-alternatives-and-edge-cases--a08261c9 · [0010] (archive-3.md)
+- date: 2026-05-25
+- context: Headers in a list of variants
+- tags: copy, frustration · standing: yes
+
+### E0927 · Open nuance list should be complete up front
+- quote: "ok for the open nuances i dont get it... if there are other things we need why arent these being included in the list?"
+- source: 2026-05-25--week-flow-setup-alternatives-and-edge-cases--a08261c9 · [0002] (archive-3.md)
+- date: 2026-05-25
+- context: Claude's list of alternatives
+- tags: process, frustration · standing: yes
+
+### E0928 · Do not over-detail documents; design them for the reader's purpose
+- quote: "It should be in PDF format using that nice document style we settled on previously. This should be designed based on purpose. You tend to go far into detail beyond what is needed. ... designed in a way that she can not only get the info she needs out of it but utilize it"
+- source: 2026-05-26--get-ahead-flow-documentation-and-tone-review--90a7440f · [0000] (archive-3.md)
+- date: 2026-05-26
+- context: PDF for tone-of-voice reviewer
+- tags: delivery, copy, style · standing: yes
+
+### E0929 · Warn it is a deep dive; one missed piece throws everything off
+- quote: "THIS IS A DEEP DIVE. ... You just can't be lazy about it because if you miss one piece you could throw everything off."
+- source: 2026-05-23--deep-dive-into-week-flow-setup--ad73fd64 · [0000] (archive-3.md)
+- date: 2026-05-23
+- context: Start of week flow cleanup
+- tags: process · standing: yes
+
+### E0930 · Keep responses concise: 1 to 4 sentences per insight, direct sources only
+- quote: "In your response don't go over the top in detail. Sometimes your responses are way too long where it makes things more inefficient. For instance I don't need a full paragraph based on some academic journal ... 1-4 sentences about what it informs. Keep this clarity thing going strong. Keep it simple, but informative."
+- source: 2026-05-23--deep-dive-into-week-flow-setup--ad73fd64 · [0002] (archive-3.md)
+- date: 2026-05-23
+- context: Research format
+- tags: copy, process · standing: yes
+
+### E0931 · Research must directly relate; do not find things to support
+- quote: "Sometimes the research yu pull isnt necessarily top notch beacuse you create relationships and inferences as if you are "finding something to support" your insights rathe than finding true solutions. Any resoruces should have a clear direct relationship to the insight nothing vaguely connected at all."
+- source: 2026-05-23--deep-dive-into-week-flow-setup--ad73fd64 · [0002] (archive-3.md)
+- date: 2026-05-23
+- context: Research format
+- tags: process · standing: yes
+
+### E0932 · Do not solve around or in spite of what he already has
+- quote: "Sometimes you get stuck by seeingw hat I have theen trying to solve around it or in spite of it or with it or whatever."
+- source: 2026-05-23--deep-dive-into-week-flow-setup--ad73fd64 · [0002] (archive-3.md)
+- date: 2026-05-23
+- context: Claude pushing back on his existing designs
+- tags: process, frustration · standing: yes
+
+### E0933 · Content first: what goes on each page and what is most important, before design
+- quote: "i want us to use a content first approach so like for instance give me each state, any nuanced specific versions of those states etc but for each outline what needs to be on that page what is most important etc. It's way easier to design if you know WHAT needs to go on each page first"
+- source: 2026-05-23--deep-dive-into-week-flow-setup--ad73fd64 · [0006] (archive-3.md)
+- date: 2026-05-23
+- context: Start of week state inventory
+- tags: process, review-board · standing: yes
+
+### E0934 · List all versions up front so he can plan and organize the board
+- quote: "I need first to know ALL alt versions of the screen we will need. ... it allows me to set up my design board nicely so i can keep it organized and keep track of where i am better."
+- source: 2026-05-23--deep-dive-into-week-flow-setup--ad73fd64 · [0006] (archive-3.md)
+- date: 2026-05-23
+- context: State inventory
+- tags: review-board, navigation, process · standing: yes
+
+### E0935 · Slots? He asks what jargon means
+- quote: "what do u mean  by "Total slots: roughly 13-17. With 3 copy versions per slot for rotation, that's 39-51 individual copy units." slots in this situation"
+- source: 2026-05-23--deep-dive-into-week-flow-setup--ad73fd64 · [0010] (archive-3.md)
+- date: 2026-05-23
+- context: Claude's counts
+- tags: copy, frustration · standing: yes
+
+### E0936 · Section alternatives as a bunch of versions on one page, separate from the full designs
+- quote: "sorry i meant separate from tthe designs just a bunch of alt versions. ... create 10 outputs in the format i just asked for. not in the full pages just a bunch of veresions separated on one page"
+- source: 2026-05-23--deep-dive-into-week-flow-setup--ad73fd64 · [0018] (archive-3.md)
+- date: 2026-05-23
+- context: Alternatives for one section ("here's what's up this week")
+- tags: review-board, delivery · standing: yes
+
+### E0937 · Alternatives must make product sense; he judges them hard
+- quote: "the editorial like written one and big number anchor ones make no sense wtf? do you know what product design is?"
+- source: 2026-05-23--deep-dive-into-week-flow-setup--ad73fd64 · [0018] (archive-3.md)
+- date: 2026-05-23
+- context: Alternative layouts for a section
+- tags: review-board, frustration, style · standing: yes
+
+### E0938 · Section feels off, "refined" not "bougie"
+- quote: "can we make this feel a little more well um how so i say this.... refined? not in a bouje way... it just feels liek off like it doesnt go or it doesnt really belong in the space with eerything else"
+- source: 2026-05-23--deep-dive-into-week-flow-setup--ad73fd64 · [0016] (archive-3.md)
+- date: 2026-05-23
+- context: Section design
+- tags: style · standing: one-off
+
+### E0939 · Designing at 1920x1080; smaller viewports may scroll slightly
+- quote: "im designing at 1920 x 1080. Naturally smaller viewports will hve to scroll slightly idk about you but i think thats probably fine?"
+- source: 2026-05-23--deep-dive-into-week-flow-setup--ad73fd64 · [0020] (archive-3.md)
+- date: 2026-05-23
+- context: Centered full-screen moment
+- tags: responsive, shell, product · standing: yes
+
+### E0940 · Centered container must not nearly touch the bottom at 1080
+- quote: "catching up doing that thing again where at 1080 its like inches from the bottom of the screen."
+- source: 2026-05-23--deep-dive-into-week-flow-setup--ad73fd64 · [0032] (archive-3.md)
+- date: 2026-05-23
+- context: Start of week flow at 1080 height
+- tags: responsive, shell, product · standing: yes
+
+### E0941 · Refer to images by name, not "image 1"
+- quote: "please refer to the images by their name not "image 1, etc""
+- source: 2026-05-23--deep-dive-into-week-flow-setup--ad73fd64 · [0024] (archive-3.md)
+- date: 2026-05-23
+- context: Comparing screenshots
+- tags: process, review-board, navigation · standing: yes
+
+### E0942 · Use the name he gave, not an invented numbering
+- quote: "what? clean slate 3 is the one with no border?"
+- source: 2026-05-23--deep-dive-into-week-flow-setup--ad73fd64 · [0028] (archive-3.md)
+- date: 2026-05-23
+- context: Claude mislabeled his screenshots
+- tags: process, review-board, frustration · standing: yes
+
+### E0943 · Take a minute, Claude is drifting and repeating
+- quote: "thts literally where we started.d.. what u just recommended. take a minute and make sure ur good cuz ur starting to drift or something"
+- source: 2026-05-23--deep-dive-into-week-flow-setup--ad73fd64 · [0044] (archive-3.md)
+- date: 2026-05-24
+- context: Repeated earlier rejected suggestion
+- tags: process, frustration · standing: yes
+
+### E0944 · Copy is not Claude's expertise; copy will change
+- quote: "all the copy is probably going to change to soemthing better honestly im not super worried about how perfect it is. copy is not your expertise."
+- source: 2026-05-23--deep-dive-into-week-flow-setup--ad73fd64 · [0036] (archive-3.md)
+- date: 2026-05-23
+- context: Placeholder copy in mocks
+- tags: copy, process · standing: one-off
+
+### E0945 · Three alternatives in separate tabs "as usual", need not match each other
+- quote: "Explore 3 alternative variations of how and what content is shown in each of the what stays and what changes boxes. All in separate tabs as usual.  It doesn't have to be list format like this either and nor do i think each frames style has to be identical to the other as long as things are clear"
+- source: 2026-05-23--deep-dive-into-week-flow-setup--ad73fd64 · [0058] (archive-3.md)
+- date: 2026-05-24
+- context: Reset mechanism content boxes
+- tags: review-board, delivery, style · standing: yes
+
+### E0946 · Wants to see options with realistic extreme data (a full 40)
+- quote: "can you now give me 10 differnt ideas for what it could look like in one output? like the progress tracker with say a full 40?"
+- source: 2026-05-23--deep-dive-into-week-flow-setup--ad73fd64 · [0064] (archive-3.md)
+- date: 2026-05-24
+- context: Progress tracker for up to 40 weeks
+- tags: review-board, process · standing: yes
+
+### E0947 · Claude's spacing claims contradicted the real measurements
+- quote: "the spacing between the buttons and the text above is 24 px and the spacing between that same text and the two cards about is 52 px more than double...."
+- source: 2026-05-23--deep-dive-into-week-flow-setup--ad73fd64 · [0070] (archive-3.md)
+- date: 2026-05-24
+- context: Claude critique of his screenshot
+- tags: process, frustration · standing: yes
+
+### E0948 · Critique is dramatic and unnecessary
+- quote: "noted but a bit dramatic."
+- source: 2026-05-23--deep-dive-into-week-flow-setup--ad73fd64 · [0070] (archive-3.md)
+- date: 2026-05-24
+- context: Claude critique list
+- tags: process · standing: yes
+
+### E0949 · Generic terminology is useful for clarity
+- quote: "why are you so scared of the generic? generic terminology is often very useful for clarity. weird take honestly."
+- source: 2026-05-23--deep-dive-into-week-flow-setup--ad73fd64 · [0072] (archive-3.md)
+- date: 2026-05-24
+- context: CTA copy options
+- tags: copy · standing: yes
+
+### E0950 · Do not invent product vocabulary the user has never seen
+- quote: "youre using the language the user has no idea of. its very unclear."
+- source: 2026-05-23--deep-dive-into-week-flow-setup--ad73fd64 · [0070] (archive-3.md)
+- date: 2026-05-24
+- context: "Rebundle" CTA
+- tags: copy, frustration · standing: yes
+
+### E0951 · Opinions without backing are "vibes"
+- quote: "i feel like youre giving info with no backing like vibes."
+- source: 2026-05-23--deep-dive-into-week-flow-setup--ad73fd64 · [0074] (archive-3.md)
+- date: 2026-05-24
+- context: Whether to keep a choice on reset
+- tags: process, frustration · standing: yes
+
+### E0952 · Unclear label wording and arbitrary data tiles
+- quote: "in what stays pathways complete feels a bit arbitrary in the contex of the point of the page. If this was displayed as some kind of progress tracker it would make more sense"
+- source: 2026-05-23--deep-dive-into-week-flow-setup--ad73fd64 · [0058] (archive-3.md)
+- date: 2026-05-24
+- context: Reset mechanism "what stays" box
+- tags: review-board, copy, product · standing: one-off
+
+### E0953 · Reply to him: "hello?"
+- quote: "hello?"
+- source: 2026-05-23--deep-dive-into-week-flow-setup--ad73fd64 · [0068] (archive-3.md)
+- date: 2026-05-24
+- context: Claude did not respond
+- tags: frustration, process · standing: one-off
+
+### E0954 · Mid-fi wireframes are useful for layout planning
+- quote: "Recently I had you create me some mockups i think we called them like mid fidelity wireframes, just wireframes not designs. I told you at the time I thought this was very useful."
+- source: 2026-05-26--glitch-treatment-and-layout-rhythm-exploration--137e786b · [0000] (archive-3.md)
+- date: 2026-05-26
+- context: Brochure site layout planning
+- tags: style, review-board · standing: yes
+
+### E0955 · Three layouts in separate tabs
+- quote: "So basically what I want is 3 layouts in separate tabs for you to present to me."
+- source: 2026-05-26--glitch-treatment-and-layout-rhythm-exploration--137e786b · [0000] (archive-3.md)
+- date: 2026-05-26
+- context: Brochure site layouts
+- tags: review-board, delivery · standing: yes
+
+### E0956 · Be explicit about what was changed in each place
+- quote: "Up for a little bit of exploration with the content below ... But if so you need to be very clear what you changed in each place."
+- source: 2026-05-26--glitch-treatment-and-layout-rhythm-exploration--137e786b · [0000] (archive-3.md)
+- date: 2026-05-26
+- context: Brochure content exploration
+- tags: process, review-board · standing: yes
+
+### E0957 · Desktop first, responsive to mobile
+- quote: "it should be designed desktop first but be responsive to mobile."
+- source: 2026-05-26--glitch-treatment-and-layout-rhythm-exploration--137e786b · [0002] (archive-3.md)
+- date: 2026-05-26
+- context: Brochure site wireframes
+- tags: responsive · standing: yes
+
+### E0958 · Ask as many questions as needed up front
+- quote: "i noticed that you usually dont ask more thn 3 questions so if you need to ask more that will have an important impact on the final outpack please ask whatever is necessary without a limit id prefer that over a non optimal result."
+- source: 2026-05-26--glitch-treatment-and-layout-rhythm-exploration--137e786b · [0002] (archive-3.md)
+- date: 2026-05-26
+- context: Question limit before output
+- tags: process · standing: yes
+
+### E0959 · Same simple nav across options so the body is the focus
+- quote: "Use one consistent simple nav across all three so the body and footer are the focus"
+- source: 2026-05-26--glitch-treatment-and-layout-rhythm-exploration--137e786b · [0004] (archive-3.md)
+- date: 2026-05-26
+- context: Wireframes
+- tags: review-board, navigation · standing: yes
+
+### E0960 · Reference sites list; keep in memory
+- quote: "Here are a bunch of references I like for different reasons. All found from that saaslanding page website ... please keep all these in your memory for later too."
+- source: 2026-05-26--glitch-treatment-and-layout-rhythm-exploration--137e786b · [0004] (archive-3.md)
+- date: 2026-05-26
+- context: Brochure references (dittowords, kinopio, lemni, linear, dovetail, mintlify, liveblocks, blackalgo and more)
+- tags: process, style · standing: yes
+
+### E0961 · Wireframes must include animation and nav behaviour, not static
+- quote: "i was hoping that animation would be included since i did mention it? these are all very static and dont even really read as websites. ... the animation is meant to be part of the story i thought i made that clear? no even like nav behaviors, etc? i wanted you to help with the story, wireframes and that means animations, transitions, etc...."
+- source: 2026-05-26--glitch-treatment-and-layout-rhythm-exploration--137e786b · [0006] (archive-3.md)
+- date: 2026-05-26
+- context: Brochure wireframes
+- tags: style, interaction, frustration · standing: yes
+
+### E0962 · Notes that cannot collapse are in the way
+- quote: "Notations are not helping because i cant even collapse them?"
+- source: 2026-05-26--glitch-treatment-and-layout-rhythm-exploration--137e786b · [0006] (archive-3.md)
+- date: 2026-05-26
+- context: Annotations inside the wireframe HTML
+- tags: interaction, review-board, frustration · standing: yes
+
+### E0963 · Do not apply the product system to the brochure site; no templatey labels; no bentos
+- quote: "stop using the rita procduct system like all the labels and stuff. you shouldnt be referencing product design at all this feels soo templatey...... also just no to bentos."
+- source: 2026-05-26--glitch-treatment-and-layout-rhythm-exploration--137e786b · [0008] (archive-3.md)
+- date: 2026-05-26
+- context: Brochure wireframes
+- tags: style, frustration · standing: yes
+
+### E0964 · Notes entirely out; tabs less obstructive; let him see not read
+- quote: "Get rid of the notes entirely. Get rid of the weird section headers, make the tabs less obstructive, be better about text sizing being rooted in brutalism there is no drama here it feels disconnected. ... U tell too much in the notes I want to SEE."
+- source: 2026-05-26--glitch-treatment-and-layout-rhythm-exploration--137e786b · [0010] (archive-3.md)
+- date: 2026-05-26
+- context: Brochure wireframes
+- tags: style, review-board, copy, frustration · standing: yes
+
+### E0965 · Use the references he sent; deliberate transitions and spacing
+- quote: "Did you even reference the site I sent you? Their story telling and layouts and animations are way more deliberate, transitions spacing and animations are intentional."
+- source: 2026-05-26--glitch-treatment-and-layout-rhythm-exploration--137e786b · [0010] (archive-3.md)
+- date: 2026-05-26
+- context: Brochure wireframes
+- tags: process, style, frustration · standing: yes
+
+### E0966 · Do not leave old constraints behind when told; follow in-thread corrections
+- quote: "You keep not listening to what I said. You need to review everything in this thread and produce way better results."
+- source: 2026-05-26--glitch-treatment-and-layout-rhythm-exploration--137e786b · [0010] (archive-3.md)
+- date: 2026-05-26
+- context: Brochure wireframes
+- tags: process, frustration · standing: yes
+
+### E0967 · Think about micro animations, transitions, timing, story as one
+- quote: "Create 5 brand new designs now. Do way better be way smarter: think about micro animations, transitions, content behaviors, timing, story telling all of this goes together it is not separate."
+- source: 2026-05-26--glitch-treatment-and-layout-rhythm-exploration--137e786b · [0010] (archive-3.md)
+- date: 2026-05-26
+- context: Brochure wireframes
+- tags: style, interaction · standing: yes
+
+### E0968 · Show wireframes of the UI elements that appear in sections
+- quote: "I asked you to specifically where ui is needed to tell em what ui elements. U have all the info on the product u should be giving wireframes versions of how those specific elements in the brochure website"
+- source: 2026-05-26--glitch-treatment-and-layout-rhythm-exploration--137e786b · [0010] (archive-3.md)
+- date: 2026-05-26
+- context: Brochure wireframes
+- tags: review-board, style · standing: one-off
+
+### E0969 · Glitch effect he referenced was missing
+- quote: "I also don't see any glitch animations which I specifically referenced?"
+- source: 2026-05-26--glitch-treatment-and-layout-rhythm-exploration--137e786b · [0010] (archive-3.md)
+- date: 2026-05-26
+- context: Brochure wireframes
+- tags: style, interaction, frustration · standing: one-off
+
+### E0970 · Hero layout ideas included, creative freedom per section
+- quote: "While you're at it give layout ideas for the hero sections as well u can even just create what u think fits best with the story for each section idc."
+- source: 2026-05-26--glitch-treatment-and-layout-rhythm-exploration--137e786b · [0010] (archive-3.md)
+- date: 2026-05-26
+- context: Brochure wireframes
+- tags: review-board · standing: one-off
+
+### E0971 · Utilise all skills and project resources; five from scratch
+- quote: "i need you to create 5 new versions from scratch. do not rely on the previous iterations. i want to test and see how your output si different if you utilize all the skills. dont be lazy utilize all project and attached skills."
+- source: 2026-05-26--glitch-treatment-and-layout-rhythm-exploration--137e786b · [0013] (archive-3.md)
+- date: 2026-05-27
+- context: Brochure wireframes with added design skills
+- tags: process · standing: one-off
+
+### E0972 · Claude always defaults; wants skills that diversify layouts and animation
+- quote: "I was hoping for skills to improve your design outputs too.... you always default and I know there are skills to make your layouts more diverse and jusr way better for instance and things for animations stuff like that"
+- source: 2026-05-27--i-need-you-to-find-the-best-cl--c724fb8c · [0008] (archive-3.md)
+- date: 2026-05-27
+- context: Looking for Claude skills for the project
+- tags: process, style, frustration · standing: yes
+
+### E0973 · Dig deeper, there are more options out there
+- quote: "There are A LOT OF skills out there on things like GitHub etc ur not doing enough digging if u think there isn't more"
+- source: 2026-05-27--i-need-you-to-find-the-best-cl--c724fb8c · [0002] (archive-3.md)
+- date: 2026-05-27
+- context: Skill search
+- tags: process, frustration · standing: yes
+
+### E0974 · Claude overestimates how well it knows his design system
+- quote: "you think you have a better idea of my design system than you actually do despite toy having access to so many of my designs do I wonder if this will be more of a hindrance."
+- source: 2026-05-27--i-need-you-to-find-the-best-cl--c724fb8c · [0020] (archive-3.md)
+- date: 2026-05-27
+- context: Claude rewrote skills with Mondai tokens
+- tags: process, style · standing: yes
+
+### E0975 · Brochure site is not the SaaS product; do not impose product rules
+- quote: "this is for THE BROCHURE WEBSITE. we shouldnt be using the same detailed rules as the SAAS product -_-"
+- source: 2026-05-27--i-need-you-to-find-the-best-cl--c724fb8c · [0042] (archive-3.md)
+- date: 2026-05-27
+- context: Skill evaluation
+- tags: style, process · standing: yes
+
+### E0976 · Do not invent custom versions; use what people made
+- quote: "why the fuck do u keep making custom shit? the skills that people hav made work for a reason ... i just need specific answers - what do i add to the project and what do i send in the chat."
+- source: 2026-05-27--i-need-you-to-find-the-best-cl--c724fb8c · [0050] (archive-3.md)
+- date: 2026-05-27
+- context: Skill recommendations
+- tags: process, frustration · standing: yes
+
+### E0977 · Find, not create
+- quote: "What? No? Im looking for you to find the skills I need not create them?"
+- source: 2026-05-27--i-need-you-to-find-the-best-cl--c724fb8c · [0028] (archive-3.md)
+- date: 2026-05-27
+- context: Skill search
+- tags: process, frustration · standing: yes
+
+### E0978 · Do not waste tokens going back and forth; just send the links
+- quote: "i shouldnt be spending so many of my tokens going back and forth if u think i shold use those just send the damn links."
+- source: 2026-05-27--i-need-you-to-find-the-best-cl--c724fb8c · [0060] (archive-3.md)
+- date: 2026-05-27
+- context: Skill recommendations
+- tags: process, frustration · standing: yes
+
+### E0979 · Redo experiment from scratch to compare skills
+- quote: "i am going to be asking them to redo what i HAD THEM do last time with the skills added so i can see the difference. which means I will essentially have them redo that task and all directions were their independent input (claude's)."
+- source: 2026-05-27--i-need-you-to-find-the-best-cl--c724fb8c · [0046] (archive-3.md)
+- date: 2026-05-27
+- context: Testing skills on brochure directions
+- tags: process · standing: one-off
+
+### E0980 · Mondai tone of voice inconsistent in Claude's copy
+- quote: "your copy is kind of shit so im not sure this is going to make it any better not sure how you even determiend it because your tone of voice has been inconsistent always on mondai."
+- source: 2026-05-27--i-need-you-to-find-the-best-cl--c724fb8c · [0046] (archive-3.md)
+- date: 2026-05-27
+- context: Brand voice in skills
+- tags: copy, frustration · standing: yes
+
+### E0981 · Letters for tabs, numbers for sections
+- quote: "Since we are using these numbers to show seections now we should use a b c d e f g etc for things like tabs when you create multiple ideas and stuff."
+- source: 2026-05-28--mondai-brochure-refinement-and-hero-section-animation-strate--2d214ed3 · [0000] (archive-3.md)
+- date: 2026-05-28
+- context: Naming convention for tabbed options on the brochure site
+- tags: review-board, navigation, delivery · standing: yes
+
+### E0982 · Do not produce output before he says he is ready
+- quote: "u just produced something right now when we werent even ready u need to reread my entire thing i just sent"
+- source: 2026-05-28--mondai-brochure-refinement-and-hero-section-animation-strate--2d214ed3 · [0004] (archive-3.md)
+- date: 2026-05-28
+- context: Claude generated a hero comp while he was still giving context
+- tags: process, frustration · standing: yes
+
+### E0983 · Asked 500 times to dig into the other thread
+- quote: "why do i have to ask u 500 times to do things correctly?"
+- source: 2026-05-28--mondai-brochure-refinement-and-hero-section-animation-strate--2d214ed3 · [0004] (archive-3.md)
+- date: 2026-05-28
+- context: Claude ignored earlier thread
+- tags: process, frustration · standing: yes
+
+### E0984 · Effectiveness is the only goal, not agreement
+- quote: "STOP DONT JUST SAY YOURE RIGHT TO AGREE. THIS IS A PROBLEM SOLVING TASK. EFFECTIVENESS IS THE ONLY GOAL."
+- source: 2026-05-28--mondai-brochure-refinement-and-hero-section-animation-strate--2d214ed3 · [0012] (archive-3.md)
+- date: 2026-05-28
+- context: Skill selection
+- tags: process, frustration · standing: yes
+
+### E0985 · Discuss ideas before generating; responses scannable
+- quote: "we need to talk about these ideas before u just waste tokens and generate shit as well so with all that what are your thoughts.... also try to keep ur responses straight to the point no long unnecessary detail. make things clear and easy to scan."
+- source: 2026-05-28--mondai-brochure-refinement-and-hero-section-animation-strate--2d214ed3 · [0022] (archive-3.md)
+- date: 2026-05-28
+- context: Hero animation approach
+- tags: process, copy · standing: yes
+
+### E0986 · Effect recreations feel amateur
+- quote: "you dont do a great job of recreating effects like it kind of ummm automatically feels like amateur to be honest?"
+- source: 2026-05-28--mondai-brochure-refinement-and-hero-section-animation-strate--2d214ed3 · [0022] (archive-3.md)
+- date: 2026-05-28
+- context: Glitch/distortion effect in HTML
+- tags: style, frustration · standing: yes
+
+### E0987 · Brochure site is not the product; it can be more creative
+- quote: "this is not an in product design its the brochure website so while there should be connection between the two systems this one is different it can be more creative than the product which needs saas product design"
+- source: 2026-05-28--mondai-brochure-refinement-and-hero-section-animation-strate--2d214ed3 · [0022] (archive-3.md)
+- date: 2026-05-28
+- context: Hero design
+- tags: style, product · standing: yes
+
+### E0988 · Effects need impact but be safe for visually impaired users
+- quote: "i need the effct to make an impact but also not give users with visual impairments issues u kno? ... if it is an over the top effect if it could cause issues for a lot of people idk?"
+- source: 2026-05-28--mondai-brochure-refinement-and-hero-section-animation-strate--2d214ed3 · [0024] (archive-3.md)
+- date: 2026-05-28
+- context: Hero distortion and mouse reactivity
+- tags: style, interaction · standing: yes
+
+### E0989 · Mouse-reactive effects are desired
+- quote: "if it was possible to do something that reacts to your mouse in some way that could be really cool."
+- source: 2026-05-28--mondai-brochure-refinement-and-hero-section-animation-strate--2d214ed3 · [0024] (archive-3.md)
+- date: 2026-05-28
+- context: Hero motion
+- tags: interaction, style · standing: one-off
+
+### E0990 · Show each option, he cannot picture the build
+- quote: "id like to see each.... not sure of what these wil look like visually."
+- source: 2026-05-28--mondai-brochure-refinement-and-hero-section-animation-strate--2d214ed3 · [0024] (archive-3.md)
+- date: 2026-05-28
+- context: Hero colour block approaches
+- tags: review-board, decision-board · standing: yes
+
+### E0991 · Research the real cause, stop guessing
+- quote: "you need to research what the actual problem could be a stop guessing shit"
+- source: 2026-05-28--mondai-brochure-refinement-and-hero-section-animation-strate--2d214ed3 · [0046] (archive-3.md)
+- date: 2026-05-28
+- context: Video generation error in Figma Weave
+- tags: process, frustration · standing: yes
+
+### E0992 · Use the type styles he provided, not invent; match screenshots
+- quote: "the text is way too big for the image and the styles are wrong... also why all lowercase wtf? i just took a few screenshots of what text styles nd sizes and stuff im actually using."
+- source: 2026-05-28--mondai-brochure-refinement-and-hero-section-animation-strate--2d214ed3 · [0064] (archive-3.md)
+- date: 2026-05-28
+- context: Hero comp with text
+- tags: style, frustration · standing: yes
+
+### E0993 · Match screenshots exactly
+- quote: "Match my screenshots exactly (Plex Sans, ~62px, mixed case, green highlight + green italic)"
+- source: 2026-05-28--mondai-brochure-refinement-and-hero-section-animation-strate--2d214ed3 · [0066] (archive-3.md)
+- date: 2026-05-28
+- context: Hero headline type
+- tags: style, process · standing: yes
+
+### E0994 · Intensity of distortion up; no thoughtless placement
+- quote: "also turn the distortion up.... then when ti omes to the colorful piece you just placed them randomly withotu any thought behind a dark gradient to hide them? there is no creativity there whatsoever..... this is supposed to be eye catchingly good."
+- source: 2026-05-28--mondai-brochure-refinement-and-hero-section-animation-strate--2d214ed3 · [0064] (archive-3.md)
+- date: 2026-05-28
+- context: Hero comp
+- tags: style, frustration · standing: yes
+
+### E0995 · Output missing the key element he asked for
+- quote: "what are you doing? where are the colorfu block things????? wtf?? also what the fuck this text is horrendous sizing this does not match at all......."
+- source: 2026-05-28--mondai-brochure-refinement-and-hero-section-animation-strate--2d214ed3 · [0070] (archive-3.md)
+- date: 2026-05-28
+- context: Hero comp
+- tags: frustration, review-board · standing: yes
+
+### E0996 · Misread his request: dark background
+- quote: "stop making the background dark. when i was mentioning things being too distracting i was never referring to the background i was referring to the blocks."
+- source: 2026-05-28--mondai-brochure-refinement-and-hero-section-animation-strate--2d214ed3 · [0074] (archive-3.md)
+- date: 2026-05-28
+- context: Hero background
+- tags: style, frustration · standing: one-off
+
+### E0997 · Effect should be the distortion itself, not shapes with distortion inside
+- quote: "NONE OF THESE ARE DISORTIONS. THEYRE ALL SHAPES WITH A DISTRTION INSIDE"
+- source: 2026-05-28--mondai-brochure-refinement-and-hero-section-animation-strate--2d214ed3 · [0078] (archive-3.md)
+- date: 2026-05-28
+- context: Mouse-following distortion options
+- tags: style, frustration · standing: one-off
+
+### E0998 · Do not answer his question with "duh" frustrations: questions in cards that make no sense
+- quote: "..no u fucking idiot u r distorting and using the bright colors what the fuck"
+- source: 2026-05-28--mondai-brochure-refinement-and-hero-section-animation-strate--2d214ed3 · [0082] (archive-3.md)
+- date: 2026-05-28
+- context: Claude's multiple choice question cards about the effect
+- tags: process, frustration · standing: yes
+
+### E0999 · Wants distinct layers for the hero (background, mid layer, colour)
+- quote: "My thought process is we have the glitch effect behind the more colorful pieces like the background part move independently ... then maybe the color pieces are a different layer and maybe there is even a layer in between"
+- source: 2026-05-28--mondai-brochure-refinement-and-hero-section-animation-strate--2d214ed3 · [0022] (archive-3.md)
+- date: 2026-05-28
+- context: Hero animation plan
+- tags: style, interaction · standing: one-off
+
+### E1000 · Static comp first, then animate
+- quote: "Static comp first (no motion), get the composition right, then animate"
+- source: 2026-05-28--mondai-brochure-refinement-and-hero-section-animation-strate--2d214ed3 · [0002] (archive-3.md)
+- date: 2026-05-28
+- context: Fidelity for hero pass
+- tags: process, delivery · standing: one-off
+
+### E1001 · Want typed text and terminal feel in the statement section
+- quote: "i thought it could be really cool here to do some kind of transition into something that almost feels like a coding screen with the mono text. ... maybe we animate this like a typing effect or something?"
+- source: 2026-05-28--mondai-brochure-refinement-and-hero-section-animation-strate--2d214ed3 · [0000] (archive-3.md)
+- date: 2026-05-28
+- context: Brochure statement section
+- tags: style, interaction · standing: one-off
+
+### E1002 · He wants Claude to vibe code with him on rough ideas
+- quote: "these are very thrown together like playing with ideas i am using you for making them look nice, refine, use the right priniciples for a saas website, ux/product knowledge obviously"
+- source: 2026-05-28--mondai-brochure-refinement-and-hero-section-animation-strate--2d214ed3 · [0000] (archive-3.md)
+- date: 2026-05-28
+- context: Brochure hero ideas
+- tags: process, style · standing: yes
+
+### E1003 · Document format: PDF, not HTML
+- quote: "i needed a pdf not an html."
+- source: 2026-05-28--mvp-framework-documentation-for-swyam--997bf29c · [0002] (archive-3.md)
+- date: 2026-05-28
+- context: Framework handoff document for developer
+- tags: delivery, frustration · standing: yes
+
+### E1004 · Dev document: clear, skimmable, 100 percent accurate, detail only where necessary
+- quote: "It should be very clear but not overly detailed like provide detail only where necessary i am not expecting swyam to read a ton of body text he will probably just skim over so making sure points are clear and all aspects are connected"
+- source: 2026-05-28--mvp-framework-documentation-for-swyam--997bf29c · [0000] (archive-3.md)
+- date: 2026-05-28
+- context: Developer handoff PDF
+- tags: delivery, copy · standing: yes
+
+### E1005 · Look up facts about Claude itself rather than guess
+- quote: "this is complete bullshit i still have the toggle to turn it off and on stop guessing"
+- source: 2026-05-28--optimizing-claude-model-selection-and-thinking-settings-for---b889db03 · [0010] (archive-3.md)
+- date: 2026-05-28
+- context: Claude settings question
+- tags: process, frustration · standing: yes
+
+### E1006 · Claude should look things up, not make him send screenshots
+- quote: "not sure why i am wasting MY tokens with the image send rathe than you just being able to look up the info onur OWN PRODUCT"
+- source: 2026-05-28--optimizing-claude-model-selection-and-thinking-settings-for---b889db03 · [0012] (archive-3.md)
+- date: 2026-05-28
+- context: Claude settings question
+- tags: process, frustration · standing: yes
+
+### E1007 · Token cost is a design constraint
+- quote: "if im in a project and need claude to go into a last chat and pull the info from like the previous generations ... dont want to keep draining my tokens with opus adaptive thinking every time i do this."
+- source: 2026-05-28--optimizing-claude-model-selection-and-thinking-settings-for---b889db03 · [0000] (archive-3.md)
+- date: 2026-05-28
+- context: Model choice for context catch-up
+- tags: process · standing: yes
+
+### E1008 · Audit: tell me what to change, not nitpicks about unfinished work
+- quote: "focus less on the detail here. we can fix that but things like she didnt finish something or the name is wrong or whatever are not relevant i need to know what i need to change."
+- source: 2026-05-29--events-page-design-consistency-audit--06a0e595 · [0006] (archive-3.md)
+- date: 2026-05-29
+- context: Audit of another designer's events page
+- tags: review-board, process · standing: yes
+
+### E1009 · Keep the original designer's integrity; no full redesign
+- quote: "I dont want it to feel drastically different liek a full redesign from her perspective so it should at least maintain the integrity of her original design where relevant."
+- source: 2026-05-29--events-page-design-consistency-audit--06a0e595 · [0006] (archive-3.md)
+- date: 2026-05-29
+- context: Audit and redesign request
+- tags: process, style · standing: yes
+
+### E1010 · Ask clarifying questions up front
+- quote: "please ask any clarification questions before producing your results."
+- source: 2026-05-29--events-page-design-consistency-audit--06a0e595 · [0006] (archive-3.md)
+- date: 2026-05-29
+- context: Events page
+- tags: process · standing: yes
+
+### E1011 · Do not ask questions the research and context already answer
+- quote: "i honestly dont know why youre asking any of this but im glad you did because its showing me how lazy you are fucking being ... you have more than enough information coming from various sources of information + the research you did so asking this is ridiculous."
+- source: 2026-05-29--events-page-design-consistency-audit--06a0e595 · [0008] (archive-3.md)
+- date: 2026-05-29
+- context: Claude's question card on badges
+- tags: process, frustration · standing: yes
+
+### E1012 · Questions that make him choose among things only research can decide
+- quote: "this is a pattern/ux/product/heuristic question that requires research so you should be looking into what is proper here..... you should have already done the reserch into event pages what the fuck?"
+- source: 2026-05-29--events-page-design-consistency-audit--06a0e595 · [0008] (archive-3.md)
+- date: 2026-05-29
+- context: Event card primary action
+- tags: process, frustration · standing: yes
+
+### E1013 · Question cards cannot hold a long reply or be combined with a message
+- quote: "the following is the other response I was goign to send but I cant send a message anda. response to the quiz separate so her is the info"
+- source: 2026-05-29--events-page-design-consistency-audit--06a0e595 · [0008] (archive-3.md)
+- date: 2026-05-29
+- context: Claude's multiple-choice question UI
+- tags: interaction, process, frustration · standing: yes
+
+### E1014 · Layout and composition over "make it look Mondai"; mid-fi wireframes first
+- quote: "id rather have you focus on layout, elements and composition than trying to "make it look mondai" because honestly yuo dont always have the greatest understanding fo my system ro are frankly just too lazy to do it right lol... maybe we stick to mid-fidelity wireframes for the initial ideas."
+- source: 2026-05-29--events-page-design-consistency-audit--06a0e595 · [0008] (archive-3.md)
+- date: 2026-05-29
+- context: Events explorer options
+- tags: style, review-board, process · standing: yes
+
+### E1015 · Do not ignore the other skills attached
+- quote: "so yuore just going to ignore the ton of other skills attached to the project? that is not acceptable those are way more thoughtfully designed than the monday skill"
+- source: 2026-05-29--events-page-design-consistency-audit--06a0e595 · [0008] (archive-3.md)
+- date: 2026-05-29
+- context: Skill usage
+- tags: process · standing: yes
+
+### E1016 · Make low-fidelity the default pattern until structure is locked; store it in memory
+- quote: "can u somehow put this into the projects memory or create or modify something so this is always our pattern unless i specify something else?"
+- source: 2026-05-29--events-page-design-consistency-audit--06a0e595 · [0013] (archive-3.md)
+- date: 2026-05-29
+- context: Low fidelity first, high fidelity once after structure locked
+- tags: process, style · standing: yes
+
+### E1017 · Three HTML versions in separate tabs
+- quote: "great. now can u create 3 different html versions in separate tabs so i can see a few options?"
+- source: 2026-05-29--events-page-design-consistency-audit--06a0e595 · [0015] (archive-3.md)
+- date: 2026-05-29
+- context: Events explorer options
+- tags: review-board, delivery · standing: yes
+
+### E1018 · Versions must differ in architecture
+- quote: "3 different page architectures (flat grid / sectioned / agenda-rail)"
+- source: 2026-05-29--events-page-design-consistency-audit--06a0e595 · [0018] (archive-3.md)
+- date: 2026-05-29
+- context: What should differ across versions
+- tags: review-board, decision-board · standing: yes
+
+### E1019 · Discuss first, do not rebuild
+- quote: "dont recreate shit discuss first."
+- source: 2026-05-29--events-page-design-consistency-audit--06a0e595 · [0020] (archive-3.md)
+- date: 2026-05-29
+- context: Card badge and button confusion
+- tags: process, frustration · standing: yes
+
+### E1020 · Mixed signals in one corner; one slot, one job
+- quote: "The top right corner seems to be serving multiple purposes at once and I dont know why you would ever do it like that. ... they are not the same information category because you modified the filters up top by separating them with a divider"
+- source: 2026-05-29--events-page-design-consistency-audit--06a0e595 · [0020] (archive-3.md)
+- date: 2026-05-29
+- context: Event card top-right badge
+- tags: style, review-board, product · standing: yes
+
+### E1021 · Research broadly, not one example he likes
+- quote: "the point is youre supposed to get the research on event pages in general, card designs, labels, anything else relevant here not just find one example you "like" for whtever reason and base everything off that."
+- source: 2026-05-29--events-page-design-consistency-audit--06a0e595 · [0024] (archive-3.md)
+- date: 2026-05-29
+- context: Event card research
+- tags: process · standing: yes
+
+### E1022 · Replies are too dense; he is not reading a book
+- quote: "im not reading everything you said honestly because it sjust too much denseness to be reading in every output you make i think we need to modify your instructions or something because it gets a bit much im not trying to read a book here anyway"
+- source: 2026-05-29--events-page-design-consistency-audit--06a0e595 · [0026] (archive-3.md)
+- date: 2026-05-29
+- context: Claude reply density
+- tags: copy, process, frustration · standing: yes
+
+### E1023 · Recommendations must come from research, not ideas
+- quote: "this feels like just an idea rather than soemthing ased off the research or addiitonal research."
+- source: 2026-05-29--events-page-design-consistency-audit--06a0e595 · [0028] (archive-3.md)
+- date: 2026-05-29
+- context: Tab naming "My events"
+- tags: process · standing: yes
+
+### E1024 · Options should be flows he can click through
+- quote: "1 but each should just be like a flow within each of the 3 outputs you know? like i should be able to select whatever."
+- source: 2026-05-29--events-page-design-consistency-audit--06a0e595 · [0034] (archive-3.md)
+- date: 2026-05-29
+- context: Interactive prototype of events options
+- tags: review-board, interaction, delivery · standing: yes
+
+### E1025 · Do not forget core navigation (arrow to detail page)
+- quote: "how are you supposed to get to the individual events pages? these earlier iteractions had the arrow where you're putting the bookmrk now? how the fuck did you loose track of that?"
+- source: 2026-05-29--events-page-design-consistency-audit--06a0e595 · [0036] (archive-3.md)
+- date: 2026-05-29
+- context: Rebuilt event cards
+- tags: frustration, interaction, review-board · standing: yes
+
+### E1026 · Whole-card clickable with buttons inside: best practice? discoverability of clickability
+- quote: "is having the entire card clickable to go to the events page while having action buttons within the button itself the best practice here? is the hover interaction the only interaciton that tells the user the card itself is clickable?"
+- source: 2026-05-29--events-page-design-consistency-audit--06a0e595 · [0038] (archive-3.md)
+- date: 2026-05-29
+- context: Event card interactions
+- tags: interaction, product · standing: yes
+
+### E1027 · Action vs state in labels (RSVP vs Going)
+- quote: "why does the rsvp button change to "going" rsvp is an action, going is a state........"
+- source: 2026-05-29--events-page-design-consistency-audit--06a0e595 · [0040] (archive-3.md)
+- date: 2026-05-29
+- context: Card button states
+- tags: copy, interaction, product · standing: yes
+
+### E1028 · Output cannot be trusted when basics are forgotten
+- quote: "i cant trust any of your output what am i supposed to do with this?"
+- source: 2026-05-29--events-page-design-consistency-audit--06a0e595 · [0042] (archive-3.md)
+- date: 2026-05-29
+- context: Event cards missing type tag
+- tags: process, frustration · standing: yes
+
+### E1029 · Research the page and the card together for consistency
+- quote: "i tihnk its a mistake to only research the card andnot the page at the same tiem u may want to do one more research pass."
+- source: 2026-05-29--events-page-design-consistency-audit--06a0e595 · [0044] (archive-3.md)
+- date: 2026-05-29
+- context: Events page and card
+- tags: process · standing: yes
+
+### E1030 · Full states matrix to show dev all possibilities
+- quote: "i actually need u to come up with the text and status/types and anything else needed for each event for the 9 different cards based on the image i sent. cover all circumstances of statuses and types etc because this is how i will show all the different possibilities to dev."
+- source: 2026-05-29--events-page-design-consistency-audit--06a0e595 · [0060] (archive-3.md)
+- date: 2026-05-29
+- context: Event card states
+- tags: review-board, delivery, product · standing: yes
+
+### E1031 · Plain text in a code box to maintain format
+- quote: "send this in a plain text code box please to maintain format"
+- source: 2026-05-29--events-page-design-consistency-audit--06a0e595 · [0066] (archive-3.md)
+- date: 2026-05-29
+- context: List of event card content
+- tags: delivery, copy · standing: yes
+
+### E1032 · Card content copy: too short looks funky
+- quote: "also make the descriptions slightly longer as they are currently  looking a little funky like theyre too short"
+- source: 2026-05-29--events-page-design-consistency-audit--06a0e595 · [0090] (archive-3.md)
+- date: 2026-05-29
+- context: Event card sample copy
+- tags: copy, product · standing: one-off
+
+### E1033 · Content should be general, not skewed to one discipline
+- quote: "these are general rita events they shouldnt all be ux based redo the list so its for all tech"
+- source: 2026-05-29--events-page-design-consistency-audit--06a0e595 · [0064] (archive-3.md)
+- date: 2026-05-29
+- context: Sample event content
+- tags: copy, product · standing: one-off
+
+### E1034 · Stop making up issues; he owns his system's conventions
+- quote: "This is a dumb vibes insight you know I use green in my system to  call attention as well. There is no collision."
+- source: 2026-05-29--events-page-design-consistency-audit--06a0e595 · [0113] (archive-3.md)
+- date: 2026-05-29
+- context: Claude critique of his edits
+- tags: process, frustration · standing: yes
+
+### E1035 · Critique must stay at product and UX level, not microscopic details
+- quote: "i wsnt asking for microscopic detail analysis this is obviouslt a fucking product/ux design task not a detailed assessment of what details match up and dont im talking about layout, how it matches patterns and research if the way i have the information architecture setup works etc"
+- source: 2026-05-29--events-page-design-consistency-audit--06a0e595 · [0133] (archive-3.md)
+- date: 2026-05-30
+- context: Using the critique skill on the event details page
+- tags: review-board, process, frustration · standing: yes
+
+### E1036 · Time spent signals research depth
+- quote: "Not looking at this because I saw this took you like no time to create meaning you didn't deep dive into the research and enough yet again. Try again."
+- source: 2026-05-29--events-page-design-consistency-audit--06a0e595 · [0121] (archive-3.md)
+- date: 2026-05-29
+- context: Event detail page versions
+- tags: process, frustration · standing: yes
+
+### E1037 · Three full-page mid-fi HTML versions, keep existing layout
+- quote: "Create the designs as mid fidelity. Like you originally did for the cards but in html with 3 versions full page go. ... remember keep the general layout and design of what is currently there."
+- source: 2026-05-29--events-page-design-consistency-audit--06a0e595 · [0119] (archive-3.md)
+- date: 2026-05-29
+- context: Event details page options
+- tags: review-board, delivery, style · standing: yes
+
+### E1038 · Two versions of each for comparison
+- quote: "make two versions of each for me to see"
+- source: 2026-05-29--events-page-design-consistency-audit--06a0e595 · [0127] (archive-3.md)
+- date: 2026-05-30
+- context: Event detail options
+- tags: review-board · standing: one-off
+
+### E1039 · Not creating a thousand variations; wants a way to cover states
+- quote: "im not going to create 1000 variations to get the point across of how this all works. ... i need ur help too figuring out how to get all the info on alternative ways this my look for instance so i dont have to make more than a few different versions i need to pass this on asap."
+- source: 2026-05-29--events-page-design-consistency-audit--06a0e595 · [0143] (archive-3.md)
+- date: 2026-05-30
+- context: Event detail page states for dev handoff
+- tags: process, review-board · standing: yes
+
+### E1040 · Do not argue from a source that does not say that
+- quote: "im sorry but it feels like u used this info to support your own decisions. ... this feels like a simplification and lazy as fuck."
+- source: 2026-05-29--events-page-design-consistency-audit--06a0e595 · [0151] (archive-3.md)
+- date: 2026-05-30
+- context: Bookmark placement research
+- tags: process, frustration · standing: yes
+
+### E1041 · Research everything, then come back with truth
+- quote: "DONT JSUT AGREE OR DISAGREE RESEARCH EVERYTHING THEN COME BACK WITH TRUTH"
+- source: 2026-05-29--events-page-design-consistency-audit--06a0e595 · [0151] (archive-3.md)
+- date: 2026-05-30
+- context: Bookmark placement
+- tags: process · standing: yes
+
+### E1042 · Jargon: what does a clear focus state mean
+- quote: "what does a clear focus state mean?"
+- source: 2026-05-29--events-page-design-consistency-audit--06a0e595 · [0153] (archive-3.md)
+- date: 2026-05-30
+- context: Claude's accessibility note
+- tags: copy · standing: yes
+
+### E1043 · Stop asking questions just to ask
+- quote: "stop asking questions just to ask something"
+- source: 2026-05-29--events-page-design-consistency-audit--06a0e595 · [0183] (archive-3.md)
+- date: 2026-05-30
+- context: Claude asked whether saved and RSVP'd can overlap
+- tags: process, frustration · standing: yes
+
+### E1044 · Output must resemble his designs
+- quote: "curiously why the fuck does this look nothing like my designs im a little worried u lost track and that this is going to reflect on documentation which is beyond a massive issue."
+- source: 2026-05-29--events-page-design-consistency-audit--06a0e595 · [0185] (archive-3.md)
+- date: 2026-05-30
+- context: My events tab mock
+- tags: frustration, process, review-board · standing: yes
+
+### E1045 · Banner without content is boring, but not every event has a header
+- quote: "the page is also dreadfully boring without anything up there and im pretty sure having soemthing on top is a consistent pattern to some extent for a page like this"
+- source: 2026-05-29--events-page-design-consistency-audit--06a0e595 · [0137] (archive-3.md)
+- date: 2026-05-30
+- context: Event detail banner
+- tags: style, product · standing: one-off
+
+### E1046 · Cards fill until a minimum then wrap to fewer columns; cap at a max
+- quote: "i have a max width (current width you see in screenshot) for the cards and a min. My thought process is anhthing smaller than 1920 (what im designing at) should fill and keep taking up 3 spaces until they reach the min then it breaks down to like two per row?"
+- source: 2026-05-29--events-page-design-consistency-audit--06a0e595 · [0157] (archive-3.md)
+- date: 2026-05-30
+- context: Event explorer responsive grid
+- tags: responsive, product · standing: yes
+
+### E1047 · Beyond 1920: cap the page or reflow; stretching looks bad
+- quote: "i think they look crazy if bigger but it depends on how swyam handles other screens ... either max the entire thing at its current width (meaning the entire page) or maybe like anything bigger the cards actually get smaller again and adapt to 4 or something?"
+- source: 2026-05-29--events-page-design-consistency-audit--06a0e595 · [0159] (archive-3.md)
+- date: 2026-05-30
+- context: Large viewport behaviour
+- tags: responsive, product · standing: yes
+
+### E1048 · Card hover: slight lift
+- quote: "i want the cards to like lift a little bit on hover. do u think there is enough room in my current card spacing fro this?"
+- source: 2026-05-29--events-page-design-consistency-audit--06a0e595 · [0165] (archive-3.md)
+- date: 2026-05-30
+- context: Event cards
+- tags: interaction, product · standing: yes
+
+### E1049 · Standard PDF: the white style
+- quote: "PDF in that same white style we decided on not long ago to use as the standard pdf format."
+- source: 2026-05-29--events-page-design-consistency-audit--06a0e595 · [0163] (archive-3.md)
+- date: 2026-05-30
+- context: Event handoff document
+- tags: delivery, style · standing: yes
+
+### E1050 · Leave device decisions to dev where the answer depends on other pages
+- quote: "for responsiveness maybe just give swyam the info and tell him to do whatever option best fits how he handled the other pages or whatever? like leave it to him?"
+- source: 2026-05-29--events-page-design-consistency-audit--06a0e595 · [0161] (archive-3.md)
+- date: 2026-05-30
+- context: Responsive spec
+- tags: process, responsive · standing: yes
+
+### E1051 · Selected state needs its own hover and pressed (design system completeness)
+- quote: "wait i just realized something huge missing in my system. I think I need to make separate hover effects for all of my selected states?"
+- source: 2026-05-29--events-page-design-consistency-audit--06a0e595 · [0092] (archive-3.md)
+- date: 2026-05-29
+- context: Selected states in the design system
+- tags: interaction, product · standing: one-off
+
+### E1052 · Green outline means selected in the system
+- quote: "we already use a green outline for selected in certain circumstances so it should be fine then right"
+- source: 2026-05-29--events-page-design-consistency-audit--06a0e595 · [0076] (archive-3.md)
+- date: 2026-05-29
+- context: Bookmark selected state
+- tags: style, product · standing: yes
+
+### E1053 · Too much to read, simplify
+- quote: "this is too much to read.... simplify"
+- source: 3dd43c15 · [0024] (archive-4.md)
+- date: 2026-05-31
+- context: calendar integration settings thread, reacting to a long reply
+- tags: copy, frustration · standing: yes
+
+### E1054 · Not a long essay each response
+- quote: "also can u redo that last message but make it simpler its way too much to read i dont have time to read a long ass essay in each response"
+- source: 3dd43c15 · [0006] (archive-4.md)
+- date: 2026-05-30
+- context: calendar integration placement thread
+- tags: copy, frustration · standing: yes
+
+### E1055 · Stop sending essays and closing open questions
+- quote: "i need u to stop sending essays u expect me to absorb way too much and its making hings take forever ... u do this shit always where u have to put some kind of open question or issue u see at the end and it is starting to feel like u say something negative just to say it and continue the conversation going longer than necessary."
+- source: 0318092a · [0046] (archive-4.md)
+- date: 2026-05-31
+- context: MVP onboarding flow thread
+- tags: copy, frustration, process · standing: yes
+
+### E1056 · Info dump, outline next steps simply
+- quote: "i need this quick. so what actual design work needs done. this is a LOT of text. I need you to outline next steps. I need you to explain things to me more simply this is just a lot of info dump."
+- source: b30275af · [0004] (archive-4.md)
+- date: 2026-07-29
+- context: event registration and brochure flow thread
+- tags: copy, frustration · standing: yes
+
+### E1057 · Too much to read, just solve and make 3 versions
+- quote: "ok this is a lot to read and its late lol. the side bar is part of the difficulty i need u to just solve this for me and make 3 versions so i can go to bed lol"
+- source: b30275af · [0134] (archive-4.md)
+- date: 2026-07-30
+- context: top rail notification placement next to sidebar
+- tags: copy, decision-board, frustration · standing: yes
+
+### E1058 · Not an engineer, simplify
+- quote: "i am not an engineer i have no idea what all this means all these connections and shit. /caveman please simplify"
+- source: c23c2396 · [0014] (archive-4.md)
+- date: 2026-06-17
+- context: tool for glitch background effects
+- tags: copy, frustration · standing: yes
+
+### E1059 · Be specific about which terminal
+- quote: "jesus christ CAN U PLEASE BE SPECIFIC ABOUT CLADUE IN TERMINAL VS NORMAL TERMINAL VS CLAUDE CODE"
+- source: 0e8330fc · [0016] (archive-4.md)
+- date: 2026-07-23
+- context: first time setting up Claude Code for the brochure site
+- tags: copy, delivery, frustration · standing: yes
+
+### E1060 · Not a coder
+- quote: "u kno im not a coder this is getting confusing chatgpt made it eay easier"
+- source: 0e8330fc · [0018] (archive-4.md)
+- date: 2026-07-23
+- context: Claude Code terminal setup
+- tags: copy, frustration · standing: yes
+
+### E1061 · Instructions must match the real interface
+- quote: "im going to need you to update the instructions document. this doesnt click with notion's interface whatsoever: ... i have no idea how to do this. there is no "x-axis" section for instance."
+- source: 4184a9aa · [0086] (archive-4.md)
+- date: 2026-07-28
+- context: Notion dashboard setup instructions
+- tags: copy, delivery, frustration · standing: yes
+
+### E1062 · Research the tool instead of guessing from a picture
+- quote: "maybe u should just stop guessing from a pic and actually do soe research like u should have done from the get go. this makes me feellike this dashboard end result even if i get there isnt going to be that good like u literally dont even know notion capabilities"
+- source: 4184a9aa · [0092] (archive-4.md)
+- date: 2026-07-28
+- context: Notion dashboard chart setup
+- tags: process, frustration · standing: yes
+
+### E1063 · No excuse, the whole internet is available
+- quote: "your instructions should be creating the most optimal dashboard for my use case based in a deep understanding of how notion operates. you have the entire internet out there. you can access the entire internet's massie knowledge base of how notion currently works no excuse this time for an imperfect document."
+- source: 4184a9aa · [0094] (archive-4.md)
+- date: 2026-07-28
+- context: Notion dashboard instructions
+- tags: process, frustration · standing: yes
+
+### E1064 · No more documents, just tell me
+- quote: "no more bullshit documents just tell me here i am wasting too much time on this t this point."
+- source: 4184a9aa · [0116] (archive-4.md)
+- date: 2026-07-28
+- context: Notion team dashboard
+- tags: delivery, copy, frustration · standing: yes
+
+### E1065 · Stop talking about documents
+- quote: "stop talking about documents. i dont need a document. first we need to discuss strategy."
+- source: 4184a9aa · [0124] (archive-4.md)
+- date: 2026-07-28
+- context: Notion team dashboard
+- tags: delivery, frustration · standing: yes
+
+### E1066 · Send documentation directly in chat
+- quote: "please send all documentations to me directly here dont just expect me to go look in the folder haha"
+- source: 1c849fef · [0016] (archive-4.md)
+- date: 2026-09-22
+- context: Claude Code feature analysis run
+- tags: delivery · standing: yes
+
+### E1067 · Send the files directly
+- quote: "Oh, can you like send me those files directly? I don't know why, but I didn't save those down where they should have been with everything"
+- source: f216f372 · [0002] (archive-4.md)
+- date: 2026-09-23
+- context: cohort research files
+- tags: delivery · standing: yes
+
+### E1068 · Just send a zip
+- quote: "Can you just like send me a zip?Because right now... yeah ugh just send me a zip for now"
+- source: f216f372 · [0006] (archive-4.md)
+- date: 2026-09-23
+- context: cohort research files
+- tags: delivery · standing: one-off
+
+### E1069 · Grids as SVG
+- quote: "Can u send the grids as SVGS"
+- source: ecacdd62 · [0002] (archive-4.md)
+- date: 2026-07-25
+- context: hero grid options for brochure
+- tags: delivery · standing: one-off
+
+### E1070 · Full paste-ready prompt
+- quote: "no the full damn prompt to give to it alongside the link to hav eit create it well"
+- source: 0e8330fc · [0040] (archive-4.md)
+- date: 2026-07-23
+- context: prompt for Claude Code to build the brochure responsively
+- tags: delivery, frustration · standing: yes
+
+### E1071 · Recreate the entire prompt
+- quote: "can u just recreate the entire chatgpt prompt properly now with the green part added -_-"
+- source: de3972ea · [0030] (archive-4.md)
+- date: 2026-07-24
+- context: image prompts for the hero artwork
+- tags: delivery, frustration · standing: yes
+
+## 
+
+### E1072 · All in one artifact with a tab bar
+- quote: "can you show me all of them? in one artifact but put a tb at the top so i can view each and any relted animations independently"
+- source: 734231df · [0028] (archive-4.md)
+- date: 2026-06-22
+- context: career action plan visual alternatives for the brochure
+- tags: review-board, decision-board, delivery · standing: yes
+
+### E1073 · Separate tabs for each concept
+- quote: "not five? but i asked for separate concepts didnt i? in each tab? in the last convo?"
+- source: 99e39381 · [0008] (archive-4.md)
+- date: 2026-06-23
+- context: reviewing visual alternatives
+- tags: review-board, decision-board, frustration · standing: yes
+
+### E1074 · Both, separate tabs obviously
+- quote: "both. separte tabs obviously"
+- source: 99e39381 · [0018] (archive-4.md)
+- date: 2026-06-24
+- context: visual alternatives, answering a question about format
+- tags: review-board, decision-board · standing: yes
+
+### E1075 · Three versions in separate tabs
+- quote: "then xreate 3 versions all in separate tabs that are more visually appealing ty."
+- source: 5ccfdd9d · [0000] (archive-4.md)
+- date: 2026-06-29
+- context: feature card left card layouts
+- tags: review-board, decision-board · standing: yes
+
+### E1076 · All in different tabs
+- quote: "all in differnt tabs"
+- source: 5ccfdd9d · [0012] (archive-4.md)
+- date: 2026-06-29
+- context: feature card layouts
+- tags: review-board, decision-board · standing: yes
+
+### E1077 · Separate tabs in html for the in-product browser
+- quote: "generate 5 separate ideas - you dont need to send the actual grid files to me yet. you are just creating 5 alternative hero layouts for me to look at. put them in separate tabs in html format so i can view them in the in-product browser."
+- source: ecacdd62 · [0008] (archive-4.md)
+- date: 2026-07-25
+- context: hero layout options above the state of the industry section
+- tags: review-board, decision-board, delivery · standing: yes
+
+### E1078 · Each version in a separate tab like usual
+- quote: "put each version of the section in a separate tab like u do usually for me."
+- source: 5251cc48 · [0064] (archive-4.md)
+- date: 2026-07-26
+- context: feature header and features section layout propositions
+- tags: review-board, decision-board · standing: yes
+
+### E1079 · Wants tabs to compare options in the first place
+- quote: "can u show me both in separate tabs?"
+- source: 0318092a · [0022] (archive-4.md)
+- date: 2026-05-31
+- context: onboarding first time moment options
+- tags: review-board, decision-board · standing: yes
+
+### E1080 · Show both versions when the choice is mine
+- quote: "show both. also u never created a new screen for editing sync settings u just wrote some shit up wtf?"
+- source: 3dd43c15 · [0026] (archive-4.md)
+- date: 2026-05-31
+- context: settings grouped versus plain rows
+- tags: decision-board, frustration · standing: yes
+
+### E1081 · Multiple versions per request: three options
+- quote: "please come up with 3 versions of copy for each"
+- source: dfb4765c · [0000] (archive-4.md)
+- date: 2026-06-18
+- context: brochure features copy
+- tags: decision-board, copy · standing: yes
+
+### E1082 · Three obviously for the bodies
+- quote: "-_-......... 3 options obviously..... for the bodies....."
+- source: dfb4765c · [0010] (archive-4.md)
+- date: 2026-06-18
+- context: brochure features copy
+- tags: decision-board, frustration · standing: yes
+
+### E1083 · Five variations
+- quote: "please create 5 variations of a visual alternative i could use for this section."
+- source: 734231df · [0000] (archive-4.md)
+- date: 2026-06-20
+- context: career action plan card visuals
+- tags: decision-board · standing: yes
+
+### E1084 · One option, really
+- quote: "one option? really?"
+- source: 734231df · [0022] (archive-4.md)
+- date: 2026-06-22
+- context: card visual alternatives
+- tags: decision-board, frustration · standing: yes
+
+### E1085 · Only gave 3 options is lazy
+- quote: "and you also only gave 3 options? this just feels dead ass lazy to be honest."
+- source: c23c2396 · [0030] (archive-4.md)
+- date: 2026-06-17
+- context: first draft of the glitch background tool
+- tags: decision-board, frustration, editor · standing: yes
+
+### E1086 · Three design options
+- quote: "give me 3 design options"
+- source: b30275af · [0092] (archive-4.md)
+- date: 2026-07-30
+- context: email verification top rail
+- tags: decision-board · standing: yes
+
+### E1087 · Three separate options with a pick
+- quote: "i want 3 separate options this time around. go"
+- source: b30275af · [0108] (archive-4.md)
+- date: 2026-07-30
+- context: banner colour options
+- tags: decision-board · standing: yes
+
+### E1088 · Three layout propositions with flow in mind
+- quote: "maybe u can present 3 different layout/design propositions. think here about animation and interactions too. think about the flow of these 3."
+- source: 5251cc48 · [0064] (archive-4.md)
+- date: 2026-07-26
+- context: features section for brochure
+- tags: decision-board · standing: yes
+
+### E1089 · Image examples before building a whole thing
+- quote: "can u create image examples of wht each of tose look like? they dont have to be high fidelity but might as well reate a visual example of each style beffore going in and building a whole thing"
+- source: 5251cc48 · [0066] (archive-4.md)
+- date: 2026-07-27
+- context: three features layouts
+- tags: review-board, process · standing: yes
+
+### E1090 · Examples as images
+- quote: "ugh just make me examples as images"
+- source: b30275af · [0088] (archive-4.md)
+- date: 2026-07-30
+- context: top rail email verification
+- tags: review-board, delivery · standing: yes
+
+### E1091 · Show all variations needed
+- quote: "now show all variations i need"
+- source: b30275af · [0094] (archive-4.md)
+- date: 2026-07-30
+- context: email verification top rail states
+- tags: review-board, decision-board · standing: yes
+
+### E1092 · Something visual to see what each is
+- quote: "can you create me something visual so i can see what all these types of elements youre mentioning are referencing exactly?"
+- source: 7621102f · [0004] (archive-4.md)
+- date: 2026-06-22
+- context: decorative tech elements for cards
+- tags: review-board, delivery · standing: yes
+
+### E1093 · Give it to me as an image
+- quote: "can you give that to me as an image or something ?"
+- source: 7621102f · [0006] (archive-4.md)
+- date: 2026-06-22
+- context: decorative elements
+- tags: delivery · standing: yes
+
+### E1094 · Show me, do not describe
+- quote: "ok show me. also did u ever design the calendar sync screen in settings?"
+- source: 3dd43c15 · [0046] (archive-4.md)
+- date: 2026-05-31
+- context: calendar sync icon states and settings screens
+- tags: review-board, delivery · standing: yes
+
+### E1095 · Show me what the icon and animation are
+- quote: "show me what kind of icon ur thinking..... like what kind of animation"
+- source: 3dd43c15 · [0032] (archive-4.md)
+- date: 2026-05-31
+- context: sync icon in a context menu
+- tags: review-board, interaction · standing: yes
+
+### E1096 · Generate in HTML first, then decide on Figma
+- quote: "why dont u generate the designs in here first so i can see them then il decide if i want u to build them."
+- source: b30275af · [0040] (archive-4.md)
+- date: 2026-07-29
+- context: brochure events page designs
+- tags: delivery, process · standing: yes
+
+### E1097 · Flat mockup first, component after
+- quote: "Show me all 4 states as a flat mockup first, component after"
+- source: b30275af · [0102] (archive-4.md)
+- date: 2026-07-30
+- context: top rail banner component states
+- tags: process, review-board · standing: yes
+
+### E1098 · Component set with all states as variants
+- quote: "Component set with all 4 states as separate variants"
+- source: b30275af · [0100] (archive-4.md)
+- date: 2026-07-30
+- context: banner component structure in Figma
+- tags: delivery, editor · standing: yes
+
+### E1099 · Visualise without touching Figma
+- quote: "I need you to create me a visualization of how it is supposed to look without actually doing anything in Figma here."
+- source: b30275af · [0158] (archive-4.md)
+- date: 2026-07-30
+- context: where the top rail sits against the sidebar
+- tags: process, delivery · standing: yes
+
+### E1100 · Slide deck wanted, not a photo
+- quote: "this is a photo not a presentation?? wtf"
+- source: f97294d0 · [0016] (archive-4.md)
+- date: 2026-08-11
+- context: leadership meeting visual on cohort profile data
+- tags: delivery, frustration · standing: yes
+
+### E1101 · A full presentation, broken up
+- quote: "I NEED A FULL PRESENTATION OH MY GODDDDDDDDDD THIS ISNT SUPPOSED TO BE ONE IMAGE I GAV EU ALL THE INFO IT IS INSANE U NEE TO MAKE THIS CLEANER AND MORE BROKEN UP AND IN A PRESENTATION FORMAT"
+- source: f97294d0 · [0020] (archive-4.md)
+- date: 2026-08-11
+- context: cohort profile meeting deck
+- tags: delivery, frustration · standing: yes
+
+### E1102 · Deck density: circles, white space, less text
+- quote: "use ciles or something and more white space and less text theer is way too much info on some of these for a slide deck"
+- source: f97294d0 · [0024] (archive-4.md)
+- date: 2026-08-11
+- context: cohort deck
+- tags: style, copy · standing: yes
+
+### E1103 · A visual, not a document
+- quote: "also this thing you created was a document. i was asking for a visual. like maybe even a mini presentation would be better."
+- source: f97294d0 · [0006] (archive-4.md)
+- date: 2026-08-11
+- context: leadership meeting prep
+- tags: delivery, frustration · standing: yes
+
+### E1104 · Placeholder names in decks
+- quote: "dont name jordan and sam just user one and user two."
+- source: f97294d0 · [0026] (archive-4.md)
+- date: 2026-08-11
+- context: deck labels
+- tags: copy · standing: one-off
+
+### E1105 · Dashboard belongs in a database not a slide
+- quote: "the dashboard part wouldwork better as an external notion database or something with specific use instructions not within a presentation."
+- source: f97294d0 · [0008] (archive-4.md)
+- date: 2026-08-11
+- context: cohort meeting deliverables
+- tags: delivery · standing: one-off
+
+### E1106 · Use the actual UI elements, less text
+- quote: "This is way too wordy. We are supposed to be using actual UI elements. showing her the actual UI elements. you have access to the design system for Mondai why are you not pulling the calendar components like i asked?"
+- source: 229952d7 · [0012] (archive-4.md)
+- date: 2026-08-11
+- context: mobile calendar documentation for a designer
+- tags: delivery, copy, frustration · standing: yes
+
+### E1107 · Right file format: PDF not HTML
+- quote: "also idk why this is an html document it should be a pdf or something. why would she want an html link for something like this? also we dont need the source of truth section at the bottom."
+- source: 229952d7 · [0017] (archive-4.md)
+- date: 2026-08-11
+- context: calendar documentation
+- tags: delivery, frustration · standing: yes
+
+### E1108 · Blurry images in a doc
+- quote: "it looks like some of the images are really blurry."
+- source: 229952d7 · [0021] (archive-4.md)
+- date: 2026-08-12
+- context: calendar documentation
+- tags: style, frustration · standing: one-off
+
+### E1109 · Use the conventional form of an artifact
+- quote: "wait what? how did you use a skill for a sitemap and still end up with this? this is not a sitemap. THIS is a sitemap i literally just googled site map and look at the results im gobsmacked."
+- source: 71363bc3 · [0010] (archive-4.md)
+- date: 2026-08-03
+- context: product sitemap for a new designer
+- tags: delivery, frustration · standing: yes
+
+### E1110 · Keep it simple, no unneeded depth
+- quote: "It just needs to be a simple sitemap."
+- source: 71363bc3 · [0004] (archive-4.md)
+- date: 2026-08-03
+- context: sitemap
+- tags: process · standing: yes
+
+### E1111 · Flow board for the developer
+- quote: "i need you to like maybe create something visual for me or something...i dont need full detail flows or anything but maybe some kind of user flow diagram with notes of where something needs built/changed in each flow, what flow orders change and how, then separately maybe at the bottom or something the screens that need deleted and why."
+- source: b30275af · [0010] (archive-4.md)
+- date: 2026-07-29
+- context: event and onboarding flow changes for a developer
+- tags: review-board, delivery · standing: yes
+
+### E1112 · Flow board must show flows one after another, with short explanation
+- quote: "LIKE DO U KNO WHA TA FLOW IS? LIKE HOW WE PUT THEM ONE AFTER ANOTHER SO U CAN SEE HOW THINGS WORK????  - things like explaining how the component works from events that even i was confused as fuck about until i asked u so how would i expect him to just get it?????? what are you missing about what i need?"
+- source: b30275af · [0191] (archive-4.md)
+- date: 2026-07-30
+- context: Figma board handing flows to developer Swyam
+- tags: review-board, delivery, frustration · standing: yes
+
+### E1113 · Duplicate frames so the flow reads
+- quote: "yes i already explicitly said to duplicate frames how the hell are you asking me this"
+- source: b30275af · [0193] (archive-4.md)
+- date: 2026-07-30
+- context: flow board
+- tags: process, frustration · standing: yes
+
+### E1114 · Not an org board, a flow board
+- quote: "this is just not...... an organization bord put together showing the dev the flow."
+- source: b30275af · [0191] (archive-4.md)
+- date: 2026-07-30
+- context: dev handoff board
+- tags: review-board, frustration · standing: one-off
+
+### E1115 · Annotate new builds and why
+- quote: "ok can u build these full flows for me? with annotations where necessary explaining the new builds, and why?"
+- source: b30275af · [0012] (archive-4.md)
+- date: 2026-07-29
+- context: dev handoff flows
+- tags: review-board, delivery · standing: yes
+
+### E1116 · Handoff to a non-designer developer
+- quote: "If anything I need to just give Swyam the idea of the flow otherwise they are going to just move on without any instruction and to put it simply i think things are wy too complicated here for me to let that happen. i love swyam hes fantastic he just doesnt have that design background"
+- source: b30275af · [0004] (archive-4.md)
+- date: 2026-07-29
+- context: handoff of event flow to dev
+- tags: delivery, review-board · standing: yes
+
+## 
+
+### E1117 · Tool brief: create, edit, test, modify effects
+- quote: "I will be asking for you to create a tool that allows me to create/edit/test/modify effects like this."
+- source: c23c2396 · [0004] (archive-4.md)
+- date: 2026-06-17
+- context: animated glitch background tool
+- tags: editor · standing: one-off
+
+### E1118 · Per effect controls, simple for non animators
+- quote: "sliders sure but if u think there are others that should be added or certain effects need certain sliders it can change per effect whatever is needed to make them how i want without making them overly complex for someone who doesnt have an animation background."
+- source: c23c2396 · [0018] (archive-4.md)
+- date: 2026-06-17
+- context: background effects tool
+- tags: editor, copy · standing: yes
+
+### E1119 · Right panel stays empty apart from the background
+- quote: "nothing goes in it on the right aside from the background."
+- source: c23c2396 · [0018] (archive-4.md)
+- date: 2026-06-17
+- context: tool preview panel
+- tags: shell, editor, style · standing: one-off
+
+### E1120 · It is a design tool, not a live site feature
+- quote: "the tool im asking for is a design tool. for me to use here to create backgrounds or one large background that fills the whole page but is in the style of thesse types of animations. really? i literally sent you the image of the wireframe."
+- source: c23c2396 · [0016] (archive-4.md)
+- date: 2026-06-17
+- context: reacting to a question about live playback
+- tags: editor, frustration · standing: one-off
+
+### E1121 · Wireframe image is the brief
+- quote: "For more context I am thinking something like this example I created. This is just a very very rough wireframe and I'm assuming the options like colors for instance may vary depending on each animation type."
+- source: c23c2396 · [0004] (archive-4.md)
+- date: 2026-06-17
+- context: effects tool
+- tags: editor · standing: one-off
+
+### E1122 · No fluidity: pixel confetti
+- quote: "there is absolutely no fluidity in the colored glitch effects you added at all. it feels like a 4 step animation type of thing not dynamic at all. idk how to explain it but it literally feels like pixel confetti squares feels like a liminal kids birthday party...."
+- source: c23c2396 · [0030] (archive-4.md)
+- date: 2026-06-17
+- context: first glitch effects output
+- tags: style, frustration · standing: one-off
+
+### E1123 · Layout wireframing tool brief
+- quote: "I want you to build a wireframing tool for the brochure website One that I can use to help put together the flow of the brochure website's landing page from top to bottom."
+- source: 0ca20689 · [0000] (archive-4.md)
+- date: 2026-06-18
+- context: wireframing tool with sections from ten reference sites
+- tags: editor · standing: one-off
+
+### E1124 · Swap sections and adapt neighbours
+- quote: "I have 10 websites that show a variety of different ways we can organize information. I want you to use those websites as references and incorporate the different sections of the layout so that I can switch out between them and set them for each section."
+- source: 0ca20689 · [0000] (archive-4.md)
+- date: 2026-06-18
+- context: wireframing tool
+- tags: editor, interaction · standing: one-off
+
+### E1125 · Lock in and move to animation step
+- quote: "I should be able to "lock in" a combination of web sections at a certain point and then the tool should then transfer into something with like 10 animation options that change the entire page's animations."
+- source: 0ca20689 · [0000] (archive-4.md)
+- date: 2026-06-18
+- context: wireframing tool
+- tags: editor, navigation · standing: one-off
+
+### E1126 · Next step, with a way back
+- quote: "its like the next step for the tool. so i lock the selections then it takes me to the next step which is the animation. then there should also be a waay obviously to go back or whatever."
+- source: 0ca20689 · [0010] (archive-4.md)
+- date: 2026-06-18
+- context: wireframing tool flow
+- tags: navigation, editor · standing: yes
+
+### E1127 · Wireframes: dark mode, plain, low to mid fidelity
+- quote: "Remember these are wireframes not high fidelity mockups. Make them in dark mode but leave them plain again this is for wireframes low fidelity for the most prt except it will have text so mybe we call that mid but the focus is on layout, animations and the overall flow of the website."
+- source: 0ca20689 · [0006] (archive-4.md)
+- date: 2026-06-18
+- context: wireframing tool
+- tags: style, editor · standing: yes
+
+### E1128 · Mid fidelity wireframes, not tokens
+- quote: "hold up stop focusing on design i dont need u to detail tokens and shit i just need mid fidelity wireframes we keep talking about this within this project and u keep ignoring t like u have some undying passion to design shit but u dont have a good enough grip of the design system to make it even useful."
+- source: 0318092a · [0024] (archive-4.md)
+- date: 2026-05-31
+- context: onboarding flow
+- tags: style, process, frustration · standing: yes
+
+### E1129 · Center scrolls independently, side panels stay put
+- quote: "I should be able to scroll the middle section independently with the right and left panels staying in place. Left panel should be more like a "layers panel"."
+- source: 0ca20689 · [0012] (archive-4.md)
+- date: 2026-06-18
+- context: wireframing tool shell
+- tags: shell, editor · standing: yes
+
+### E1130 · No black text on grey
+- quote: "All black text should be light so I can read it i cant read black text on a gray background."
+- source: 0ca20689 · [0012] (archive-4.md)
+- date: 2026-06-18
+- context: wireframing tool contrast
+- tags: style, frustration · standing: yes
+
+### E1131 · Small round Next button, top right
+- quote: "Make the cta on the top right just a round button that says "next" and make it smaller."
+- source: 0ca20689 · [0012] (archive-4.md)
+- date: 2026-06-18
+- context: wireframing tool header
+- tags: shell, interaction, style · standing: one-off
+
+### E1132 · Single selector for anchor and proportions
+- quote: "the proportions part should just all be selectable under page anchor rather than the selections being made in B1."
+- source: 0ca20689 · [0012] (archive-4.md)
+- date: 2026-06-18
+- context: wireframing tool controls
+- tags: editor, interaction · standing: one-off
+
+### E1133 · Many more options per section
+- quote: "The sections should each hae way more options for layout considering i sent you at least 10 websites in total."
+- source: 0ca20689 · [0012] (archive-4.md)
+- date: 2026-06-18
+- context: wireframing tool
+- tags: editor, frustration · standing: yes
+
+### E1134 · Examine the references, not generic output
+- quote: "so it still feels like you didnt examine the website enough honestly. ... this all feels very generic like something i could have built myself without ever looking at the websites. what are we missing here"
+- source: 0ca20689 · [0014] (archive-4.md)
+- date: 2026-06-18
+- context: wireframing tool
+- tags: frustration, process · standing: yes
+
+### E1135 · Remove product branding from a non product tool
+- quote: "also idk why this feels mondai branded get rid of any mondai branding the way you are using the green is extremely distracting too. idk if u are using the mondai PRODUCT design system or something but stop u have so many skills to pull on this isnt a product its a brochure website."
+- source: 0ca20689 · [0016] (archive-4.md)
+- date: 2026-06-18
+- context: wireframing tool visual style
+- tags: style, frustration · standing: yes
+
+### E1136 · Brochure work is not product UI
+- quote: "dont use mondai designs system right now we are just exploring ideas"
+- source: 6835f86a · [0016] (archive-4.md)
+- date: 2026-06-26
+- context: scroll animation exploration
+- tags: process, style · standing: yes
+
+### E1137 · Not a UI task, graphic design
+- quote: "many of these are irrelevant to the task to some extent... this is not a UI task this si a graphic design task for a graphic design element that lives within a ui interface make sense?"
+- source: 5ccfdd9d · [0010] (archive-4.md)
+- date: 2026-06-29
+- context: brochure feature card layout
+- tags: process, frustration · standing: yes
+
+### E1138 · Not UI elements again
+- quote: "okay but you dont need to use existing ui elements you keep goign back to the ui elements wat the fuck?"
+- source: 734231df · [0034] (archive-4.md)
+- date: 2026-06-22
+- context: career action plan card visual
+- tags: frustration, process · standing: yes
+
+### E1139 · Not a UI task, communicating layers
+- quote: "THIS IS NOT A UI TASK THIS IS NOT A PRODUCT BASED ANIMATION THIS HAS NOTHING TO DO WITH THE UI IN ANY WAY OR EVEN THE BRANDING IT IS ABOUT HOW TO COMMUNICATE THE LAYERS IN A CLEAR VERY QUICKLY CONSUMABLE WAY"
+- source: 99e39381 · [0012] (archive-4.md)
+- date: 2026-06-24
+- context: career action plan visual
+- tags: frustration, process · standing: yes
+
+### E1140 · Notion and artifact polish for a portfolio
+- quote: "I want you to do it in a format that will look good to show on my portfolio case study"
+- source: e070eb84 · [0000] (archive-4.md)
+- date: 2026-07-27
+- context: Notion work tracking database
+- tags: style, delivery · standing: yes
+
+## 
+
+### E1141 · Counts visible without filtering
+- quote: "for instance if i wanted to know how many "onboarding screens" there were for example id have to filter it to onbording and then literally manually count the amount of tasks. it also doesnt tell me info like where the most of the work is going to be if that makes sense."
+- source: 4184a9aa · [0006] (archive-4.md)
+- date: 2026-07-27
+- context: Notion mobile transition tracker
+- tags: review-board, navigation, frustration · standing: yes
+
+### E1142 · Dashboard should not need digging
+- quote: "like i was hoping there was going to be a wy to show this data in a way that didnt require digging through stuff."
+- source: 4184a9aa · [0016] (archive-4.md)
+- date: 2026-07-27
+- context: Notion work tracker totals hidden inside groups
+- tags: review-board, navigation, frustration · standing: yes
+
+### E1143 · Counters inside the same page
+- quote: "ok whats the best way to view these like do i just switch the view as needed or can i also create some kind of useful things like maybe counters or soemthing that live inside the same page"
+- source: 4184a9aa · [0010] (archive-4.md)
+- date: 2026-07-27
+- context: Notion views
+- tags: review-board, navigation · standing: yes
+
+### E1144 · No clutter, only useful
+- quote: "i want this to be generally impressive and useful. meaning no extra clutter, the stuff that is useful"
+- source: 4184a9aa · [0046] (archive-4.md)
+- date: 2026-07-27
+- context: Notion dashboard
+- tags: style, review-board · standing: yes
+
+### E1145 · Do not repeat a number as a chart
+- quote: "a lot of the metrics you gave me were arbitrary. the whole point was to design smething that worked with our goal. you did none of that really it was kind of a bunch of bullshit even with some of the charts tracking the same thing as the numbers like for instance there i no need for the donut chart when i have all the numbers up top."
+- source: 4184a9aa · [0114] (archive-4.md)
+- date: 2026-07-28
+- context: Notion workspace dashboard
+- tags: review-board, style, frustration · standing: yes
+
+### E1146 · Self tracking quota at the top of each page
+- quote: "THE WHOLE SELF TRACKING IS THE POINT THING???"
+- source: aeff4316 · [0022] (archive-4.md)
+- date: 2026-07-28
+- context: per person Notion page with quota at top
+- tags: review-board, navigation · standing: yes
+
+### E1147 · Intuitive process
+- quote: "the process needs to be intuitive this is also getting too complicated way more than necessary."
+- source: aeff4316 · [0000] (archive-4.md)
+- date: 2026-07-28
+- context: team tracking system
+- tags: process, review-board · standing: yes
+
+### E1148 · Keep it simple, less ugly
+- quote: "Keep it simple yeah? Then we can add instructions for the figma stuff somewhere else? but maybe provide a link or something? any tips on making this less ugly? notions options are annoyingly limited."
+- source: aeff4316 · [0032] (archive-4.md)
+- date: 2026-07-28
+- context: Notion personal pages
+- tags: style, review-board · standing: yes
+
+### E1149 · Do not make the process more complicated
+- quote: "It soudns like youre just trying to add bs. The goal is to make it intuitive. The process is already complicated enough we dont need to add more that is a huge no no."
+- source: aeff4316 · [0050] (archive-4.md)
+- date: 2026-07-28
+- context: review pipeline
+- tags: process, frustration · standing: yes
+
+### E1150 · Explain why a score is what it is
+- quote: "i should be able to speak to why an effort score is 4 rather than 3 for instance is that possible or just not possible beause of the reasoning? ... remember this is supposed to look good on my portfolio."
+- source: 4184a9aa · [0032] (archive-4.md)
+- date: 2026-07-27
+- context: effort score column
+- tags: review-board · standing: one-off
+
+### E1151 · Weekly goal wording, not quota
+- quote: "since its volunteer i dont want something like "quota" to feel like someone is performance managing them"
+- source: 4184a9aa · [0072] (archive-4.md)
+- date: 2026-07-28
+- context: labels on the team dashboard
+- tags: copy, review-board · standing: yes
+
+### E1152 · Do not call it a tracker
+- quote: "any ideas for a name that isnt "tracker" for the csv lol i dont want it to make the designers feel like theyre being tracked silly"
+- source: 4184a9aa · [0068] (archive-4.md)
+- date: 2026-07-28
+- context: naming the Notion database
+- tags: copy · standing: yes
+
+### E1153 · A column per factor makes no sense in a table
+- quote: "youre suggesting adding a column for each of those bullet points? wtf? that makes no sense in a table like this o_o"
+- source: 4184a9aa · [0034] (archive-4.md)
+- date: 2026-07-27
+- context: Notion columns
+- tags: review-board, frustration · standing: one-off
+
+### E1154 · Self serve board, review without hunting
+- quote: "do we need some kind of review column or area? like after they put the designs where they need to go?"
+- source: 4184a9aa · [0046] (archive-4.md)
+- date: 2026-07-27
+- context: Notion plus Figma review pipeline
+- tags: review-board · standing: yes
+
+### E1155 · Status of what is ready for review
+- quote: "there needs to be. way for me to know when something is ready for review, there needs to be instructions on what each designer does once things are in review, then how do we track the needs changes thing"
+- source: 4184a9aa · [0122] (archive-4.md)
+- date: 2026-07-28
+- context: review pipeline
+- tags: review-board, decision-board · standing: yes
+
+### E1156 · Color coded review sections in Figma
+- quote: "each page should have separate sections that are 10000 x 5000 in size. One should be "Initial Review (Chadwick)" which should be yellow, to the right of that should be "Ready for Dev" green section and to the right of that should be "Final Review (Michael) which should be Blue."
+- source: 4184a9aa · [0054] (archive-4.md)
+- date: 2026-07-28
+- context: Figma file structure for review
+- tags: review-board, delivery · standing: one-off
+
+### E1157 · Review is the audit frame
+- quote: "I add comments on the audit frame. -> The designer works within that same audit frame to update the work"
+- source: aeff4316 · [0048] (archive-4.md)
+- date: 2026-07-28
+- context: review pipeline
+- tags: review-board · standing: one-off
+
+
+### E1158 · Do not generate until I confirm
+- quote: "u shouldnt be generating anything without confirmation from me first. that doesnt mean u need to send an extra message to confirm confirmation each time or anthing it jsut means what it means."
+- source: 5251cc48 · [0016] (archive-4.md)
+- date: 2026-07-26
+- context: brochure vibe coding strategy
+- tags: process, frustration · standing: yes
+
+### E1159 · Do not build without permission, again
+- quote: "STOP didnt we just literally talk about not building without my permission? are you doing that again like u just did with the hero? we also are not starting with the hero....."
+- source: 5251cc48 · [0050] (archive-4.md)
+- date: 2026-07-26
+- context: brochure build
+- tags: process, frustration · standing: yes
+
+### E1160 · Tell me when you have what you need, don't generate yet
+- quote: "Tell me when you have all the info we need but don't generate yet until we confirm"
+- source: 229952d7 · [0000] (archive-4.md)
+- date: 2026-08-10
+- context: calendar documentation
+- tags: process · standing: yes
+
+### E1161 · Ask first, then generate after confirmation
+- quote: "go ahead and ask questions that you may have in that question format u have so it's easier to answer each question directly. After confirmation go ahead and generate."
+- source: 71363bc3 · [0000] (archive-4.md)
+- date: 2026-08-03
+- context: sitemap
+- tags: process · standing: yes
+
+### E1162 · Dont generate a table, just confirm you have the info
+- quote: "ok i really dont need u to waste tokens on generation a whole table yet i just need to know u have the info first"
+- source: 4184a9aa · [0004] (archive-4.md)
+- date: 2026-07-27
+- context: Notion CSV
+- tags: process · standing: yes
+
+### E1163 · Dont generate anything until I confirm ready
+- quote: "dont generate anything until i confirm im ready for you to do so"
+- source: 4184a9aa · [0006] (archive-4.md)
+- date: 2026-07-27
+- context: Notion CSV changes
+- tags: process · standing: yes
+
+### E1164 · Ask only when needed, before beginning
+- quote: "ask any questions before you begin only in the case that you need clarification in order to produce an optimal result."
+- source: ecacdd62 · [0008] (archive-4.md)
+- date: 2026-07-25
+- context: hero layout options
+- tags: process · standing: yes
+
+### E1165 · Just go
+- quote: "oh my god just go."
+- source: 229952d7 · [0006] (archive-4.md)
+- date: 2026-08-10
+- context: after Claude kept asking before generating calendar docs
+- tags: process, frustration · standing: one-off
+
+### E1166 · Do not ask me what the skills and research should settle
+- quote: "idk why ur asking me this again -_- we alreay decided ur supposed to be using ur skills + research to determine this i feel liek not even a broken record but maybe more of a shattered one."
+- source: 0318092a · [0040] (archive-4.md)
+- date: 2026-05-31
+- context: question card on onboarding first time moment
+- tags: process, frustration · standing: yes
+
+### E1167 · Do not ask obvious questions
+- quote: "You have all these designs and the navigation so this is an extremely weird question to ask and it makes me nervous that you're asking something so obvious. You also have a shit ton of info in this projects chat history on this."
+- source: 71363bc3 · [0002] (archive-4.md)
+- date: 2026-08-03
+- context: question card for sitemap
+- tags: process, frustration · standing: yes
+
+### E1168 · Ask question at the end to extend token use
+- quote: "are you literally just asking a question at the end to extend my token usage or soemthng? i already told you the point is to show what a career action plan is..."
+- source: 734231df · [0040] (archive-4.md)
+- date: 2026-06-22
+- context: card visual
+- tags: process, frustration · standing: yes
+
+### E1169 · Question card options he does not recognise
+- quote: "play live on the site? what the fuck?"
+- source: c23c2396 · [0016] (archive-4.md)
+- date: 2026-06-17
+- context: question card for the effects tool
+- tags: process, frustration · standing: one-off
+
+### E1170 · Check skills for clashes before building
+- quote: "pull on the skills that would be the most useful here and check for clashes before generating."
+- source: ecacdd62 · [0008] (archive-4.md)
+- date: 2026-07-25
+- context: hero layouts
+- tags: process · standing: yes
+
+### E1171 · Turn on relevant skills, off ones that hurt
+- quote: "turn on all relevant skills, turn off ones that wont help here or may make it worse. check for skill conflicts that may create a worse result as well."
+- source: 5ccfdd9d · [0000] (archive-4.md)
+- date: 2026-06-29
+- context: feature card
+- tags: process · standing: yes
+
+### E1172 · Take a look at all skills, remove overlap
+- quote: "take a look at all fo your skills. activte what you need, get rid of what you dont need to be using (dont use mondai designs system right now we are just exploring ideas) and make sure nothing overlaps anf conflicts skill wise."
+- source: 6835f86a · [0016] (archive-4.md)
+- date: 2026-06-26
+- context: scroll animation
+- tags: process · standing: yes
+
+### E1173 · Skill audit before building
+- quote: "what skills are you actually reading. this doesnt feel like u even really trully audited anything here WHAT skills are you attempting to use and how. tell me this before generating shit"
+- source: 5251cc48 · [0086] (archive-4.md)
+- date: 2026-07-27
+- context: brochure layout build
+- tags: process, frustration · standing: yes
+
+### E1174 · Pull skills for font sizing
+- quote: "ok but u have like a million skills to pull from to make sure things like font sizing is set up in a way that is visually pleasing. u have so much knowledge in all ur skills and u seem to be pulling NONE."
+- source: 5251cc48 · [0044] (archive-4.md)
+- date: 2026-07-26
+- context: brochure build
+- tags: process, style, frustration · standing: yes
+
+### E1175 · Skills before responsive work
+- quote: "i expect this next output to have perfect responsiveness. stop before doing this and look at your skills and utilize anything that will assist with that for sure."
+- source: 5251cc48 · [0090] (archive-4.md)
+- date: 2026-07-27
+- context: feature cards at 1440 and 1890
+- tags: process, responsive · standing: yes
+
+### E1176 · Skills self assessment and research, not a lazy reframe
+- quote: "WHERE THE FUCK IS UR SKILL RESEARCH AND SHIT WHAT ABOUT THE ANIMATION SHIT I MENTIONED HOW DOES THIS ALL TIE BACK TO SKILLS, WHAT WE HAVE, WHAT WE DONT, WHAT MAY BE MAKING RESULTS WORST DUE TO CONFLCITS"
+- source: 734231df · [0032] (archive-4.md)
+- date: 2026-06-22
+- context: card visual thread
+- tags: process, frustration · standing: yes
+
+### E1177 · Skills clash blamed for bad copy
+- quote: "i swear youre not actually referencing the copywriting skills or something is clashing."
+- source: dfb4765c · [0010] (archive-4.md)
+- date: 2026-06-18
+- context: brochure copy
+- tags: process, frustration · standing: yes
+
+### E1178 · Look at skills and resources the community has
+- quote: "the stuff that the community offers already has that, you know, so a lot of the similarities or a lot of issues I have are not unique to me, and other people would have created stuff that would be way more useful."
+- source: 1cd50667 · [0006] (archive-4.md)
+- date: 2026-09-24
+- context: process audit
+- tags: process · standing: yes
+
+### E1179 · Community skills over self written ones
+- quote: "it also can't be about some bullshit about you creating a, a, a document to remind yourself of something or us creating a skill together."
+- source: e8c5e398 · [0000] (archive-4.md)
+- date: 2026-09-24
+- context: why design output has declined
+- tags: process, frustration · standing: yes
+
+### E1180 · Claude does not group related items
+- quote: "I'll design a screen and it won't even know to like pair two things that like go together or are similar together, like it doesn't even understand the idea of like grouping things that are similar together, which is like one of the most simplistic concepts of all time."
+- source: 1cd50667 · [0006] (archive-4.md)
+- date: 2026-09-24
+- context: voice note about design quality
+- tags: process, frustration, style · standing: yes
+
+### E1181 · Law of proximity and grouping as first step
+- quote: "the law of proximity, right? And understanding that things that are related should be grouped together and what that actually means in the context of UI."
+- source: e8c5e398 · [0000] (archive-4.md)
+- date: 2026-09-24
+- context: why Claude struggles with design principles
+- tags: process, style · standing: yes
+
+### E1182 · Does it live in a frame together, inside, or merged
+- quote: "does that mean two things live in a frame together um, maybe one lives in another maybe they're all part of the same frame um, being able to like separate concepts put them back together like understanding those type of things when it comes to UI"
+- source: e8c5e398 · [0000] (archive-4.md)
+- date: 2026-09-24
+- context: design principle gaps
+- tags: style, process · standing: yes
+
+### E1183 · Use real design rules, not random placement
+- quote: "i literally am asking for u to use design rules or whatever grids balance harmony shit like all the things that matter for design in order to make it be visually appealing and some of these chips are literally even overlappign the text"
+- source: 5ccfdd9d · [0006] (archive-4.md)
+- date: 2026-06-29
+- context: feature card chip placement
+- tags: style, frustration · standing: yes
+
+### E1184 · Spacing and neighbours
+- quote: "youre ignoring key things like spacing and what it looks like with the other cards..... like why tf is there a big gap between the text and the chips?"
+- source: 5ccfdd9d · [0004] (archive-4.md)
+- date: 2026-06-29
+- context: feature card chips
+- tags: style, frustration · standing: yes
+
+### E1185 · Random is not intentional
+- quote: "do you think these look.... good? they still feel random as hell. there is no intention...."
+- source: 5ccfdd9d · [0008] (archive-4.md)
+- date: 2026-06-29
+- context: feature card chips
+- tags: style, frustration · standing: yes
+
+### E1186 · Overlap bug
+- quote: "why aer they overlapping? look at what i just created so far.... on my first attempt its alraedy way better?"
+- source: 5ccfdd9d · [0014] (archive-4.md)
+- date: 2026-06-29
+- context: feature card layouts
+- tags: style, frustration · standing: yes
+
+### E1187 · Mobile first keeps coming back
+- quote: "why is the mobile first shit still there though? Why does it keep coming back?"
+- source: e8c5e398 · [0063] (archive-4.md)
+- date: 2026-09-24
+- context: stale rules in skill file
+- tags: frustration, process · standing: yes
+
+### E1188 · Claude invents rules
+- quote: "Why is that proven architecture hero number split panel as a rule? That's weird. See, you're literally making rules up there. That's exactly what you shouldn't be doing. ... That was 100% added by the AI."
+- source: e8c5e398 · [0061] (archive-4.md)
+- date: 2026-09-24
+- context: rules in skill file
+- tags: process, frustration · standing: yes
+
+### E1189 · Test it and be sure
+- quote: "you also need to do some kind of ass at the end to make sure that you met the acceptance criteria which is literally just fucking do it great and do it well and do it 100 and successfully"
+- source: e8c5e398 · [0000] (archive-4.md)
+- date: 2026-09-24
+- context: fixing design output
+- tags: process · standing: yes
+
+### E1190 · Check what he asked before sending
+- quote: "I don't trust that. I think you need to reanalyze that with all the notes together and all of my voice notes together now and figure out what I was saying and do it properly just to make sure because I feel like you responded too quickly there /unlazy"
+- source: 1cd50667 · [0012] (archive-4.md)
+- date: 2026-09-24
+- context: prompt prep chat
+- tags: process · standing: yes
+
+### E1191 · Dont agree to please me
+- quote: "thoughts? dont just agree to please me"
+- source: 0318092a · [0028] (archive-4.md)
+- date: 2026-05-31
+- context: onboarding first time moment
+- tags: process · standing: yes
+
+### E1192 · Dont agree to please, repeated
+- quote: "okay so did u literally just purposefully agree with me because i said dont just agree with me? ... AGAIN idk why i have to keep telling u this but I AM ASKING FOR UR ASSISTANCE IN DECIDING WHAT TO PUT THERE BASED ON RESEARCH"
+- source: 0318092a · [0032] (archive-4.md)
+- date: 2026-05-31
+- context: onboarding thread
+- tags: process, frustration · standing: yes
+
+### E1193 · Dont satisfy me, review
+- quote: "ok can u stop just like satisfying me tho and review this entire chat and figure out what is ACTUALLY correct rn"
+- source: de3972ea · [0010] (archive-4.md)
+- date: 2026-07-24
+- context: hero image prompts
+- tags: process, frustration · standing: yes
+
+### E1194 · Dont agree just to agree
+- quote: "again dont try to please. yuor goal is helping me achieve my objectives but not lying or pleasing because that detracts from the mission."
+- source: de3972ea · [0012] (archive-4.md)
+- date: 2026-07-24
+- context: hero image prompts
+- tags: process · standing: yes
+
+### E1195 · Dont bullshit me
+- quote: "also dont agree just to agree dont bullshit me."
+- source: 5251cc48 · [0028] (archive-4.md)
+- date: 2026-07-26
+- context: brochure strategy
+- tags: process · standing: yes
+
+### E1196 · Real answers
+- quote: "DONT TRY TO PLEASE ME AT ALL I WANT REAL ANSWERS."
+- source: c841939f · [0000] (archive-4.md)
+- date: 2026-07-21
+- context: events page flow
+- tags: process · standing: yes
+
+### E1197 · Half baked answer
+- quote: "if u give me a half baked answer i will know immediately dont bullshit me. take long as u need i dont care."
+- source: 3dd43c15 · [0000] (archive-4.md)
+- date: 2026-05-30
+- context: calendar toggle placement
+- tags: process · standing: yes
+
+### E1198 · Research UX and product, not only design
+- quote: "also when i say research i mean UX AND PRODUCT RESEARCH"
+- source: 3dd43c15 · [0022] (archive-4.md)
+- date: 2026-05-31
+- context: calendar integration
+- tags: process · standing: yes
+
+### E1199 · Research first, design secondary
+- quote: "youre not doing hte real work you need to be doing here stop thinking about design. design is secondary to ux."
+- source: 0318092a · [0010] (archive-4.md)
+- date: 2026-05-31
+- context: onboarding
+- tags: process, frustration · standing: yes
+
+### E1200 · Research how others do it
+- quote: "how do other sources do exactly what we ar trying to do? are there patterns we can follow we know will be clear to the user?"
+- source: 734231df · [0032] (archive-4.md)
+- date: 2026-06-22
+- context: card visual
+- tags: process · standing: yes
+
+### E1201 · No research, shapes inside frames
+- quote: "you just consistently are doing shapes inside frames like this is the laziest thing. ive asked u multiple times to study the easiest way for people to consume the concept"
+- source: 99e39381 · [0016] (archive-4.md)
+- date: 2026-06-24
+- context: card visual
+- tags: process, frustration · standing: yes
+
+### E1202 · Study patterns
+- quote: "this is especially relevant to events where i need better ideas for that page"
+- source: b30275af · [0034] (archive-4.md)
+- date: 2026-07-29
+- context: events page design
+- tags: process · standing: one-off
+
+### E1203 · Patterns from other products for a top rail
+- quote: "its a question about patterns and how other products with sidebars handle top rail notifications like this its that simple"
+- source: b30275af · [0164] (archive-4.md)
+- date: 2026-07-30
+- context: where the rail sits against sidebar and core frame
+- tags: process, shell, product · standing: yes
+
+### E1204 · Dig in project, tired of repeating
+- quote: "im sick of having to tell u to research inside this project every time this is exhausting"
+- source: 0318092a · [0006] (archive-4.md)
+- date: 2026-05-31
+- context: onboarding
+- tags: process, frustration · standing: yes
+
+### E1205 · Look at the image I sent
+- quote: "okay but did you even look at the image? its a laptop on a carpet so your suggestions obviously have to match the setting"
+- source: 5c164c5c · [0002] (archive-4.md)
+- date: 2026-06-22
+- context: mockup background props
+- tags: process, frustration · standing: yes
+
+### E1206 · Did you reference my reference
+- quote: "did u even reference the reference image at all tho in ur prompt before? it seems like ur just making things i could easily make on figma from the output?"
+- source: de3972ea · [0016] (archive-4.md)
+- date: 2026-07-24
+- context: hero artwork prompt
+- tags: process, frustration · standing: yes
+
+### E1207 · References are for style, not shapes
+- quote: "i dont think you get it i was showing the objects for the style not their shapes and shit??????"
+- source: 6835f86a · [0002] (archive-4.md)
+- date: 2026-06-26
+- context: scroll animation references
+- tags: process, frustration · standing: yes
+
+### E1208 · Reference was one point
+- quote: "langbase was ONE reference point. i never ever asked u to use that like this."
+- source: 5251cc48 · [0040] (archive-4.md)
+- date: 2026-07-26
+- context: brochure build
+- tags: process, frustration · standing: yes
+
+### E1209 · Actually reference my reference
+- quote: "now lets rewind to the career action plan images but letes do ones for a big view this time and ACTUALLY reference my reference this time -_-"
+- source: 734231df · [0014] (archive-4.md)
+- date: 2026-06-20
+- context: card visual
+- tags: process, frustration · standing: yes
+
+### E1210 · Use the reference approach, do not turn into rules
+- quote: "i expected you to use a similar approach in terms of replicating what you say in the other designs. not just creating a document with rules grabbed from the designs and then using those rules to build soemthing. that was not the point clearly."
+- source: 5251cc48 · [0036] (archive-4.md)
+- date: 2026-07-26
+- context: vibe coding brochure from references
+- tags: process, frustration · standing: yes
+
+### E1211 · Helping, not taking over
+- quote: "youre supposed to help me not take over my brain and decide this kind of shit."
+- source: 6835f86a · [0024] (archive-4.md)
+- date: 2026-06-27
+- context: animation concept
+- tags: process, frustration · standing: one-off
+
+### E1212 · Not asked: mock up
+- quote: "i never asked for u to mock anything up.."
+- source: d71a0ab4 · [0002] (archive-4.md)
+- date: 2026-07-16
+- context: beta sign up design research
+- tags: process, frustration · standing: yes
+
+### E1213 · Unasked lighting effect
+- quote: "2. there is some weird unasked for lighting effect on the cards."
+- source: 5251cc48 · [0094] (archive-4.md)
+- date: 2026-07-27
+- context: feature cards at 1440
+- tags: process, style, frustration · standing: yes
+
+### E1214 · Unasked generation: convergence
+- quote: "idk why you are even doing the convergence one i didnt mention doing anything like that it wasnt the ask at all."
+- source: 5ccfdd9d · [0004] (archive-4.md)
+- date: 2026-06-29
+- context: feature card chips
+- tags: process, frustration · standing: yes
+
+### E1215 · I did not ask for you to remove it
+- quote: "1. i never asked u to get rid of the chip labels, the labels for state of the industry, etc."
+- source: 5251cc48 · [0084] (archive-4.md)
+- date: 2026-07-27
+- context: stripped down brochure pass
+- tags: process, frustration · standing: yes
+
+### E1216 · Where is the result
+- quote: "Where is the result"
+- source: 5251cc48 · [0080] (archive-4.md)
+- date: 2026-07-27
+- context: waiting on a build
+- tags: delivery, frustration · standing: yes
+
+### E1217 · I do not see anything new
+- quote: "i dont see anything new that you did on my page"
+- source: b30275af · [0066] (archive-4.md)
+- date: 2026-07-29
+- context: build into Figma page
+- tags: delivery, frustration · standing: yes
+
+### E1218 · Cant see them again
+- quote: "cant see them again ur doing something majorly wronh ere this isnt that ocmplicated u just need to figure out how to position it correctly"
+- source: b30275af · [0136] (archive-4.md)
+- date: 2026-07-30
+- context: banner variants in Figma
+- tags: delivery, frustration · standing: yes
+
+### E1219 · Now I see no bars at all
+- quote: "now i see no bars at all. the magenta are gone but i dont see ur custom ones"
+- source: b30275af · [0118] (archive-4.md)
+- date: 2026-07-30
+- context: banner variants copied into home screen
+- tags: delivery, frustration · standing: yes
+
+### E1220 · Do not make me hunt, put it on the page itself
+- quote: "hmm in figma can u make 3 copies of my home screen that i have on that page and put in each so i can see them on the page itself?"
+- source: b30275af · [0110] (archive-4.md)
+- date: 2026-07-30
+- context: banner colour options in context
+- tags: review-board, delivery · standing: yes
+
+### E1221 · Wants options shown in place on real screens
+- quote: "i just want to make sure the purple doesnt become the cta over a green cta on the page because all of the green accents on the page green will be more present so the one pink surface will draw the eye"
+- source: b30275af · [0104] (archive-4.md)
+- date: 2026-07-30
+- context: banner colour against home screen
+- tags: review-board, style · standing: yes
+
+### E1222 · Access to Mondai Figma now
+- quote: "so i actully think you can access the mondai stuff now directly."
+- source: b30275af · [0098] (archive-4.md)
+- date: 2026-07-30
+- context: Figma access
+- tags: delivery · standing: one-off
+
+### E1223 · I do not trust the build is what I asked
+- quote: "i didnt say only lowercase at all so this is totally fine. u assumed for some reason"
+- source: 5251cc48 · [0060] (archive-4.md)
+- date: 2026-07-26
+- context: state of the industry section build
+- tags: process, frustration · standing: yes
+
+### E1224 · Not a different decision
+- quote: "not sure why u are saying this we already talked about how we are going to go about color."
+- source: 5251cc48 · [0060] (archive-4.md)
+- date: 2026-07-26
+- context: unneeded flag about two greens
+- tags: process, frustration · standing: yes
+
+### E1225 · Time and token limits constrain scope
+- quote: "lastly this is not something that can be an intensive task. the goal is to get something simple to put up for now the website doesnt have to be perfect so dont overcomplicate it to the point that its going to take all day."
+- source: 5251cc48 · [0000] (archive-4.md)
+- date: 2026-07-26
+- context: brochure vibe coding
+- tags: process · standing: yes
+
+### E1226 · Token limits
+- quote: "i dont have tokens for that, secondly im a human with a busy schedule and have other extremely important shit i need to do today."
+- source: 5251cc48 · [0004] (archive-4.md)
+- date: 2026-07-26
+- context: brochure vibe coding
+- tags: process · standing: yes
+
+### E1227 · Wasting my tokens
+- quote: "stop wasting my tokens and just py the fuck attention and dont be lazy sis"
+- source: 734231df · [0032] (archive-4.md)
+- date: 2026-06-22
+- context: card visual
+- tags: process, frustration · standing: yes
+
+### E1228 · Careful with token use
+- quote: "I don't mind us updating those designs, but I know it's gonna be a lot of token usage, and I want us to be careful."
+- source: 9b2be52f · [0008] (archive-4.md)
+- date: 2026-09-21
+- context: grid update across designs
+- tags: process · standing: yes
+
+### E1229 · Deep tasks cost more than I have
+- quote: "dont do anything unecessary riht now like u dont need to make sitemaps and shit for each thing like thats too deep and will cost way more tokens than i have right now lol we can do that as we go."
+- source: 4184a9aa · [0046] (archive-4.md)
+- date: 2026-07-27
+- context: Notion work
+- tags: process · standing: yes
+
+### E1230 · Caveman mode shortens answers
+- quote: "is caveman making these results shorter too? if so turn tht off"
+- source: dfb4765c · [0008] (archive-4.md)
+- date: 2026-06-18
+- context: brevity skill affecting copy options
+- tags: process, copy · standing: one-off
+
+### E1231 · Do not review without doing it, repeating exactly
+- quote: "Okay but you're still not paying attention to where the chat ended and why I made a new chat this is essential - you need to look at that chat thoroughly AGAIN."
+- source: 99e39381 · [0006] (archive-4.md)
+- date: 2026-06-23
+- context: continuing a chat in a new chat
+- tags: process, frustration · standing: yes
+
+### E1232 · Animation should be realistic, repeated
+- quote: "none of this sounds realistic animation wise -_-"
+- source: 6835f86a · [0026] (archive-4.md)
+- date: 2026-06-27
+- context: animation concept, sent about ten times in a row (messages 0026 to 0035)
+- tags: frustration, interaction · standing: yes
+
+### E1233 · Smooth scroll feels default
+- quote: "the smooth scroll is awful its like u threw default settings on instead of followed my direction."
+- source: 5251cc48 · [0084] (archive-4.md)
+- date: 2026-07-27
+- context: stripped down brochure feature section
+- tags: interaction, style, frustration · standing: yes
+
+### E1234 · Editorial feel, not AI slop
+- quote: "Make sure all text feels editorial with large headers and the style gives futuristic editorial over cheesy or ai slip vibes."
+- source: 5251cc48 · [0078] (archive-4.md)
+- date: 2026-07-27
+- context: brochure features pass
+- tags: style · standing: yes
+
+### E1235 · Cards, no cheesy glows
+- quote: "Not with cheesy glows or lights but with things like subtle gradients inside the boxes or by addling directional lighting effects to the cards."
+- source: 5251cc48 · [0078] (archive-4.md)
+- date: 2026-07-27
+- context: six premium card treatments
+- tags: style · standing: yes
+
+### E1236 · Free up spacing, premium scroll
+- quote: "I want you to really free up the spacing in this pass and start adding in animation and a smooth scroll effect that makes it feel more premium."
+- source: 5251cc48 · [0078] (archive-4.md)
+- date: 2026-07-27
+- context: brochure features section
+- tags: style, interaction · standing: yes
+
+### E1237 · Each feature should be a moment
+- quote: "each is spaced out and animated with transitions in a way that makes each feel special and the center of attention as it scrolls into view."
+- source: 5251cc48 · [0078] (archive-4.md)
+- date: 2026-07-27
+- context: features stacked sections
+- tags: interaction, style · standing: yes
+
+### E1238 · Nothing feels like a moment
+- quote: "this is just stripped back bare bones, not striped back editorial realness. thsi does not feel like any kind of dynamic moment."
+- source: 5251cc48 · [0084] (archive-4.md)
+- date: 2026-07-27
+- context: brochure output
+- tags: style, frustration · standing: yes
+
+### E1239 · Open, not claustrophobic, grids
+- quote: "also like how it still feels "open" even tho grids and stuff are used. the other website is a bit more "structured" but they do it in a way that it doesnt feel claustrophobic or anything."
+- source: 5251cc48 · [0008] (archive-4.md)
+- date: 2026-07-26
+- context: references for the brochure
+- tags: style · standing: yes
+
+### E1240 · Not too techy
+- quote: "one caveat with any attachments is they often lean too much into the "Tech" aesthetic which isnt mondai when done at full blast."
+- source: 5251cc48 · [0006] (archive-4.md)
+- date: 2026-07-26
+- context: brochure references
+- tags: style · standing: yes
+
+### E1241 · Gen Z, not prescriptive
+- quote: "it also feels slightly too "millenial" a core part of our audience is gen z so ti shouldnt feel too prescriptive if that makes sense?"
+- source: 5251cc48 · [0032] (archive-4.md)
+- date: 2026-07-26
+- context: brochure hero build
+- tags: style · standing: yes
+
+### E1242 · Facebook rather than Gen Z
+- quote: "not sure im obsessed with the styles youve been doing they feel a bit too ummm facebook rather than gen z generation product"
+- source: b30275af · [0126] (archive-4.md)
+- date: 2026-07-30
+- context: banner styles
+- tags: style · standing: yes
+
+### E1243 · Hero too cliche
+- quote: "also the hero section looks too cliche. i prefer the layout styles i have been using for the text/button."
+- source: 5251cc48 · [0032] (archive-4.md)
+- date: 2026-07-26
+- context: brochure build
+- tags: style, frustration · standing: yes
+
+### E1244 · Visible grid versus design grid
+- quote: "i think youre confusing the idea of a grid used for design and a visible grid for the design?"
+- source: ecacdd62 · [0020] (archive-4.md)
+- date: 2026-07-25
+- context: hero grid
+- tags: style, frustration · standing: yes
+
+### E1245 · Purposeful asymmetry
+- quote: "it oesnt have to be PERFECT. in fact some purposeful asymmtry make it feel better."
+- source: ecacdd62 · [0020] (archive-4.md)
+- date: 2026-07-25
+- context: hero layout and grid lines
+- tags: style · standing: yes
+
+### E1246 · Grid lines clearly visible, lined up
+- quote: "literally both the authkit and state of the industry section have grid/like layouts. use those as yor examples. the entire point is making the hero's grid look good with state of the industry so it flows nicely....."
+- source: ecacdd62 · [0020] (archive-4.md)
+- date: 2026-07-25
+- context: hero grid
+- tags: style · standing: yes
+
+### E1247 · Why diagonals, same grids
+- quote: "why do these all have straight diagonal lines in the background? why is that necessary? for instance 1, 2 and 4 are basically the same grid just different layouts..."
+- source: ecacdd62 · [0010] (archive-4.md)
+- date: 2026-07-25
+- context: five hero layouts in tabs
+- tags: decision-board, frustration · standing: yes
+
+### E1248 · Options must be different, not a deletion
+- quote: "wtf you just took the lines out and didnt make more layouts? lazy af"
+- source: ecacdd62 · [0014] (archive-4.md)
+- date: 2026-07-25
+- context: hero layouts v2
+- tags: decision-board, frustration · standing: yes
+
+### E1249 · Flow is important
+- quote: "flow is extremely important in web design."
+- source: ecacdd62 · [0008] (archive-4.md)
+- date: 2026-07-25
+- context: hero above state of industry
+- tags: style · standing: yes
+
+### E1250 · Grid lines aligned with sections
+- quote: "the grid elements not lining up is tragic...."
+- source: 5251cc48 · [0034] (archive-4.md)
+- date: 2026-07-26
+- context: first brochure build
+- tags: style, frustration · standing: yes
+
+### E1251 · No consistency in flow or fonts
+- quote: "this one feels way too grided out. everything is connected. no consistency in flow exists not even in the fonts."
+- source: 5251cc48 · [0038] (archive-4.md)
+- date: 2026-07-26
+- context: brochure build
+- tags: style, frustration · standing: yes
+
+### E1252 · Match what I built, do not restyle it
+- quote: "the hero text should match the text style i have in my design not the version you have currently. you should also pull my ui vignettes over and be using those."
+- source: 5251cc48 · [0070] (archive-4.md)
+- date: 2026-07-27
+- context: features overlay version
+- tags: style, process · standing: yes
+
+### E1253 · Exact Figma settings, not approximations
+- quote: "the glow level on the ui cards is completely wrong... u need to pull over exact settings on everything this is unacceptable"
+- source: 5251cc48 · [0094] (archive-4.md)
+- date: 2026-07-27
+- context: ui vignette cards
+- tags: style, process, frustration · standing: yes
+
+### E1254 · Pull the vignette exactly
+- quote: "make sure to pull the ui vignette EXACTLY including the gradients for each of them maintaining their current position."
+- source: 5251cc48 · [0090] (archive-4.md)
+- date: 2026-07-27
+- context: responsive feature cards
+- tags: process, responsive · standing: yes
+
+### E1255 · Letter spacing exact values
+- quote: "take note the 11% normal text spacing then the -11% at the end of each word (last letter)"
+- source: 5251cc48 · [0060] (archive-4.md)
+- date: 2026-07-26
+- context: matching Figma chip spec in build
+- tags: style, process · standing: one-off
+
+### E1256 · Container must not clip text
+- quote: "make the container that holds the header text not set to cut off whatever is inside."
+- source: 5251cc48 · [0060] (archive-4.md)
+- date: 2026-07-26
+- context: header container
+- tags: style · standing: yes
+
+### E1257 · Do not give structural fix, give solutions
+- quote: "i wasnt asking for a solution like this. im asking for help resizing things in a way that essentially doesnt force me to make exactly what you just showed me happen."
+- source: 5251cc48 · [0094] (archive-4.md)
+- date: 2026-07-27
+- context: responsive feature cards
+- tags: responsive, frustration · standing: yes
+
+### E1258 · I know how responsiveness works
+- quote: "im asking for help for solutions here im not dumb i know how responsiveness works sis........... im asking for better solutions"
+- source: 5251cc48 · [0094] (archive-4.md)
+- date: 2026-07-27
+- context: feature cards
+- tags: responsive, frustration · standing: yes
+
+## 
+
+### E1259 · Fully responsive prompt
+- quote: "what is a good prompt for me to send to claude code first alogn with the link to the figma mcp? just to make it fully responsive? i want it to work for all vps - header texts should be appropriately responsive, text should never not be contained well within their containers, etc"
+- source: 0e8330fc · [0026] (archive-4.md)
+- date: 2026-07-23
+- context: brochure site responsive build
+- tags: responsive · standing: yes
+
+### E1260 · Breakpoints in Figma
+- quote: "i have created 3 responsive (not perfectly so) breakpoints in figma. give me a new prompt that includes that"
+- source: 0e8330fc · [0034] (archive-4.md)
+- date: 2026-07-23
+- context: responsive prompt
+- tags: responsive, delivery · standing: one-off
+
+### E1261 · Feature cards at 1440 should look as good as at 1890
+- quote: "i originally designed this at a width of 1890 and the ards sat beautifully aligned to hte left with space on the right but i am having a hard time making them look just as good when running over at the 1440 size."
+- source: 5251cc48 · [0090] (archive-4.md)
+- date: 2026-07-27
+- context: feature cards
+- tags: responsive · standing: yes
+
+### E1262 · Text cards and labels broke
+- quote: "there is also an issue with the responsiveness of the text catds and the labels are all fucked up. there should also be more padding on the bottom of the cards."
+- source: 5251cc48 · [0070] (archive-4.md)
+- date: 2026-07-27
+- context: feature overlay version
+- tags: responsive, style, frustration · standing: yes
+
+### E1263 · Everything is max width, responsive margins
+- quote: "everything on the brochure website is max widthed tho. i think the 128 is just the responsive side if the margins are responsive?"
+- source: b30275af · [0020] (archive-4.md)
+- date: 2026-07-29
+- context: events page width
+- tags: responsive, shell · standing: yes
+
+### E1264 · Standardise to 1440
+- quote: "um well i designed th eproduct at 1920 and the brochure website at 1440. id like to standardize all designs to 1440 eventually."
+- source: b30275af · [0018] (archive-4.md)
+- date: 2026-07-29
+- context: product versus brochure widths
+- tags: responsive, shell · standing: yes
+
+### E1265 · Grid stretches, devs make it responsive
+- quote: "it's like a stretch grid. ... all the grids are responsive when they're coated by dev."
+- source: 9b2be52f · [0004] (archive-4.md)
+- date: 2026-09-21
+- context: core frame grid in Figma
+- tags: responsive, product · standing: yes
+
+### E1266 · Grids in Figma are a guide
+- quote: "The grids in Figma are only used as a guide, so I often remove them and turn them off when I don't need them."
+- source: 9b2be52f · [0002] (archive-4.md)
+- date: 2026-09-21
+- context: core frame grid
+- tags: shell, product · standing: yes
+
+### E1267 · Align elements to the grid
+- quote: "the elements within the frames should also update, right? Like the spacing between the elements so that they for the most part obviously doesn't be perfect in that context, but like they should align with the grid when possible"
+- source: 9b2be52f · [0004] (archive-4.md)
+- date: 2026-09-21
+- context: core frame grid
+- tags: shell, style, product · standing: yes
+
+### E1268 · Sidebar and core frame
+- quote: "The whole thing started because I was trying to figure out how to do this with a sidebar. ... obviously, there's very clear patterns of how people do this out there. And like definitely a million and one resources for us to find the information on."
+- source: 08490381 · [0000] (archive-4.md)
+- date: 2026-09-24
+- context: core frame grid with a sidebar
+- tags: shell, process, product · standing: yes
+
+### E1269 · Do not make three named grids
+- quote: "We don't need three separate grids. That is crazy and doesn't make any sense. Like within Figma itself, we don't need to have names for them."
+- source: 08490381 · [0004] (archive-4.md)
+- date: 2026-09-24
+- context: grid tokens
+- tags: shell, product · standing: yes
+
+### E1270 · Sidebar floating, rail sits where
+- quote: "the point is should the bar ignore the margins? there is still space between the sidebar and the bar no matter what and even with that the bar wont fill the entirety of the screen window because of the margins outside of the core frame"
+- source: b30275af · [0164] (archive-4.md)
+- date: 2026-07-30
+- context: top rail against the floating sidebar and core frame
+- tags: shell, product · standing: one-off
+
+### E1271 · Does the bar stick on scroll like the sidebar
+- quote: "so how far should the bar sit from the hero section rythmically? also does it stick on scroll like the sidebar?"
+- source: b30275af · [0176] (archive-4.md)
+- date: 2026-07-30
+- context: top rail
+- tags: shell, interaction, product · standing: yes
+
+### E1272 · Header block too big
+- quote: "for the events main screen id like to see alternative designs for the header section. it feels too big or something. tkes up too much room and theres not even a carousel"
+- source: b30275af · [0030] (archive-4.md)
+- date: 2026-07-29
+- context: brochure events main screen
+- tags: style, shell · standing: one-off
+
+### E1273 · Keep brochure and product navigation distinct yet linked
+- quote: "what is going on with the navigation? we have product navigation and brochure navigation both happening at once. this is one of the things you were supposed to figure out."
+- source: b30275af · [0030] (archive-4.md)
+- date: 2026-07-29
+- context: events flow
+- tags: navigation, shell · standing: one-off
+
+### E1274 · Duplicate controls feel redundant
+- quote: "the only thing is "go to mondai" in two locations on the brochure home when signed in feels redundant so i guess we just dont need anything in the upper right? then it would feel so empty i feel like...?"
+- source: b30275af · [0038] (archive-4.md)
+- date: 2026-07-29
+- context: brochure home when signed in
+- tags: navigation, style · standing: yes
+
+### E1275 · Only one of view all or load more
+- quote: "you have "view all" AND "load more" for the events page.... we dont need both.... which is better here? do the research."
+- source: b30275af · [0076] (archive-4.md)
+- date: 2026-07-29
+- context: events list
+- tags: navigation, interaction, product · standing: yes
+
+### E1276 · Link needs hover and press states
+- quote: "the problem is that a link still needs a hover effect. we cant keep it s normal text then switch it to bold on hover beacuse its alredy like unreadable."
+- source: b30275af · [0182] (archive-4.md)
+- date: 2026-07-30
+- context: link component inside a dark banner
+- tags: interaction, product · standing: yes
+
+### E1277 · Hover lighter, press darker standard
+- quote: "my other links get lighter on hover and darker on press. design system wise they should follow the same standard"
+- source: b30275af · [0178] (archive-4.md)
+- date: 2026-07-30
+- context: link states
+- tags: interaction, product · standing: yes
+
+### E1278 · Dark and light mode controls side by side
+- quote: "is that weird to have a button that works like a dark mode butto and one that works like a light moe button next to each other?"
+- source: b30275af · [0180] (archive-4.md)
+- date: 2026-07-30
+- context: banner buttons
+- tags: style, product · standing: one-off
+
+### E1279 · Legibility at a distance
+- quote: "just like i use such big letteres for like update and stuff at a distance u cant see what u added"
+- source: b30275af · [0156] (archive-4.md)
+- date: 2026-07-30
+- context: annotation text on the Figma flow board
+- tags: style, delivery · standing: yes
+
+### E1280 · Button and text too small
+- quote: "button needs to be larger its much too small. text is really hard to see too. it looks very small and thin."
+- source: b30275af · [0142] (archive-4.md)
+- date: 2026-07-30
+- context: banner component
+- tags: style, product · standing: yes
+
+### E1281 · Text link, bolder
+- quote: "i think the text needs to be bolder for both the link and for the text on the left."
+- source: b30275af · [0144] (archive-4.md)
+- date: 2026-07-30
+- context: banner text
+- tags: style, product · standing: one-off
+
+### E1282 · Banner should not repeat across the whole width
+- quote: "it didnt make sense to have it repeating across the entire thing like a banner twice like how does that mke sense in this context?"
+- source: b30275af · [0138] (archive-4.md)
+- date: 2026-07-30
+- context: banner explorations
+- tags: style · standing: one-off
+
+### E1283 · Build the way I build in Figma
+- quote: "i need you to look at my current designs and how i have things set up and build them in a similar style and or look at your skills or for skills out there that can improve the architecture you use for example, figma make gives everything, every small batch of text, etc an additional frame that doesnt hud it correctly and makes all the spacing auto layouts and shit incorrect."
+- source: b30275af · [0050] (archive-4.md)
+- date: 2026-07-29
+- context: building into Figma from Claude
+- tags: process, delivery · standing: yes
+
+### E1284 · Cap text height to baseline, adjust numbers
+- quote: "why dont u just redo it from the start then and not cap them this time and just adjusts the numbers as needed to make the spacing the same? thats just math you can handle that"
+- source: b30275af · [0062] (archive-4.md)
+- date: 2026-07-29
+- context: Figma build text cap height
+- tags: process, style · standing: one-off
+
+### E1285 · Figma agent can clean up
+- quote: "i think i can use figma's ai agent to clean it up. ... plus i can move through and edit really quick if the bones are strong."
+- source: b30275af · [0040] (archive-4.md)
+- date: 2026-07-29
+- context: whether Claude should build into Figma
+- tags: process, delivery · standing: yes
+
+### E1286 · PDFs when MCP is not available
+- quote: "I don't have the MCP availability for that right now nor do I have the $100 a month clause subscription that is required to not make all that take a shit ton of tokens I'll do the PDF method and send it in a few."
+- source: b8bfa15b · [0002] (archive-4.md)
+- date: 2026-06-14
+- context: how to give Claude the latest designs
+- tags: delivery · standing: one-off
+
+### E1287 · Single PDF per area instead of many files
+- quote: "single screenshots of each design feels like overkill. What is the best way for me to get those to you Ina way that isn't wshit tone of individual files?"
+- source: b8bfa15b · [0000] (archive-4.md)
+- date: 2026-06-14
+- context: sending designs to Claude
+- tags: delivery · standing: yes
+
+### E1288 · Phone viewing
+- quote: "Is that just because I'm on my phone or um, is there a reason that, I don't know what the, uh, what did you say, SSH?"
+- source: 08490381 · [0010] (archive-4.md)
+- date: 2026-09-24
+- context: Claude Code run that blocked on SSH
+- tags: delivery · standing: one-off
+
+### E1289 · Other account only has GitHub
+- quote: "It doesn't have access to my desktop. It only has access to GitHub. How do you not know this?"
+- source: e8c5e398 · [0090] (archive-4.md)
+- date: 2026-09-24
+- context: where files live for the second Claude account
+- tags: delivery, frustration · standing: yes
+
+### E1290 · Brand tokens for brochure fonts
+- quote: "ibm plex sans for headers, heebo for body, labels are heebo or ibm plex mono depending. we use ibm plex mono without all caps in this system as well."
+- source: 5251cc48 · [0004] (archive-4.md)
+- date: 2026-07-26
+- context: brochure design system rules
+- tags: style · standing: yes
+
+### E1291 · Brochure website is not the product
+- quote: "the fact that the product design system is not the brochure website design system"
+- source: e32d706a · [0000] (archive-4.md)
+- date: 2026-07-14
+- context: context document for another AI workspace
+- tags: process, style · standing: yes
+
+### E1292 · Context file: not too detailed
+- quote: "i honestly feel like this is too detailed in certain areas. this is to attach to a project focused on the brochure website for mondai."
+- source: e32d706a · [0002] (archive-4.md)
+- date: 2026-07-14
+- context: context markdown for a brochure workspace
+- tags: delivery, copy · standing: yes
+
+### E1293 · Deliver as a file
+- quote: "can you create an MD file with this info?"
+- source: e32d706a · [0002] (archive-4.md)
+- date: 2026-07-14
+- context: context document
+- tags: delivery · standing: one-off
+
+### E1294 · Mobile is not a constraint here
+- quote: "also side note idk why you are saying mondai is mobile first it has not been in like a year minimum and i have told you to modify this in whatever source youre getting this info from like 6 times thats crazy."
+- source: c23c2396 · [0016] (archive-4.md)
+- date: 2026-06-17
+- context: stale product facts in a tool brief
+- tags: frustration, process · standing: yes
+
+### E1295 · Copy for brochure: plain, not product language
+- quote: "this is a brochure website bro that just need to know theres a plan and monday shows them that path and gives them the steps they need to take to get into their career."
+- source: dfb4765c · [0002] (archive-4.md)
+- date: 2026-06-18
+- context: brochure feature copy
+- tags: copy · standing: yes
+
+### E1296 · Copy: team product language is not user language
+- quote: "this is a product design way of talking about it on our team not languagae tht the user should see."
+- source: dfb4765c · [0002] (archive-4.md)
+- date: 2026-06-18
+- context: brochure copy
+- tags: copy · standing: yes
+
+### E1297 · Body length must match the example
+- quote: "these arent even anywhere near as long as they should be. i literally sent you an example paragraph sizer wtf is going on with you?"
+- source: ea6f8d43 · [0004] (archive-4.md)
+- date: 2026-06-20
+- context: body text between connection line and feature cards
+- tags: copy, frustration · standing: yes
+
+### E1298 · Copy: do not scare the user
+- quote: "We lredy established all that we dont want to scare the user away from a career in tech bro."
+- source: dfb4765c · [0022] (archive-4.md)
+- date: 2026-06-18
+- context: brochure copy
+- tags: copy · standing: one-off
+
+### E1299 · Copy: not a coach that is a parent
+- quote: "u ned to remember this is a coach not a parent wow"
+- source: 3465f72b · [0020] (archive-4.md)
+- date: 2026-05-31
+- context: rollover screen copy
+- tags: copy, product · standing: one-off
+
+### E1300 · Copy matters most
+- quote: "why arent you changing all the copy? that is one of the most important things here? it needs to be very purposeful?"
+- source: 3465f72b · [0008] (archive-4.md)
+- date: 2026-05-31
+- context: rollover screen variants
+- tags: copy, frustration · standing: yes
+
+### E1301 · Too wordy feels lazy
+- quote: "the copy is just too much like too long and none fo this feels purposeful. ... its so wordy it feels lazy"
+- source: 3465f72b · [0016] (archive-4.md)
+- date: 2026-05-31
+- context: rollover screen copy
+- tags: copy, frustration · standing: yes
+
+### E1302 · Do not make up product items
+- quote: "FLEX POINTS HAVENT EXISTED IN ORU FRAMEWORK IN A VERY LONG TIME THIS PROVES SO HARD TO ME U DONT KNOWW HATS GOING ON HERE"
+- source: 3465f72b · [0018] (archive-4.md)
+- date: 2026-05-31
+- context: rollover copy
+- tags: frustration, process · standing: yes
+
+### E1303 · Settings screens must look like settings screens
+- quote: "these dont even look like setting screens now?"
+- source: 3dd43c15 · [0054] (archive-4.md)
+- date: 2026-05-31
+- context: calendar sync screens
+- tags: style, frustration, product · standing: yes
+
+### E1304 · Look at the onboarding screen when designing the settings screen
+- quote: "you need to completely reapproach the calendar sync screens from scratch these are just awful im sorry these setting screens have issues. like are you even looking at this step of the onboarding proces to help design the settings screen at all???"
+- source: 3dd43c15 · [0050] (archive-4.md)
+- date: 2026-05-31
+- context: calendar sync settings screen
+- tags: style, process, frustration, product · standing: yes
+
+### E1305 · Think about all the variables
+- quote: "see you are not looking at all the damn variables here...."
+- source: 3dd43c15 · [0016] (archive-4.md)
+- date: 2026-05-31
+- context: calendar integration states
+- tags: process, frustration · standing: yes
+
+### E1306 · Each state of the interface
+- quote: "what if a user for instance skipped calendar integration during onboarding then selected connect calendar then what happens? ... also what if a user is already integrated and wants to change the settings on the same page?"
+- source: 3dd43c15 · [0016] (archive-4.md)
+- date: 2026-05-31
+- context: states of calendar integration
+- tags: process, product · standing: yes
+
+### E1307 · Deliver the three flows he asked for
+- quote: "1. a complete flow for a user to be able to turn on and off sync, to edit their settings, etc from the action hub. 2. a flow for editing your settings from the action hub. 3. the updated setting screens designs taking into consideration and sticking by the current layout and structures all of this is in this project files for u to find. no bullshit this output better be good"
+- source: 3dd43c15 · [0018] (archive-4.md)
+- date: 2026-05-31
+- context: calendar sync deliverables
+- tags: process, delivery · standing: yes
+
+### E1308 · Context menu includes progress
+- quote: "I am not doing inline notifications right now I don't think for MVP so I think the entire lke steps and stuff or whatever should be done within the context menu itself"
+- source: 3dd43c15 · [0070] (archive-4.md)
+- date: 2026-05-31
+- context: resync context menu
+- tags: interaction, product · standing: one-off
+
+### E1309 · Same component, same treatment
+- quote: "theyre the same component so they will have te same treatment so i need to decide."
+- source: 3dd43c15 · [0094] (archive-4.md)
+- date: 2026-05-31
+- context: filter chips versus calendar button
+- tags: style, product · standing: yes
+
+### E1310 · Show icon states: no stale spinner
+- quote: "what it ays complete then what happens to the rotating refresh icon? it just is sitting there still so the text says it done but the icon is still there?"
+- source: 3dd43c15 · [0040] (archive-4.md)
+- date: 2026-05-31
+- context: sync icon completion state
+- tags: interaction, product · standing: yes
+
+### E1311 · Verify claims
+- quote: "sounds fake do research to cnfirm ot deny"
+- source: 3dd43c15 · [0042] (archive-4.md)
+- date: 2026-05-31
+- context: claim about icon state
+- tags: process · standing: yes
+
+### E1312 · Do not ask for what the project holds
+- quote: "what do you need to know? they are separate discussions"
+- source: 99e39381 · [0002] (archive-4.md)
+- date: 2026-06-23
+- context: continuing from another chat
+- tags: process, frustration · standing: one-off
+
+### E1313 · Check own work against the real ask
+- quote: "i literally specifically asid how important copy is and u used the exact same header copy are u broken or what the fuck is going on right now"
+- source: 3465f72b · [0010] (archive-4.md)
+- date: 2026-05-31
+- context: rollover copy
+- tags: process, frustration · standing: yes
+
+### E1314 · Do not make things up, work from where it ended
+- quote: "this is an unacceptable waste of my tokens."
+- source: 99e39381 · [0006] (archive-4.md)
+- date: 2026-06-23
+- context: handoff between chats
+- tags: process, frustration · standing: yes
+
+### E1315 · Time pressure
+- quote: "im in a rush lol"
+- source: 3dd43c15 · [0018] (archive-4.md)
+- date: 2026-05-31
+- context: calendar deliverables
+- tags: process · standing: yes
+
+### E1316 · I am exhausted, handoff to new chat
+- quote: "honestly i think we need to move to a new chat."
+- source: 4184a9aa · [0122] (archive-4.md)
+- date: 2026-07-28
+- context: Notion thread, loop
+- tags: process, frustration · standing: one-off
+
+### E1317 · Keep chatting loops short
+- quote: "were in a loop again FUCKING HELP"
+- source: aeff4316 · [0016] (archive-4.md)
+- date: 2026-07-28
+- context: Notion permissions
+- tags: frustration · standing: one-off
+
+### E1318 · Hover must be a direct overlay, no letter movement
+- quote: "why is letter spacing changing you keep doing this -_- IT SHOULD BE A DIRECT OVERLAY MATCH FOR THE MOST PART??"
+- source: Chadwick Fenner, product designer (https://claude.ai/artifact/WEWiXsm3fsWdV2gd7z5BST) · thread "Selected works" 2026-11-09T19:13 (artifacts.md)
+- date: 2026-11-09
+- context: Portfolio page footer links, hover state
+- tags: interaction | frustration · standing: yes
+
+### E1319 · Nav hover letter spacing still off
+- quote: "letter spacing still off on these too -_-"
+- source: Chadwick Fenner, product designer (https://claude.ai/artifact/WEWiXsm3fsWdV2gd7z5BST) · thread "Work" 2026-11-09T19:14 (artifacts.md)
+- date: 2026-11-09
+- context: Portfolio page top nav hover
+- tags: interaction | frustration · standing: yes
+
+### E1320 · Look up the standard, do it correctly
+- quote: "do we need to figure out. standard for doing this correctly? there has to be info out there to help you do this correctly."
+- source: Chadwick Fenner, product designer (https://claude.ai/artifact/WEWiXsm3fsWdV2gd7z5BST) · thread "Linkedin" 2026-11-09T19:14 (artifacts.md)
+- date: 2026-11-09
+- context: Portfolio page, bold on hover without movement
+- tags: process | frustration · standing: yes
+
+### E1321 · Every link needs the hover effect
+- quote: "this should have a cover effect as well | also should be a hover effect on this link | this is also a link"
+- source: Chadwick Fenner, product designer (https://claude.ai/artifact/WEWiXsm3fsWdV2gd7z5BST) · threads "hello@" 2026-11-09T19:07, "Linkedin" 19:09, "Back to top" 19:16 (artifacts.md)
+- date: 2026-11-09
+- context: Portfolio page footer links (three separate comments)
+- tags: interaction · standing: yes
+
+### E1322 · Notice shape and underline changes yourself
+- quote: "the underline goes away on hover and the shape completly changes. you should be noticing this type of thing."
+- source: Chadwick Fenner, product designer (https://claude.ai/artifact/WEWiXsm3fsWdV2gd7z5BST) · thread "hello@" 2026-11-09T19:13 (artifacts.md)
+- date: 2026-11-09
+- context: Portfolio page email link hover
+- tags: process | frustration | interaction · standing: yes
+
+### E1323 · Heavier weight on highlight
+- quote: "make the weight one step heavier on these on highlight. so the black text version on the white background."
+- source: Chadwick Fenner, product designer (https://claude.ai/artifact/WEWiXsm3fsWdV2gd7z5BST) · thread "Selected works" 2026-11-09T19:07 (artifacts.md)
+- date: 2026-11-09
+- context: Portfolio page footer link highlight state
+- tags: interaction | style · standing: one-off
+
+### E1324 · No stroke on pills
+- quote: "neither should have a stroke"
+- source: Chadwick Fenner, product designer (https://claude.ai/artifact/WEWiXsm3fsWdV2gd7z5BST) · thread "Current role" 2026-11-09T19:06 (artifacts.md)
+- date: 2026-11-09
+- context: Portfolio page portrait pills
+- tags: style · standing: one-off
+
+### E1325 · Make shapes real vectors
+- quote: "please make these corner pieces vector objects, same thing with background with M on it."
+- source: M1.1 Become a mentor, round 6 (https://claude.ai/artifact/PCLbh8XCMhRdHfA9vBdQQK) · thread "Round 6 B" 2026-11-14T03:39 (artifacts.md)
+- date: 2026-11-14
+- context: Options board, button corner brackets and M background field
+- tags: delivery | editor · standing: one-off
+
+### E1326 · Verdict must respect decisions already made
+- quote: "this was already moved on purpose thatr is where it was before but now it needs to sit lower to connect the concepts for the readwer was the verdict?"
+- source: Framework CS copy review (https://claude.ai/artifact/X7ADaATwdu9Er9x6PEHqdB) · thread "Verdict on the order" 2026-11-07T01:11 (artifacts.md)
+- date: 2026-11-07
+- context: Case study copy review board, verdict list
+- tags: review-board | frustration · standing: one-off
+
+### E1327 · Decision board notes travel with the pick
+- quote: "Round 7 decided. ST2.1-pick: A · Your Video entries tile on every card: icon beside a bold title, count on its own line (note: get rid of the on the way language that si not necessary then A is good.) | ST12.3-pick: A · Record again alone at the left under the video, Trim and Save together at the right (note: But use the updated imagery.)"
+- source: Studio review 5 options (https://claude.ai/artifact/FHhimNymV2Kp6FUGGqmnHm) · "Done" summary 2026-10-31T05:14 (artifacts.md)
+- date: 2026-10-31
+- context: Studio review options board, round 7 pick summary posted from the board
+- tags: decision-board | review-board · standing: yes
+
+### E1328 · Wants extra variants shown on the board
+- quote: "A but with changes. Put a chevron on the right and left middle of each side frame. also get rid of the corner radiuses on the inside of each top and bottom corner ... id also like to see one that is like black fill with a gray outline and maybe one that is solid gray. all with chevrons."
+- source: Studio review 5 options (https://claude.ai/artifact/FHhimNymV2Kp6FUGGqmnHm) · "Done" summary 2026-10-31T05:14 (artifacts.md)
+- date: 2026-10-31
+- context: Studio review options board, trim handle option
+- tags: review-board | decision-board | style · standing: one-off
+
+### E1329 · Compare at least three patterns
+- quote: "Did you only look at one example, or did you look at a couple different patterns? At least three would be the bare minimum, because you need to compare them. And then like beyond that, figure out what's best for our product, you know?"
+- source: Studio flow, round 5 (https://claude.ai/artifact/GrZ8d2Y1WGjKhDLnCWiL7G) · "Done" summary 2026-10-30T22:49 (artifacts.md)
+- date: 2026-10-30
+- context: Studio flow round 5 deck, recording controls
+- tags: process | review-board · standing: yes
+
+### E1330 · Use the updated components
+- quote: "you seem to be using old components. So, like, what should I change? I updated all those form fields, so I updated the spacing because you had done them like this incorrectly before. So, just a heads up: make sure you're using the updated versions."
+- source: Studio flow, round 5 (https://claude.ai/artifact/GrZ8d2Y1WGjKhDLnCWiL7G) · "Done" summary 2026-10-30T23:06 (artifacts.md)
+- date: 2026-10-30
+- context: Studio flow round 5 deck, form fields in a dialog
+- tags: process | frustration · standing: yes
+
+### E1331 · Buttons hug their text
+- quote: "Also, side note: look at the button, it's not hugging the text"
+- source: Studio flow, round 5 (https://claude.ai/artifact/GrZ8d2Y1WGjKhDLnCWiL7G) · "Done" summary 2026-10-30T23:06 (artifacts.md)
+- date: 2026-10-30
+- context: Studio flow round 5 deck, dialog buttons
+- tags: style | product · standing: yes
+
+### E1332 · Reference your own earlier screens
+- quote: "I guess you would want to reference any other visuals that we've done related to calls and figure out if there's any pattern in our other designs, right? Related to calls that would make sense to mimic, or at least that would influence the way we design this part"
+- source: Studio flow, round 5 (https://claude.ai/artifact/GrZ8d2Y1WGjKhDLnCWiL7G) · "Done" summary 2026-10-30T23:06 (artifacts.md)
+- date: 2026-10-30
+- context: Studio flow round 5 deck, calls list on mentor workspace
+- tags: process | review-board · standing: yes
+
+### E1333 · Avoid default two columns
+- quote: "two column AIBS again, where everything is two columns and that's like why this is designed this way but it seems to be odd to me like in that research what kind of layouts did you find"
+- source: Studio options, round 4 (https://claude.ai/artifact/MDaCurrR4DMQ3mL6ShX4KK) · "Done" summary 2026-10-30T22:26 (artifacts.md)
+- date: 2026-10-30
+- context: Studio options round 4 deck, trim screen
+- tags: shell | review-board | frustration · standing: yes
+
+### E1334 · Not every screen needs a big CTA
+- quote: "not every screen needs a clear big CTA either and it just feels weird that make a cut is like this thing that you're focusing on so much"
+- source: Studio options, round 4 (https://claude.ai/artifact/MDaCurrR4DMQ3mL6ShX4KK) · "Done" summary 2026-10-30T22:26 (artifacts.md)
+- date: 2026-10-30
+- context: Studio options round 4 deck, trim screen
+- tags: product | copy · standing: yes
+
+### E1335 · Do the research, obvious patterns
+- quote: "you're not even studying any of this, you're not even looking up any of the information on any of this. Like, these are obvious patterns."
+- source: Studio options, round 4 (https://claude.ai/artifact/MDaCurrR4DMQ3mL6ShX4KK) · "Done" summary 2026-10-30T22:26 (artifacts.md)
+- date: 2026-10-30
+- context: Studio options round 4 deck, trim strip option
+- tags: process | frustration · standing: yes
+
+### E1336 · Cut redundant info, prior context established
+- quote: "Even the length and stuff. Like, why would you need a section for length when there's literally length at the bottom? ... And then, like, you don't always need to say all this info, like, who sees it, blah, blah, blah. Like, it just gets annoying."
+- source: Studio options, round 4 (https://claude.ai/artifact/MDaCurrR4DMQ3mL6ShX4KK) · "Done" summary 2026-10-30T22:26 (artifacts.md)
+- date: 2026-10-30
+- context: Studio options round 4 deck, save card
+- tags: copy | product | frustration · standing: yes
+
+### E1337 · Flow does not make sense, research harder
+- quote: "So clearly, you didn't do the research hard enough to understand how the processes work, but this is not going to work"
+- source: Studio options, round 4 (https://claude.ai/artifact/MDaCurrR4DMQ3mL6ShX4KK) · "Done" summary 2026-10-30T22:26 (artifacts.md)
+- date: 2026-10-30
+- context: Studio options round 4 deck, record then trim flow
+- tags: frustration | process · standing: yes
+
+### E1338 · Not everything needs a big button
+- quote: "not everything needs a button like as big as this, you know. Like, some things can be simpler, small buttons, and we not even have words, like just an icon or whatever. And maybe when you hover over it, it tells you what it does or something like that."
+- source: Studio redraw options (https://claude.ai/artifact/TuYBrxXD8g9X26vhjihDH2) · "Done" summary 2026-10-30T20:39 (artifacts.md)
+- date: 2026-10-30
+- context: Studio redraw options deck, mentor queue actions
+- tags: product | style | interaction · standing: yes
+
+### E1339 · Use existing components creatively
+- quote: "It just feels like these are like all really big button-centric because you're like not creating anything new and you're using what we already have, but you're not using what we have in creative ways."
+- source: Studio redraw options (https://claude.ai/artifact/TuYBrxXD8g9X26vhjihDH2) · "Done" summary 2026-10-30T20:39 (artifacts.md)
+- date: 2026-10-30
+- context: Studio redraw options deck
+- tags: style | process | frustration · standing: yes
+
+### E1340 · Go back to references when a pick is wrong
+- quote: "I'm not even gonna look or make a choice, so go look at referral again for this."
+- source: Studio redraw options (https://claude.ai/artifact/TuYBrxXD8g9X26vhjihDH2) · "Done" summary 2026-10-30T20:39 (artifacts.md)
+- date: 2026-10-30
+- context: Studio redraw options deck, trim screens
+- tags: process | decision-board · standing: yes
+
+### E1341 · Do not re-push a rejected idea
+- quote: "I also don't know why you keep trying to push a voice-only thing. Because I told you that's not something we're doing unless you design this before that."
+- source: Studio redraw options (https://claude.ai/artifact/TuYBrxXD8g9X26vhjihDH2) · "Done" summary 2026-10-30T20:39 (artifacts.md)
+- date: 2026-10-30
+- context: Studio redraw options deck, call screens
+- tags: frustration | process · standing: yes
+
+### E1342 · Hidden settings must be shown
+- quote: "So you said that you found the one page heavy ... Put settings that have defaults behind one line each or a panel. So you're saying that, but I don't see any of those panels, so where are the additional settings, I guess, in terms of design"
+- source: Mentor events: base screen options (https://claude.ai/artifact/6ipsqy4hbm5uSDYatUmexY) · "Done" summary round 2 2026-10-22T14:51 (artifacts.md)
+- date: 2026-10-22
+- context: Mentor events options deck, event page edit
+- tags: review-board | decision-board · standing: yes
+
+### E1343 · Do not add text the user does not need
+- quote: "I don't know that we need to put a what we collect and why thing I think that whole part underneath there is silly and then you also don't need to put the privacy notice unless it's something additional"
+- source: Mentor events: base screen options (https://claude.ai/artifact/6ipsqy4hbm5uSDYatUmexY) · "Done" summary round 2 2026-10-22T14:51 (artifacts.md)
+- date: 2026-10-22
+- context: Mentor events options deck, RSVP sign up card
+- tags: copy | product · standing: yes
+
+### E1344 · Do not ask what references can answer
+- quote: "there should be so many different references for you to get, especially from Referral to see how to do this properly. So, I don't even know why you would need to ask me"
+- source: Mentor events: base screen options (https://claude.ai/artifact/6ipsqy4hbm5uSDYatUmexY) · "Done" summary round 1 2026-10-21T23:31 (artifacts.md)
+- date: 2026-10-21
+- context: Mentor events options deck, round 1 picks
+- tags: process | decision-board | frustration · standing: yes
+
+### E1345 · Questions I do not need to be asked
+- quote: "Yeah, you need to actually look into stuff. Like, I don't know why you're asking me some of this. And most of these questions I don't need to be asked, it's weird."
+- source: Mentor events: base screen options (https://claude.ai/artifact/6ipsqy4hbm5uSDYatUmexY) · "Done" summary round 1 2026-10-21T23:31 (artifacts.md)
+- date: 2026-10-21
+- context: Mentor events options deck, round 1 picks (margin question)
+- tags: process | decision-board | frustration · standing: yes
+
+### E1346 · Design system spacing not followed
+- quote: "if you're using my design system properly, and maybe you just haven't gotten her yet, like the spacing is not how we are doing that at all, and like, yeah, so like from a design system standpoint, there's definitely some huge issues here."
+- source: Mentor events: base screen options (https://claude.ai/artifact/6ipsqy4hbm5uSDYatUmexY) · "Done" summary round 1 2026-10-21T23:31 (artifacts.md)
+- date: 2026-10-21
+- context: Mentor events options deck, live room screen
+- tags: style | process | frustration · standing: yes
+
+### E1347 · Say what I am looking at
+- quote: "I don't know exactly what I'm supposed to even be looking at here. Like, I don't know if I'm looking at the wrong image or what's going on"
+- source: Mentor events: base screen options (https://claude.ai/artifact/6ipsqy4hbm5uSDYatUmexY) · "Done" summary round 1 2026-10-21T23:31 (artifacts.md)
+- date: 2026-10-21
+- context: Mentor events options deck, library camera state
+- tags: navigation | review-board | frustration · standing: yes
+
+### E1348 · Am I approving a design or a question
+- quote: "are these designs? I don't know because they don't follow a lot of rules, so I don't know if I'm approving the design or if I'm just improving the fact that we're at a sharing box"
+- source: Mentor events: base screen options (https://claude.ai/artifact/6ipsqy4hbm5uSDYatUmexY) · "Done" summary round 1 2026-10-21T23:31 (artifacts.md)
+- date: 2026-10-21
+- context: Mentor events options deck, RSVP screens
+- tags: review-board | decision-board | frustration · standing: yes
+
+### E1349 · Never ship the same unwanted buttons again
+- quote: "I've mentioned this multiple times before, and I don't know why we keep having these buttons. None of these should ever be in play. We don't have buttons like that. That's hideous"
+- source: Mentor events: base screen options (https://claude.ai/artifact/6ipsqy4hbm5uSDYatUmexY) · "Done" summary round 3 2026-10-22T21:33 (artifacts.md)
+- date: 2026-10-22
+- context: Mentor events options deck, create event step
+- tags: product | frustration · standing: yes
+
+### E1350 · Chevron means new page
+- quote: "I don't think they should have an arrow because an arrow to me like a chevron on the right the chevron to me implies that it's going to open a new page and it doesn't it just like you stay in the same page and it puts the info for that event on the right"
+- source: Mentor events: base screen options (https://claude.ai/artifact/6ipsqy4hbm5uSDYatUmexY) · "Done" summary round 3 2026-10-22T21:33 (artifacts.md)
+- date: 2026-10-22
+- context: Mentor events options deck, list plus detail pane
+- tags: product | interaction · standing: yes
+
+### E1351 · Inner pane scroll question
+- quote: "what happens if it gets too long does it scroll right not the whole page but like that section specifically"
+- source: Mentor events: base screen options (https://claude.ai/artifact/6ipsqy4hbm5uSDYatUmexY) · "Done" summary round 3 2026-10-22T21:33 (artifacts.md)
+- date: 2026-10-22
+- context: Mentor events options deck, queue with record pane
+- tags: shell | interaction | product · standing: one-off
+
+### E1352 · Do not cram our copy into reference layouts
+- quote: "are you just using your exact same copy? Because it seems like you're trying to like squeeze a bunch of your copy into certain spaces almost ... and it looks crammed sometimes, or like, for instance, see like that doesn't seem like on any kind of grid."
+- source: Mentor events: base screen options (https://claude.ai/artifact/6ipsqy4hbm5uSDYatUmexY) · "Done" summary round 3 2026-10-22T21:33 (artifacts.md)
+- date: 2026-10-22
+- context: Mentor events options deck, referral-style layouts
+- tags: process | review-board | frustration · standing: yes
+
+### E1353 · Make the preview read as a preview
+- quote: "I just don't think that it's obvious enough the right panel apart is like a preview So I'm I think it'd be cool to explore though that one a little bit more just I need to figure out how we could make the right side look up a preview a bit more"
+- source: Mentor events: base screen options (https://claude.ai/artifact/6ipsqy4hbm5uSDYatUmexY) · "Done" summary round 3 2026-10-22T21:33 (artifacts.md)
+- date: 2026-10-22
+- context: Mentor events options deck, split form and preview
+- tags: review-board | product · standing: one-off
+
+### E1354 · Keep current when it matches the product
+- quote: "I actually keep the original ones because they look more like the style of the product"
+- source: Mentor events: base screen options (https://claude.ai/artifact/6ipsqy4hbm5uSDYatUmexY) · "Done" summary round 3 2026-10-22T21:33 (artifacts.md)
+- date: 2026-10-22
+- context: Mentor events options deck, picks
+- tags: decision-board | style · standing: yes
+
+### E1355 · Check existing designs before deciding
+- quote: "One thing I need you to look up, though, is there's like I can't remember which screen it is, but there's something where I had a notification type bar that like slid down from the top, and it was like pink ... Because that's going to probably connect to this"
+- source: Notifications and toasts (https://claude.ai/artifact/999mwSbaJszrGn2MhxFrry) · "Done" summary round 2 2026-10-15T20:04 (artifacts.md)
+- date: 2026-10-15
+- context: Notifications and toasts options board, toast position
+- tags: process | decision-board · standing: yes
+
+### E1356 · Check other patterns, use the right styling
+- quote: "But can you like look at other patterns and figure this out, please? ... We changed the style of this, and you keep defaulting to this one that I proposed changing at one point, then went back on. So make sure that you use the proper styling"
+- source: Call date said once (https://claude.ai/artifact/AbLnfNYV5sBJC6z8sAjSqD) · "Done" summary round 1 2026-10-14T17:47 (artifacts.md)
+- date: 2026-10-14
+- context: Call date options board, date box
+- tags: process | decision-board | style · standing: yes
+
+### E1357 · Stack forms in one column
+- quote: "The layout of the forms and stuff in here feels really odd. Like they should just be stacked on top of each other instead of taking up so much horizontal space and then everything seems crammed. I don't even know if these fit our margins properly."
+- source: M7.6 call screen options (https://claude.ai/artifact/VcRiCgYkf5g9jEc8RQ5QcV) · thread "M7.5 before the call" 2026-10-07T18:47 (artifacts.md)
+- date: 2026-10-07
+- context: Call screen options, microphone and speaker form
+- tags: shell | responsive · standing: yes
+
+### E1358 · Do not swap a familiar indicator for a progress bar
+- quote: "So you switched the indicator before for a progress bar looking quote-unquote indicator, which is just like not good UX at all. So switch it back to what it was before, and I'll make edits to it in Figma, and you can update the final versions, and we can create a component based on it at that point"
+- source: M7.6 call screen options (https://claude.ai/artifact/VcRiCgYkf5g9jEc8RQ5QcV) · thread "M7.5 before the call" 2026-10-07T18:46 (artifacts.md)
+- date: 2026-10-07
+- context: Call screen options, microphone level meter
+- tags: interaction | product | editor · standing: one-off
+
+### E1359 · Use my design system
+- quote: "why rent you using my design system?"
+- source: Journey Advisement redesign (https://claude.ai/artifact/T8Bd6bCVRfDayQU3Xjgugi) · thread 2026-10-02T18:10 (artifacts.md)
+- date: 2026-10-02
+- context: Journey Advisement redesign canvas, a preview card
+- tags: process | style | frustration · standing: yes
+
+### E1360 · Too busy, overkill
+- quote: "Yeah, no, this is way too busy. It feels overwhelming and it makes me kind of feel sick to be honest | Like the entire page is just overkill"
+- source: Journey Advisement redesign (https://claude.ai/artifact/T8Bd6bCVRfDayQU3Xjgugi) · thread 2026-10-02T18:24 (artifacts.md)
+- date: 2026-10-02
+- context: Journey Advisement redesign canvas, M6.5 screen
+- tags: style | frustration · standing: yes
+
+### E1361 · Never let this process failure happen again
+- quote: "The problem is how we got to this output because it's crazy. This doesn't make any sense. What's happening | Yeah, make sure this never happens again"
+- source: Journey Advisement redesign (https://claude.ai/artifact/T8Bd6bCVRfDayQU3Xjgugi) · thread 2026-10-02T18:35 and 18:40 (artifacts.md)
+- date: 2026-10-02
+- context: Journey Advisement redesign canvas, how a redesign got worse than the original
+- tags: process | frustration · standing: yes
+
+### E1362 · Frames are not cards
+- quote: "We also had a previous discussion about frames and cards and how they're not the same thing, so I don't know how you lost that."
+- source: Journey Advisement redesign (https://claude.ai/artifact/T8Bd6bCVRfDayQU3Xjgugi) · thread 2026-10-02T18:37 (artifacts.md)
+- date: 2026-10-02
+- context: Journey Advisement redesign canvas, preview card
+- tags: style | process | frustration · standing: yes
+
+### E1363 · Be strategic when writing rules
+- quote: "Just be careful not to be writing rules that are like going to mess things up in other ways. That's not the point. So you have to be strategic"
+- source: Journey Advisement redesign (https://claude.ai/artifact/T8Bd6bCVRfDayQU3Xjgugi) · thread 2026-10-02T18:40 (artifacts.md)
+- date: 2026-10-02
+- context: Journey Advisement redesign canvas, after the frames and cards rule
+- tags: process · standing: yes
+
+### E1364 · Growing text box needs a grip
+- quote: "Is this proper like UX to have a box that's this big? ... I think there would be something in the bottom right corner, right, to indicate that it grows | the typing boxes or whatever they need to have that thing and be draggable if you know we need to set that component up properly"
+- source: Journey Advisement redesign (https://claude.ai/artifact/T8Bd6bCVRfDayQU3Xjgugi) · thread 2026-10-02T18:19 and 18:33 (artifacts.md)
+- date: 2026-10-02
+- context: Journey Advisement redesign canvas, large text box
+- tags: interaction | editor | product · standing: yes
+
+### E1365 · Match form margins
+- quote: "in these forms, like these should match up with like the normal forms in terms of like the margins, too, at least in the left and top and right"
+- source: Journey Advisement redesign (https://claude.ai/artifact/T8Bd6bCVRfDayQU3Xjgugi) · thread 2026-10-02T18:19 (artifacts.md)
+- date: 2026-10-02
+- context: Journey Advisement redesign canvas, text box
+- tags: shell | product · standing: yes
+
+### E1366 · Mono zero numbers only for pathways
+- quote: "Just get rid of the numbers if possible, or just do like a single digit and don't use the monotext because we use the mono text with zero and then the number only to indicate pathways in the design. Make sure you have that information saved for later as well"
+- source: Journey Advisement redesign (https://claude.ai/artifact/T8Bd6bCVRfDayQU3Xjgugi) · thread 2026-10-02T18:15 (artifacts.md)
+- date: 2026-10-02
+- context: Journey Advisement redesign canvas, numbered list
+- tags: style | product · standing: yes
+
+### E1367 · Show queued work state
+- quote: "Or you just like have things queued so you haven't gotten to it yet because I just want noting that they're still there, that's all. | So are you not like actually updating the canvas items now and they're waiting and like doing that in a new output or what?"
+- source: Journey Advisement redesign (https://claude.ai/artifact/T8Bd6bCVRfDayQU3Xjgugi) · thread 2026-10-02T18:30 and 18:38 (artifacts.md)
+- date: 2026-10-02
+- context: Journey Advisement redesign canvas, whether the board was updated
+- tags: process | delivery · standing: yes
+
+### E1368 · Tags should not look like buttons
+- quote: "these green tags, I don't know that they're that helpful. Also, they shouldn't be so bright. Like, it almost looks like a CTA and they're not a button or anything. And I know that, like, we use these already in the design system, but the way they're used elsewhere is different"
+- source: Journey Advisement redesign (https://claude.ai/artifact/T8Bd6bCVRfDayQU3Xjgugi) · thread 2026-10-02T18:15 (artifacts.md)
+- date: 2026-10-02
+- context: Journey Advisement redesign canvas, green tags on a review page
+- tags: style | interaction · standing: yes
+
+### E1369 · Do not dim rows for logic that adds nothing
+- quote: "I don't know that that logic of like darker and lighter for days off is making any sense or necessary"
+- source: Journey Advisement redesign (https://claude.ai/artifact/T8Bd6bCVRfDayQU3Xjgugi) · thread 2026-10-02T18:29 (artifacts.md)
+- date: 2026-10-02
+- context: Journey Advisement redesign canvas, weekly hours rows
+- tags: style | interaction · standing: one-off
+
+### E1370 · Orange markers keep coming back
+- quote: "why am I still seeing orange things everywhere when you said that you deleted those? | now youre back to these stupid orange indicators every time u do this i tell u to never"
+- source: Journey Advisement redesign (https://claude.ai/artifact/T8Bd6bCVRfDayQU3Xjgugi) · threads 2026-10-02T18:29 and 18:10 (artifacts.md)
+- date: 2026-10-02
+- context: Journey Advisement redesign canvas, new component tags drawn on screens
+- tags: frustration | review-board | delivery · standing: yes
+
+### E1371 · Do not make everything a component
+- quote: "why would this need a new component? wouldnt it just be the drop down with variants/subvariants implimented for the custom entry when expanded? | it feels like you're just making everything a component, and then I have to like backtrack. You did this last time as well"
+- source: Journey Advisement redesign (https://claude.ai/artifact/T8Bd6bCVRfDayQU3Xjgugi) · thread 2026-10-02T18:11 and 18:29 (artifacts.md)
+- date: 2026-10-02
+- context: Journey Advisement redesign canvas, custom time picker
+- tags: process | frustration · standing: yes
+
+### E1372 · Over componentalizing
+- quote: "Once again, I have no idea what this thing on the right is and if it actually needs a component. We already discussed Over componentalizing."
+- source: Journey Advisement redesign (https://claude.ai/artifact/T8Bd6bCVRfDayQU3Xjgugi) · thread 2026-10-02T18:23 (artifacts.md)
+- date: 2026-10-02
+- context: Journey Advisement redesign canvas, right panel
+- tags: process | frustration · standing: yes
+
+### E1373 · Over-framing and over-engineering
+- quote: "But just overall like you're overframing everything and like over engineering stuff so it feels overly complicated again compared to the original"
+- source: Journey Advisement redesign (https://claude.ai/artifact/T8Bd6bCVRfDayQU3Xjgugi) · thread 2026-10-02T18:23 (artifacts.md)
+- date: 2026-10-02
+- context: Journey Advisement redesign canvas, whole set
+- tags: style | frustration · standing: yes
+
+### E1374 · Too many frames
+- quote: "Too many frames, you keep stacking so many frames for some reason"
+- source: Journey Advisement redesign (https://claude.ai/artifact/T8Bd6bCVRfDayQU3Xjgugi) · thread 2026-10-02T18:26 (artifacts.md)
+- date: 2026-10-02
+- context: Journey Advisement redesign canvas, popover
+- tags: style | frustration · standing: yes
+
+### E1375 · Three CTAs is too much
+- quote: "the original was better again, even like the hierarchy is clearer, it's simpler, it's not over the top, it's not overuse of color like multiple CTAs like this. Like three CTAs is too much for a page"
+- source: Journey Advisement redesign (https://claude.ai/artifact/T8Bd6bCVRfDayQU3Xjgugi) · thread 2026-10-02T18:24 (artifacts.md)
+- date: 2026-10-02
+- context: Journey Advisement redesign canvas, M7.1
+- tags: style | product · standing: yes
+
+### E1376 · Chips inside prose read as clickable
+- quote: "I don't believe this is the proper use case for these, but you should look it up. I don't know if we should have these like this. Something feels weird. They kind of feel like a CTA almost."
+- source: Journey Advisement redesign (https://claude.ai/artifact/T8Bd6bCVRfDayQU3Xjgugi) · thread 2026-10-02T18:23 (artifacts.md)
+- date: 2026-10-02
+- context: Journey Advisement redesign canvas, feedback references
+- tags: interaction | style · standing: one-off
+
+### E1377 · Do the UX work yourself
+- quote: "You need to do the UX here. ... but you should look it up."
+- source: Journey Advisement redesign (https://claude.ai/artifact/T8Bd6bCVRfDayQU3Xjgugi) · thread 2026-10-02T18:23 (artifacts.md)
+- date: 2026-10-02
+- context: Journey Advisement redesign canvas, feedback references
+- tags: process · standing: yes
+
+### E1378 · Do not force full width
+- quote: "I don't know why you're like using like you're forcing yourself to use like the full width. Are you doing that a lot in these designs? Why, why is that the case"
+- source: Journey Advisement redesign (https://claude.ai/artifact/T8Bd6bCVRfDayQU3Xjgugi) · thread 2026-10-02T18:21 (artifacts.md)
+- date: 2026-10-02
+- context: Journey Advisement redesign canvas, whole set
+- tags: shell | responsive | frustration · standing: yes
+
+### E1379 · Do not build what is not in scope
+- quote: "Very busy, doesn't feel connected. The hierarchy is weird, things don't seem to connect properly. ... We have details on how we show our pathways that you were not utilizing | Also, like, what is this is for this is a student home? We shouldn't be building that yet."
+- source: Journey Advisement redesign (https://claude.ai/artifact/T8Bd6bCVRfDayQU3Xjgugi) · thread 2026-10-02T18:22 (artifacts.md)
+- date: 2026-10-02
+- context: Journey Advisement redesign canvas, student pathway list
+- tags: process | product · standing: yes
+
+### E1380 · Use screenshots to see what he means
+- quote: "This looks messed up and crazy here. Maybe you should take a screenshot or something so you can see what I mean."
+- source: Journey Advisement redesign (https://claude.ai/artifact/T8Bd6bCVRfDayQU3Xjgugi) · thread 2026-10-02T18:18 (artifacts.md)
+- date: 2026-10-02
+- context: Journey Advisement redesign canvas, M4.1
+- tags: process | frustration · standing: yes
+
+### E1381 · Original list style feels branded
+- quote: "Once again, I like this original one better. I like the list style a lot more. I'm gonna utilize this more in the design It feels branded to me"
+- source: Journey Advisement redesign (https://claude.ai/artifact/T8Bd6bCVRfDayQU3Xjgugi) · thread 2026-10-02T18:20 (artifacts.md)
+- date: 2026-10-02
+- context: Journey Advisement redesign canvas, M4.3
+- tags: style | product · standing: yes
+
+### E1382 · Original was cleaner and more branded
+- quote: "I like how this original design feels. Like it feels a lot cleaner, and to be honest, it feels a lot more branded than the updated version | Honestly, in this case as well, I like the previous design better | The original design was a lot cleaner. This feels a little bit like over the top and unnecessarily so."
+- source: Journey Advisement redesign (https://claude.ai/artifact/T8Bd6bCVRfDayQU3Xjgugi) · threads 2026-10-02T18:16 and 18:18 and 18:21 (artifacts.md)
+- date: 2026-10-02
+- context: Journey Advisement redesign canvas, M3.2 and M4.2 and journey view
+- tags: style | frustration · standing: yes
+
+### E1383 · Hierarchy must not pull attention to the wrong text
+- quote: "And the text shouldn't be, you shouldn't be using label text for body text, you know"
+- source: Journey Advisement redesign (https://claude.ai/artifact/T8Bd6bCVRfDayQU3Xjgugi) · thread 2026-10-02T18:18 (artifacts.md)
+- date: 2026-10-02
+- context: Journey Advisement redesign canvas, M3.4 team message
+- tags: style | copy · standing: yes
+
+### E1384 · Menu must expand and collapse
+- quote: "you should be able to just like click each of the four options for the original menu and expand it to see it no matter where you are. Like collapse and expand it. So we should maybe update that so that's more obvious or just make sure that we add, you know, the proper interaction"
+- source: Journey Advisement redesign (https://claude.ai/artifact/T8Bd6bCVRfDayQU3Xjgugi) · thread 2026-10-02T18:15 and 18:16 (artifacts.md)
+- date: 2026-10-02
+- context: Journey Advisement redesign canvas, application step menu
+- tags: navigation | interaction | shell · standing: yes
+
+### E1385 · Narrow button tiles crush labels
+- quote: "These buttons look kind of wacky ... just the within one day, within two days, within three days, those buttons look super silly. They look way better when they're wider, like in the other design"
+- source: Journey Advisement redesign (https://claude.ai/artifact/T8Bd6bCVRfDayQU3Xjgugi) · thread 2026-10-02T18:14 (artifacts.md)
+- date: 2026-10-02
+- context: Journey Advisement redesign canvas, reply time options
+- tags: style | responsive · standing: yes
+
+### E1386 · Icons align to the first text row
+- quote: "the icon should always line up with the first row of text You have to do this carefully, but you can basically do it by creating additional like auto layout frame around the icon where you can kind of like align it to the top and then like vertically and then use a top margin"
+- source: Journey Advisement redesign (https://claude.ai/artifact/T8Bd6bCVRfDayQU3Xjgugi) · threads 2026-10-02T18:12 and 04:56 (artifacts.md)
+- date: 2026-10-02
+- context: Journey Advisement redesign canvas, icon and text rows
+- tags: style | interaction · standing: yes
+
+### E1387 · Over-engineered and filling the space
+- quote: "this one looks really, really bad, to be completely frank with you. It looks like a worse version of the original. ... the original just feels so much cleaner, and then yours again is over-engineered and it's weirdly filling the spaces and not utilizing the proper it's like you're trying to use somebody else's design system or margins or something within ours"
+- source: Journey Advisement redesign (https://claude.ai/artifact/T8Bd6bCVRfDayQU3Xjgugi) · thread 2026-10-02T18:27 (artifacts.md)
+- date: 2026-10-02
+- context: Journey Advisement redesign canvas, M9.1
+- tags: shell | style | frustration · standing: yes
+
+### E1388 · Grid and rules never lose to a reference
+- quote: "I don't know why you would ever not use my grid and stuff though, and like my rules, right? Like you're using the reference system correctly, you're not rebuilding what's in referral. What do we need to do to adjust your process"
+- source: Journey Advisement redesign (https://claude.ai/artifact/T8Bd6bCVRfDayQU3Xjgugi) · thread 2026-10-02T18:37 (artifacts.md)
+- date: 2026-10-02
+- context: Journey Advisement redesign canvas, process fix
+- tags: process | shell · standing: yes
+
+### E1389 · Do not fill every screen to the brim
+- quote: "You're literally filling every single screen to the bram. Why?"
+- source: Journey Advisement redesign (https://claude.ai/artifact/T8Bd6bCVRfDayQU3Xjgugi) · thread 2026-10-02T18:25 (artifacts.md)
+- date: 2026-10-02
+- context: Journey Advisement redesign canvas, M7.2 time picker
+- tags: shell | style | frustration · standing: yes
+
+### E1390 · No design decisions in comments without evidence
+- quote: "Be careful not to make design decisions like this in the comments without like referencing anything and figuring out where you went wrong"
+- source: Journey Advisement redesign (https://claude.ai/artifact/T8Bd6bCVRfDayQU3Xjgugi) · thread 2026-10-02T18:36 (artifacts.md)
+- date: 2026-10-02
+- context: Journey Advisement redesign canvas, replies in comment threads
+- tags: process · standing: yes
+
+### E1391 · Use the real logo
+- quote: "why do u not use the actul mondai lgoo and use this weird distorted version?and the m shouldnt be darker than the tet to the right lol."
+- source: Journey Advisement redesign (https://claude.ai/artifact/T8Bd6bCVRfDayQU3Xjgugi) · thread 2026-10-02T05:01 (artifacts.md)
+- date: 2026-10-02
+- context: Journey Advisement redesign canvas, logo in sidebar
+- tags: style | process · standing: yes
+
+### E1392 · Center icons with the row of text
+- quote: "icons should be centered with row of text."
+- source: Journey Advisement redesign (https://claude.ai/artifact/T8Bd6bCVRfDayQU3Xjgugi) · thread 2026-10-02T04:56 (artifacts.md)
+- date: 2026-10-02
+- context: Journey Advisement redesign canvas, list icons
+- tags: style · standing: yes
+
+### E1393 · Use the full design system so I can judge
+- quote: "ok check all components tho because at this stage we should be using my complete design system make sure that is updated info for later. i cant judge if the design looks right without seeing what it will ACTUALLY look like"
+- source: Journey Advisement redesign (https://claude.ai/artifact/T8Bd6bCVRfDayQU3Xjgugi) · thread 2026-10-02T05:04 (artifacts.md)
+- date: 2026-10-02
+- context: Journey Advisement redesign canvas, drawn screens
+- tags: process | review-board · standing: yes
+
+### E1394 · Are these my components and fonts
+- quote: "are thes my components? are the fonts correct? | some jsut seems slightly off idk why."
+- source: Journey Advisement redesign (https://claude.ai/artifact/T8Bd6bCVRfDayQU3Xjgugi) · thread 2026-10-02T04:57 and 05:02 (artifacts.md)
+- date: 2026-10-02
+- context: Journey Advisement redesign canvas, form fields
+- tags: process | style · standing: yes
+
+### E1395 · Saved detail from the original dropped
+- quote: "do we have this on our versions? the orgianl design did this then a later design decided it wasnt important after i mentioned it."
+- source: Journey Advisement redesign (https://claude.ai/artifact/T8Bd6bCVRfDayQU3Xjgugi) · thread 2026-10-02T04:57 (artifacts.md)
+- date: 2026-10-02
+- context: Journey Advisement redesign canvas, save line
+- tags: process | frustration · standing: one-off
+
+### E1396 · Left align, stop centering
+- quote: "We need to stop putting everything in the center. I want to left align this page or the pages, or not every single page, but like this page should be probably be left aligned. That's probably why it looks so weird and the spacing looks crazy. I don't know why we're kind of defaulting to everything kind of being squished in the middle of the screen"
+- source: Journey Advisement screens (1 Oct) (https://claude.ai/artifact/Doe5XYoCxYB9dNY9L6G9DV) · thread "M2.3" 2026-09-30T21:49 (artifacts.md)
+- date: 2026-09-30
+- context: Journey Advisement screens canvas, application form page
+- tags: shell | style · standing: yes
+
+### E1397 · Trim text to cap height and baseline
+- quote: "Is there any way for you to cap the baseline of the text at the actual text instead of having like they're like being little margins inside of each of them basically that you can't control"
+- source: Journey Advisement screens (1 Oct) (https://claude.ai/artifact/Doe5XYoCxYB9dNY9L6G9DV) · thread "M2.3" 2026-09-30T21:50 (artifacts.md)
+- date: 2026-09-30
+- context: Journey Advisement screens canvas, text spacing
+- tags: style | editor · standing: one-off
+
+### E1398 · Confirm sizes you used
+- quote: "Did you confirm the sizes on these earlier are correct?"
+- source: Journey Advisement screens (1 Oct) (https://claude.ai/artifact/Doe5XYoCxYB9dNY9L6G9DV) · thread "Technology" 2026-09-30T16:31 (artifacts.md)
+- date: 2026-09-30
+- context: Journey Advisement screens canvas, chips
+- tags: process · standing: yes
+
+### E1399 · No annotation tags on screens while auditing
+- quote: "please do these differently i dont even know what these mean and i dont want them clogging up th4e screen as i am auditing they are ugly and annoying lol"
+- source: Journey Advisement screens (1 Oct) (https://claude.ai/artifact/Doe5XYoCxYB9dNY9L6G9DV) · thread "M2.6" 2026-09-30T03:26 (artifacts.md)
+- date: 2026-09-30
+- context: Journey Advisement screens canvas, placeholder tags
+- tags: review-board | style | frustration · standing: yes
+
+### E1400 · Margins for pages with no sidebar
+- quote: "following up on the margins did we ever figure out the grid for the desktop without a sidebar?"
+- source: Journey Advisement screens (30 Sep) (https://claude.ai/artifact/YGFpatfM2QFHrbjCQQYfNr) · thread 2026-09-30T02:49 (artifacts.md)
+- date: 2026-09-30
+- context: Journey Advisement screens canvas, desktop grid without sidebar
+- tags: shell | responsive · standing: yes
+
+### E1401 · Hand a prompt to a new session
+- quote: "that explains a lot. give me a prompt to have a new session work that out and ill be back."
+- source: Journey Advisement screens (30 Sep) (https://claude.ai/artifact/YGFpatfM2QFHrbjCQQYfNr) · thread 2026-09-30T02:54 (artifacts.md)
+- date: 2026-09-30
+- context: Journey Advisement screens canvas, grid decision
+- tags: process | delivery · standing: yes
+
+### E1402 · Spacing feedback in short comments
+- quote: "too close now. | this gap is incredibly large. | feels crammed overall. | spacing above and below this is odd. | these headers feel unnecessarily big."
+- source: Journey Advisement screens (30 Sep) (https://claude.ai/artifact/YGFpatfM2QFHrbjCQQYfNr) · threads 2026-09-30T02:47 to 02:49 (artifacts.md)
+- date: 2026-09-30
+- context: Journey Advisement screens canvas, form page
+- tags: style | shell · standing: yes
+
+### E1403 · Investigate Figma components and screenshot
+- quote: "have a subagent investigate the onboarding and settings screens in figma desktop [mvp] file.. take screenshots too for the record. make this feel more connected to the styling overall. something feels off. i think that may be the incorrect drop down too? or no? and text field? i have components are these those?"
+- source: Journey Advisement screens (30 Sep) (https://claude.ai/artifact/YGFpatfM2QFHrbjCQQYfNr) · thread 2026-09-30T02:44 (artifacts.md)
+- date: 2026-09-30
+- context: Journey Advisement screens canvas, dropdown and text field
+- tags: process · standing: yes
+
+### E1404 · Always use components first
+- quote: "Make sure you work it into your system going forward that you're always using the components first. You can create new things if there are new, like based on the style and based on the rules of the design system ... something as simple as like a drop-down menu, you always would like look for what's in the design system first. There's no reason you shouldn't be doing that kind of stuff"
+- source: Journey Advisement screens (30 Sep) (https://claude.ai/artifact/YGFpatfM2QFHrbjCQQYfNr) · thread 2026-09-30T02:53 (artifacts.md)
+- date: 2026-09-30
+- context: Journey Advisement screens canvas, design system use
+- tags: process | style · standing: yes
+
+### E1405 · Odd extra outline style
+- quote: "what is the need for thsi different outline styling here?"
+- source: Journey Advisement screens (30 Sep) (https://claude.ai/artifact/YGFpatfM2QFHrbjCQQYfNr) · thread 2026-09-30T02:47 (artifacts.md)
+- date: 2026-09-30
+- context: Journey Advisement screens canvas, upload outline
+- tags: style · standing: yes
+
+### E1406 · Research patterns with pros and cons
+- quote: "let's send a subagent out to do some /deepresearch into different patterns for this menu. this is not ideal. we may be able to fix it visually but i want to see other patterms first. when it returns it must explain the negatives and positives of both froma. product/ux perspective. we also need different header optiosn to explore i am not loving it."
+- source: Journey Advisement screens (30 Sep) (https://claude.ai/artifact/YGFpatfM2QFHrbjCQQYfNr) · thread 2026-09-30T02:43 (artifacts.md)
+- date: 2026-09-30
+- context: Journey Advisement screens canvas, step menu and header
+- tags: process | navigation | review-board · standing: yes
+
+### E1407 · Wants to know where a screen lives and its navigation
+- quote: "is this on brochure website? | what is up with the navigation then?"
+- source: Journey Advisement screens (30 Sep) (https://claude.ai/artifact/YGFpatfM2QFHrbjCQQYfNr) · thread 2026-09-30T02:22 and 02:39 (artifacts.md)
+- date: 2026-09-30
+- context: Journey Advisement screens canvas, application first step
+- tags: navigation | review-board · standing: one-off
+
+### E1408 · Move this into Figma
+- quote: "create in figma"
+- source: Mondai hero branches: Elements (https://claude.ai/artifact/HGqZRDMDiRodYYKqCAjvFv) · threads 2026-09-13T19:38 and 19:42 (artifacts.md)
+- date: 2026-09-13
+- context: Hero branch canvas, boards
+- tags: delivery · standing: yes
+
+### E1409 · Overlays must align with blocks
+- quote: "the black opacity blocks here are off. they should always align with the pixel blocks."
+- source: Mondai hero branches: Elements (https://claude.ai/artifact/HGqZRDMDiRodYYKqCAjvFv) · thread 2026-09-13T18:21 (artifacts.md)
+- date: 2026-09-13
+- context: Hero branch canvas, black overlay blocks
+- tags: style | frustration · standing: yes
+
+### E1410 · Cut with one word
+- quote: "no"
+- source: Mondai hero branches: Elements (https://claude.ai/artifact/HGqZRDMDiRodYYKqCAjvFv) · threads 2026-09-13T00:36 to 00:38 (artifacts.md)
+- date: 2026-09-13
+- context: Hero branch canvas, pick or cut on a variant
+- tags: decision-board | interaction · standing: yes
+
+### E1411 · Where are the versions I asked for
+- quote: "where are the versions of this with the blocks where the black parts are as i said was supposed to be how it worked? do not get of this one tho."
+- source: Mondai hero branches: Elements (https://claude.ai/artifact/HGqZRDMDiRodYYKqCAjvFv) · thread 2026-09-13T00:36 (artifacts.md)
+- date: 2026-09-13
+- context: Hero branch canvas, inverted versions
+- tags: review-board | frustration · standing: one-off
+
+### E1412 · Keep the pick in main, delete the branch
+- quote: "keep this in main but remove branch"
+- source: Mondai hero branches: Corridor (https://claude.ai/artifact/HhKesonLY5kAknPyB1GfzX) · thread 2026-09-13T19:41 (artifacts.md)
+- date: 2026-09-13
+- context: Hero branch canvas, branch management
+- tags: decision-board | process · standing: yes
+
+### E1413 · Delete all other branch options
+- quote: "the nly one that is okay at all (except the indepdendent smaller blocks) is this one. all branch options can be deleted."
+- source: Mondai hero branches: Corridor (https://claude.ai/artifact/HhKesonLY5kAknPyB1GfzX) · thread 2026-09-13T18:20 (artifacts.md)
+- date: 2026-09-13
+- context: Hero branch canvas, branch cleanup
+- tags: decision-board · standing: yes
+
+### E1414 · Variants must be structurally different
+- quote: "these are basically the same compositions just different positions for the overlay..... also the gree small squares should never be on their own only in oenof the corners of the larger squares. not enoguh variation again with black overlays. they shouldnt be clustered together so much with black blocks with the same opacity ever either not just for this btw for all."
+- source: Mondai hero branches: Corridor (https://claude.ai/artifact/HhKesonLY5kAknPyB1GfzX) · thread 2026-09-12T22:36 (artifacts.md)
+- date: 2026-09-12
+- context: Hero branch canvas, options row
+- tags: review-board | decision-board | frustration · standing: yes
+
+### E1415 · Rules for all branches, not just this one
+- quote: "I have already previously mentioned the behavior fo the small squares and that this should never be liek this. fix it. | same small square issue. REMOVE SMALL SQUARES LIKE THIS FROM ALL BRANCHES. SMALL SQUARES ARE ONLY FOR THE LIME GREEN BOXES THAT ARE IN RANDOM CORNERS OF THE LARGER SQUARES /unlazy"
+- source: Mondai hero branches: Degree show (https://claude.ai/artifact/ASKK58kMvTpyt7uwH2WQ5r) · threads 2026-09-13T18:14 to 18:15 (artifacts.md)
+- date: 2026-09-13
+- context: Hero branch canvas, small squares
+- tags: process | frustration · standing: yes
+
+### E1416 · Delete explorations that miss the point
+- quote: "just delete all explorations for this branch except the main source one. you have not managed to recreate what i liked about the source one."
+- source: Mondai hero branches: Degree show (https://claude.ai/artifact/ASKK58kMvTpyt7uwH2WQ5r) · thread 2026-09-13T18:19 (artifacts.md)
+- date: 2026-09-13
+- context: Hero branch canvas, branch cleanup
+- tags: decision-board · standing: yes
+
+### E1417 · Explorations should be real variations
+- quote: "original is still the best idk what these explorations are i was expecting more compsoitione xploration?"
+- source: Mondai hero branches: Degree show (https://claude.ai/artifact/ASKK58kMvTpyt7uwH2WQ5r) · thread 2026-09-13T00:34 (artifacts.md)
+- date: 2026-09-13
+- context: Hero branch canvas, options row
+- tags: review-board | frustration · standing: yes
+
+### E1418 · Options too similar to decide between
+- quote: "none of these are diverse enough for me to make a decision between. the pink background for the text is awful remove it"
+- source: Mondai hero branches: Degree show (https://claude.ai/artifact/ASKK58kMvTpyt7uwH2WQ5r) · thread 2026-09-12T22:32 (artifacts.md)
+- date: 2026-09-12
+- context: Hero branch canvas, options row
+- tags: review-board | decision-board | frustration | style · standing: yes
+
+### E1419 · Did you make variations of this style
+- quote: "did you make variations of thsi style?"
+- source: Mondai hero branches: Degree show (https://claude.ai/artifact/ASKK58kMvTpyt7uwH2WQ5r) · thread 2026-09-13T01:51 (artifacts.md)
+- date: 2026-09-13
+- context: Hero branch canvas, options row
+- tags: review-board | frustration · standing: yes
+
+### E1420 · Reference-check the 8bit character
+- quote: "are you forgetting the 8bit nature of the design? how are you missing that? none fo the examples for the most part have just a solid block?"
+- source: Mondai hero branches: Degree show (https://claude.ai/artifact/ASKK58kMvTpyt7uwH2WQ5r) · thread 2026-09-13T01:49 (artifacts.md)
+- date: 2026-09-13
+- context: Hero branch canvas, options row
+- tags: process | frustration · standing: one-off
+
+### E1421 · Failed to follow my directions
+- quote: "you didnt follow my directions at all for the way these need repositioned review and reapproach. /unlazy"
+- source: Mondai hero branches: Segments (https://claude.ai/artifact/CE5CRgH8naPornDY7eWs1L) · thread 2026-09-12T22:33 (artifacts.md)
+- date: 2026-09-12
+- context: Hero branch canvas, repositioned shapes
+- tags: process | frustration · standing: yes
+
+### E1422 · Create these in Figma at a named place
+- quote: "create segment soruce and segment shape 2 in my figma board on the hero exploration page on the chadwick's workstation board on the bottom right."
+- source: Mondai hero branches: Segments (https://claude.ai/artifact/CE5CRgH8naPornDY7eWs1L) · thread 2026-09-13T19:35 (artifacts.md)
+- date: 2026-09-13
+- context: Hero branch canvas, Figma handoff
+- tags: delivery · standing: yes
+
+### E1423 · Make main replace source, delete branch
+- quote: "create in figma as well. make main replace soruce with this one. and put in main but delete branch"
+- source: Mondai hero branches: Main (https://claude.ai/artifact/4kMEV38bM342mPYD5sCVCz) · thread 2026-09-13T19:40 (artifacts.md)
+- date: 2026-09-13
+- context: Hero branch canvas, branch management
+- tags: decision-board | delivery · standing: yes
+
+### E1424 · Delete branch once merged
+- quote: "delete branch"
+- source: Mondai hero branches: Discover (https://claude.ai/artifact/HhomzA87cKizV1NvX2xPwR) · thread 2026-09-13T19:37 (artifacts.md)
+- date: 2026-09-13
+- context: Hero branch canvas, branch management
+- tags: decision-board · standing: yes
+
+### E1425 · Delete whole branch
+- quote: "delete entire branch."
+- source: Mondai hero branches: Webflow 2022 (https://claude.ai/artifact/ChQzXPsq3KS8pC8HpGui5P) · thread 2026-09-12T22:31 (artifacts.md)
+- date: 2026-09-12
+- context: Hero branch canvas, branch management
+- tags: decision-board · standing: yes
+
+### E1426 · Explain a branching workflow and advise
+- quote: "I'd like to maybe like explore a couple different directions ... but still like keep it separate so we know like the flow, right? Like where this one started, what the next step is, kind of like evolving as we go. ... If you could please give me advice on that, what the best process is for that going forward, because I think that would be an improvement to this current workflow /unlazy"
+- source: Mondai hero round six (https://claude.ai/artifact/9FVunBHrkoLFQMeGsVBXLj) · thread 2026-09-12T18:44 (artifacts.md)
+- date: 2026-09-12
+- context: Hero round six board, how to explore directions
+- tags: process | review-board · standing: yes
+
+### E1427 · Font dropdown must render every weight
+- quote: "Reload the full IBM Plex Sans range in the helmet link so every weight in the dropdown actually renders, roman and italic"
+- source: Mondai hero round six (https://claude.ai/artifact/9FVunBHrkoLFQMeGsVBXLj) · thread 2026-09-12T18:40 (artifacts.md)
+- date: 2026-09-12
+- context: Hero round six board, font weight dropdown
+- tags: editor | interaction · standing: one-off
+
+### E1428 · Sat on grid, not the screen edge
+- quote: "I like that you made this wider, though I don't know why it's like hitting the edge of the screen. I find that very odd. I think something like this should probably follow the column grid"
+- source: Mondai hero round five (https://claude.ai/artifact/N8kr9dek99aMLUtZr1gGAy) · thread 2026-09-12T00:57 (artifacts.md)
+- date: 2026-09-12
+- context: Hero round five board, overlay box position
+- tags: shell | style · standing: yes
+
+### E1429 · Basic composition should not fail
+- quote: "there's definitely skills that you should be pulling on to some extent here that can give you some kind of knowledge. It surprises me that you can't get something as simple as basic composition done, even as fable. ... something that we're doing process-wise, or I don't know what else is not working. So, I need you to evaluate that and help us figure out what the next steps are."
+- source: Mondai hero round five (https://claude.ai/artifact/N8kr9dek99aMLUtZr1gGAy) · thread 2026-09-12T00:56 (artifacts.md)
+- date: 2026-09-12
+- context: Hero round five board, type placement
+- tags: process | frustration · standing: yes
+
+### E1430 · Masked together not individually
+- quote: "I don't like this mix of things here. Like, it looks like there's like rotations or something. Like, they're separately masked. I was masking them all together, if you recall"
+- source: Mondai hero round five (https://claude.ai/artifact/N8kr9dek99aMLUtZr1gGAy) · thread 2026-09-12T00:49 (artifacts.md)
+- date: 2026-09-12
+- context: Hero round five board, texture masking
+- tags: style | frustration · standing: one-off
+
+### E1431 · Will be animated later
+- quote: "these will eventually be animated keep that in mind but dont worry about it for now."
+- source: Hero WIP review (https://claude.ai/artifact/QRnt3ZFbz9iLgTJRev9V5A) · thread 2026-09-11T23:25 (artifacts.md)
+- date: 2026-09-11
+- context: Hero WIP review board, static boards
+- tags: interaction | process · standing: yes
+
+### E1432 · Per-board comments give clear signals
+- quote: "feels clean to have more black space i think. this is probably the closest to being a finalized design n its own."
+- source: Hero WIP review (https://claude.ai/artifact/QRnt3ZFbz9iLgTJRev9V5A) · thread 2026-09-11T23:29 (artifacts.md)
+- date: 2026-09-11
+- context: Hero WIP review board, per-board comments
+- tags: review-board | decision-board · standing: yes
+
+### E1433 · Containers must wrap, not scroll
+- quote: "for some reason the containers have a scroll function within them. this is not necessary. it can be set up so that they wrap. i already mentioned this... repeating myself once again."
+- source: Chips and Badges Board (https://claude.ai/artifact/JYy4oSJ12StEEMqekEh4i8) · thread 2026-08-28T19:18 (artifacts.md)
+- date: 2026-08-28
+- context: Chips and badges board, selection containers
+- tags: responsive | shell | frustration · standing: yes
+
+### E1434 · Green labels are distracting
+- quote: "green labels are yuck an distracting here. yuck."
+- source: Chips and Badges Board (https://claude.ai/artifact/JYy4oSJ12StEEMqekEh4i8) · thread 2026-08-28T19:19 (artifacts.md)
+- date: 2026-08-28
+- context: Chips and badges board, group labels
+- tags: style · standing: yes
+
+### E1435 · Huge gaps again
+- quote: "more unecessarily huge gaps | why are these spaced out crazy like this? see this is why i keep referencing skills this makes no sense."
+- source: Chips and Badges Board (https://claude.ai/artifact/JYy4oSJ12StEEMqekEh4i8) · threads 2026-08-28T19:19 and 19:20 (artifacts.md)
+- date: 2026-08-28
+- context: Chips and badges board, matrices
+- tags: style | frustration · standing: yes
+
+### E1436 · Use design skills, not generic output
+- quote: "line under is fine i guess but again bringing up skills for the one hundreth time..... this is very generic and shows ur not using design skills"
+- source: Chips and Badges Board (https://claude.ai/artifact/JYy4oSJ12StEEMqekEh4i8) · thread 2026-08-28T19:20 (artifacts.md)
+- date: 2026-08-28
+- context: Chips and badges board, group heading
+- tags: process | frustration · standing: yes
+
+### E1437 · The point is speed, do not make me list every spacing issue
+- quote: "im not going to comment on every spacing issue i really hope i dont have to go that into detil because then u building this with me becomes pointless whne i can just do it myself. th epoint is to make this faster."
+- source: Chips and Badges Board (https://claude.ai/artifact/JYy4oSJ12StEEMqekEh4i8) · thread 2026-08-28T19:20 (artifacts.md)
+- date: 2026-08-28
+- context: Chips and badges board, matrix spacing
+- tags: process | frustration | style · standing: yes
+
+### E1438 · Spacing and centered header
+- quote: "what the? the spacing? the centered header?"
+- source: Chips and Badges Board (https://claude.ai/artifact/JYy4oSJ12StEEMqekEh4i8) · thread 2026-08-28T19:21 (artifacts.md)
+- date: 2026-08-28
+- context: Chips and badges board, single column matrix
+- tags: style | frustration · standing: yes
+
+### E1439 · Do not rebuild what I did not approve
+- quote: "how i organized these in terms of categorizayion almost made more sense before. i never said "What they had was perfect, build it". again this is the same problem. you should be noticing these things before you send stuff over to me.... you have so much info at your disposal im still not seeing u do the work i need u to do."
+- source: Chips and Badges Board (https://claude.ai/artifact/JYy4oSJ12StEEMqekEh4i8) · thread 2026-08-28T19:22 (artifacts.md)
+- date: 2026-08-28
+- context: Chips and badges board, categorization
+- tags: process | frustration | review-board · standing: yes
+
+### E1440 · Show structure visually as a map
+- quote: "this is product design. this should be an actual site map, flow map or something of that sort. not sure what skills u r using to show info but its a bit odd."
+- source: The Route Into Tech (27 Aug, first) (https://claude.ai/artifact/BVdrG9twnnXWAbT83FBkFf) · thread 2026-08-27T23:08 (artifacts.md)
+- date: 2026-08-27
+- context: Case study page, framework diagram
+- tags: style | review-board · standing: yes
+
+### E1441 · Throughline for the reader
+- quote: "just want to end my comments in this section saying that this just feels thrown together. there is no clear throughline ... remember the audience, remember their prior knowledge, remember or research how humans consume information etc."
+- source: The Route Into Tech (27 Aug, first) (https://claude.ai/artifact/BVdrG9twnnXWAbT83FBkFf) · thread 2026-08-27T23:10 (artifacts.md)
+- date: 2026-08-27
+- context: Case study page, section review
+- tags: process | copy | frustration · standing: one-off
+
+### E1442 · Explain visually, based in the real design
+- quote: "this is better explained visually instead of in a sentence. we should be showing the hierarchy and probably actually some kind of site map or flow map. | this visual should be based in the design. you are not creating blocks anywhere for designs to eventually go. you also have full access to the desktop mvp designs and should be utilizing them for stuff like this of course."
+- source: The Route Into Tech (27 Aug, second) (https://claude.ai/artifact/VFdzZaFgSpCkhom9WpdYjY) · threads 2026-08-27T15:55 and 15:56 (artifacts.md)
+- date: 2026-08-27
+- context: Case study page, hierarchy section
+- tags: style | process | review-board · standing: yes
+
+### E1443 · Keep a running list of missing context
+- quote: "it sounds like you are missing a lot of the why behind the decisions. let me know if this is correct becuse this is a huge flaw in yuor documentation so youre either not accessing the proper files or the information is not available to you. please maintain an ongoing list of any of these things as we work through."
+- source: The Route Into Tech (27 Aug, second) (https://claude.ai/artifact/VFdzZaFgSpCkhom9WpdYjY) · thread 2026-08-27T15:58 (artifacts.md)
+- date: 2026-08-27
+- context: Case study page, decision reasoning
+- tags: process | frustration · standing: yes
+
+### E1444 · Layout explorations go in a canvas, with references and no cliche
+- quote: "im playing around with this top section layouts and want you to bring e some unique or interesting variations of this in a canvas using like ten differnt header lyouts using the referro plugin. find websites that are dark mode, and are for saas products prefer ones that play with typography a bit and arent boring cliche layouts so no cliche layouts."
+- source: session_01NtNprp73Ti4A4bFkiqkKL7 · 2026-11-16T03:33:32Z (cloud-1.md)
+- date: 2026-11-16
+- context: Mondai brochure mentor hero: ten hero layout options in a design canvas
+- tags: delivery, style, review-board · standing: yes
+
+### E1445 · Make canvas options fully responsive so he can prototype to scale
+- quote: "please make these fully responsive so i can prototype them to scale."
+- source: session_01NtNprp73Ti4A4bFkiqkKL7 · 2026-11-16T03:58:45Z (cloud-1.md)
+- date: 2026-11-16
+- context: The ten hero layout boards in the canvas
+- tags: responsive, delivery · standing: yes
+
+### E1446 · References must fit the level of the page
+- quote: "are these main hero pages or are these like other types of pages that may fit with the style of ours more? since ours isnt a main hero section."
+- source: session_01NtNprp73Ti4A4bFkiqkKL7 · 2026-11-16T05:48:49Z (cloud-1.md)
+- date: 2026-11-16
+- context: Refero hero references for the secondary Become a mentor page
+- tags: process, review-board · standing: one-off
+
+### E1447 · Strip the exploration down to what is being judged
+- quote: "sure i just wnt to see text and supporting text layouts lol doesnt have to be dark nvm"
+- source: session_01NtNprp73Ti4A4bFkiqkKL7 · 2026-11-16T06:06:45Z (cloud-1.md)
+- date: 2026-11-16
+- context: Four text and supporting text hero layouts
+- tags: review-board, style · standing: yes
+
+### E1448 · Tuner shell: big draggable resizable right sidebar with sliders and all fonts
+- quote: "I put some rules into place in terms of like how this shit should be built sorry apologies this stuff should be built with a colossal right sidebar that's draggable and resizable I want to be able to like change the width and the amount of lines like horizontally use all my different fonts for Monday this is the font styles I mean like you don't need to use like the like the actual I'm sorry you don't need to use Figma styles I mean like the font styles right and those like the sizing should be like modifiable and everything and then like I should be able to change like you know the weight Sliders, whenever it makes sense, but don't use sliders when it doesn't make sense, but sliders are useful for helping shape these"
+- source: session_01NtNprtDv4saxYd6Da65TEE · 2026-11-14T20:29:25Z (cloud-1.md)
+- date: 2026-11-14
+- context: Line-built numerals tuner for the brochure
+- tags: shell, editor, interaction, style · standing: yes
+
+### E1449 · Add the control he asked for as an option on the tuner
+- quote: "Add an option where I can make the colors as they fade to the bottom. The one that's like the staggered, or what do you call it? What did you call it? The taper effect. Can you do that so, like like you're give me an option so like the colors can get darker a little bit just slightly as they go down a very subtle gradient effect"
+- source: session_01NtNprtDv4saxYd6Da65TEE · 2026-11-14T21:01:54Z (cloud-1.md)
+- date: 2026-11-14
+- context: Line-built numerals tuner, colour taper
+- tags: editor, interaction · standing: one-off
+
+### E1450 · A control that shows no visible change, with an unexplained value
+- quote: "I don't really feel like you did exactly how I wanted to do it. I see the fade down, I'm assuming that's why you added, but like, I don't see anything when I use it. Like, I don't see anything happening at all. and then it says, like, like percent 23. I don't know if that's supposed to make it more less intense, but I'm not seeing anything happen at all"
+- source: session_01NtNprtDv4saxYd6Da65TEE · 2026-11-14T21:04:43Z (cloud-1.md)
+- date: 2026-11-14
+- context: Tuner fade control and its percent readout
+- tags: editor, interaction, frustration, copy · standing: yes
+
+### E1451 · Gradient only half applied
+- quote: "So, the gradient effect that you did only covers like half of it, like so the lines halfway up, stop changing color"
+- source: session_01NtNprtDv4saxYd6Da65TEE · 2026-11-14T21:11:32Z (cloud-1.md)
+- date: 2026-11-14
+- context: Tuner gradient on the line numerals
+- tags: editor, frustration · standing: one-off
+
+### E1452 · Tool first, then build the pick in Figma on the page he names
+- quote: "Okay, can you build these Infigma then on that page we've been working on, this brochure website page on the brochure website file. Thank you"
+- source: session_01NtNprtDv4saxYd6Da65TEE · 2026-11-14T21:16:16Z (cloud-1.md)
+- date: 2026-11-14
+- context: Moving the tuned numerals from the tool into Figma
+- tags: delivery · standing: yes
+
+### E1453 · Build in the canvas first; Figma is more expensive
+- quote: "It's fine for now because it's already built. I'm not going to waste tokens on building something else. But just in the future, make sure you're paying more close attention to that integration now. I don't know what you need to do to make sure that you're doing that, but I think that should always be our first step before we build anything in Figma because building Infigma is more expensive, I believe is it not?"
+- source: session_01NtNprtfRV7qs4knsGf674Q · 2026-11-13T20:55:12Z (cloud-1.md)
+- date: 2026-11-13
+- context: Round 2 Become a mentor layouts, built in Figma instead of the design canvas
+- tags: delivery, process, frustration · standing: yes
+
+### E1454 · Asked for the canvas, got Figma
+- quote: "Wait, why did you build this in Figma? I asked you to build this in the design canvas, didn't I?"
+- source: session_01NtNprtfRV7qs4knsGf674Q · 2026-11-13T20:54:37Z (cloud-1.md)
+- date: 2026-11-13
+- context: Round 2 Become a mentor layouts
+- tags: delivery, frustration · standing: yes
+
+### E1455 · Bring the pick into the canvas to edit and refine
+- quote: "we need to bring this into Canvas so that we can do the editing and refinement process right like here or there I mean because there's a lot of things I need to change in naturally and add closet or whatever may be"
+- source: session_01NtNprtfRV7qs4knsGf674Q · 2026-11-13T21:01:59Z (cloud-1.md)
+- date: 2026-11-13
+- context: Three layout options for Become a mentor
+- tags: delivery, editor · standing: yes
+
+### E1456 · Text sizes do not match the brochure; design system not used
+- quote: "you're definitely not using the design system properly though like for instance the text sizes are completely off clearly from the actual brochure website"
+- source: session_01NtNprtfRV7qs4knsGf674Q · 2026-11-13T21:01:59Z (cloud-1.md)
+- date: 2026-11-13
+- context: Round 2 option B for Become a mentor
+- tags: style, frustration · standing: yes
+
+### E1457 · Long messages get a running list with checks
+- quote: "make sure that you're making a running list of this with the proper checks to make sure everything here is going to be like discussed and solved and not missed."
+- source: session_01NtNprtfRV7qs4knsGf674Q · 2026-11-13T21:01:59Z (cloud-1.md)
+- date: 2026-11-13
+- context: His long review message on three options
+- tags: process · standing: yes
+
+### E1458 · Long chats cost too much; he wants out
+- quote: "This is actually, now that I'm looking at this, this is this conversation. This is like crazy long. So I think you also need to start a new chat to like take over from here, but it needs to have full, full, full, full, full, full, 100% full context of everything here."
+- source: session_01NtNprtfRV7qs4knsGf674Q · 2026-11-13T21:01:59Z (cloud-1.md)
+- date: 2026-11-13
+- context: Handoff request at end of long layout chat
+- tags: process · standing: yes
+
+### E1459 · Handoff must carry full context of his messages, not a summary
+- quote: "It shouldn't summarize anything. It should give them the full context of all my messages."
+- source: session_01NtNprtfRV7qs4knsGf674Q · 2026-11-13T21:14:26Z (cloud-1.md)
+- date: 2026-11-13
+- context: Handoff file for the next lead chat
+- tags: process, frustration · standing: yes
+
+### E1460 · Detail he asked for was glossed over
+- quote: "I asked you for so much. I asked you for detail, and you just BS'd  it all /unlazy"
+- source: session_01NtNprtfRV7qs4knsGf674Q · 2026-11-13T21:10:01Z (cloud-1.md)
+- date: 2026-11-13
+- context: Handoff output
+- tags: process, frustration · standing: yes
+
+### E1461 · He needs to know where we are and what to answer next
+- quote: "Okay, can you like summarize me like where we are? Because I don't understand how we need to move forward. I don't really understand your response. I don't know where we what the next step is. I'm not sure what I'm supposed to respond to"
+- source: session_01NtNprtfRV7qs4knsGf674Q · 2026-11-13T20:52:52Z (cloud-1.md)
+- date: 2026-11-13
+- context: Chat about Become a mentor layout process
+- tags: navigation, process, frustration, copy · standing: yes
+
+### E1462 · Next options in the canvas: better alignment, more creative, not an icon on every card
+- quote: "please produce the next three options in Canvas and make sure that they actually line up better. Be more creative. Don't just do icons for every single card, for instance. Be creative with what you think Monday's branding is too."
+- source: session_01NtNprtfRV7qs4knsGf674Q · 2026-11-13T18:55:48Z (cloud-1.md)
+- date: 2026-11-13
+- context: Round 2 Become a mentor layout options
+- tags: delivery, decision-board, style · standing: yes
+
+### E1463 · Pick per section with notes, not one whole set
+- quote: "Can you make a version of this where I can like, instead of having to choose an entire set, I could choose like selection by section and like I can choose which one I want for each section, and I can put like also like notes in there in case I want to like change things and stuff like that because I have thoughts and I want to mix it up a little bit between sections."
+- source: session_01NtNprtfRV7qs4knsGf674Q · 2026-11-13T04:44:23Z (cloud-1.md)
+- date: 2026-11-13
+- context: Canvas of Become a mentor section options
+- tags: decision-board, review-board, editor · standing: yes
+
+### E1464 · It must feel like a brochure website, not a product
+- quote: "I want to make sure we do this in a way that actually feels like a brochure website and not like a product because this is not a product design"
+- source: session_01NtNprtfRV7qs4knsGf674Q · 2026-11-13T01:14:03Z (cloud-1.md)
+- date: 2026-11-13
+- context: Building brochure sections by code from examples
+- tags: style · standing: yes
+
+### E1465 · Push the brochure style up a notch, three options to view in the canvas
+- quote: "your challenge is to try to use the mondai brochure's designs as the main inspiration but then push that style up a knotch without going over the top and using layouts from and inspired by layouts at these links create 3 options for me to view in canva."
+- source: session_01NtNprtfRV7qs4knsGf674Q · 2026-11-13T04:18:42Z (cloud-1.md)
+- date: 2026-11-13
+- context: Brochure section layouts inspired by two reference sites
+- tags: style, delivery, decision-board · standing: yes
+
+### E1466 · He cannot judge it without full screen
+- quote: "Oh, but I can't even full screen this, I don't think. Let me see. I don't know what's going on here. Yeah, it's hard to judge this without being able to like full screen it"
+- source: session_01NtNprp2qxAxeFw1rakboqD · 2026-11-09T18:47:54Z (cloud-1.md)
+- date: 2026-11-09
+- context: Portfolio phase 3 review page published as an artifact
+- tags: interaction, delivery, frustration · standing: yes
+
+### E1467 · Full screen was fixed, then broke again
+- quote: "The full screen is not working by the way, so that part's fine"
+- source: session_01NtNprp2qxAxeFw1rakboqD · 2026-11-09T19:02:11Z (cloud-1.md)
+- date: 2026-11-09
+- context: Same review artifact, second round
+- tags: interaction, frustration · standing: yes
+
+### E1468 · Add select and pick-a-style controls to the review
+- quote: "Can we actually add some more interactive capabilities too to this review where I can like select a option or like select text for instance and I could say I could choose from all of our styles and then like also potentially even add styles as we go"
+- source: session_01NtNprp2qxAxeFw1rakboqD · 2026-11-09T19:02:11Z (cloud-1.md)
+- date: 2026-11-09
+- context: Portfolio review artifact, type styles
+- tags: review-board, editor, interaction · standing: yes
+
+### E1469 · He was looking at a different version than the one he sent
+- quote: "I'm not actually not even looking at the  version I sent over to you I'm looking at a different version"
+- source: session_01NtNprp2qxAxeFw1rakboqD · 2026-11-09T19:02:11Z (cloud-1.md)
+- date: 2026-11-09
+- context: Portfolio review artifact, type styles
+- tags: delivery, frustration · standing: yes
+
+### E1470 · Which version is this?
+- quote: "I'm making some comments on something, but I don't know if this is the most updated version of this because I don't see the hover effect at all for the learn mode for the Monday case study collection"
+- source: session_01NtNprp2qxAxeFw1rakboqD · 2026-11-09T19:08:28Z (cloud-1.md)
+- date: 2026-11-09
+- context: Portfolio collection page artifact
+- tags: delivery, frustration · standing: yes
+
+### E1471 · Use the motion process
+- quote: "To be clear, this should go without saying, but you should be using the motion process to figure that out"
+- source: session_01NtNprp2qxAxeFw1rakboqD · 2026-11-09T19:08:28Z (cloud-1.md)
+- date: 2026-11-09
+- context: Hover effect for the collection page
+- tags: process · standing: one-off
+
+### E1472 · Highlight must not move or reshape text
+- quote: "it's not like a typical highlight, like it completely changes shape, and it should just like that's not how a highlight effect should feel. So, if you like hover over it, it's just like it expands."
+- source: session_01NtNprp2qxAxeFw1rakboqD · 2026-11-09T18:47:54Z (cloud-1.md)
+- date: 2026-11-09
+- context: Nav link hover highlight on the portfolio page
+- tags: interaction, frustration · standing: yes
+
+### E1473 · Noticing state changes is his bar
+- quote: "the underline goes away on hover and the shape completly changes. you should be noticing this type of thing."
+- source: session_01NtNprp2qxAxeFw1rakboqD · 2026-11-09T19:13:02Z (cloud-1.md)
+- date: 2026-11-09
+- context: Artifact comment on the contact link hover
+- tags: interaction, frustration, process · standing: yes
+
+### E1474 · Hover must be a direct overlay match
+- quote: "why is letter spacing changing you keep doing this -_- IT SHOULD BE A DIRECT OVERLAY MATCH FOR THE MOST PART??"
+- source: session_01NtNprp2qxAxeFw1rakboqD · 2026-11-09T19:13:34Z (cloud-1.md)
+- date: 2026-11-09
+- context: Artifact comment on the Selected works link
+- tags: interaction, frustration · standing: yes
+
+### E1475 · Hover changes colour and background only, no movement
+- quote: "It should just change the font's color and add the white background without any movement ever occurring on any of the elements"
+- source: session_01NtNprp2qxAxeFw1rakboqD · 2026-11-09T19:15:43Z (cloud-1.md)
+- date: 2026-11-09
+- context: Link hover highlight
+- tags: interaction · standing: yes
+
+### E1476 · Spacing still off on hover
+- quote: "letter spacing still off on these too -_-"
+- source: session_01NtNprp2qxAxeFw1rakboqD · 2026-11-09T19:14:40Z (cloud-1.md)
+- date: 2026-11-09
+- context: Artifact comment on the Work nav link
+- tags: interaction, frustration · standing: yes
+
+### E1477 · Heavier weight on highlight
+- quote: "make the weight one step heavier on these on highlight. so the black text version on the white background."
+- source: session_01NtNprp2qxAxeFw1rakboqD · 2026-11-09T19:07:06Z (cloud-1.md)
+- date: 2026-11-09
+- context: Artifact comment on Selected works link
+- tags: interaction, style · standing: one-off
+
+### E1478 · Every link gets the same hover treatment
+- quote: "this should have a cover effect as well"
+- source: session_01NtNprp2qxAxeFw1rakboqD · 2026-11-09T19:07:23Z (cloud-1.md)
+- date: 2026-11-09
+- context: Artifact comment on the email link
+- tags: interaction · standing: yes
+
+### E1479 · Every link gets a hover effect
+- quote: "also should be a hover effect on this link"
+- source: session_01NtNprp2qxAxeFw1rakboqD · 2026-11-09T19:09:47Z (cloud-1.md)
+- date: 2026-11-09
+- context: Artifact comment on the LinkedIn link
+- tags: interaction · standing: yes
+
+### E1480 · Missed link: back to top
+- quote: "this is also a link"
+- source: session_01NtNprp2qxAxeFw1rakboqD · 2026-11-09T19:16:46Z (cloud-1.md)
+- date: 2026-11-09
+- context: Artifact comment on Back to top
+- tags: interaction · standing: yes
+
+### E1481 · No stroke on these
+- quote: "neither should have a stroke"
+- source: session_01NtNprp2qxAxeFw1rakboqD · 2026-11-09T19:06:19Z (cloud-1.md)
+- date: 2026-11-09
+- context: Artifact comment on the contact block
+- tags: style · standing: one-off
+
+### E1482 · Flicker and glitch when the pointer leaves
+- quote: "There's like some kind of flicker. I think it happens when I move like away from it or something."
+- source: session_01NtNprp2qxAxeFw1rakboqD · 2026-11-09T19:30:26Z (cloud-1.md)
+- date: 2026-11-09
+- context: Hover highlight on portfolio links
+- tags: interaction, frustration · standing: yes
+
+### E1483 · Research the standard way to do it
+- quote: "do we need to figure out. standard for doing this correctly? there has to be info out there to help you do this correctly."
+- source: session_01NtNprp2qxAxeFw1rakboqD · 2026-11-09T19:13:34Z (cloud-1.md)
+- date: 2026-11-09
+- context: Artifact comment on the LinkedIn link
+- tags: process · standing: yes
+
+### E1484 · Asks whether the coding method was researched
+- quote: "Are you doing the research on it though? How to do this properly, like from a coding perspective, though?"
+- source: session_01NtNprp2qxAxeFw1rakboqD · 2026-11-09T19:16:25Z (cloud-1.md)
+- date: 2026-11-09
+- context: Hover highlight effect
+- tags: process · standing: yes
+
+### E1485 · Check skills and resources before declaring a simple ask hard
+- quote: "can you help me like tell me, like, do we have any skills we should using? Like, what are the resources? This seems like such a simple ask"
+- source: session_01NtNprp2qxAxeFw1rakboqD · 2026-11-09T19:43:47Z (cloud-1.md)
+- date: 2026-11-09
+- context: Hover highlight effect, after repeated failures
+- tags: process, frustration · standing: yes
+
+### E1486 · Each build step gets a try-it-and-note step with him
+- quote: "you present what I have, we test it out, make sure it feels okay. I add any notes or any changes I'd like to see made, etc., etc. Instead of just like trusting it,"
+- source: session_01NtNprp2qxAxeFw1rakboqD · 2026-11-09T03:51:50Z (cloud-1.md)
+- date: 2026-11-09
+- context: Portfolio build process, hover animation step
+- tags: process, review-board · standing: yes
+
+### E1487 · He needs a live responsive build to try, not a picture
+- quote: "It's not about just a picture, it's about either. It's about having a responsive interface, like an act to see the website built and how it's looking and working so far."
+- source: session_01NtNprp2qxAxeFw1rakboqD · 2026-11-09T03:51:50Z (cloud-1.md)
+- date: 2026-11-09
+- context: Portfolio phone and tablet phase
+- tags: delivery, responsive · standing: yes
+
+### E1488 · Not going to read piles of output; no visible process
+- quote: "I'm not gonna go through and manually read all those. That's insanity."
+- source: session_01NtNprp2qxAxeFw1rakboqD · 2026-11-09T03:44:30Z (cloud-1.md)
+- date: 2026-11-09
+- context: Portfolio phase 3 responsive, 390 versions
+- tags: process, frustration · standing: yes
+
+### E1489 · Human check steps must be shown
+- quote: "You're not showing me anything at any point to this process, which has made this a huge issue."
+- source: session_01NtNprp2qxAxeFw1rakboqD · 2026-11-09T03:44:30Z (cloud-1.md)
+- date: 2026-11-09
+- context: Portfolio phase 3 responsive
+- tags: process, frustration · standing: yes
+
+### E1490 · List items should never wrap
+- quote: "the text should never wrap on the list for like the case study options"
+- source: session_01NtNprp2qxAxeFw1rakboqD · 2026-11-09T03:47:43Z (cloud-1.md)
+- date: 2026-11-09
+- context: Portfolio collection page list
+- tags: style · standing: one-off
+
+### E1491 · He needs clarity on where the process stands
+- quote: "I don't even know where we're at so it's really hard to make any of those kind of assessments because of this weird Veil that has been up, and I don't even know, like what's left in the process. Like, I need more clarity."
+- source: session_01NtNprp2qxAxeFw1rakboqD · 2026-11-09T03:47:43Z (cloud-1.md)
+- date: 2026-11-09
+- context: Portfolio build process
+- tags: navigation, process, frustration · standing: yes
+
+### E1492 · Three canvas options, do not over-read the ask
+- quote: "I just need your help doing the designs. We have people working on the notifications themselves, they just don't have a specific spot set up yet, like for where they're up here, etc., etc. So, can you just give me three canvas options into how we could do that"
+- source: session_0194BLaZeMGvnLfUPBM3jJry · 2026-10-15T19:45:18Z (cloud-1.md)
+- date: 2026-10-15
+- context: Where notifications and toasts live (Mondai product)
+- tags: delivery, decision-board, process · standing: yes
+
+### E1493 · Deck answer is Other plus a note, with a request to research first
+- quote: "Round 2 decided. n-spot: Other (note: Proposition probably makes the most sense just because it would be like out of the way and everything. One thing I need you to look up, though, is there's like I can't remember which screen it is, but there's something where I had a notification type bar that like slid down from the top, and it was like pink"
+- source: session_0194BLaZeMGvnLfUPBM3jJry · 2026-10-15T20:04:29Z (cloud-1.md)
+- date: 2026-10-15
+- context: Artifact review deck, round 2 on notification spot
+- tags: decision-board, review-board · standing: yes
+
+### E1494 · Toast may overlap content; do more research with real references
+- quote: "It's not like there needs to be a specific spot reserved on every single screen for notifications to pop up. I can appear on top of things. Like, I think you need to do more research. Maybe look on Referral to get a better idea of how this works /unlazy"
+- source: session_0194BLaZeMGvnLfUPBM3jJry · 2026-10-29T21:04:43Z (cloud-1.md)
+- date: 2026-10-29
+- context: Where toasts sit (Mondai product)
+- tags: product, process · standing: yes
+
+### E1495 · Fewer page headers
+- quote: "I'm actually trying to reduce some of the headers because we have too many headers, to be honest"
+- source: session_0194BLaZeMGvnLfUPBM3jJry · 2026-10-20T23:06:24.124Z (cloud-1.md)
+- date: 2026-10-20
+- context: Notification placement relative to page header
+- tags: product, style · standing: yes
+
+### E1496 · Show where a change could conflict across pages
+- quote: "Can you show me I guess like you'd have to show me if there's any pages where it could conflict too, right?"
+- source: session_0194BLaZeMGvnLfUPBM3jJry · 2026-10-28T17:48:10Z (cloud-1.md)
+- date: 2026-10-28
+- context: Notification placement across screens
+- tags: review-board, process · standing: one-off
+
+### E1497 · Add a note beside the thing on the design system page, as on other pages
+- quote: "Maybe you need to make a notifications page to show, you know, how that works too. Like on the design system file, just do like a page that says, like, or I think there is a notifications page, so you would just like add to this, so you could show how they work, and maybe put a note next to it, kind of like the format we do on the other pages when we're creating something new /unlazy"
+- source: session_0194BLaZeMGvnLfUPBM3jJry · 2026-10-30T00:41:11Z (cloud-1.md)
+- date: 2026-10-30
+- context: Writing the notification placement into the design system file
+- tags: delivery, process · standing: one-off
+
+### E1498 · Keep the presentation simple; notes kept separate
+- quote: "The notes, I don't really want them like in a note like on the feature. Like I need them separate because I don't want it to be accidentally seen by the viewers"
+- source: session_018ALKXi99JeSv74S7A8vbXa · 2026-09-29T23:05:30Z (cloud-1.md)
+- date: 2026-09-29
+- context: Cohorts and Peer Connect presentation
+- tags: delivery, process · standing: yes
+
+### E1499 · Do not over-engineer; keep it really simple
+- quote: "So don't over-engineer at all. Like keep it really, really simple."
+- source: session_018ALKXi99JeSv74S7A8vbXa · 2026-09-29T23:05:30Z (cloud-1.md)
+- date: 2026-09-29
+- context: Cohorts and Peer Connect presentation
+- tags: process, style · standing: yes
+
+### E1500 · Walk through screens in a deck, not in Figma
+- quote: "instead of walking through the designs in Figma, which can get messy, I think it'll be better if you can just pull those designs up into a PowerPoint"
+- source: session_018ALKXi99JeSv74S7A8vbXa · 2026-09-29T23:05:30Z (cloud-1.md)
+- date: 2026-09-29
+- context: Cohorts and Peer Connect presentation
+- tags: delivery · standing: one-off
+
+### E1501 · Simple is not plain: the deck looked ugly; UI should stand out
+- quote: "I don't know what this is like one of the most plain Jane, ugly ass like PowerPoint presentations I've ever seen in my entire life."
+- source: session_018ALKXi99JeSv74S7A8vbXa · 2026-09-29T23:15:44Z (cloud-1.md)
+- date: 2026-09-29
+- context: Generated PowerPoint
+- tags: style, frustration · standing: yes
+
+### E1502 · Keep deck simple so the UI stands out; shrink UI 20 percent
+- quote: "make it keep it really simple so that UI stands out. You can make the UI elements like slightly smaller. They don't have to be like as big because they take up the entire screen. So if you can resize them like 20% less, that would be ideal as well"
+- source: session_018ALKXi99JeSv74S7A8vbXa · 2026-09-29T23:15:44Z (cloud-1.md)
+- date: 2026-09-29
+- context: Generated PowerPoint, UI screenshots
+- tags: style · standing: one-off
+
+### E1503 · Notes need clear sections, bigger bold titles, tighter spacing
+- quote: "these presenter notes are organized really, really poorly. Can you do a better job of separating each section spacing-wise? And then, can you also be better about like bolding the title and make the titles a little bit bigger so I can see where I need to go, cleaning up the spacing so things are a little bit tighter sometimes where they need to be too"
+- source: session_018ALKXi99JeSv74S7A8vbXa · 2026-09-29T23:17:33Z (cloud-1.md)
+- date: 2026-09-29
+- context: Presenter notes document
+- tags: navigation, style · standing: yes
+
+### E1504 · Images look like low-quality JPEGs
+- quote: "Why do the images for the presentation look like low-quality JPEGs?"
+- source: session_018ALKXi99JeSv74S7A8vbXa · 2026-09-29T23:33:16Z (cloud-1.md)
+- date: 2026-09-29
+- context: Screens placed into the PowerPoint
+- tags: style, frustration · standing: yes
+
+### E1505 · Wants a visual list of done and left to do
+- quote: "Can you create me some kind of like HTML visual like chart or like not chart like a list or something that shows me like what we've done so far with the design system and what's still left to do"
+- source: session_019PmHctXEdFqukEZCcCiNYi · 2026-09-24T23:23:08Z (cloud-1.md)
+- date: 2026-09-24
+- context: Design system setup tracker
+- tags: navigation, delivery · standing: yes
+
+### E1506 · Resend it shorter, nothing important lost
+- quote: "I'm in a rush doing a bunch of things. Can you like resend that response and just like don't leave anything important out, but simplify it so it's like easier and quickly to read and I know what I need to know"
+- source: session_01SkGCnXxgzXuViDU68k8H7C · 2026-09-23T20:17:58Z (cloud-1.md)
+- date: 2026-09-23
+- context: Breakpoints strategy chat
+- tags: copy, process · standing: yes
+
+### E1507 · Findings must not be long paragraphs
+- quote: "Please present your findings in a way that doesn't just feel like a written book of like long paragraphs of text. That's not as consumable, right?"
+- source: session_01SkGCnXxgzXuViDU68k8H7C · 2026-09-23T17:27:06Z (cloud-1.md)
+- date: 2026-09-23
+- context: Breakpoints research request
+- tags: copy, delivery · standing: yes
+
+### E1508 · List everything in the message and audit against it before sending
+- quote: "take a good list of everything I'm mentioning in this message so that you can audit it and make sure that you're not missing anything and put a test for yourself once you're ready to send output out where you go and really double-check those things"
+- source: session_01SkGCnXxgzXuViDU68k8H7C · 2026-09-23T17:27:06Z (cloud-1.md)
+- date: 2026-09-23
+- context: Breakpoints research request
+- tags: process · standing: yes
+
+### E1509 · Check the skills that exist, including outside Anthropic
+- quote: "I do need you to like actually know what skills we have installed and what they do, and not just their like brief description, right?"
+- source: session_01SkGCnXxgzXuViDU68k8H7C · 2026-09-23T17:27:06Z (cloud-1.md)
+- date: 2026-09-23
+- context: Breakpoints research request
+- tags: process · standing: yes
+
+### E1510 · Do real research, not memory
+- quote: "I don't want you to just like bullshit of what's in your memory. I want you to go out there and research how other products, companies, designers, even freelancers may do something like this"
+- source: session_01SkGCnXxgzXuViDU68k8H7C · 2026-09-23T17:27:06Z (cloud-1.md)
+- date: 2026-09-23
+- context: Breakpoints research request
+- tags: process · standing: yes
+
+### E1511 · Handoff prompt must miss nothing
+- quote: "I think the best point now is for you to create me a very thorough, detailed prompt, not missing anything at all that not just in this last message, but like in terms of understanding the progress and where we're at currently, so that you can start this off from the correct point in a new session"
+- source: session_01SkGCnXxgzXuViDU68k8H7C · 2026-09-23T20:35:06Z (cloud-1.md)
+- date: 2026-09-23
+- context: End of long breakpoints chat
+- tags: process · standing: yes
+
+### E1512 · Look at the real thing first
+- quote: "Not like actually looking to see what it looks like for two is an issue, Zero solution here should have been to go look at it, right?"
+- source: session_01SkGCnXxgzXuViDU68k8H7C · 2026-09-23T20:19:33Z (cloud-1.md)
+- date: 2026-09-23
+- context: Breakpoints chat, mobile components
+- tags: process · standing: one-off
+
+### E1513 · Wants breakpoints for tablet and mobile, not only desktop
+- quote: "for these new quick sprints that we're doing right now, we'd like for the first one, we just produce desktop breakpoints, and ideally, we would be creating ones for tablet and mobile as well."
+- source: session_01SkGCnXxgzXuViDU68k8H7C · 2026-09-23T20:17:58Z (cloud-1.md)
+- date: 2026-09-23
+- context: Breakpoints strategy chat
+- tags: responsive · standing: yes
+
+### E1514 · Build in the Claude Code canvas, not Figma, then adjust
+- quote: "Go ahead and build all of those, not in Figma itself, but I want you to build those within the Claude Code canvas and then we can look at them and make any adjustments as we go from there."
+- source: session_01VcKbv6hf2uMYWPMJ6sDpih · 2026-09-11T20:52:36Z (cloud-1.md)
+- date: 2026-09-11
+- context: Hero block boards rebuilt as 60 pixel blocks
+- tags: delivery · standing: yes
+
+### E1515 · Search repos and marketplaces for skills before starting
+- quote: "Do a good search and see if there's any repos or marketplaces that have skills or plugins or things that would assist us in this task that we should be utilizing here."
+- source: session_01VcKbv6hf2uMYWPMJ6sDpih · 2026-09-11T20:52:36Z (cloud-1.md)
+- date: 2026-09-11
+- context: Hero block boards
+- tags: process · standing: yes
+
+### E1516 · Composition work: do not ask about colour
+- quote: "This is a composition task, not a styling task. So you should not be asking for colors whatsoever."
+- source: session_01VcKbv6hf2uMYWPMJ6sDpih · 2026-09-11T21:14:41Z (cloud-1.md)
+- date: 2026-09-11
+- context: Hero block boards
+- tags: process, style · standing: one-off
+
+### E1517 · Transparency should fade blocks in and out
+- quote: "it doesn't have that same like fluidity like the designs kind of feel like they're almost like fading in and out of the background to some extent because of the transparency"
+- source: session_01VcKbv6hf2uMYWPMJ6sDpih · 2026-09-11T21:31:18Z (cloud-1.md)
+- date: 2026-09-11
+- context: Hero block boards, opacity
+- tags: style · standing: one-off
+
+### E1518 · Knock out random blocks
+- quote: "can can you remove a bunch of random blocks so it looks more pixely"
+- source: session_01VcKbv6hf2uMYWPMJ6sDpih · 2026-09-11T21:53:53Z (cloud-1.md)
+- date: 2026-09-11
+- context: Hero block boards
+- tags: style · standing: one-off
+
+### E1519 · Remove all text except the nav so composition stands alone
+- quote: "Remove all text from any of these boards, except for the nav bars. That text is fine, but I mean like the hero sex and remove the buttons, um, all that kind of stuff. Just so we can focus on the compositions alone without thinking about the text."
+- source: session_01VcKbv6hf2uMYWPMJ6sDpih · 2026-09-13T17:14:52Z (cloud-1.md)
+- date: 2026-09-13
+- context: Hero block boards
+- tags: review-board, style · standing: yes
+
+### E1520 · Prefers exploring layouts in a canvas, not adjusting in Figma
+- quote: "it's like a lot to do on Figma, honestly, to make the adjustments I want and explore alternatives. So, there's some things I want to explore and stuff with you. So, I don't, I think we could do it in Canvas and then you know, once we get those fine-tuned things, these things fine-tuned, we should be good to go. But I want to get some of these things. I want to get the final version figured out first"
+- source: session_01NtNprrVvBF5wXPFqzTgz7p · 2026-11-16T01:19:21.128820Z (cloud-2.md)
+- date: 2026-11-16
+- context: Brochure page M1.1 Become a Mentor Review, two current layouts, wants alternatives
+- tags: delivery, editor, process · standing: yes
+
+### E1521 · Wants the board as something he can open in the browser
+- quote: "Can you make this please so I can open it here in the browser or whatever?"
+- source: session_01NtNprpa8dUYdrTGTy5GMKF · 2026-11-14T19:48:02.137952Z (cloud-2.md)
+- date: 2026-11-14
+- context: Dark frame styles board for the brochure, research output
+- tags: delivery · standing: yes
+
+### E1522 · Asked for black and gray styles, not colourful ones
+- quote: "Okay, thank you. Can you create I was looking more for like black gray and gray ones not all these colorful ones can you redo this"
+- source: session_01NtNprpa8dUYdrTGTy5GMKF · 2026-11-14T20:11:12.421120Z (cloud-2.md)
+- date: 2026-11-14
+- context: Dark frame styles board, first version came back colourful
+- tags: style, frustration · standing: yes
+
+### E1523 · Called the style board a lazy attempt: wants showy, fluid, real gradients
+- quote: "The thing is, I know, like, I already seen a few that are like way better than this. Like, like prettier, or they're like, like a bunch of these you sent are not even like there's no gradients, there's no like style to it. Like, I specifically wanted something that was more showy, you know, more like some things are just really plain random frames, like there's nothing more going on for them. It's like a very lazy attempt at doing what I asked."
+- source: session_01NtNprpa8dUYdrTGTy5GMKF · 2026-11-14T20:23:49.565212Z (cloud-2.md)
+- date: 2026-11-14
+- context: Second version of the dark frame styles board in the canvas artifact
+- tags: style, frustration · standing: one-off
+
+### E1524 · Said plain gradient shapes are not what he means; look harder and match the reference imag
+- quote: "maybe some of the fill shading ones are okay, but nope, they're really not. They're just literally a shape of the gradient. And that's not what I'm talking about. Like, I'm talking for stuff that looks more fluid than they're like, you know, at the very bottom, they, for instance, are fading out, or like I know there is a bunch of these if you were just look harder and I don't know if it's like you're having a hard time making them look like they do in the images in here, too, could be part of the problem"
+- source: session_01NtNprpa8dUYdrTGTy5GMKF · 2026-11-14T20:23:49.565212Z (cloud-2.md)
+- date: 2026-11-14
+- context: Same message as above, about matching the reference images in the board
+- tags: style, frustration, process · standing: one-off
+
+### E1525 · Wants picks built in Figma on the named page, then a darker pass
+- quote: "New build capability wash, emergent frame, fading quotes, panel fading out light beam card overhead spotlight, lit glass tile and you build those in Figma on the Monday Brochure website M1.1 become a mentor review page and then after you're done with that can you do one more pass and look for some that like more towards black right so for instance like capability wash would be one that I would consider like out of the ones I just talked about like that's pretty close to black right so like darker grays and stuff"
+- source: session_01NtNprpa8dUYdrTGTy5GMKF · 2026-11-14T20:57:45.628489Z (cloud-2.md)
+- date: 2026-11-14
+- context: He picked styles from the board; Figma gets the picked direction
+- tags: delivery, style, review-board · standing: yes
+
+### E1526 · Had to ask twice: build his liked ones in Framer
+- quote: "Didn't I ask you to build the other ones that I liked in framer? What the heck? ??"
+- source: session_01NtNprpa8dUYdrTGTy5GMKF · 2026-11-15T00:19:47.837564Z (cloud-2.md)
+- date: 2026-11-15
+- context: After picks were built in Figma, he expected Framer builds
+- tags: frustration, delivery · standing: one-off
+
+### E1527 · Does not want to fine tune a look he already likes
+- quote: "honestly i dont know that i need to find tune this because i think what i liked about i was the gooeyness and to me that fits well with the style we are goign for"
+- source: session_01NtNprsKE28H8PxrfkJbRLC · 2026-11-09T04:58:02.266235Z (cloud-2.md)
+- date: 2026-11-09
+- context: Contact button liquid effect tuner for the portfolio footer
+- tags: editor, style, process · standing: one-off
+
+### E1528 · Wants it to work like the reference video, not endless tuning; fresh chat when a session r
+- quote: "Can you just like start it over from like have a new session? Just like start off the whole concept from fresh, prioritizing the videos. Like, I just want to stop working on this. Like, this is taking too long. It's like we can make this better later on. But I just want it to work like the video. That's it. That's all I'm asking  And this session's like too long. Like, you need to have a new chat, like, just start this all over, because I'm done with this conversation"
+- source: session_01NtNprsKE28H8PxrfkJbRLC · 2026-11-09T18:46:25.281858Z (cloud-2.md)
+- date: 2026-11-09
+- context: Contact button effect after a long tuning session
+- tags: frustration, process, interaction · standing: yes
+
+### E1529 · Wants reference lookup built into the build process, not only after he complains
+- quote: "when I called them out, he actually used referral now to like actually present UX-friendly designs like basic patterns, like and the results were way better. So I'm not sure if it's just because I had the issues that he went and did that, or if next time I build that he's gonna do that anyway in his building, and if it's set up properly, because he's obviously able to do it, so and it's not built into the build process"
+- source: session_01SKEbA1stJrsUHdRQZqbSQk · 2026-10-22T14:53:02.691711Z (cloud-2.md)
+- date: 2026-10-22
+- context: Mentor event space screens, Refero used only after he called out weak designs
+- tags: process, frustration · standing: yes
+
+### E1530 · Types /unlazy to force the gates (Refero chat)
+- quote: "...I don't know what the thing is, but  /unlazy"
+- source: session_01SKEbA1stJrsUHdRQZqbSQk · 2026-10-22T14:53:02.691711Z (cloud-2.md)
+- date: 2026-10-22
+- context: Same message as the Refero build process question
+- tags: process · standing: yes
+
+### E1531 · Wants a usable version first when time is short, research second
+- quote: "we need to like figure out how to get this, what I need for tonight done Like, that is needs to be the priority, like after the research, or even if the version we do for now is like not as perfect, or like we continue, like we create something first and then do more research."
+- source: session_018pq2hNT9D8RNU3benHMJY4 · 2026-10-06T22:47:37.560729Z (cloud-2.md)
+- date: 2026-10-06
+- context: Feature book for a team meeting that night, he was at 64 percent usage
+- tags: process, delivery · standing: yes
+
+### E1532 · Usage share worries him; wants output protected before the deadline
+- quote: "I'm at 64% usage because I'm doing other important things and I'm a little bit concerned about the output"
+- source: session_018pq2hNT9D8RNU3benHMJY4 · 2026-10-06T22:47:37.560729Z (cloud-2.md)
+- date: 2026-10-06
+- context: Same message, usage anxiety during the feature book work
+- tags: process, frustration · standing: yes
+
+### E1533 · Questions length: does it need to be this long
+- quote: "31 seems like a lot. ... Is there any way to make it? Does it need to be this long?"
+- source: session_018pq2hNT9D8RNU3benHMJY4 · 2026-10-06T22:52:16.403353Z (cloud-2.md)
+- date: 2026-10-06
+- context: 31 page feature book PDF
+- tags: copy, review-board · standing: yes
+
+### E1534 · Wants a very brief presenter script, not reading off slides
+- quote: "can you give me like almost like a script or something like it doesn't have to be a perfect script like I don't want like full like I just want to be able to like say really quickly Because they're I'm not gonna like I don't want to just like read off of the slides, right? ... So I want something super brief where they can reference the book later feature book later, but I have like as we're going through this I can like note things also."
+- source: session_018pq2hNT9D8RNU3benHMJY4 · 2026-10-06T22:52:16.403353Z (cloud-2.md)
+- date: 2026-10-06
+- context: Team design meeting using the feature book and screens
+- tags: copy, process, delivery · standing: yes
+
+### E1535 · Script sounded unnatural: asked for humanizer or no AI slop
+- quote: "But can you use like humanizer on this? Or like no AI slop because I can't read these things like the way you wrote them. They sound really weird. It wouldn't make sense for a human to say it like this"
+- source: session_018pq2hNT9D8RNU3benHMJY4 · 2026-10-06T23:03:11.460710Z (cloud-2.md)
+- date: 2026-10-06
+- context: Team script for the feature book presentation
+- tags: copy, frustration · standing: yes
+
+### E1536 · Deck should be dark, clean and less cluttered, keep the step strip on top
+- quote: "So can you update the team deck so it looks a little bit more Monday? Maybe it doesn't feel so cluttered like right now, for instance, like the white feels really weird. I think that it's useful to see the timeline for the project on top, or not timeline, but the different steps for each element I'm going to be talking about. So keep something like that. It just feels like very packed full."
+- source: session_018pq2hNT9D8RNU3benHMJY4 · 2026-10-06T23:05:07.509592Z (cloud-2.md)
+- date: 2026-10-06
+- context: Team deck made from the feature book
+- tags: style, navigation, frustration · standing: yes
+
+### E1537 · White and black together is shocking in a presentation; wants dark mode
+- quote: "make sure it's like in dark mode because it feels really shocking with the white and the black for a presentation. So it needs to feel a little bit nicer. It doesn't even need to feel super Monday, it just needs to feel clean and darker"
+- source: session_018pq2hNT9D8RNU3benHMJY4 · 2026-10-06T23:05:07.509592Z (cloud-2.md)
+- date: 2026-10-06
+- context: Same message about the team deck
+- tags: style · standing: yes
+
+### E1538 · Wants better hierarchy than one huge opening paragraph; use skills to find the right strat
+- quote: "I think that this book may benefit some from better data visualization. I thought maybe I'm mixing this up with another chat, but I thought I asked you to find skills using the skills we have installed that specifically help you use the right strategies to find skills out there for this kind of stuff because I think that this could be a little bit more clean. Right now, we really just have like a huge paragraph in the beginning, and that's all that is really spoken to at all about any of the designs."
+- source: session_018pq2hNT9D8RNU3benHMJY4 · 2026-10-07T19:21:18.716607Z (cloud-2.md)
+- date: 2026-10-07
+- context: Feature book PDF review the next day
+- tags: style, process, review-board, frustration · standing: yes
+
+### E1539 · Wants communication improved (UI, visual hierarchy) without doing more
+- quote: "And of course, I ask you to not overdo it, and I'm not implying that you do more, I'm implying that the way you communicate it is improved  This includes things like UI, visual hierarchy. I think I also ask you to look into presentation skills."
+- source: session_018pq2hNT9D8RNU3benHMJY4 · 2026-10-07T19:21:18.716607Z (cloud-2.md)
+- date: 2026-10-07
+- context: Same message about the feature book
+- tags: style, copy, process · standing: yes
+
+### E1540 · Wants a clean learn style feature book that teaches how each area works, with screens conn
+- quote: "You have that like learn feature, and it's so good, especially if we can keep it clean for teaching people how the features work and what each area of the product is and stuff. What about instead of focusing so much on the designs and the screens, we instead create a feature book instead. And then maybe we somehow like there are screens in there too, or like screens are somehow like there's a way to connect screens to it"
+- source: session_018pq2hNT9D8RNU3benHMJY4 · 2026-10-20T22:54:55.068121Z (cloud-2.md)
+- date: 2026-10-20
+- context: Idea to turn the feature book into a Learn artifact
+- tags: style, copy, review-board · standing: one-off
+
+### E1541 · Types /unlazy to force the gates (feature book chat)
+- quote: "...it seems like that learn thing really is useful /UNLAZY"
+- source: session_018pq2hNT9D8RNU3benHMJY4 · 2026-10-20T22:54:55.068121Z (cloud-2.md)
+- date: 2026-10-20
+- context: End of the Learn idea message
+- tags: process · standing: yes
+
+### E1542 · Told it the info was thin and pointed at another chat's output as the bar
+- quote: "this isn't enough information though like look at what was just built for me in the other chat about this new feature"
+- source: session_018pq2hNT9D8RNU3benHMJY4 · 2026-10-20T23:07:02.383884Z (cloud-2.md)
+- date: 2026-10-20
+- context: First Learn artifact judged against what another chat built
+- tags: frustration, process, copy · standing: one-off
+
+### E1543 · Handoff zip with a start here section; types /unlazy twice
+- quote: "Unzip grid-split-handoff.zip, read HANDOFF.md first and follow its start here section. /unlazy /unlazy"
+- source: session_01PSpZXrERQ9pQvfJ5peTNMM · 2026-09-29T15:28:02.414709Z (cloud-2.md)
+- date: 2026-09-29
+- context: Starting the grid split hero tool in a new chat from a zip handoff
+- tags: delivery, process · standing: yes
+
+### E1544 · Panel behind the logo must be the same black as the rest
+- quote: "I noticed in the previous version for some reason there was a black or gray background behind the M logo that didn't match the black color in the rest of the image. That should all match or should all be the same color black. So it should be the darker color"
+- source: session_01PSpZXrERQ9pQvfJ5peTNMM · 2026-09-29T15:58:56.143642Z (cloud-2.md)
+- date: 2026-09-29
+- context: Grid split hero animation tool, logo slot panel
+- tags: style, frustration · standing: yes
+
+### E1545 · Reveal timing felt odd; wants more blocks over the spot so it feels hidden under
+- quote: "The timing feels very odd, and like there should be more blocks over that spot, so it feels like more of a reveal, like it was hiding under there"
+- source: session_01PSpZXrERQ9pQvfJ5peTNMM · 2026-09-29T22:10:28.483323Z (cloud-2.md)
+- date: 2026-09-29
+- context: Grid split hero hover reveal of the M logo
+- tags: interaction, editor · standing: one-off
+
+### E1546 · Wants the tool saved for later
+- quote: "Just make sure you save the tool down for later"
+- source: session_01PSpZXrERQ9pQvfJ5peTNMM · 2026-09-30T01:20:39.453680Z (cloud-2.md)
+- date: 2026-09-30
+- context: Grid split tool, saving it to the brochure repo
+- tags: delivery, process · standing: yes
+
+### E1547 · Types /unlazy on a status question
+- quote: "are #45 and #46 out of date? /unlazy"
+- source: session_01Dksma5FZm3uQ6hAXcYGeoJ · 2026-09-24T23:22:37.897700Z (cloud-2.md)
+- date: 2026-09-24
+- context: Comparisons PRs check
+- tags: process · standing: yes
+
+### E1548 · Discard stale work rather than keep two versions
+- quote: "Okay, card dividers I think are being worked on in another chat. That's 46. If 45 is out of date, make sure we discard it"
+- source: session_01Dksma5FZm3uQ6hAXcYGeoJ · 2026-09-24T23:26:11.225323Z (cloud-2.md)
+- date: 2026-09-24
+- context: Comparisons PRs 45 and 46
+- tags: process · standing: one-off
+
+### E1549 · Stop running things he did not ask for
+- quote: "what do u mean check ins? i need u to stop running stuff when i dont ask"
+- source: session_01MQ4WVVR5Y7GdAqr23ugNnv · 2026-09-25T03:14:11.102850Z (cloud-2.md)
+- date: 2026-09-25
+- context: Hourly PR check-ins and schedules appeared in his chat
+- tags: frustration, process · standing: yes
+
+### E1550 · Those scheduled things should never exist
+- quote: "none of those shoudl exist that is very odd. stop that from happening please going forward"
+- source: session_01MQ4WVVR5Y7GdAqr23ugNnv · 2026-09-25T03:20:21.936273Z (cloud-2.md)
+- date: 2026-09-25
+- context: After the assistant listed 11 scheduled check-in triggers
+- tags: frustration, process · standing: yes
+
+### E1551 · Pushes the rule so automatic checks stop
+- quote: "Never mind. Just push the rule so we don't get the automatic checks."
+- source: session_01MQ4WVVR5Y7GdAqr23ugNnv · 2026-09-26T15:34:24.525099Z (cloud-2.md)
+- date: 2026-09-26
+- context: PR 71 rule against unasked check-ins
+- tags: process, frustration · standing: yes
+
+### E1552 · Does not want to be blocked by a hard block; wants nothing overwritten
+- quote: "I want to be blocked by anything. So you said if you ever want to chat or watch a PR or remind you later, the chat will say it's blocked. I don't want that to happen. Whatever I need to do to make sure that doesn't happen, please do it. But make sure nothing's overwritten or messed up."
+- source: session_01MQ4WVVR5Y7GdAqr23ugNnv · 2026-09-25T16:28:04.641030Z (cloud-2.md)
+- date: 2026-09-25
+- context: Whether a settings deny block should stop scheduling; likely dictated and meant "I don't want to be blocked"
+- tags: process, frustration · standing: yes
+
+### E1553 · Checks that do nothing waste his tokens
+- quote: "I don't know why the checks exist in the first place. If there's actually an important need for them, don't get rid of them. But I just feel like they're potentially wasting my tokens. I don't know why they're existing and doing things like that, I guess. And most of the times, the checks don't really do anything anyway. Not that I've seen."
+- source: session_01MQ4WVVR5Y7GdAqr23ugNnv · 2026-09-25T16:28:04.641030Z (cloud-2.md)
+- date: 2026-09-25
+- context: PR check-in routines
+- tags: process, frustration · standing: yes
+
+### E1554 · Does not want to do manual work
+- quote: "I think I fixed the problem so I don't have to do that Claude settings.json thing Like it, you know, I don't do the manual work."
+- source: session_01MQ4WVVR5Y7GdAqr23ugNnv · 2026-09-25T16:54:47.087589Z (cloud-2.md)
+- date: 2026-09-25
+- context: Assistant asked him to edit settings.json himself
+- tags: process, frustration · standing: yes
+
+### E1555 · Wanted a ready prompt for the other account instead of steps
+- quote: "why don't you just give me a new prompt to give to my main Claude account so that they can edit the GitHub or update that or whatever? Because you are the one that didn't send the prompt effectively then"
+- source: session_01MQ4WVVR5Y7GdAqr23ugNnv · 2026-09-25T17:21:11.989681Z (cloud-2.md)
+- date: 2026-09-25
+- context: Assistant's first prompt for the main account did not work
+- tags: delivery, frustration · standing: one-off
+
+### E1556 · Wrong advice about a mode he does not have
+- quote: "I don't have the option to set it to ask mode. I have the options for auto, accept edits, or plan"
+- source: session_01MQ4WVVR5Y7GdAqr23ugNnv · 2026-09-25T17:16:20.807166Z (cloud-2.md)
+- date: 2026-09-25
+- context: Assistant told him to switch to ask mode
+- tags: frustration, process · standing: one-off
+
+### E1557 · Needs another strategy when the other account is unavailable
+- quote: "We need to figure out another strategy because I don't have access to that account until Monday and I need to be doing work before then"
+- source: session_01MQ4WVVR5Y7GdAqr23ugNnv · 2026-09-26T15:10:57.629623Z (cloud-2.md)
+- date: 2026-09-26
+- context: CLAUDE.md import test needed the main account
+- tags: process, frustration · standing: one-off
+
+### E1558 · Wants a list he can see of everything worked on
+- quote: "Can you make a list of everything that so I can see it that we'd worked on here since it's been a while? So I can make sure that we want to do that"
+- source: session_01MQ4WVVR5Y7GdAqr23ugNnv · 2026-09-25T16:07:53.865193Z (cloud-2.md)
+- date: 2026-09-25
+- context: Work on the branch not yet in main
+- tags: review-board, delivery · standing: yes
+
+### E1559 · Wants a new list of only what would be missed, plus needed notes
+- quote: "go ahead and give me a new list with that stuff instead, and give me any other additional notes that I may need to be aware of because of this change. But don't just say things to say things"
+- source: session_01MQ4WVVR5Y7GdAqr23ugNnv · 2026-09-25T16:25:07.634997Z (cloud-2.md)
+- date: 2026-09-25
+- context: Audit of branch work against newer main
+- tags: review-board, copy · standing: yes
+
+### E1560 · Do not say things just to say things
+- quote: "But don't just say things to say things"
+- source: session_01MQ4WVVR5Y7GdAqr23ugNnv · 2026-09-25T16:25:07.634997Z (cloud-2.md)
+- date: 2026-09-25
+- context: Same message about the audit list
+- tags: copy · standing: yes
+
+### E1561 · Leave what was already done; only bring in what would be missed
+- quote: "if something conflicts and it's not adding anything to what was already done, then we should leave what was already done. If there's anything that is not being addressed anywhere, we should look at that and separate it. So let's not edit anything that ... potentially could be replaced. Like let's just bring in stuff that you know we're gonna miss if we don't take care of now."
+- source: session_01MQ4WVVR5Y7GdAqr23ugNnv · 2026-09-25T16:25:07.634997Z (cloud-2.md)
+- date: 2026-09-25
+- context: Merging branch work against many other changes
+- tags: process · standing: yes
+
+### E1562 · Wants a really good audit and care before anything overrides other work
+- quote: "I think what I need you to do is just like a really good audit of what because a lot has been updated on GitHub now, and I'm afraid that we potentially did work otherwise somewhere else or something that could like override any of this. I just want to be really careful about that /unlazy"
+- source: session_01MQ4WVVR5Y7GdAqr23ugNnv · 2026-09-25T16:09:29.126289Z (cloud-2.md)
+- date: 2026-09-25
+- context: Overlap audit before merging the Claude Design branch
+- tags: process · standing: yes
+
+### E1563 · Nervous about clashing files across many changes
+- quote: "my nervous thing right now is that there's a lot of different files and I want to make sure nothing's clashing"
+- source: session_01MQ4WVVR5Y7GdAqr23ugNnv · 2026-09-25T20:25:24.726993Z (cloud-2.md)
+- date: 2026-09-25
+- context: Design sync notes versus other files
+- tags: process, frustration · standing: yes
+
+### E1564 · Does not want to overwrite things he cannot see
+- quote: "I don't know what is in that 35 though, so I don't want to overwrite other things. That's the problem."
+- source: session_01MQ4WVVR5Y7GdAqr23ugNnv · 2026-09-26T15:34:24.525099Z (cloud-2.md)
+- date: 2026-09-26
+- context: Assistant suggested using PR 35
+- tags: process · standing: yes
+
+### E1565 · Wants context on what is open
+- quote: "I'm really nervous that whatever you're talking about that's still open is a small PR to me. What is the context"
+- source: session_01MQ4WVVR5Y7GdAqr23ugNnv · 2026-09-25T18:53:30.542076Z (cloud-2.md)
+- date: 2026-09-25
+- context: Assistant mentioned an open item without context
+- tags: copy, process · standing: yes
+
+### E1566 · Keep a session to its job
+- quote: "I don't need to do 21 stuff in this combo. It's a separate combo. We don't do that in this combo in this session. That's not what the session is for."
+- source: session_01MQ4WVVR5Y7GdAqr23ugNnv · 2026-09-26T15:34:24.525099Z (cloud-2.md)
+- date: 2026-09-26
+- context: Assistant raised 21 unrelated branches
+- tags: process, frustration · standing: yes
+
+### E1567 · Asked why a random item was brought up
+- quote: "I was confused at why you're bringing up 35 randomly out of the blue. How is it connected to what we're doing"
+- source: session_01MQ4WVVR5Y7GdAqr23ugNnv · 2026-09-26T15:32:43.062595Z (cloud-2.md)
+- date: 2026-09-26
+- context: PR 35 raised during the check-in rule work
+- tags: frustration, copy · standing: yes
+
+### E1568 · Does not know jargon: what do you mean by open it
+- quote: "What do you mean by open it? Can you fix it?"
+- source: session_01MQ4WVVR5Y7GdAqr23ugNnv · 2026-09-25T21:12:31.219385Z (cloud-2.md)
+- date: 2026-09-25
+- context: Assistant said to open a file; he expects it to just fix
+- tags: copy, process · standing: yes
+
+### E1569 · Asked what tokens are being renamed
+- quote: "Okay, so the token renames thing, we did build a lot of tokens though. So, what tokens are you talking about being renamed?"
+- source: session_01MQ4WVVR5Y7GdAqr23ugNnv · 2026-09-25T16:28:04.641030Z (cloud-2.md)
+- date: 2026-09-25
+- context: Design system tokens notes
+- tags: copy · standing: yes
+
+### E1570 · Stale totals and counts are over-engineered
+- quote: "Is it super necessary right now for us to keep component and variant counts specifically on file? Because that's going to keep changing. So, unless there's a reason for it to be there, and unless there's something in place for it to keep updating, of course, it's going to be incorrect. ... Do we need the totals? Isn't it just more important what to mention like what fonts there are rather than the total? That seems like unnecessary Claude, like over-engineered information, potentially"
+- source: session_01MQ4WVVR5Y7GdAqr23ugNnv · 2026-09-25T20:31:22.611916Z (cloud-2.md)
+- date: 2026-09-25
+- context: Design sync notes file listing component totals
+- tags: copy, process · standing: yes
+
+### E1571 · Not thinking about the whole situation
+- quote: "you're not thinking about this entire situation. You're thinking about one part of the problem related to this"
+- source: session_01MQ4WVVR5Y7GdAqr23ugNnv · 2026-09-25T21:16:07.092462Z (cloud-2.md)
+- date: 2026-09-25
+- context: Rules over the 2KB hook limit
+- tags: frustration, process · standing: yes
+
+### E1572 · Does not want the 2K cap hit and information lost
+- quote: "I don't want that 2K max being hit over and over again, and we just continue to lose information in the meantime. Is the point"
+- source: session_01MQ4WVVR5Y7GdAqr23ugNnv · 2026-09-26T15:13:15.175959Z (cloud-2.md)
+- date: 2026-09-26
+- context: Rules injected through a hook that truncates
+- tags: process, frustration · standing: one-off
+
+### E1573 · Rules should not be crammed into a size capped channel
+- quote: "No one else gets maxed out on these 2K things like this. There's strategies for this. You don't put all your rules in that. I don't understand why this is an issue right now."
+- source: session_01MQ4WVVR5Y7GdAqr23ugNnv · 2026-09-26T15:28:35.875708Z (cloud-2.md)
+- date: 2026-09-26
+- context: Same 2KB hook limit discussion
+- tags: process, frustration · standing: one-off
+
+### E1574 · Working clickable prototype per flow, with his components
+- quote: "I think what I want to do is start building maybe not every single time, but when I can build like working prototypes and like for each flow, and then we could like know the details about each flow in those so I can like send it to the leadership team and they can navigate the flows and get a hands-on feel, which obviously they should feel like you know, obviously they're gonna be utilized in that they should be utilizing my components in that prototype too, right?"
+- source: session_01TT8fL2k5XEfx44PQ5g5ftL · 2026-10-02T18:05:19.052253Z (cloud-3.md)
+- date: 2026-10-02
+- context: first ask for flow prototypes to send to the leadership team
+- tags: delivery, review-board, style · standing: yes
+
+### E1575 · Test from the newest designs
+- quote: "id rather test something from the newest designs if that is possible?"
+- source: session_01TT8fL2k5XEfx44PQ5g5ftL · 2026-10-02T18:07:15.172384Z (cloud-3.md)
+- date: 2026-10-02
+- context: choosing what to prototype
+- tags: process · standing: one-off
+
+### E1576 · Team comments that persist, in a file everyone can open
+- quote: "Is it possible for us to create something actually where like the team can like I don't know what file format we do this in or whatever or if there's a better methodology of doing this but I was thinking like if we could have the team add their comments there that could be really useful tooSo we'd have to figure out a way to do that where like they would save."
+- source: session_01TT8fL2k5XEfx44PQ5g5ftL · 2026-10-02T18:08:30.708343Z (cloud-3.md)
+- date: 2026-10-02
+- context: prototype for leadership review
+- tags: review-board, delivery, interaction · standing: yes
+
+### E1577 · Figma comments may not work for the team, need an alternative
+- quote: "I think they all have access to the Figma. I'm not sure about comments and stuff. I don't think that they'll be able to comment from their individual accounts on it. Unless I made it public, I'm not sure. I probably need an alternative way just in case"
+- source: session_01TT8fL2k5XEfx44PQ5g5ftL · 2026-10-02T18:43:37.457738Z (cloud-3.md)
+- date: 2026-10-02
+- context: where the team leaves comments
+- tags: delivery, review-board · standing: one-off
+
+### E1578 · Comments must say who wrote them
+- quote: "I think a couple of them use account, like the same account, which I know they shouldn't, but whatever doesn't matter. So, I can't see like who commented on what. So, I'd have criticism when they identify themselves on each comment."
+- source: session_01TT8fL2k5XEfx44PQ5g5ftL · 2026-10-02T18:45:35.884575Z (cloud-3.md)
+- date: 2026-10-02
+- context: shared logins on the prototype comments
+- tags: review-board, interaction · standing: yes
+
+### E1579 · Show a working version before more planning
+- quote: "Can you go ahead? We need to figure out the name list yet. I want to see a working prototype with everything we're talking about first"
+- source: session_01TT8fL2k5XEfx44PQ5g5ftL · 2026-10-02T18:46:45.821478Z (cloud-3.md)
+- date: 2026-10-02
+- context: reply after Claude's recommendation for the comment system
+- tags: process, delivery · standing: yes
+
+### E1580 · First version rejected: unusable, over-engineered, full screen
+- quote: "Honestly, this is like unusable. I think you need to do more research, like maybe use the deep research skills so you can understand what a prototype is like and what it needs to be used for, and like maybe you need to use some kind of UX skills or like a design skill to help figure out how to do this because it's just way too much. Like, I should be able to full screen this stuff. Like, I should be able, it should be way clearer. It's over-engineered. It feels like there's like too many instructions and shit. It just feels like a lot to look at, and I don't even know where to start myself"
+- source: session_01TT8fL2k5XEfx44PQ5g5ftL · 2026-10-02T19:27:07.736908Z (cloud-3.md)
+- date: 2026-10-02
+- context: first built Mentor feedback prototype
+- tags: frustration, shell, style, process, copy · standing: yes
+
+### E1581 · Questions about the second version: CTA look, name each comment, saving, background
+- quote: "the completed cards with like the green, the check mark, those look like CTAs. So, I just want to make sure I dress that. If someone asked a comment, do they have to add like their name every single time? Because that's annoying to do for every single comment, and then how does this like save once people comment and stuff? And why is there like a background on Monday? Like a just a checkered background? Why is that in there? That's not part of the design."
+- source: session_01TT8fL2k5XEfx44PQ5g5ftL · 2026-10-02T19:41:03.617575Z (cloud-3.md)
+- date: 2026-10-02
+- context: second version of the prototype
+- tags: style, interaction, review-board, frustration · standing: yes
+
+### E1582 · Too open-ended, feels like being tested
+- quote: "You're not using my components. It's not exact designs, it's fine. I don't care about that for because that's later. But I think the thing right now, mostly for me, is just that like you gave that scenario in the beginning, right? But now you look almost underengineered it in a sense, where, like, I don't know what I'm doing, and it's like too open-ended, and it's like you're testing me"
+- source: session_01TT8fL2k5XEfx44PQ5g5ftL · 2026-10-02T19:41:03.617575Z (cloud-3.md)
+- date: 2026-10-02
+- context: second version of the prototype, no guidance on where to start
+- tags: frustration, process, review-board · standing: yes
+
+### E1583 · One source instead of one prototype per flow
+- quote: "This is better, but we still have to figure out like if we do this for each individual flow or if we have, it seems like it may be more efficient to have like one source, but I don't know"
+- source: session_01TT8fL2k5XEfx44PQ5g5ftL · 2026-10-02T21:03:15.671606Z (cloud-3.md)
+- date: 2026-10-02
+- context: structure of the prototypes across flows
+- tags: delivery, process · standing: yes
+
+### E1584 · Back button, easy flow switching, bar at the top like a browser
+- quote: "There needs to be like some kind of back button or something built in here, but there also needs to be a way for me to lay more. It needs to be more clear how to switch flows. The bottom bar is like not doing any good. We should have this like as a top browser bar type of thing, I think, instead, too"
+- source: session_01TT8fL2k5XEfx44PQ5g5ftL · 2026-10-02T21:27:06.231625Z (cloud-3.md)
+- date: 2026-10-02
+- context: prototype viewer control bar
+- tags: shell, navigation, interaction · standing: yes
+
+### E1585 · Tab bar approved, guide card should be neutral and collapsible, no blue hotspot flash
+- quote: "I do think this is way better though. Like this tap bar feels so good." ... "can we just make this completely neutral, first of all? No color" ... "If I click like in a blank space, the everything clickable flashes blue. I don't want that because I want it, it's harder to actually navigate the flow without guidance because you can accidentally do that very easily. So, I want that to be disabled." ... "maybe now the thing that's in the bottom left is like it fills the bottom, like it's a bottom navigation bar, but like small, and you can collapse it or something like that."
+- source: session_01TT8fL2k5XEfx44PQ5g5ftL · 2026-10-02T21:58:22.048682Z (cloud-3.md)
+- date: 2026-10-02
+- context: reviewing version 5 of the prototype, guide card and Show me control
+- tags: shell, interaction, style, navigation · standing: yes
+
+### E1586 · Show me must be more obvious and say it shows where to go
+- quote: "I want like that show me button to work like this in the same way it does, but it to be more obvious" ... "make sure it's clear that show me is showing you like where to go, right"
+- source: session_01TT8fL2k5XEfx44PQ5g5ftL · 2026-10-02T21:58:22.048682Z (cloud-3.md)
+- date: 2026-10-02
+- context: guide card Show me link in the prototype
+- tags: navigation, interaction, copy · standing: one-off
+
+### E1587 · Really simple greys and blacks, subtle fill, not a CTA
+- quote: "I think the UI should be really simple. Don't do it now. I'm just saying when we get there, like, really simple, you know, like probably like grays and blacks, kind of like the bar top bar already is, you know, and then you can even do really simple, like a just like a no stroke and just like a subtle fill or something like that, so you can see the button, but it doesn't like distract, it's not meant to be a CTA, right? But the positioning and the hierarchy needs to make it be really clear"
+- source: session_01TT8fL2k5XEfx44PQ5g5ftL · 2026-10-02T22:00:58.071027Z (cloud-3.md)
+- date: 2026-10-02
+- context: look of the prototype viewer controls
+- tags: style, interaction · standing: yes
+
+## 
+
+### E1588 · Stop telling me to start a new session
+- quote: "Okay, number one, stop telling me to start a new session when you can do it yourself. Number two, whatever expensive thing you have going on, whatever setting you're going on, turn that off because this keeps happening, and I get why it has happening, but like we should be able to just finish a job without having to start a new session"
+- source: session_01NtNprrdgkH7BwS9KC34Ed6 · 2026-11-08T23:45:22.260953Z (cloud-3.md)
+- date: 2026-11-08
+- context: long site build session
+- tags: process, frustration · standing: yes
+
+### E1589 · Big buttons get the liquid effect, small ones keep the fill
+- quote: "Oh no, see I think for the fill for the small buttons is fine, but the bigger buttons they are supposed to go with that we're gonna do that liquid buttons effect recreation there's a chat that has that from a while back now, but I still have it pinned and the idea was to do that kind of effect with the button like the contact button"
+- source: session_01NtNprrdgkH7BwS9KC34Ed6 · 2026-11-09T00:21:59.701264Z (cloud-3.md)
+- date: 2026-11-09
+- context: contact button on the portfolio site
+- tags: interaction, style · standing: one-off
+
+### E1590 · An interactive element is built and tuned, not sent as a video
+- quote: "number one, you don't just create a video of how something works. You're not just like, I'm not sure what you're doing. Obviously, this is an interaction, this is an interactive UI element, which means it needs to be built and tested and fine-tuned. I bet you didn't even use the motion skill, did you? Because this looks nothing like that"
+- source: session_01NtNprrdgkH7BwS9KC34Ed6 · 2026-11-09T00:43:08.391321Z (cloud-3.md)
+- date: 2026-11-09
+- context: contact button motion study delivered as a rendered clip
+- tags: frustration, interaction, process, delivery · standing: yes
+
+### E1591 · Process, not a skill
+- quote: "When you say motion skill, I'm not talking about a skill. You're right. I'm talking about a process that we set up. You understand that?"
+- source: session_01NtNprrdgkH7BwS9KC34Ed6 · 2026-11-09T00:45:48.053156Z (cloud-3.md)
+- date: 2026-11-09
+- context: follow-up on the motion process
+- tags: process · standing: one-off
+
+### E1592 · Show both options, pick the split
+- quote: "can i see b and A please"
+- source: session_01NtNprrdgkH7BwS9KC34Ed6 · 2026-11-09T01:05:52.210054Z (cloud-3.md)
+- date: 2026-11-09
+- context: gooey split versus liquid outline button options
+- tags: review-board, decision-board · standing: one-off
+
+### E1593 · GUI split chosen
+- quote: "If this is just in terms of how the two sides interact with one another, then go with the GUI split"
+- source: session_01NtNprrdgkH7BwS9KC34Ed6 · 2026-11-09T01:06:57.850919Z (cloud-3.md)
+- date: 2026-11-09
+- context: button option pick
+- tags: decision-board · standing: one-off
+
+### E1594 · Interaction has to be felt, then fine-tuned with sliders
+- quote: "The Gui button is not done. I haven't been able to like I told you this before you can send a video of something. This is an interaction. So I need to feel it. And then we need to fine-tune it with like sliders and stuff"
+- source: session_01NtNprrdgkH7BwS9KC34Ed6 · 2026-11-09T01:18:27.312409Z (cloud-3.md)
+- date: 2026-11-09
+- context: gooey button status
+- tags: editor, interaction, frustration · standing: yes
+
+### E1595 · Responsive tuning interface in dark mode, using proper UX skills
+- quote: "So, what I want you to do now is work on that, but then like right away go into creating some kind of responsive tuning interface that I can use based on how we usually set things like this up using the proper UX skills, etc. etc. Maybe even grabbing just a random skill that's good that will help with organizing a dark mode editing interface for us to like do this. Maybe do research into, maybe even have another session, do research into how to set up something like this in AI and how people are doing this right now so that I can fine-tune it to my liking and we can, you know, make sure that we're matching what we got going on in those video examples."
+- source: session_01NtNprrdgkH7BwS9KC34Ed6 · 2026-11-09T03:08:06.882544Z (cloud-3.md)
+- date: 2026-11-09
+- context: button behaviour to match reference videos
+- tags: editor, style, process · standing: yes
+
+### E1596 · Button interacts with the mouse position
+- quote: "it's a responsive behavior to the mouse, right? It responds to the mouse's interact placement on the button. And there's even another color behind it, which we haven't set or decided on yet"
+- source: session_01NtNprrdgkH7BwS9KC34Ed6 · 2026-11-09T03:08:06.882544Z (cloud-3.md)
+- date: 2026-11-09
+- context: gooey button reference
+- tags: interaction · standing: one-off
+
+### E1597 · Parallel sessions, keep moving
+- quote: "I was trying to get a conversation to move forward because the whole I literally sent a long-ass message that was saying, like, that this does not take precedence. We don't need to stop the entire build because this is like a silly thing. ... So, what's most important is to just keep moving. So, I was trying to get another conversation to keep moving while you worked on this or something. But all of a sudden, now that one's also working on the same thing."
+- source: session_01NtNprrdgkH7BwS9KC34Ed6 · 2026-11-09T03:33:00.349543Z (cloud-3.md)
+- date: 2026-11-09
+- context: two sessions on the same button
+- tags: process, frustration · standing: yes
+
+### E1598 · I didn't confirm that
+- quote: "Wait, what are you talking about? I didn't confirm it. There's another conversation working on this, too. I'm confused."
+- source: session_01NtNprrdgkH7BwS9KC34Ed6 · 2026-11-09T03:31:17.553396Z (cloud-3.md)
+- date: 2026-11-09
+- context: Claude treated an unconfirmed item as confirmed
+- tags: frustration, process · standing: one-off
+
+### E1599 · Leave the tuning button out for now, side category for details
+- quote: "there's half-tone ban. It's actually I have to show you that that's we can put that in like a side category for details. Like I think that's where we should put the button, honestly. ... So for now, just leave it out and then we can work on that at the end"
+- source: session_01NtNprrdgkH7BwS9KC34Ed6 · 2026-11-09T03:45:14.810926Z (cloud-3.md)
+- date: 2026-11-09
+- context: effect category in the site build
+- tags: process, style · standing: one-off
+
+### E1600 · Do not raise things that no longer exist
+- quote: "There's nothing to do for that. It's not even called that anymore. So I don't know why you brought that into the mix, that has nothing to do with what we're doing"
+- source: session_01NtNprrdgkH7BwS9KC34Ed6 · 2026-11-09T04:25:12.837572Z (cloud-3.md)
+- date: 2026-11-09
+- context: end of session summary
+- tags: frustration · standing: one-off
+
+### E1601 · Hide the resume item temporarily
+- quote: "yes i will have to provide something for the resume maybe just hide it temporarily"
+- source: session_01NtNprrdgkH7BwS9KC34Ed6 · 2026-11-09T03:52:48.849423Z (cloud-3.md)
+- date: 2026-11-09
+- context: footer resume link
+- tags: process · standing: one-off
+
+### E1602 · Link Claude could not open
+- quote: "It's probably that I don't know why you can't open it. It's literally right here"
+- source: session_01NtNprrdgkH7BwS9KC34Ed6 · 2026-11-09T00:24:42.636560Z (cloud-3.md)
+- date: 2026-11-09
+- context: he pasted a claude.ai code session link to pull in a prior chat
+- tags: delivery, frustration · standing: one-off
+
+
+### E1603 · Callout for questions, in the chat, expandable, not forced
+- quote: "like when Claude and you do, Claude, often there's like so much text to sort through, and then there's like this question at the end without any context. And it feels like I could organize a way to make this process more simple without doing anything over the top. Like, I don't know if there's a way to do some kind of call-out box for questions like that"
+- source: session_01HG3re2BNmUZoq3QjVAjt4C · 2026-10-21T17:09:02.214662Z (cloud-3.md)
+- date: 2026-10-21
+- context: replies from Claude that end with a bare question
+- tags: copy, review-board, frustration, process · standing: yes
+
+### E1604 · No HTML file, in the chat, with details on request
+- quote: "I also don't want to force them to ask questions every time too, because I think that is like a flaw" ... "it's just organizing in a way that's a little more clear without like creating an HTML file or anything. Like, is there anything we can do like right in the chat? You know, like some kind of call-up box at the end or whatever, basically the question, but then maybe like, I don't know if this is even possible, but like something where I can expand more details if I need it or something like that."
+- source: session_01HG3re2BNmUZoq3QjVAjt4C · 2026-10-21T17:09:02.214662Z (cloud-3.md)
+- date: 2026-10-21
+- context: same request
+- tags: delivery, copy, interaction · standing: yes
+
+### E1605 · Stay on topic, no unrelated repos or PRs
+- quote: "no... Why are you even mentioning portfolio and stuff in here? I'm confused. Why are there PRs listed? Like, this is ridiculous. Like, you shouldn't merge two random freaking Git hub repos because of us updating a format with how we send messages back."
+- source: session_01HG3re2BNmUZoq3QjVAjt4C · 2026-10-21T22:00:49.116129Z (cloud-3.md)
+- date: 2026-10-21
+- context: Claude's end of session summary
+- tags: frustration, process · standing: one-off
+
+### E1606 · A rule needs the structure that makes it hold
+- quote: "But you always do this stuff with like saying I'm adding a rule, it's gonna follow a rule, but then you don't put anything else in place, you don't write the proper structure to make it follow that rule so it doesn't follow the rule, then the rule ends up causing issues later on"
+- source: session_01HG3re2BNmUZoq3QjVAjt4C · 2026-10-22T00:08:02.207419Z (cloud-3.md)
+- date: 2026-10-22
+- context: adding the question box rule
+- tags: process, frustration · standing: yes
+
+## 
+
+### E1607 · Visual explainer, about 25 percent of the text, not a typed document
+- quote: "there should also be a simplified document for me making sure I have a full understanding of everything that's listed and how it all works together but done so in a way that's a lot less detailed and more consumable so I don't know if that's like something other than like a typed-up document maybe we do like a slideshow or some kind of HTML file where it shows things more visually or whatever. But the idea is here is to not have a ton of text at all like 25% of the text that you would include is something like the full transcript, right? But that just like outlined that connects all the dots for me."
+- source: session_014xSwEkdzECjMUx5BMDAv1h · 2026-09-28T17:39:21.715075Z (cloud-3.md)
+- date: 2026-09-28
+- context: what he wants after each strategy transcript (the long message beginning "Let's pause this temporarily again"; the "after you produce like the transcribed document" wording is in the same message)
+- tags: delivery, copy, style, process · standing: yes
+
+### E1608 · Documents at each stage, clean and not too much to read
+- quote: "research documentation, not just that you keep for yourself, but research documentation for me. ... one that outlies all the documentation regarding research that's really clean and organized, that doesn't feel like too much of a read, but gives me the most important points."
+- source: session_014xSwEkdzECjMUx5BMDAv1h · 2026-09-28T17:39:21.715075Z (cloud-3.md)
+- date: 2026-09-28
+- context: same message
+- tags: delivery, copy · standing: yes
+
+### E1609 · Communicate findings in chat too, because he is the designer
+- quote: "your research and everything should be communicated to me to some extent in chat as well. And I'm not seeing anything like that at all."
+- source: session_014xSwEkdzECjMUx5BMDAv1h · 2026-09-28T17:39:21.715075Z (cloud-3.md)
+- date: 2026-09-28
+- context: same message
+- tags: delivery, process, frustration · standing: yes
+
+### E1610 · Audit pass before any output
+- quote: "if you get to that, once you get to the end and you feel like you're about to be ready to send output, you always need to do an audit pass on that and make sure everything's there and do not send an output until you can pass your own test of that."
+- source: session_014xSwEkdzECjMUx5BMDAv1h · 2026-09-28T17:39:21.715075Z (cloud-3.md)
+- date: 2026-09-28
+- context: same message
+- tags: process · standing: yes
+
+### E1611 · Running list of his asks
+- quote: "Make sure to create a running list of everything I'm saying here so you make sure each issue is tackled."
+- source: session_014xSwEkdzECjMUx5BMDAv1h · 2026-09-28T17:39:21.715075Z (cloud-3.md)
+- date: 2026-09-28
+- context: same message
+- tags: process · standing: yes
+
+### E1612 · Self-check yes, review rounds for him no
+- quote: "I don't want you to get rid of any self-check thing. I am trying to build something in here, like to make sure that you test what you're giving me before you give it to me, to make sure that it meets the proper criteria type of thing. And for you to, if it doesn't meet the proper, you know, output, then you have to go back and fix it until it does, kind of thing, and you can't send your output until it, you know, it does a good job, essentially, of doing the task successfully."
+- source: session_014xSwEkdzECjMUx5BMDAv1h · 2026-09-28T04:47:43.931830Z (cloud-3.md)
+- date: 2026-09-28
+- context: reacting to a process review that proposed cutting review rounds
+- tags: process · standing: yes
+
+### E1613 · Where is the research document
+- quote: "Right, but then Michael, I still don't have a research document from you like I just asked for"
+- source: session_014xSwEkdzECjMUx5BMDAv1h · 2026-09-28T17:49:14.884924Z (cloud-3.md)
+- date: 2026-09-28
+- context: a reply that did not include the research document
+- tags: frustration, delivery · standing: one-off
+
+### E1614 · Explainer delivered as written text instead of visual
+- quote: "Did I not did I not ask for you not just a written document like this for something that was more easily easily visual to take in in terms of learning about the feature"
+- source: session_014xSwEkdzECjMUx5BMDAv1h · 2026-09-28T18:16:08.015206Z (cloud-3.md)
+- date: 2026-09-28
+- context: the feature explainer arrived as a typed document
+- tags: frustration, delivery, style · standing: yes
+
+### E1615 · One stage per session
+- quote: "the flows will be in the next section. i am doing all four steps in separate sessions to keep it clean."
+- source: session_014xSwEkdzECjMUx5BMDAv1h · 2026-09-28T04:50:29.041505Z (cloud-3.md)
+- date: 2026-09-28
+- context: process of new work, four stops
+- tags: process · standing: yes
+
+## 
+
+### E1616 · Show me the screens here, not links to open one by one
+- quote: "Please don't send me a bunch of links to the design system so I have to go look each of them independently. It's not efficient. I need to show me them here"
+- source: session_019HToFAiP4McWTP35URkiFJ · 2026-09-25T00:00:19.707003Z (cloud-3.md)
+- date: 2026-09-25
+- context: layout damage audit of the MVP screens
+- tags: delivery, review-board, frustration · standing: yes
+
+### E1617 · Show me before changing
+- quote: "if these things got messed up and they don't match the original like the matching like designs, that doesn't make sense. So yeah, they of course need to be updated But I need you to like show me them before you do it"
+- source: session_019HToFAiP4McWTP35URkiFJ · 2026-09-24T23:50:55.983163Z (cloud-3.md)
+- date: 2026-09-24
+- context: fixing drifted component instances
+- tags: review-board, process · standing: yes
+
+### E1618 · Audit every screen with screenshots
+- quote: "I need you to do a proper audit of all my screens, like you know, take screenshots, probably maybe. Well, I don't know if you need to, but basically, I'm realizing that a lot of the components, even on the finished designs, are like messed up, or not even components, but some of the design elements have been like moved. Like, it's like their auto layouts have been modified by AI somehow, and it's collapsed things and made it look crazy."
+- source: session_019HToFAiP4McWTP35URkiFJ · 2026-09-24T23:07:44.933725Z (cloud-3.md)
+- date: 2026-09-24
+- context: first ask for the layout audit
+- tags: review-board, process · standing: one-off
+
+### E1619 · Needs a prompt to paste into another chat
+- quote: "it is allowed if you cant access yu are having issues in this session alone so i need a prompt for another chat."
+- source: session_019HToFAiP4McWTP35URkiFJ · 2026-09-25T01:45:17.127487Z (cloud-3.md)
+- date: 2026-09-25
+- context: Claude said it could not reach Figma
+- tags: delivery, process · standing: one-off
+
+### E1620 · Said it would check, he did not understand
+- quote: "what? you'll check? what?"
+- source: session_019HToFAiP4McWTP35URkiFJ · 2026-09-25T03:17:53.948885Z (cloud-3.md)
+- date: 2026-09-25
+- context: Claude set a later check on its own
+- tags: frustration, process · standing: yes
+
+### E1621 · Lost in a long session
+- quote: "What are we doing here again? I got lost now because do I need to have I done this? Have I copied and pasted this prompt yet? Do you know"
+- source: session_019HToFAiP4McWTP35URkiFJ · 2026-09-25T16:17:10.829467Z (cloud-3.md)
+- date: 2026-09-25
+- context: returning to the session after a break
+- tags: frustration, navigation · standing: yes
+
+## 
+
+### E1622 · Do not hide important notes on the grounds that he need not act next turn
+- quote: "The only problem with what you said for the rule I will hold is I'm worried that that could create a pattern for like losing information that's important. For instance, if you feel like something doesn't need to be done by me in the next turn, but it's really important, Sedell Right, to call out that that information would end up getting lost"
+- source: session_01FPbyfXuHjQ7wqP7Zge3fkU · 2026-09-18T17:57:37.017393Z (cloud-3.md)
+- date: 2026-09-18
+- context: discussing whether to trim end-of-message notes
+- tags: process, copy · standing: one-off
+
+### E1623 · No filler caveat at the end of every message
+- quote: "I want to make sure you're not just like saying things at the end that really aren't that important. ... it kept coming back to me and like always for some reason felt like they needed to give some negative at the end or a caveat or like, oh, look out just in case. And sometimes, like, it would search for things, right, to fulfill that."
+- source: session_01FPbyfXuHjQ7wqP7Zge3fkU · 2026-09-18T17:53:22.582307Z (cloud-3.md)
+- date: 2026-09-18
+- context: checking whether the assistant invents closing caveats
+- tags: copy, process · standing: yes
+
+### E1624 · Simple and organised for a busy reader, bullets
+- quote: "I know him and I know how he like understands information and needs things like simplified. But I think it's really important to get this message across to him. So I need this like super simplified and like organized in a way that's like really clear, maybe with bullet points or whatever else."
+- source: session_01FPbyfXuHjQ7wqP7Zge3fkU · 2026-09-18T17:29:31.152219Z (cloud-3.md)
+- date: 2026-09-18
+- context: writing a message for his boss, Michael
+- tags: copy, process · standing: yes
+
+### E1625 · Explanations were unclear
+- quote: "I'm still confused about the way you're like explaining how all this works so it's hard for me to have an understanding of like how this makes sense"
+- source: session_01FPbyfXuHjQ7wqP7Zge3fkU · 2026-09-18T17:18:50.849112Z (cloud-3.md)
+- date: 2026-09-18
+- context: chip touch target explanation
+- tags: copy, frustration · standing: yes
+
+### E1626 · Notifications that a session resumed
+- quote: "for some reason I keep getting notification that this is like resumed, but like I'm really pretty much done here now as long as everything is solved. So I don't know why it's doing that"
+- source: session_01FPbyfXuHjQ7wqP7Zge3fkU · 2026-09-18T18:58:20.401250Z (cloud-3.md)
+- date: 2026-09-18
+- context: scheduled PR check-in kept waking the session
+- tags: frustration, process · standing: yes
+
+### E1627 · Tell sub-sessions to use the Figma tools
+- quote: "Shouldn't you have just told it to use the Figma tools though? Like in your message? Isn't that like your issue that, like, you didn't do that properly"
+- source: session_01FPbyfXuHjQ7wqP7Zge3fkU · 2026-09-18T19:41:41.621890Z (cloud-3.md)
+- date: 2026-09-18
+- context: a spawned session missed the Figma skill
+- tags: process, frustration · standing: one-off
+
+
+### E1628 · Draggable ends on the trim strip, three options on a canvas
+- quote: "on the trim square thing there should be something on each end that shows you can pull and manipulate it. have a chat design 3 options for me to choose from and present them on a canvas."
+- source: session_01NtNprsV8pmvJW6HQx8KF4F · 2026-10-31T03:41:33.130797Z (cloud-3.md)
+- date: 2026-10-31
+- context: quoted inside the spawn brief (event is Claude's prompt; the sentence is his words)
+- tags: decision-board, interaction, delivery · standing: yes
+
+### E1629 · Asked for specific variants, got a different one
+- quote: "i asked for a black fill and graay outlines version and a dark gray fill with no outlines version.... not a green outline version"
+- source: session_01NtNprsV8pmvJW6HQx8KF4F · 2026-10-31T05:34:16.247508Z (cloud-3.md)
+- date: 2026-10-31
+- context: reviewing the three trim handle options
+- tags: frustration, style, decision-board · standing: yes
+
+### E1630 · Outline weight
+- quote: "outline is too thick and too light"
+- source: session_01NtNprsV8pmvJW6HQx8KF4F · 2026-10-31T05:37:08.116552Z (cloud-3.md)
+- date: 2026-10-31
+- context: trim handle options
+- tags: style · standing: one-off
+
+### E1631 · UX appropriateness question instead of a pick
+- quote: "ok nvm just do the green but question is the chevron ux appropriate or should it really be the lined version? that one des seem familair"
+- source: session_01NtNprsV8pmvJW6HQx8KF4F · 2026-10-31T05:38:49.841908Z (cloud-3.md)
+- date: 2026-10-31
+- context: trim handle options
+- tags: decision-board, interaction · standing: one-off
+
+
+### E1632 · Session too expensive, how to stop returning here
+- quote: "Okay, this is like a crazy session. It says 751k tokens, so I don't want to keep talking in here, it's too expensive. So you're saying we're not done here, or what is our best methodology to go forward so we don't keep Needing to come back to this chat like can we create a new one or are we actually done here But I don't understand what we're re-synthing about at this point, so I don't know what to do"
+- source: session_01NtNprsC6u3fJpbqoSeHoBh · 2026-11-13T01:01:17.901154Z (cloud-3.md)
+- date: 2026-11-13
+- context: long design system build
+- tags: frustration, process · standing: yes
+
+### E1633 · Merge only when up to date
+- quote: "Yeah, just if you're gonna merge anything you really need to make sure everything's up to date. Like you can't be merging anything that's not updated because more might have been updated since here"
+- source: session_01NtNprsC6u3fJpbqoSeHoBh · 2026-11-13T01:08:01.639227Z (cloud-3.md)
+- date: 2026-11-13
+- context: merging branches of the design system artifact
+- tags: process · standing: one-off
+
+### E1634 · Lost, asks what was done
+- quote: "what did we do here again"
+- source: session_01NtNprsC6u3fJpbqoSeHoBh · 2026-11-13T03:58:44.732732Z (cloud-3.md)
+- date: 2026-11-13
+- context: returning to the session
+- tags: frustration, navigation · standing: yes
+
+### E1635 · Hand over to a new session, finish fast
+- quote: "ok can u just have a new session pick up where we left off. i want to get this finished asap."
+- source: session_01NtNprsC6u3fJpbqoSeHoBh · 2026-11-13T04:11:35.648445Z (cloud-3.md)
+- date: 2026-11-13
+- context: same session
+- tags: process · standing: one-off
+
+
+### E1636 · Prefers current page loading style, wants the sticky header blend tried
+- quote: "I thought I was gonna want to do more of this than I think I am, but I don't know that I want to yet. Because all the ones I'm actually looking at, I think that I actually prefer what I currently have for like the loading page style or the page loading style so far. you wouldn't know because it's in my other claw, but I can you just try like see how the header text here kind of like sticks, and then I don't know what kind of like blending mode it uses or if that's something we could like mimic similar results to in dark mode or not."
+- source: session_01NtNprrVhY3SbxTZmboUBVr · 2026-11-16T18:12:46.659631Z (cloud-3.md)
+- date: 2026-11-16
+- context: reviewing Refero references in the style lab
+- tags: style, interaction · standing: one-off
+
+### E1637 · Change colour and zoom the canvas
+- quote: "Why can't I change the color of the text? Also, I should be able to zoom in and out on the actual canvas where the screen is because I can't really get into see the detail that I want to see"
+- source: session_01CSAQfaYZG7A1sFqBfSiTJS · 2026-09-30T22:47:00.969541Z (cloud-4.md)
+- date: 2026-09-30
+- context: Text effect playground built for him from a reference site; he wanted live colour control and a zoomable canvas
+- tags: editor | interaction · standing: yes
+
+### E1638 · Canvas left, controls right, adjustable sidebar
+- quote: "Can you do this so the canvas is on the left and the controls are on the right, so I don't have to scroll down and like make it so the sidebar, which would be like a right sidebar for the like interfaces, you know, sliders or whatever else you use Make sure it's like adjustable"
+- source: session_01CSAQfaYZG7A1sFqBfSiTJS · 2026-09-30T22:40:00.266506Z (cloud-4.md)
+- date: 2026-09-30
+- context: Same text effect tool: controls were below the canvas and he had to scroll
+- tags: shell | editor | responsive · standing: yes
+
+### E1639 · Show the whole section, not a fragment
+- quote: "Can you like show me the whole hero section for these? Like, I can't really tell without seeing everything"
+- source: session_01CSAQfaYZG7A1sFqBfSiTJS · 2026-09-30T19:57:06.707916Z (cloud-4.md)
+- date: 2026-09-30
+- context: Text effect options shown cropped; he wanted each shown inside the full hero
+- tags: review-board · standing: yes
+
+### E1640 · Put the pick in a canvas to play with
+- quote: "Can you put the second to last one in like a canvas so I can play with the colors a little bit?"
+- source: session_01CSAQfaYZG7A1sFqBfSiTJS · 2026-09-30T19:58:44.654740Z (cloud-4.md)
+- date: 2026-09-30
+- context: Picked effect option; he wanted to tweak colours himself instead of describing changes
+- tags: editor | decision-board · standing: yes
+
+### E1641 · Looked in the wrong place for his build
+- quote: "Are you not looking in the right places? Because I literally, on my other Claude account, pulled the build from the GitHub files and included everything"
+- source: session_01CSAQfaYZG7A1sFqBfSiTJS · 2026-09-30T19:44:48.105893Z (cloud-4.md)
+- date: 2026-09-30
+- context: Session could not find the brochure build he had pulled from GitHub on his other account
+- tags: frustration | delivery · standing: one-off
+
+### E1642 · Wants to see it, not hear it
+- quote: "can you show me what like the header hero section text would look like with something like this? ... I just want to see what it would look like"
+- source: session_01CSAQfaYZG7A1sFqBfSiTJS · 2026-09-30T19:32:55Z (cloud-4.md)
+- date: 2026-09-30
+- context: Asked for the brochure hero headline rendered with the pixel line text effect
+- tags: review-board | process · standing: yes
+
+### E1643 · Recreate the tool exactly, drop dead controls, running list
+- quote: "I'm looking for you to recreate that tool exactly, so I've gone through and I've moved all the tools around so you can see they work and etc. If any of the tools don't seem to change anything, then you don't need to add those because they won't be relevant to what we're doing."
+- source: session_018ycdxU6iRq39X7rzdYW6QR · 2026-09-26T20:48:43.911493Z (cloud-4.md)
+- date: 2026-09-26
+- context: Grid split effect tool recreated from his screen recording of the Effect app
+- tags: editor | process · standing: yes
+
+### E1644 · Running list and measurable acceptance criteria
+- quote: "I need you to create a running list of, as you go along, create a running list of everything so you don't lose anything as you go. Find a good way to measure the effectiveness of each slider or the powerfulness of each slider and how that impacts the result. Success criteria is for you to run your tool against the recording and find a near, if not perfect, match."
+- source: session_018ycdxU6iRq39X7rzdYW6QR · 2026-09-26T20:48:43.911493Z (cloud-4.md)
+- date: 2026-09-26
+- context: Same brief: he wants a ledger and a check against the recording before the tool counts as done
+- tags: process | editor · standing: yes
+
+### E1645 · Add a toggle for the centre marker
+- quote: "You should also add the additional feature to turn off the little like plus circled, etc., etc. That thing that you can change that is in the middle of each circle."
+- source: session_018ycdxU6iRq39X7rzdYW6QR · 2026-09-26T20:48:43.911493Z (cloud-4.md)
+- date: 2026-09-26
+- context: Grid split tool: extra control he wanted beyond the original
+- tags: editor · standing: one-off
+
+### E1646 · Section groups as drop-downs
+- quote: "Like the categories, what I mean is like irregularity merged or sorry irregularity tile transforms, grid guides, high tiles, and background. I like the way they have this. You see, just keep scrolling. You could just make it a little more efficient potentially by making that a drop-down"
+- source: session_018ycdxU6iRq39X7rzdYW6QR · 2026-09-26T21:20:01.397375Z (cloud-4.md)
+- date: 2026-09-26
+- context: Grid split tool control panel: how the sliders are grouped
+- tags: editor | shell · standing: yes
+
+### E1647 · Replace the image and back and forward buttons
+- quote: "You can use this image as the default, but you should give the ability to replace it within the tool. So, like, because it's like an upload thing where I upload different images or whatever how that would work best, but you should be able to change it as well. Also, you should have there should be back buttons here as well. Like back and forward, you know."
+- source: session_018ycdxU6iRq39X7rzdYW6QR · 2026-09-26T21:20:01.397375Z (cloud-4.md)
+- date: 2026-09-26
+- context: Grid split tool answers to Claude's clarifying questions
+- tags: editor | interaction · standing: yes
+
+### E1648 · Slider checks: extremes and along the way
+- quote: "So you would see something which tests like, you know, for instance, making sure that the sliders work properly and adjust properly for so that they change as much as they do in the originals. At each extreme side, like left and right or whatever, if that makes sense, like and then make sure that along the way that all the same like spots are kind of captured"
+- source: session_018ycdxU6iRq39X7rzdYW6QR · 2026-09-26T21:20:01.397375Z (cloud-4.md)
+- date: 2026-09-26
+- context: Grid split tool: how he wants the tool tested
+- tags: process | editor · standing: yes
+
+### E1649 · Stop asking questions the brief already answered
+- quote: "I said like the tool, didn't I? Final pixel person comparison isn't possible here. That's not the point. It's that the tool works properly."
+- source: session_018ycdxU6iRq39X7rzdYW6QR · 2026-09-26T21:20:01.397375Z (cloud-4.md)
+- date: 2026-09-26
+- context: Grid split tool: Claude asked about things his brief had answered
+- tags: frustration | process · standing: yes
+
+### E1650 · Audit your own process when you ask a settled question
+- quote: "I gave you a way to decide what we included and didn't. So I'm not sure why you're asking that. You should probably audit your process or figure out what you're doing incorrectly that you would ask that question."
+- source: session_018ycdxU6iRq39X7rzdYW6QR · 2026-09-26T21:20:01.397375Z (cloud-4.md)
+- date: 2026-09-26
+- context: Grid split tool clarifying questions
+- tags: frustration | process · standing: yes
+
+### E1651 · Give me a way to open it quickly
+- quote: "are you going to get me away to try it out Like, give me some, but don't just like tell me where it is. You need to, like, provide me a way to open it quickly"
+- source: session_018ycdxU6iRq39X7rzdYW6QR · 2026-09-26T22:23:13.936947Z (cloud-4.md)
+- date: 2026-09-26
+- context: Grid split tool was built but he had no link to open it
+- tags: delivery | frustration · standing: yes
+
+### E1652 · Did not meet the acceptance criteria, re-audit the source
+- quote: "This is a good start, but it definitely did not meet the acceptance criteria. There's a lot of things quite different. The options don't even work the same. I think you need to re-audit the entire video I sent you and compare and contrast it to what you have for instance - why do the blocks become non square? ONE EXAMPLE"
+- source: session_018ycdxU6iRq39X7rzdYW6QR · 2026-09-26T23:04:36.816108Z (cloud-4.md)
+- date: 2026-09-26
+- context: Grid split tool first build compared with the recording
+- tags: frustration | process | editor · standing: yes
+
+### E1653 · Controls must act on every segment
+- quote: "there's like tile transforms UV stretch, but it only moves the one side. Like, I feel like it should move both segments of the merge. Like, same thing for if I were to do like tile variations or tile rotations or whatever, there's a big segment of things that don't change"
+- source: session_018ycdxU6iRq39X7rzdYW6QR · 2026-09-27T00:40:16.891911Z (cloud-4.md)
+- date: 2026-09-27
+- context: Grid split tool round 2: merged blocks ignored the transform controls
+- tags: editor | frustration · standing: one-off
+
+### E1654 · Strip guides and strokes he does not need
+- quote: "Can you just get rid of grid stroke entirely? Like, I don't want there to be, like, guides or strokes. I don't like need those"
+- source: session_018ycdxU6iRq39X7rzdYW6QR · 2026-09-27T00:40:16.891911Z (cloud-4.md)
+- date: 2026-09-27
+- context: Grid split tool round 2
+- tags: editor · standing: one-off
+
+### E1655 · Slider changes the marker shape
+- quote: "anytime you move the slider, it changed to a different shape, and you can see that in the video"
+- source: session_018ycdxU6iRq39X7rzdYW6QR · 2026-09-27T00:40:16.891911Z (cloud-4.md)
+- date: 2026-09-27
+- context: Grid split tool: centre marker control behaviour copied from the original
+- tags: editor | interaction · standing: one-off
+
+### E1656 · Unverified control questioned
+- quote: "I don't think that the other one had a grid aspect where it like changed the aspect ratio on the squares, did it? I must have missed that"
+- source: session_018ycdxU6iRq39X7rzdYW6QR · 2026-09-27T00:34:17Z (cloud-4.md)
+- date: 2026-09-27
+- context: Grid split tool: a control he did not recognise from the original
+- tags: editor · standing: one-off
+
+### E1657 · Make the tool replicable and saved somewhere safe
+- quote: "how do we make that a tool that I can replicate that's like safe somewhere? Because I'll want to make modifications for certain things."
+- source: session_018ycdxU6iRq39X7rzdYW6QR · 2026-09-28T23:21:18.436195Z (cloud-4.md)
+- date: 2026-09-28
+- context: After the grid split tool worked, he asked where it lives so he can reuse and modify it
+- tags: delivery | editor · standing: yes
+
+### E1658 · A place in the tool to drop his own image
+- quote: "can we like somehow create it so I can put the Monday logo in the center spot? ... where you create a spot in there where you can put an image"
+- source: session_018ycdxU6iRq39X7rzdYW6QR · 2026-09-28T23:21:18.436195Z (cloud-4.md)
+- date: 2026-09-28
+- context: Grid split tool branch for the hero: a slot for his own logo
+- tags: editor · standing: one-off
+
+### E1659 · Could not attach the logo, the page must accept it
+- quote: "its not letting me attach the svg properly for soem reason for the logo. its in the design system for mondai in the branding page tho."
+- source: session_018ycdxU6iRq39X7rzdYW6QR · 2026-09-28T23:22:00.021050Z (cloud-4.md)
+- date: 2026-09-28
+- context: Grid split hero: file attach failing in claude.ai
+- tags: frustration | delivery · standing: one-off
+
+### E1660 · Hover reveals the logo, with a glitch
+- quote: "it won't, you won't see the M until you hover over it, and then maybe the blocks start moving, and that's when, like, the M logo on Monday is revealed. But maybe there's some kind of like glitch effect where that glitches in."
+- source: session_018ycdxU6iRq39X7rzdYW6QR · 2026-09-28T23:54:08.235663Z (cloud-4.md)
+- date: 2026-09-28
+- context: Hero mock-up built on the grid split tool
+- tags: interaction | style · standing: one-off
+
+### E1661 · Dial back filled squares
+- quote: "can u decrease the amount of filled squares"
+- source: session_018ycdxU6iRq39X7rzdYW6QR · 2026-09-29T01:00:44.519125Z (cloud-4.md)
+- date: 2026-09-29
+- context: Hero mock-up tuned by eye on the live page (asked twice, interrupted once)
+- tags: editor | interaction · standing: one-off
+
+### E1662 · Dial back pluses
+- quote: "maybe remove some of the pluses too"
+- source: session_018ycdxU6iRq39X7rzdYW6QR · 2026-09-29T01:02:49Z (cloud-4.md)
+- date: 2026-09-29
+- context: Hero mock-up tuning, judged on the live page
+- tags: editor · standing: one-off
+
+### E1663 · Zip for a new chat to take over
+- quote: "can you make a zip for a new convo to take over with this and have them start by fginding the best animation skills maybe awwesome or emil kowalskis"
+- source: session_018ycdxU6iRq39X7rzdYW6QR · 2026-09-29T01:11:47Z (cloud-4.md)
+- date: 2026-09-29
+- context: End of the grid split session: handoff as a file bundle
+- tags: delivery | process · standing: yes
+
+### E1664 · Stop scheduling check-ins
+- quote: "oh stop schedulign check ins i thought i got rid of those"
+- source: session_018ycdxU6iRq39X7rzdYW6QR · 2026-09-27T19:12:36Z (cloud-4.md)
+- date: 2026-09-27
+- context: Session kept firing hourly PR check-ins nobody asked for
+- tags: frustration | process · standing: yes
+
+### E1665 · Wrong image on all four options
+- quote: "You used the wrong image for all of these. You didn't even follow what I said in terms of what image to use. You were supposed to use masked image, not whatever you used."
+- source: session_01TXYKRR4cSiMkpDcc6sRowZ · 2026-09-14T02:41:23.803694Z (cloud-4.md)
+- date: 2026-09-14
+- context: Hero exploration blocks built in Figma with the wrong source image (he sent the same complaint three times)
+- tags: frustration | process · standing: yes
+
+### E1666 · Touch only what was asked
+- quote: "You're only touching what I specifically asked you to touch. Nothing else should change at all."
+- source: session_01TXYKRR4cSiMkpDcc6sRowZ · 2026-09-14T02:17:10.897066Z (cloud-4.md)
+- date: 2026-09-14
+- context: Hero exploration mask-image rebuild in Figma
+- tags: process · standing: yes
+
+### E1667 · Use unlazy always in the conversation
+- quote: "Use unlazy always in uh, this conversation."
+- source: session_01TXYKRR4cSiMkpDcc6sRowZ · 2026-09-14T02:17:10.897066Z (cloud-4.md)
+- date: 2026-09-14
+- context: Hero exploration rebuild
+- tags: process · standing: yes
+
+### E1668 · Grill me before building
+- quote: "Go ahead and grill me and uh, find out if you have any questions and a clarification and make sure to use the unlazy skill for this task as well."
+- source: session_01TXYKRR4cSiMkpDcc6sRowZ · 2026-09-14T02:06:46Z (cloud-4.md)
+- date: 2026-09-14
+- context: Opening brief for the hero mask-image task
+- tags: process · standing: yes
+
+### E1669 · Annotated step list on the left of a flow
+- quote: "we created like on the left side an annotated list of like what happened at each stage of the flow and all that."
+- source: session_01SzvWRBFshSfz7Vekob7bxF · 2026-09-24T17:48:55Z (cloud-4.md)
+- date: 2026-09-24
+- context: He was trying to find the user flow chart tool and format he liked: flow chart with an annotated list on the left
+- tags: review-board | navigation | shell · standing: yes
+
+### E1670 · Yes obviously, do not ask to ask
+- quote: "Yes, obviously, I don't know why you're even asking this. I feel like you're asking questions to ask questions. This is an obvious yes"
+- source: session_01NtNprsFPqvqXpSpqpiCWnC · 2026-11-08T22:50:35.790968Z (cloud-4.md)
+- date: 2026-11-08
+- context: Portfolio site build, Claude asked a question with an obvious answer
+- tags: frustration | process · standing: yes
+
+### E1671 · A fix reported as done that was not done
+- quote: "Link colors still do this. Why? That's because you didn't fix it, so why are you telling me that?"
+- source: session_01NtNprsFPqvqXpSpqpiCWnC · 2026-11-08T22:45:49.558335Z (cloud-4.md)
+- date: 2026-11-08
+- context: Portfolio site component sheet review
+- tags: frustration · standing: one-off
+
+### E1672 · Tablet and mobile column grids from the desktop grid
+- quote: "looking at our desktop grid, what the best options would be for our tablet and mobile column grids"
+- source: session_01NtNprrht1dkXbpZeWyyttF · 2026-11-10T18:12:02.025731Z (cloud-4.md)
+- date: 2026-11-10
+- context: Product responsive grid question
+- tags: responsive | product · standing: one-off
+
+### E1673 · A simple visual overview, not dense
+- quote: "I need to make sure I fully understand the concept, and I feel like there's easier ways of doing it than the documentation. So, like, for me to pick up the concept and make sure I'm understanding things correctly. So, I need something where I can like visualize things, maybe some kind of good presentation or something. ... Like, don't make it like overly dense, but just include the most important information, you know, just don't write an essay or anything like that"
+- source: session_01Y5qexiTn68NwPwLHnSqvrn · 2026-10-20T22:43:01.790501Z (cloud-4.md)
+- date: 2026-10-20
+- context: Mentor events primer for a research session (became an artifact)
+- tags: style | copy | delivery · standing: yes
+
+### E1674 · Where am I supposed to be looking
+- quote: "I don't get where I'm supposed to be looking for these"
+- source: session_01NtNprp4hKbyFppwVUfiF4y · 2026-11-14T19:30:41Z (cloud-4.md)
+- date: 2026-11-14
+- context: Action Hub tour frames in Figma: no pointer to where the work lives
+- tags: navigation | delivery | frustration · standing: yes
+
+### E1675 · Where is it
+- quote: "where is it"
+- source: session_01NtNprp4hKbyFppwVUfiF4y · 2026-11-15T00:11:55.403857Z (cloud-4.md)
+- date: 2026-11-15
+- context: Asked after being told something was done; no way to find it
+- tags: delivery | navigation · standing: yes
+
+### E1676 · It was not built
+- quote: "No, I mean, it wasn't built"
+- source: session_01NtNprp4hKbyFppwVUfiF4y · 2026-11-15T00:14:28.596709Z (cloud-4.md)
+- date: 2026-11-15
+- context: Action Hub tour: claimed build was not in Figma
+- tags: frustration | delivery · standing: one-off
+
+### E1677 · Wants to see how it behaves across viewports, in a table
+- quote: "Can you, like, make a table or something and tell me how it works? ... figure out its behavior and what it cuffs up, what it doesn't, how that adapts. This is obviously really important. I don't know why I'm repeating this, but like with the menus and like the different viewport sizes, obviously, like we talk about all this, but I feel like I'm not getting any answers"
+- source: session_01NtNprqGEdagU94y9FfN5EN · 2026-11-16T01:24:29.961512Z (cloud-4.md)
+- date: 2026-11-16
+- context: Mondai chat handoff: menu and viewport behaviour he had asked about before
+- tags: responsive | product | review-board | frustration · standing: yes
+
+### E1678 · Jargon: what are faults
+- quote: "So you keep saying things like faults and stuff, like every message almost now when we're working on stuff, there's like all these faults undone. What does that mean? That's like errors, like issues"
+- source: session_01NtNprqGEdagU94y9FfN5EN · 2026-11-16T01:21:33Z (cloud-4.md)
+- date: 2026-11-16
+- context: Claude reporting check-tool language in chat
+- tags: copy | frustration · standing: yes
+
+### E1679 · Why mention a number he cannot place
+- quote: "I'm confused. Why this 425 is a lot? Are you talking about the pages I already designed, like the actual pages? You're saying in those, the ones I designed before?"
+- source: session_01NtNprqGEdagU94y9FfN5EN · 2026-11-16T01:22:22.643616Z (cloud-4.md)
+- date: 2026-11-16
+- context: Chat message quoting an internal count with no explanation
+- tags: copy | frustration · standing: yes
+
+### E1680 · Allow once button greyed out
+- quote: "usually like if I just scroll down to the end, the allow once button becomes visible for me to click, and this time I'm scrolling to the end, and it's still grayed out, and I cannot click it"
+- source: session_01NtNprqGEdagU94y9FfN5EN · 2026-11-15T21:11:50.165748Z (cloud-4.md)
+- date: 2026-11-15
+- context: Permission prompt in claude.ai that he could not accept
+- tags: interaction | frustration | delivery · standing: one-off
+
+### E1681 · Separate section, not on top of things
+- quote: "i see there's a label reserved for the action hub onboarding tour ... [it] shouldn't probably not go on this page ... if you can set off a side chat to like fix that and figure that out and like actually put it on the action hub page not on top of things but like in its own separate section"
+- source: session_01NtNprqGEdagU94y9FfN5EN · 2026-11-15T20:43:26.552340Z (cloud-4.md)
+- date: 2026-11-15
+- context: Quoted by a seed prompt: Action Hub tour tag sat on the chat developer handoff page
+- tags: shell | product · standing: one-off
+
+### E1682 · Tell me what these designs are in the interface
+- quote: "you're not like telling me in this interface like what these designs are"
+- source: session_01NtNprswKgaiEK8gx9SHaGA · 2026-10-30T21:29:11Z (cloud-4.md)
+- date: 2026-10-30
+- context: Quoted by a seed prompt: option deck lacked a plain line saying what each screen is
+- tags: copy | review-board · standing: yes
+
+### E1683 · A flow must have an end
+- quote: "if you click trim on B, it doesn't make sense because then what happens? You just see it sets that at the bottom of there, like stuck on the screen, doesn't take you nowhere else, or nothing else happens. That seems like an odd end to a flow."
+- source: session_01NtNprswKgaiEK8gx9SHaGA · 2026-10-30T22:49:48.015385Z (cloud-4.md)
+- date: 2026-10-30
+- context: Decision deck note on record-end options; note text relayed through an artifact comment
+- tags: review-board | decision-board · standing: yes
+
+### E1684 · Compare at least three patterns
+- quote: "Did you only look at one example, or did you look at a couple different patterns? At least three would be the bare minimum, because you need to compare them. And then like beyond that, figure out what's best for our product, you know?"
+- source: session_01NtNprswKgaiEK8gx9SHaGA · 2026-10-30T22:49:48.015385Z (cloud-4.md)
+- date: 2026-10-30
+- context: Decision deck note on the Studio research behind the options
+- tags: process | decision-board · standing: yes
+
+### E1685 · Reference what we already drew
+- quote: "I know we've been doing the two column thing a lot, but this either can go underneath or we do something on the right. I guess you would want to reference any other visuals that we've done related to calls"
+- source: session_01NtNprswKgaiEK8gx9SHaGA · 2026-10-30T22:49:48.015385Z (cloud-4.md)
+- date: 2026-10-30
+- context: Decision deck note on M6.1 option set
+- tags: review-board | decision-board | product · standing: yes
+
+### E1686 · Deck pick plus free-text note shape
+- quote: "Round 5 decided. REC-end: A · Review first: trim under the video, then Retake or Save (Clipchamp, Loom) (note: So, I'd say this is definitely improved."
+- source: session_01NtNprswKgaiEK8gx9SHaGA · 2026-10-30T22:49:48.015385Z (cloud-4.md)
+- date: 2026-10-30
+- context: Shows the board mechanism: one pick per screen with a free-text note, answered through an artifact comment
+- tags: decision-board | delivery · standing: yes
+
+### E1687 · Show visuals and motion
+- quote: "Can you show me visuals, examples of these, and if they have like animations and stuff? Make sure I see all of that...."
+- source: session_012S73prdnQN5eu8h3NV1snk · 2026-09-26T17:20:05.496427Z (cloud-5.md)
+- date: 2026-09-26
+- context: Session map dashboard options
+- tags: review-board, delivery · standing: yes
+
+### E1688 · He does not code, pick the format
+- quote: "...I don't know if you want to build those HTMLs or like with any Java. Like, I don't know how to do any of that, but don't tell me whatever, like give it to me whatever way you think is the best"
+- source: session_012S73prdnQN5eu8h3NV1snk · 2026-09-26T17:20:05.496427Z (cloud-5.md)
+- date: 2026-09-26
+- context: Session map dashboard options
+- tags: delivery, process · standing: yes
+
+### E1689 · Reference search links for inspiration
+- quote: "...You could potentially give me search options for like Pinterest or something that could be used as inspiration..."
+- source: session_012S73prdnQN5eu8h3NV1snk · 2026-09-26T18:06:49.836798Z (cloud-5.md)
+- date: 2026-09-26
+- context: Session map visual direction
+- tags: delivery, style · standing: one-off
+
+### E1690 · No circle packing layout
+- quote: "...I don't like circle packing...."
+- source: session_012S73prdnQN5eu8h3NV1snk · 2026-09-26T21:51:16.931373Z (cloud-5.md)
+- date: 2026-09-26
+- context: Session map layout
+- tags: style · standing: one-off
+
+### E1691 · Zoom into a group to move into it
+- quote: "...maybe somehow you could like zoom into that section, right? And that's how you would move into the area...."
+- source: session_012S73prdnQN5eu8h3NV1snk · 2026-09-26T21:51:16.931373Z (cloud-5.md)
+- date: 2026-09-26
+- context: Session map navigation
+- tags: navigation, interaction · standing: one-off
+
+### E1692 · Polish bar: not retro by accident
+- quote: "the style is very poor in what you did for the planets and stuff its like a 1991 versions of planets on a computer lol...."
+- source: session_012S73prdnQN5eu8h3NV1snk · 2026-09-27T19:03:38.462357Z (cloud-5.md)
+- date: 2026-09-27
+- context: Session map planets
+- tags: style, frustration · standing: yes
+
+### E1693 · Too much pixel treatment, planets too small
+- quote: "...also all the pixel everything is too much and get rid of the stars in the background for now. for some reason the planets in the actual interface are TINY...."
+- source: session_012S73prdnQN5eu8h3NV1snk · 2026-09-27T19:03:38.462357Z (cloud-5.md)
+- date: 2026-09-27
+- context: Session map interface
+- tags: style, frustration · standing: one-off
+
+### E1694 · Not too literal
+- quote: "...i dont think we need to make them look perfectly set in a circle around a sun in this way its too literal size wise..."
+- source: session_012S73prdnQN5eu8h3NV1snk · 2026-09-27T19:03:38.462357Z (cloud-5.md)
+- date: 2026-09-27
+- context: Session map layout
+- tags: style · standing: one-off
+
+### E1695 · He steers with reference screenshots
+- quote: "sorry one more note - the other three screenshots are more close to the style i want for the planets tho"
+- source: session_012S73prdnQN5eu8h3NV1snk · 2026-09-27T19:03:53.830629Z (cloud-5.md)
+- date: 2026-09-27
+- context: Session map planets
+- tags: style · standing: yes
+
+### E1696 · Elements shrink with the viewport, nothing overlaps
+- quote: "...also i think the responsiveness is weird things keep overlapping including text and planets. the planets should shrink somewhat as the viewport does so there is room for stuff...."
+- source: session_012S73prdnQN5eu8h3NV1snk · 2026-09-27T19:15:48.794396Z (cloud-5.md)
+- date: 2026-09-27
+- context: Session map interface
+- tags: responsive · standing: yes
+
+### E1697 · Smaller text
+- quote: "...also take each text style down 2 px"
+- source: session_012S73prdnQN5eu8h3NV1snk · 2026-09-27T19:15:48.794396Z (cloud-5.md)
+- date: 2026-09-27
+- context: Session map interface
+- tags: style · standing: one-off
+
+### E1698 · Edges stay smooth at small sizes
+- quote: "when small the circles arent rounded the edges are too sharp...."
+- source: session_012S73prdnQN5eu8h3NV1snk · 2026-09-27T19:15:48.794396Z (cloud-5.md)
+- date: 2026-09-27
+- context: Session map planets
+- tags: style · standing: one-off
+
+### E1699 · Click opens the thing itself
+- quote: "...when I click on a planet it shouldn't do that because it should take me to that conversation or that session..."
+- source: session_012S73prdnQN5eu8h3NV1snk · 2026-09-27T21:57:52.887007Z (cloud-5.md)
+- date: 2026-09-27
+- context: Session map interaction
+- tags: interaction · standing: yes
+
+### E1700 · Status shown by something better than colored rings
+- quote: "...the colored circles around the planets are a really boring way to show what's what...."
+- source: session_012S73prdnQN5eu8h3NV1snk · 2026-09-27T21:57:52.887007Z (cloud-5.md)
+- date: 2026-09-27
+- context: Session map status
+- tags: style, review-board · standing: one-off
+
+### E1701 · Visual picker with small previews
+- quote: "for change planet it should pop up a menu with the different planet options. each option as a small version of the planet in a square with rounded corner radiuses...."
+- source: session_012S73prdnQN5eu8h3NV1snk · 2026-09-27T23:25:41.247414Z (cloud-5.md)
+- date: 2026-09-27
+- context: Session map change planet control
+- tags: editor, interaction · standing: yes
+
+### E1702 · See what subagents are doing
+- quote: "...there shuld be a way for me to see what subagents are doing..."
+- source: session_012S73prdnQN5eu8h3NV1snk · 2026-09-27T23:25:41.247414Z (cloud-5.md)
+- date: 2026-09-27
+- context: Session map detail
+- tags: review-board, navigation · standing: one-off
+
+### E1703 · Visual quality bar for generated art
+- quote: "...I don't like the the weird planets that you came up with that they don't look good at all...."
+- source: session_012S73prdnQN5eu8h3NV1snk · 2026-09-27T23:37:21.516337Z (cloud-5.md)
+- date: 2026-09-27
+- context: Session map planets
+- tags: style, frustration · standing: yes
+
+### E1704 · Soft edges, small details
+- quote: "...the softer edges on the smaller one looked really cool. The detail in the moon..."
+- source: session_012S73prdnQN5eu8h3NV1snk · 2026-09-27T23:37:21.516337Z (cloud-5.md)
+- date: 2026-09-27
+- context: Session map planet references
+- tags: style · standing: one-off
+
+### E1705 · Use the reference he gave
+- quote: "...I actually gave you a specific reference, and then you told me you referenced somebody else, so I don't know why you did that...."
+- source: session_012S73prdnQN5eu8h3NV1snk · 2026-09-28T00:07:08.526790Z (cloud-5.md)
+- date: 2026-09-28
+- context: Session map status icons
+- tags: frustration, process · standing: yes
+
+### E1706 · Judge art in the real layout, not in a sample sheet
+- quote: "...when I'm looking at like the actual map, honestly, these planets look a lot better, look cool. But when I'm looking at like the examples with the emote bubbles, those wouldn't look kind of whack..."
+- source: session_012S73prdnQN5eu8h3NV1snk · 2026-09-28T00:07:08.526790Z (cloud-5.md)
+- date: 2026-09-28
+- context: Session map status examples
+- tags: review-board, style · standing: yes
+
+### E1707 · Show the tool with live data
+- quote: "...I'd like to see what this tool would look like if I was actively using it now so can you set that up for me"
+- source: session_012S73prdnQN5eu8h3NV1snk · 2026-09-28T00:20:31.691828Z (cloud-5.md)
+- date: 2026-09-28
+- context: Session map dashboard
+- tags: delivery, review-board · standing: yes
+
+### E1708 · Open the live version, not the sample version
+- quote: "i was looking for the active one not the one with the examples"
+- source: session_012S73prdnQN5eu8h3NV1snk · 2026-09-28T04:56:43.155062Z (cloud-5.md)
+- date: 2026-09-28
+- context: Session map dashboard link
+- tags: delivery, frustration · standing: yes
+
+### E1709 · Page did not load
+- quote: "did not load"
+- source: session_012S73prdnQN5eu8h3NV1snk · 2026-09-30T01:46:16.221205Z (cloud-5.md)
+- date: 2026-09-30
+- context: Session map dashboard
+- tags: frustration, delivery · standing: one-off
+
+### E1710 · Still failing
+- quote: "same thing"
+- source: session_012S73prdnQN5eu8h3NV1snk · 2026-09-30T02:05:08.867316Z (cloud-5.md)
+- date: 2026-09-30
+- context: Session map dashboard
+- tags: frustration, delivery · standing: one-off
+
+### E1711 · Respect his own groups in the view
+- quote: "...there's like just basically a different planet or set of planets for each conversation, and there's no like grouping outside of that. And I've literally created groups and everything in here..."
+- source: session_012S73prdnQN5eu8h3NV1snk · 2026-09-30T18:13:31.527025Z (cloud-5.md)
+- date: 2026-09-30
+- context: Session map with real sessions
+- tags: review-board, navigation · standing: yes
+
+### E1712 · Links open in the browser
+- quote: "Why are the links still opening in the Claude Desktop app? I thought we resolved this"
+- source: session_012S73prdnQN5eu8h3NV1snk · 2026-09-30T18:39:28.542619Z (cloud-5.md)
+- date: 2026-09-30
+- context: Session map links
+- tags: delivery, frustration · standing: yes
+
+### E1713 · Click opens in the same tab
+- quote: "I shouldn't have to paste it into my browser. That's crazy. I shouldn't have to do an open tab. It should open the separate chat, like in the same tab"
+- source: session_012S73prdnQN5eu8h3NV1snk · 2026-09-30T18:54:59.777181Z (cloud-5.md)
+- date: 2026-09-30
+- context: Session map click to session
+- tags: delivery, interaction · standing: yes
+
+### E1714 · Gave up on a broken tool
+- quote: "...I'm assuming this just isn't possible because you keep trying to fix it and it doesn't work. So I guess I won't be able to use this dashboard"
+- source: session_012S73prdnQN5eu8h3NV1snk · 2026-09-30T19:01:09.491014Z (cloud-5.md)
+- date: 2026-09-30
+- context: Live session map artifact
+- tags: frustration · standing: one-off
+
+### E1715 · Live view must refresh itself
+- quote: "...it's not updating ... you're not updating the like live session sky, and you keep like it doesn't, it's not refreshing or anything when like information changes..."
+- source: session_012S73prdnQN5eu8h3NV1snk · 2026-09-30T19:08:09.769401Z (cloud-5.md)
+- date: 2026-09-30
+- context: Live session map artifact
+- tags: delivery, interaction, frustration · standing: yes
+
+### E1716 · Define developer terms
+- quote: "What is PR? I see you keep mentioning that, but I don't know what you're referencing"
+- source: session_014YeaR5n3MgpwmXFD25fXES · 2026-09-17T17:23:27.752466Z (cloud-5.md)
+- date: 2026-09-17
+- context: Portfolio build thread
+- tags: copy, frustration · standing: yes
+
+### E1717 · Git words confuse him
+- quote: "What branch are you talking about? Or sorry, yeah, like you said two branches. What's going on in the two branches? I thought we were still working off of one branch"
+- source: session_014YeaR5n3MgpwmXFD25fXES · 2026-09-17T17:26:44.063087Z (cloud-5.md)
+- date: 2026-09-17
+- context: Portfolio build thread
+- tags: copy, frustration · standing: yes
+
+### E1718 · Finish the current piece first
+- quote: "i think we should just work on completign what we are working on first before we get concerned about that. Let's work on finishing the hero first."
+- source: session_014YeaR5n3MgpwmXFD25fXES · 2026-09-17T18:12:05.459393Z (cloud-5.md)
+- date: 2026-09-17
+- context: Portfolio homepage hero
+- tags: process · standing: one-off
+
+### E1719 · Left and right panels squeeze, no big redesign at 1440
+- quote: "...We really can't squeeze these any through the chair. It seems like odd to me because I feel like this is not this unusual of a concept to have where you have like the right and left panel and then things need to be squeezed a bit...."
+- source: session_01NtNprpu3RjMCaEGgtCnf6c · 2026-11-15T21:16:09.600336Z (cloud-5.md)
+- date: 2026-11-15
+- context: Mondai chat panel plus left nav plus Action Hub rail at 1440
+- tags: responsive, shell, product · standing: yes
+
+### E1720 · Chat panel resizable
+- quote: "...can't we also make the like the chat on the right should be resizable to some extent too? Probably, right?..."
+- source: session_01NtNprpu3RjMCaEGgtCnf6c · 2026-11-15T21:16:09.600336Z (cloud-5.md)
+- date: 2026-11-15
+- context: Mondai chat side panel width rules
+- tags: shell, responsive, interaction, product · standing: yes
+
+### E1721 · Narrow the panel at a breakpoint before moving content
+- quote: "...can't you also make the chat like a little bit more narrow at a certain point? Wouldn't that help?..."
+- source: session_01NtNprpu3RjMCaEGgtCnf6c · 2026-11-15T21:16:09.600336Z (cloud-5.md)
+- date: 2026-11-15
+- context: Mondai chat panel at narrow widths
+- tags: responsive, shell, product · standing: yes
+
+### E1722 · Show me, do not describe
+- quote: "...Like, can you show me? I'm even, I'm having a hard time even understanding what you're saying here...."
+- source: session_01NtNprpu3RjMCaEGgtCnf6c · 2026-11-15T21:16:09.600336Z (cloud-5.md)
+- date: 2026-11-15
+- context: Reviewing responsive options for the chat panel
+- tags: review-board, delivery, frustration · standing: yes
+
+### E1723 · Content that jumps into a header menu when a panel opens feels odd
+- quote: "...I think it's confusing though because it's not like the chat is always open by default so it's like if the user opens the chat then it goes up there. Is that the idea? Is that weird?..."
+- source: session_01NtNprpu3RjMCaEGgtCnf6c · 2026-11-15T21:16:09.600336Z (cloud-5.md)
+- date: 2026-11-15
+- context: Proposal to move the right rail into a header menu when the chat opens
+- tags: interaction, shell, product · standing: one-off
+
+### E1724 · Sort out his mix-ups between similar names
+- quote: "...so please do a good job of sorting through my mistakes here because I had to do clarify at the end..."
+- source: session_01NtNprpu3RjMCaEGgtCnf6c · 2026-11-15T21:16:09.600336Z (cloud-5.md)
+- date: 2026-11-15
+- context: Action hub versus action items confusion in the thread
+- tags: copy, process · standing: one-off
+
+### E1725 · Show each alternative, not a question about them
+- quote: "I'm not sure what you mean with your question. Can you show me like each alternative"
+- source: session_01NtNprpu3RjMCaEGgtCnf6c · 2026-11-16T01:20:56.263064Z (cloud-5.md)
+- date: 2026-11-16
+- context: Chat panel responsive thread, after an agent question
+- tags: review-board, decision-board, delivery · standing: yes
+
+### E1726 · Square grid: fit horizontally first
+- quote: "...even though it's more important for them to fit horizontally than vertically, if it's difficult to mathematically figure out what would fit in there, each way"
+- source: session_01NtNprpvFMiJzn3zpnmibzY · 2026-11-08T20:37:34.772247Z (cloud-5.md)
+- date: 2026-11-08
+- context: Simple square grid filling 1440 x 900
+- tags: responsive, style · standing: one-off
+
+### E1727 · Test a visual in context of the real page
+- quote: "...I just want to kind of like test and see what this would look like as a visual for if it was like the background for the entire portfolio homepage"
+- source: session_01NtNprsBg6pFPtYLmTJ1kKY · 2026-11-09T20:25:36.370445Z (cloud-5.md)
+- date: 2026-11-09
+- context: 21st.dev mesh gradient shader as portfolio homepage background
+- tags: editor, delivery · standing: one-off
+
+### E1728 · Live editor on the current site
+- quote: "You did this on a really old version of the website, not the one we currently have. We also should give me a way to like edit the shader in there too. So I can play with the colors, the dynamics of it, play and see alive"
+- source: session_01NtNprsBg6pFPtYLmTJ1kKY · 2026-11-09T20:34:43.078852Z (cloud-5.md)
+- date: 2026-11-09
+- context: Portfolio homepage shader background
+- tags: editor, delivery, interaction · standing: yes
+
+### E1729 · Learning page: infographic and short formats
+- quote: "...if you see something that can consume in a short period of time and understand like a you know like something like an infographic or something like that bring some things in like that or cool videos or anything like interesting to help...."
+- source: session_01NtNprsGAiaqCn1n36VDDLK · 2026-10-29T04:29:39.374276Z (cloud-5.md)
+- date: 2026-10-29
+- context: Learning the Mondai docs quickly
+- tags: style, copy, delivery · standing: yes
+
+### E1730 · No academic memorization style
+- quote: "...I don't have the best memory so just like standard memorization shit that's like academic and setting. Like it took me forever to study when I was in college...."
+- source: session_01NtNprsGAiaqCn1n36VDDLK · 2026-10-29T04:29:39.374276Z (cloud-5.md)
+- date: 2026-10-29
+- context: Learning the docs
+- tags: style, frustration · standing: one-off
+
+### E1731 · Summary document beside the learning material
+- quote: "...maybe like the summary document information is like on the right..."
+- source: session_01NtNprsGAiaqCn1n36VDDLK · 2026-10-29T04:29:39.374276Z (cloud-5.md)
+- date: 2026-10-29
+- context: Learning the docs
+- tags: shell, review-board · standing: one-off
+
+### E1732 · Fast to use, not a program
+- quote: "...I feel like I need something that I can learn quick, like, not something I don't have a week, you know?..."
+- source: session_01NtNprsGAiaqCn1n36VDDLK · 2026-10-29T05:22:32.976404Z (cloud-5.md)
+- date: 2026-10-29
+- context: Learning the docs
+- tags: process, frustration · standing: yes
+
+### E1733 · Built the wrong thing, ignored his stated time
+- quote: "...why are you making a weekly scheduling study thing like this? I just told you I don't have time for that to do this every day...."
+- source: session_01NtNprsGAiaqCn1n36VDDLK · 2026-10-29T18:20:23.657373Z (cloud-5.md)
+- date: 2026-10-29
+- context: Learning the docs tool
+- tags: frustration, process · standing: one-off
+
+### E1734 · Read what he said before building
+- quote: "...you need to read what I've been saying to you and understand and actually fix this properly..."
+- source: session_01NtNprsGAiaqCn1n36VDDLK · 2026-10-29T18:20:23.657373Z (cloud-5.md)
+- date: 2026-10-29
+- context: Learning the docs tool
+- tags: process, frustration · standing: yes
+
+### E1735 · He reads in chunks and talks answers aloud
+- quote: "I'm gonna start recording my voice as I look over this in case I have questions. I might do it bit by bit just because there's a lot here..."
+- source: session_01NtNprsGAiaqCn1n36VDDLK · 2026-10-29T18:37:52.782513Z (cloud-5.md)
+- date: 2026-10-29
+- context: Reading the research doc and answering questions
+- tags: process, review-board · standing: yes
+
+### E1736 · Compressed shorthand is unreadable
+- quote: "...The learner's own words AI structure trims combines never. I don't understand that either, what we're talking about...."
+- source: session_01NtNprsGAiaqCn1n36VDDLK · 2026-10-29T18:37:52.782513Z (cloud-5.md)
+- date: 2026-10-29
+- context: Research findings text
+- tags: copy, frustration · standing: yes
+
+### E1737 · Avoid developer words with other meanings
+- quote: "...be careful with the way you're using the word repo in this context because when we talk about repo, usually we're talking about like you know like GitHub repo..."
+- source: session_01NtNprsGAiaqCn1n36VDDLK · 2026-10-29T19:09:10.268493Z (cloud-5.md)
+- date: 2026-10-29
+- context: Reading the studio research findings
+- tags: copy · standing: yes
+
+### E1738 · Plain names for product terms
+- quote: "...can we call it something other than like skill repo and tool repo like repository is kind of a weird word I would like to explore different language on that..."
+- source: session_01NtNprsGAiaqCn1n36VDDLK · 2026-10-29T19:09:10.268493Z (cloud-5.md)
+- date: 2026-10-29
+- context: Studio research findings
+- tags: copy, product · standing: one-off
+
+### E1739 · Numbers and terms need their meaning
+- quote: "...I also don't know what the 61 is a percent of. I don't know what a grade gap is...."
+- source: session_01NtNprsGAiaqCn1n36VDDLK · 2026-10-29T19:25:40.915758Z (cloud-5.md)
+- date: 2026-10-29
+- context: Research findings text
+- tags: copy · standing: yes
+
+### E1740 · Answer by question number with Yes, No or Not sure
+- quote: "...Studio research page, my answers Q1: Not sure Q4: Yes..."
+- source: session_01NtNprsGAiaqCn1n36VDDLK · 2026-10-29T19:25:40.915758Z (cloud-5.md)
+- date: 2026-10-29
+- context: Studio research questions page
+- tags: decision-board, review-board · standing: yes
+
+### E1741 · Findings with numbered questions he answers by voice: keep every round
+- quote: "...I just want to say that this is a great save this so we use this methodology every round. I make this part of our process because I think this is like fundamental...."
+- source: session_01NtNprsGAiaqCn1n36VDDLK · 2026-10-29T19:25:40.915758Z (cloud-5.md)
+- date: 2026-10-29
+- context: Studio research page and questions
+- tags: review-board, decision-board, process · standing: yes
+
+### E1742 · Explaining the feature before asking worked
+- quote: "...I feel like I really understand the feature pretty well now. This is really helpful...."
+- source: session_01NtNprsGAiaqCn1n36VDDLK · 2026-10-29T19:25:40.915758Z (cloud-5.md)
+- date: 2026-10-29
+- context: Studio research page
+- tags: review-board, process · standing: yes
+
+### E1743 · List what he has not answered yet
+- quote: "...Let me know if I didn't respond to anything because I thought I recorded some stuff in my voice and I accidentally didn't...."
+- source: session_01NtNprsGAiaqCn1n36VDDLK · 2026-10-29T19:45:39.535558Z (cloud-5.md)
+- date: 2026-10-29
+- context: Studio research questions
+- tags: review-board, process · standing: yes
+
+### E1744 · Do not ask him design questions inside a research pass
+- quote: "...I'm not going to answer Q5 because this is a design question and a UX question and a research question in that lane..."
+- source: session_01NtNprsGAiaqCn1n36VDDLK · 2026-10-29T19:45:39.535558Z (cloud-5.md)
+- date: 2026-10-29
+- context: Studio research questions
+- tags: process, decision-board · standing: yes
+
+### E1745 · Say which audience a sentence is about
+- quote: "...the language is getting confusing because to me it sounds like you're talking about the building process, then you're saying for learners...."
+- source: session_01NtNprsGAiaqCn1n36VDDLK · 2026-10-29T19:45:39.535558Z (cloud-5.md)
+- date: 2026-10-29
+- context: Studio research text
+- tags: copy · standing: one-off
+
+### E1746 · Leave weak items out, no leads
+- quote: "...I don't think we should have a finding in there or a lead in there at all. Like, if it's not good enough to be a finding, then it shouldn't be included..."
+- source: session_01NtNprsGAiaqCn1n36VDDLK · 2026-10-29T19:45:39.535558Z (cloud-5.md)
+- date: 2026-10-29
+- context: Research findings page
+- tags: review-board, process · standing: yes
+
+### E1747 · Update both places as we go
+- quote: "...I want to make sure that we're like always updating both, you know, as we go"
+- source: session_01NtNprtSRe1p6iB2dHQVcpA · 2026-11-14T00:35:26.372983Z (cloud-5.md)
+- date: 2026-11-14
+- context: Figma design system versus Claude Design
+- tags: process · standing: yes
+
+### E1748 · Design system and Claude Design stay in sync
+- quote: "...we just need to set it up so they're always updating both so then I not get left behind. That's all I'm saying"
+- source: session_01NtNprtSRe1p6iB2dHQVcpA · 2026-11-14T00:48:36.149418Z (cloud-5.md)
+- date: 2026-11-14
+- context: Keeping Claude Design in sync with the Figma design system
+- tags: process, delivery · standing: yes
+
+### E1749 · Step by step instruction for a settings change
+- quote: "Okay, can you instruct me how to do that in the settings"
+- source: session_01NtNprtSRe1p6iB2dHQVcpA · 2026-11-14T02:21:15.872485Z (cloud-5.md)
+- date: 2026-11-14
+- context: Setting the default design system in Claude Design
+- tags: delivery, copy · standing: one-off
+
+### E1750 · Liquid button without the hidden blue button
+- quote: "...I don't like that. There's like that blue button hidden behind the liquid one. so I would want it without that, but I like the effect of how it reacts...."
+- source: session_01TBhJZSRgdJGQESrRWdrgBR · 2026-10-17T19:56:34.992051Z (cloud-5.md)
+- date: 2026-10-17
+- context: Recreating a Framer liquid button for his portfolio
+- tags: style, interaction · standing: one-off
+
+### E1751 · Recreate paid components for free
+- quote: "...this costs like 10 bucks and I have zero dollars. So, I'm wondering how hard it would be to replicate something like this...."
+- source: session_01TBhJZSRgdJGQESrRWdrgBR · 2026-10-17T19:56:34.992051Z (cloud-5.md)
+- date: 2026-10-17
+- context: Liquid button for portfolio
+- tags: process · standing: one-off
+
+### E1752 · Send a link, not raw HTML
+- quote: "Can you give me a link to see what you just created? I don't know how to work. You just sent like this HTML...."
+- source: session_01TBhJZSRgdJGQESrRWdrgBR · 2026-10-17T20:27:29.211447Z (cloud-5.md)
+- date: 2026-10-17
+- context: Liquid button demo
+- tags: delivery · standing: yes
+
+### E1753 · Link instead of copy and paste
+- quote: "...I can't really copy and paste the way you did it for some reason with the UI interface. So, can you like send me a link or something?..."
+- source: session_01TBhJZSRgdJGQESrRWdrgBR · 2026-10-17T20:27:29.211447Z (cloud-5.md)
+- date: 2026-10-17
+- context: Liquid button demo
+- tags: delivery, frustration · standing: yes
+
+### E1754 · Reference media visible to other chats
+- quote: "can u make sure the original videos i sent here are visible in other chats i had another chat take over and its messing this up"
+- source: session_01TBhJZSRgdJGQESrRWdrgBR · 2026-11-09T01:23:00.178288Z (cloud-5.md)
+- date: 2026-11-09
+- context: Liquid button reference videos
+- tags: process, delivery · standing: one-off
+
+### E1755 · Permission prompt blocked him
+- quote: "...I can't click allow once it won't let me click it"
+- source: session_01TBhJZSRgdJGQESrRWdrgBR · 2026-11-09T01:29:40.805326Z (cloud-5.md)
+- date: 2026-11-09
+- context: Claude session approval prompt
+- tags: frustration, delivery · standing: one-off
+
+### E1756 · Remove unnecessary frames
+- quote: "...yeah, that seems like an unnecessary frame though, doesn't it? Yep, there's another unnecessary frame there. That's also unnecessary frames, two unnecessary frames..."
+- source: session_01WAgCDtY4nt6HDMQTLCyrzc · 2026-10-01T21:49:50.045514Z (cloud-5.md)
+- date: 2026-10-01
+- context: Journey Advisement screens in Figma
+- tags: shell, style, product · standing: yes
+
+### E1757 · Spacing too tight, repeated
+- quote: "...the spacing on these is all squished together Pretty sure I've added clarification on what's too close like multiple times..."
+- source: session_01WAgCDtY4nt6HDMQTLCyrzc · 2026-10-01T21:49:50.045514Z (cloud-5.md)
+- date: 2026-10-01
+- context: Journey Advisement screens in Figma
+- tags: style, frustration, product · standing: yes
+
+### E1758 · Responsiveness not built
+- quote: "...I don't even want to know what this looks like in terms of responsiveness since you didn't do any of the stuff right..."
+- source: session_01WAgCDtY4nt6HDMQTLCyrzc · 2026-10-01T21:49:50.045514Z (cloud-5.md)
+- date: 2026-10-01
+- context: Journey Advisement screens in Figma
+- tags: responsive, frustration, product · standing: yes
+
+### E1759 · Components only where reused, align to grid
+- quote: "...Not every single thing needs to be a component. Obviously, make sure everything's aligned to the grid and that you use the proper spacing rules...."
+- source: session_01WAgCDtY4nt6HDMQTLCyrzc · 2026-10-01T21:49:50.045514Z (cloud-5.md)
+- date: 2026-10-01
+- context: Journey Advisement screens in Figma
+- tags: style, process, product · standing: yes
+
+### E1760 · Auto layout and hug used correctly
+- quote: "...I didn't know that I was gonna have to teach my AI how to use it auto lay up or how to hug something...."
+- source: session_01WAgCDtY4nt6HDMQTLCyrzc · 2026-10-01T21:49:50.045514Z (cloud-5.md)
+- date: 2026-10-01
+- context: Journey Advisement screens in Figma
+- tags: frustration, product · standing: yes
+
+### E1761 · Law of proximity
+- quote: "...I keep going back to the same UX principle. It's literally the proximity rules, the law of proximity, and you're not applying that properly ever...."
+- source: session_01WAgCDtY4nt6HDMQTLCyrzc · 2026-10-01T21:49:50.045514Z (cloud-5.md)
+- date: 2026-10-01
+- context: Journey Advisement screens in Figma
+- tags: style, frustration, product · standing: yes
+
+### E1762 · Treat every comment as an ask
+- quote: "...Even if it's not a direct ask, if it's me commenting on something, you need to make sure it's fixed so that is not the case again...."
+- source: session_01WAgCDtY4nt6HDMQTLCyrzc · 2026-10-01T21:49:50.045514Z (cloud-5.md)
+- date: 2026-10-01
+- context: Journey Advisement screens review round
+- tags: process · standing: yes
+
+### E1763 · He edits directly in Figma
+- quote: "...like I just went and edited a bunch more stuff too. So okay..."
+- source: session_01WAgCDtY4nt6HDMQTLCyrzc · 2026-10-01T21:49:50.045514Z (cloud-5.md)
+- date: 2026-10-01
+- context: Journey Advisement screens in Figma
+- tags: delivery · standing: yes
+
+### E1764 · Row height from text, not from icon
+- quote: "...if there's an icon in a row with like text next to it and then there's other instances of the same component where there's not going to be an icon that you always like manually set the fixed height to the height of the text that's inside there rather than hugging the whole container..."
+- source: session_01WAgCDtY4nt6HDMQTLCyrzc · 2026-10-01T21:49:50.045514Z (cloud-5.md)
+- date: 2026-10-01
+- context: Row component spacing
+- tags: style, product · standing: one-off
+
+### E1765 · Make a list of every note
+- quote: "...this time please actually make a list /unlazy"
+- source: session_01WAgCDtY4nt6HDMQTLCyrzc · 2026-10-01T22:54:25.107362Z (cloud-5.md)
+- date: 2026-10-01
+- context: Figma review round
+- tags: process · standing: yes
+
+### E1766 · Max line length about 72 characters
+- quote: "...I run max line length it's going to tell me it is 1 looks like 21 characters and that's too wide it should be like 72 ish..."
+- source: session_01WAgCDtY4nt6HDMQTLCyrzc · 2026-10-01T22:54:25.107362Z (cloud-5.md)
+- date: 2026-10-01
+- context: M5.2 screen text block
+- tags: style, product · standing: yes
+
+### E1767 · Check with screenshots
+- quote: "...I don't know if you are gonna have right now right now like taking screenshots or anything of your work but maybe that would be useful to you..."
+- source: session_01WAgCDtY4nt6HDMQTLCyrzc · 2026-10-01T22:54:25.107362Z (cloud-5.md)
+- date: 2026-10-01
+- context: Figma build review
+- tags: process · standing: yes
+
+### E1768 · Reuse the existing published components
+- quote: "...on the icons page there's a component called the user avatar ... you can literally go to that page and like grab those..."
+- source: session_01WAgCDtY4nt6HDMQTLCyrzc · 2026-10-01T22:54:25.107362Z (cloud-5.md)
+- date: 2026-10-01
+- context: Avatar slot component
+- tags: process, product · standing: yes
+
+### E1769 · Optical centering of small badges
+- quote: "...the numbers in these little green pin references do not look optically centered because of the way that the text frames are hugging the text..."
+- source: session_01WAgCDtY4nt6HDMQTLCyrzc · 2026-10-01T22:54:25.107362Z (cloud-5.md)
+- date: 2026-10-01
+- context: Green pin number badges
+- tags: style, product · standing: one-off
+
+### E1770 · Do not ask him decisions that belong elsewhere
+- quote: "You're asking something here for the decision for me that I cannot decide in this chat...."
+- source: session_01WAgCDtY4nt6HDMQTLCyrzc · 2026-10-01T23:50:12.542067Z (cloud-5.md)
+- date: 2026-10-01
+- context: Figma review round
+- tags: decision-board, frustration · standing: one-off
+
+### E1771 · Use screenshots, vary layouts
+- quote: "...I actually did some things here since you weren't using the screenshots, so it you were like defaulting to like one layout for everything, which has really messed things up..."
+- source: session_01WAgCDtY4nt6HDMQTLCyrzc · 2026-10-01T23:59:57.197593Z (cloud-5.md)
+- date: 2026-10-01
+- context: Figma review round
+- tags: process, frustration · standing: yes
+
+### E1772 · Write down open items
+- quote: "Can you just write these down so these are fixed when I do my next pass-through?..."
+- source: session_01WAgCDtY4nt6HDMQTLCyrzc · 2026-10-01T23:59:57.197593Z (cloud-5.md)
+- date: 2026-10-01
+- context: Figma review round
+- tags: process · standing: yes
+
+### E1773 · Hand over to a fresh chat
+- quote: "Start a new chat based on what you said to continue it somewhere else."
+- source: session_01XTFcEfMmFQSEz9e3mkhC8m · 2026-09-24T19:30:40.008049Z (cloud-5.md)
+- date: 2026-09-24
+- context: Design system comparisons
+- tags: process · standing: one-off
+
+### E1774 · Numbers without names
+- quote: "What are forty-five and forty-six?"
+- source: session_01XTFcEfMmFQSEz9e3mkhC8m · 2026-09-24T22:41:21.808410Z (cloud-5.md)
+- date: 2026-09-24
+- context: PR numbers in the reply
+- tags: copy, frustration · standing: yes
+
+### E1775 · Groups should stay grouped when moved
+- quote: "... if i select multiple options and try to group them it only works as a way to move the elements i group for that one turn and then they are separate again ..."
+- source: session_019dtJM3Jhh4juFe4boEPXig · 2026-09-12T18:37:52.887180Z (cloud-6.md)
+- date: 2026-09-12
+- context: Claude design canvas, hero section layouts
+- tags: interaction, editor, frustration · standing: yes
+
+### E1776 · Font weight options limited to regular and bold
+- quote: "... also for some reason right now i have the options for weights if i go into a fonts details but only regular and bold work for some reason ..."
+- source: session_019dtJM3Jhh4juFe4boEPXig · 2026-09-12T18:37:52.887180Z (cloud-6.md)
+- date: 2026-09-12
+- context: Claude design canvas, font details panel
+- tags: editor, frustration · standing: one-off
+
+### E1777 · Wants to request changes to the tool itself
+- quote: "... am i able to make modifications to the way the canvas tool works? like can i make requests? ..."
+- source: session_019dtJM3Jhh4juFe4boEPXig · 2026-09-12T18:37:52.887180Z (cloud-6.md)
+- date: 2026-09-12
+- context: Claude design canvas
+- tags: editor, process · standing: yes
+
+### E1778 · Cannot move things to reposition
+- quote: "another example. i cant even like move around the stuff i need to move around to reposition it properly"
+- source: session_019dtJM3Jhh4juFe4boEPXig · 2026-09-12T22:29:48.252524Z (cloud-6.md)
+- date: 2026-09-12
+- context: Claude design canvas
+- tags: interaction, frustration · standing: yes
+
+### E1779 · Groups that stick together when grabbed
+- quote: "... those crete an autolaoyut or organization element rather than making it so certain groups stick together when u grab them around ..."
+- source: session_019dtJM3Jhh4juFe4boEPXig · 2026-09-12T20:01:15.442058Z (cloud-6.md)
+- date: 2026-09-12
+- context: Claude design canvas, grouping discussion
+- tags: interaction, editor, frustration · standing: yes
+
+### E1780 · Define top improvements before building
+- quote: "... /unlazy ..."
+- source: session_019dtJM3Jhh4juFe4boEPXig · 2026-09-12T20:01:15.442058Z (cloud-6.md)
+- date: 2026-09-12
+- context: Claude design canvas
+- tags: process · standing: one-off
+
+### E1781 · Wants to craft his own optimal canvas system
+- quote: "I think the point though is like if I can make modifications to the system as I'm utilizing it, I should be able to like craft my own version of that system to utilize going forward in different sessions, right? Like improving that system for my own work methodologies to help make it quicker and stuff and to kind of create this optimal process for myself, this optimal system with the Canvas feature ..."
+- source: session_019dtJM3Jhh4juFe4boEPXig · 2026-09-12T19:12:42.421039Z (cloud-6.md)
+- date: 2026-09-12
+- context: Claude design canvas editor
+- tags: editor, process, delivery · standing: yes
+
+### E1782 · Fully responsive from the start
+- quote: "... make it like you know fully responsive ..."
+- source: session_01NtNprtEw5p3iE9c1EjnWQk · 2026-11-15T20:09:00.368549Z (cloud-6.md)
+- date: 2026-11-15
+- context: Portfolio hero and selected works playground
+- tags: responsive · standing: yes
+
+### E1783 · Wants a playground to try effects and animations
+- quote: "... I want to bring this in and then like play around, you know with some different repo stuff and different effects and animations to play around with just for fun ..."
+- source: session_01NtNprtEw5p3iE9c1EjnWQk · 2026-11-15T20:09:00.368549Z (cloud-6.md)
+- date: 2026-11-15
+- context: Portfolio hero section in Figma, brought into code
+- tags: editor, style · standing: yes
+
+### E1784 · Build so outside component libraries can be dropped in
+- quote: "... I'm going to bring in like 21st dev and stuff, so like I don't know if like Java, CSS, all that stuff, make sure you know it's built in a way to support that kind of stuff too ..."
+- source: session_01NtNprtEw5p3iE9c1EjnWQk · 2026-11-15T20:09:00.368549Z (cloud-6.md)
+- date: 2026-11-15
+- context: Portfolio playground
+- tags: editor, process · standing: yes
+
+### E1785 · Start with two sections only
+- quote: "... why don't you just do the hero section and the like selected work section for now ..."
+- source: session_01NtNprtEw5p3iE9c1EjnWQk · 2026-11-15T20:09:00.368549Z (cloud-6.md)
+- date: 2026-11-15
+- context: Portfolio playground
+- tags: process · standing: one-off
+
+### E1786 · Prefers his own grill-me skill over the stock one
+- quote: "... I don't want to use the Anthropoc one. I want to use the regular grill me because it's better ..."
+- source: session_01NtNprtEw5p3iE9c1EjnWQk · 2026-11-15T20:09:00.368549Z (cloud-6.md)
+- date: 2026-11-15
+- context: Portfolio playground
+- tags: process · standing: one-off
+
+### E1787 · Ask only when a question is needed
+- quote: "... don't ask questions, just ask questions because sometimes I'll use grill me that ends up happening, and it's pretty clear when questions are not needing to be asked, and you just feel like you need to ask ..."
+- source: session_01NtNprtEw5p3iE9c1EjnWQk · 2026-11-15T20:09:00.368549Z (cloud-6.md)
+- date: 2026-11-15
+- context: Portfolio playground
+- tags: process, frustration · standing: yes
+
+### E1788 · HTML documents over a canvas prototype
+- quote: "... the best just to have you create the HTML documents, probably, in this case, rather than try to do like a prototype in Canvas ..."
+- source: session_01NtNprtEw5p3iE9c1EjnWQk · 2026-11-15T20:50:04.646325Z (cloud-6.md)
+- date: 2026-11-15
+- context: Portfolio playground, deciding the vehicle
+- tags: delivery · standing: yes
+
+### E1789 · Wants to explore and play around in the tool
+- quote: "... I want to try out things in there, and I want to go through and find things and kind of explore different things and play around essentially"
+- source: session_01NtNprtEw5p3iE9c1EjnWQk · 2026-11-15T20:50:04.646325Z (cloud-6.md)
+- date: 2026-11-15
+- context: Portfolio playground
+- tags: editor · standing: yes
+
+### E1790 · Separate session for site-wide style and animation trials
+- quote: "I was also thinking about trying out some of the styles potentially for the whole website, like some of the styles that are on like referro  In terms of like full page animations and stuff, so that would be more for the full thing, not just like those two sections I had called out. So maybe can you have a separate session and start starting to work on that? And then when it you know it's ready and it prompts me, I can give it some style examples to try, but that would be like for keeping my style like in terms of the text and fonts and sizing and all that, but then like adapting it and utilizing some of those other websites for like harmony and everything, and like animations and overall vibe"
+- source: session_01NtNprtEw5p3iE9c1EjnWQk · 2026-11-15T20:50:52.341989Z (cloud-6.md)
+- date: 2026-11-15
+- context: Portfolio site, Refero style references
+- tags: process, style, delivery · standing: one-off
+
+### E1791 · Had to repeat where the file lives
+- quote: "I literally told you where it did, where it was. I already did that. Did you not understand that? I just told you it's, or maybe it wasn't clear enough. Sorry, it's in DustO1MVP on the CS page in the hero section. And it's called Hero Master"
+- source: session_01NtNprtEw5p3iE9c1EjnWQk · 2026-11-15T20:34:35.048900Z (cloud-6.md)
+- date: 2026-11-15
+- context: Portfolio hero master in Figma
+- tags: frustration, process · standing: yes
+
+### E1792 · Wants a fine tune dial on the hover weight
+- quote: "... Is it possible that the weight on the highlighted version with the white background can be like just like a micro? Is there a way to like match it up just like slightly bit closer"
+- source: session_01NtNprqYhLqhk8LzH7GXx2L · 2026-11-09T19:53:42.265519Z (cloud-6.md)
+- date: 2026-11-09
+- context: Portfolio hover highlight preview link
+- tags: editor, interaction · standing: yes
+
+### E1793 · Screenshots useful so Claude can see what he sees
+- quote: "... know you said no screenshots are needed but it kind of feels like it would be useful so you can see what I'm talking about ..."
+- source: session_01NtNprqYhLqhk8LzH7GXx2L · 2026-11-09T20:00:29.696239Z (cloud-6.md)
+- date: 2026-11-09
+- context: Portfolio hover preview
+- tags: process, review-board · standing: yes
+
+### E1794 · Wants alternatives when one approach is not working
+- quote: "... can you give me some alternatives for like the smaller links because I feel like it's not really working with the smaller links ..."
+- source: session_01NtNprqYhLqhk8LzH7GXx2L · 2026-11-09T20:00:29.696239Z (cloud-6.md)
+- date: 2026-11-09
+- context: Portfolio hover preview
+- tags: decision-board · standing: yes
+
+### E1795 · Wants versions he can test physically in the preview
+- quote: "... maybe show me a version that I can actually test physically what it would feel like if it did go to bold and one if it didn't go to bold ..."
+- source: session_01NtNprqYhLqhk8LzH7GXx2L · 2026-11-09T20:33:55.216226Z (cloud-6.md)
+- date: 2026-11-09
+- context: Portfolio hover preview
+- tags: interaction, editor, decision-board · standing: yes
+
+### E1796 · Preview link showed one version, not the two promised
+- quote: "Why are you saying both versions are available, but I can't even... There's only one version and the link you're sending me ..."
+- source: session_01NtNprqYhLqhk8LzH7GXx2L · 2026-11-09T20:36:50.486062Z (cloud-6.md)
+- date: 2026-11-09
+- context: Portfolio hover preview link
+- tags: delivery, frustration · standing: yes
+
+### E1797 · Asks for variants shown side by side to judge
+- quote: "... Can you just try to do instead of doing the fill, do it so it just has it just like gets bolder and can you show me what that would look like for those ones But I think for now the other links are fine. I don't know if I love the way the hello Chadwick one looks, but I think it's fine enough for the time being. I'm also curious what color you're using for the background. Can you use the same color as the text is originally for those ..."
+- source: session_01NtNprqYhLqhk8LzH7GXx2L · 2026-11-09T20:28:28.893949Z (cloud-6.md)
+- date: 2026-11-09
+- context: Portfolio hover preview
+- tags: decision-board · standing: yes
+
+### E1798 · Handoff prompt must state the specific job
+- quote: "Wait, why are you saying pick up the site build? I this prompt should specifically be to fix the text problems. Like, I have the build already built. It's just the elements we were working with with the hover and stuff Like all the issues we had"
+- source: session_01NtNprqYhLqhk8LzH7GXx2L · 2026-11-10T18:08:17.492856Z (cloud-6.md)
+- date: 2026-11-10
+- context: Handoff to the other Claude account
+- tags: delivery, frustration · standing: yes
+
+### E1799 · Handoff must hold everything the next chat needs
+- quote: "Argue that this contains all the information that other chat needs considering all the work we put into this and to making sure this is correct. Because even after the fact, it asked me a question about two different options"
+- source: session_01NtNprqYhLqhk8LzH7GXx2L · 2026-11-10T18:13:17.547508Z (cloud-6.md)
+- date: 2026-11-10
+- context: Handoff to the other Claude account
+- tags: delivery, process · standing: yes
+
+### E1800 · Decision shown as pending after he had already agreed
+- quote: "But I don't get any. Why is this decision pending when we already had something set? Like, didn't we already agree the most recent version was good"
+- source: session_01NtNprqYhLqhk8LzH7GXx2L · 2026-11-10T18:14:13.632244Z (cloud-6.md)
+- date: 2026-11-10
+- context: Handoff file for hover work
+- tags: frustration, decision-board · standing: yes
+
+### E1801 · Needs a handoff file to continue on his other account
+- quote: "... except when I try to save the information down and like open up my other Claude account, like so I can start working there because we're gonna hit our limit at some point soon here. I need to use this for Rita stuff now. some of the labels aren't quite right, so is there any information that you can update there or give me to give to them or like some kind of file that I'm gonna hand off so that they understand ..."
+- source: session_01NtNprqYhLqhk8LzH7GXx2L · 2026-11-10T18:01:26.966502Z (cloud-6.md)
+- date: 2026-11-10
+- context: Portfolio hover work, usage limit
+- tags: delivery, process · standing: yes
+
+### E1802 · Hover highlight: only colour changes, nothing moves
+- quote: "... look exactly the same except it has the highlight cover color... It should just change the font's color and add the white background without any movement ever occurring on any of the elements. ..."
+- source: session_01NtNprqYhLqhk8LzH7GXx2L · 2026-11-09T19:44:20.902076Z (cloud-6.md)
+- date: 2026-11-09
+- context: [Relayed: his words quoted inside a seed prompt written by Claude] Portfolio hover highlight
+- tags: interaction, style · standing: yes
+
+### E1803 · Expects this to be basic, standard craft
+- quote: "... I'm not the only person that has something that goes from dark to light like this with the text. It just seems like so basic elementary. ..."
+- source: session_01NtNprqYhLqhk8LzH7GXx2L · 2026-11-09T19:44:20.902076Z (cloud-6.md)
+- date: 2026-11-09
+- context: [Relayed: his words quoted inside a seed prompt written by Claude] Portfolio hover highlight
+- tags: style, frustration · standing: yes
+
+### E1804 · Plain words, lead with what was found
+- quote: "... Talk to him in plain words, no jargon. Lead with what you found, then what you changed on the preview and why, with sources."
+- source: session_01NtNprqYhLqhk8LzH7GXx2L · 2026-11-09T19:44:20.902076Z (cloud-6.md)
+- date: 2026-11-09
+- context: [Relayed: his words quoted inside a seed prompt written by Claude] Rules of his process, as relayed
+- tags: copy, process · standing: yes
+
+### E1805 · Comparison must trim to cap height and baseline and show descenders
+- quote: "... you're not capping the height of the text boxes like at the text you're like you're not capping into the baseline or like doing the standard vertical trim. So can you fix that? Also, can you just like do like one spot in here where I can like view all like what they all would look like at 120, you know, with rotation, so I can see specifically like y, you know, G thing, too ..."
+- source: session_01NtNprp9UZMRdMkayXtL9bf · 2026-11-11T18:10:28.323363Z (cloud-6.md)
+- date: 2026-11-11
+- context: Type tuning tool rebuilt rows
+- tags: review-board, editor · standing: yes
+
+### E1806 · Show the edge case in the example (tall letter under a descender)
+- quote: "... Can you put an example in there of that? That's like that was my main concern. ..."
+- source: session_01NtNprp9UZMRdMkayXtL9bf · 2026-11-11T17:57:37.688646Z (cloud-6.md)
+- date: 2026-11-11
+- context: Type tuning tool, header examples
+- tags: review-board · standing: yes
+
+### E1807 · Apply the experiment to the whole set to compare
+- quote: "Can you show me in here though? Like, if we did do that percentage thing with large header one, and like you did here, like you did the measurements for what everything should be, like what that would actually look like if we did that with the west of our headers, like header point five, header one, header two, header three, and header four ..."
+- source: session_01NtNprp9UZMRdMkayXtL9bf · 2026-11-11T18:03:53.251740Z (cloud-6.md)
+- date: 2026-11-11
+- context: Type tuning tool
+- tags: review-board, editor · standing: yes
+
+### E1808 · Tool built but he never saw it
+- quote: "... where's the tool I asked for? I never saw the tool"
+- source: session_01NtNprp9UZMRdMkayXtL9bf · 2026-11-11T17:38:34.812772Z (cloud-6.md)
+- date: 2026-11-11
+- context: Type tuning tool delivery
+- tags: delivery, frustration · standing: yes
+
+### E1809 · Closure check: anything left to do
+- quote: "Do we have anything else to do here? Also, ..."
+- source: session_01NtNprp9UZMRdMkayXtL9bf · 2026-11-11T17:38:34.812772Z (cloud-6.md)
+- date: 2026-11-11
+- context: Type tuning tool session
+- tags: process · standing: yes
+
+### E1810 · Closure check: what are we missing
+- quote: "... is there anything else we really need to do here? What are we missing before we go ahead and make sure all the updates are made and stuff? Is there anything else"
+- source: session_01NtNprp9UZMRdMkayXtL9bf · 2026-11-11T18:15:07.651468Z (cloud-6.md)
+- date: 2026-11-11
+- context: Type tuning tool session
+- tags: process · standing: yes
+
+### E1811 · Audit done but not applied to the real system
+- quote: "... Did we actually implement this? Or we just did the audit and did not do the implementation to the actual system?"
+- source: session_01NtNprp9UZMRdMkayXtL9bf · 2026-11-11T17:50:37.826878Z (cloud-6.md)
+- date: 2026-11-11
+- context: Type tuning decisions in Figma
+- tags: frustration, process · standing: yes
+
+### E1812 · Cost in tokens of a messy run
+- quote: "... Why did these not go cleanly? What can we do to do this without it costing a million tokens? This is ridiculous"
+- source: session_01NtNprp9UZMRdMkayXtL9bf · 2026-11-07T21:15:34.340946Z (cloud-6.md)
+- date: 2026-11-07
+- context: Type style swap in Figma
+- tags: frustration, process · standing: yes
+
+### E1813 · Unclear whether decisions saved in the tool reach Claude
+- quote: "Okay, so I've finished filling it out. Can you already see the info or didn't do I need to hit something?"
+- source: session_01NtNprp9UZMRdMkayXtL9bf · 2026-11-07T20:21:37.844868Z (cloud-6.md)
+- date: 2026-11-07
+- context: Type tuning tool hand back
+- tags: delivery, editor, frustration · standing: yes
+
+### E1814 · Top bar on one row: style picker plus weight, spacing, line height and size
+- quote: "... Top bar, one row: a dropdown that picks one text style (for example Header 1). On the same row: weight, letter spacing and line height (these two above all) and size. Numeric fields work like Figma ..."
+- source: session_01NtNprp9UZMRdMkayXtL9bf · 2026-11-07T19:28:51.069590Z (cloud-6.md)
+- date: 2026-11-07
+- context: [Relayed: his words quoted inside a seed prompt written by Claude] Type tuning tool brief
+- tags: shell, editor · standing: yes
+
+### E1815 · Numeric fields type or scrub like Figma, everywhere
+- quote: "... Numeric fields work like Figma's: type an exact value, or click and hold a chevron handle (or the field's edge or label) and drag left and right to scrub slowly and finely. This applies to every number in the tool. ..."
+- source: session_01NtNprp9UZMRdMkayXtL9bf · 2026-11-07T19:28:51.069590Z (cloud-6.md)
+- date: 2026-11-07
+- context: [Relayed: his words quoted inside a seed prompt written by Claude] Type tuning tool brief
+- tags: editor, interaction · standing: yes
+
+### E1816 · Options band showing the style in real interfaces
+- quote: "... A thin band under that row: Option 1, 2 and 3. Each is an example of the chosen style used in a real Mondai interface. ..."
+- source: session_01NtNprp9UZMRdMkayXtL9bf · 2026-11-07T19:28:51.069590Z (cloud-6.md)
+- date: 2026-11-07
+- context: [Relayed: his words quoted inside a seed prompt written by Claude] Type tuning tool brief
+- tags: review-board, navigation · standing: yes
+
+### E1817 · Before and after diptych with live update and zoom and pan canvases
+- quote: "... Below the band, a diptych: the left side shows how the style looks now and the right side updates live as he changes settings. Both sides are canvases with proper zoom and pan and plenty of room, so he can zoom in on details. They are not fully free canvases. ..."
+- source: session_01NtNprp9UZMRdMkayXtL9bf · 2026-11-07T19:28:51.069590Z (cloud-6.md)
+- date: 2026-11-07
+- context: [Relayed: his words quoted inside a seed prompt written by Claude] Type tuning tool brief
+- tags: review-board, editor, interaction · standing: yes
+
+### E1818 · Responsive, draggable panes in dark mode
+- quote: "... Layout: responsive, with panes he can drag to resize (heights included), in dark mode. Decisions and notes: a way to decide and to add notes per style. It saves on its own, automatically. Hand back: when he is done, a way to send the changes he made to this chat, so you can carry them out. The set: he also needs to compare the styles against each other as a set, not only one at a time. ... He asked you to recommend three design skills that would build a well made dark mode interface with full responsive behaviour for this tool. ... Real examples only ... read their copy and layout from Figma, never invent product copy. ... Saving and sending back: ... Prove saving survives a reload before you call it done. ... Verification: ... a real browser check (Playwright is installed) at phone and desktop width: scrubbing, zoom, resizing and autosave after a reload."
+- source: session_01NtNprp9UZMRdMkayXtL9bf · 2026-11-07T19:28:51.069590Z (cloud-6.md)
+- date: 2026-11-07
+- context: [Relayed: his words quoted inside a seed prompt written by Claude] Type tuning tool brief
+- tags: shell, responsive, style · standing: yes
+
+### E1819 · Per item decision and notes, autosaved
+- quote: "... Decisions and notes: a way to decide and to add notes per style. It saves on its own, automatically. ..."
+- source: session_01NtNprp9UZMRdMkayXtL9bf · 2026-11-07T19:28:51.069590Z (cloud-6.md)
+- date: 2026-11-07
+- context: [Relayed: his words quoted inside a seed prompt written by Claude] Type tuning tool brief
+- tags: decision-board, editor · standing: yes
+
+### E1820 · Hand back path from the tool to Claude
+- quote: "... Hand back: when he is done, a way to send the changes he made to this chat, so you can carry them out. ..."
+- source: session_01NtNprp9UZMRdMkayXtL9bf · 2026-11-07T19:28:51.069590Z (cloud-6.md)
+- date: 2026-11-07
+- context: [Relayed: his words quoted inside a seed prompt written by Claude] Type tuning tool brief
+- tags: delivery, editor · standing: yes
+
+### E1821 · Compare as a set as well as one at a time
+- quote: "... The set: he also needs to compare the styles against each other as a set, not only one at a time. ..."
+- source: session_01NtNprp9UZMRdMkayXtL9bf · 2026-11-07T19:28:51.069590Z (cloud-6.md)
+- date: 2026-11-07
+- context: [Relayed: his words quoted inside a seed prompt written by Claude] Type tuning tool brief
+- tags: review-board · standing: yes
+
+### E1822 · Real examples only, never invented copy
+- quote: "... Real examples only ... read their copy and layout from Figma, never invent product copy. ..."
+- source: session_01NtNprp9UZMRdMkayXtL9bf · 2026-11-07T19:28:51.069590Z (cloud-6.md)
+- date: 2026-11-07
+- context: [Relayed: his words quoted inside a seed prompt written by Claude] Type tuning tool brief
+- tags: copy, process · standing: yes
+
+### E1823 · Test saving, scrubbing, zoom and resize at phone and desktop width before showing
+- quote: "... Prove saving survives a reload before you call it done. ... Verification: ... a real browser check (Playwright is installed) at phone and desktop width: scrubbing, zoom, resizing and autosave after a reload."
+- source: session_01NtNprp9UZMRdMkayXtL9bf · 2026-11-07T19:28:51.069590Z (cloud-6.md)
+- date: 2026-11-07
+- context: [Relayed: his words quoted inside a seed prompt written by Claude] Type tuning tool brief
+- tags: process, responsive · standing: yes
+
+### E1824 · Canvas too gridded to move things around
+- quote: "is there any way you can simplify this canvas please so i can just move things around more and nit have to deal with all these grids i am having a problem moving anything around at all. can u just make them loose objects for the time being ..."
+- source: session_01NtNprr36dojS8yA6LWFscp · 2026-11-14T03:49:11.123932Z (cloud-6.md)
+- date: 2026-11-14
+- context: Mondai M1.1 brochure options canvas, round 6
+- tags: shell, interaction, frustration · standing: yes
+
+### E1825 · Wants the chosen option built in Figma instead
+- quote: "actually can u just build  roung 6 b in figma please"
+- source: session_01NtNprr36dojS8yA6LWFscp · 2026-11-14T03:49:39.094702Z (cloud-6.md)
+- date: 2026-11-14
+- context: Brochure round 6
+- tags: delivery · standing: yes
+
+### E1826 · Text trim and min and max width controls in the canvas
+- quote: "Is it possible to like modify the cap height for the text like for like a regular or like a baseline if that makes sense Or is there the option somewhere. And is it possible to do like a max min width type of thing"
+- source: session_01NtNprr36dojS8yA6LWFscp · 2026-11-14T02:20:36.083475Z (cloud-6.md)
+- date: 2026-11-14
+- context: Claude design canvas editor
+- tags: editor · standing: yes
+
+### E1827 · Asks for canvas editor features to be added
+- quote: "can u like add that to the canvas editor or anything?"
+- source: session_01NtNprr36dojS8yA6LWFscp · 2026-11-14T02:37:21.528898Z (cloud-6.md)
+- date: 2026-11-14
+- context: Claude design canvas editor
+- tags: editor · standing: yes
+
+### E1828 · Narrows to a pick and asks for two versions
+- quote: "Okay, so I like concept 4 the best, so let's like moving in that direction, moving in that direction. Let's shift like everything, like become mentor. Well, let's try this two-way show me two different versions ..."
+- source: session_01NtNprr36dojS8yA6LWFscp · 2026-11-14T01:12:55.461973Z (cloud-6.md)
+- date: 2026-11-14
+- context: Brochure round 5 to 6
+- tags: decision-board · standing: yes
+
+### E1829 · Do not label every section
+- quote: "... we don't need an eyebrow label for literally everything by the way ..."
+- source: session_01NtNprr36dojS8yA6LWFscp · 2026-11-14T01:12:55.461973Z (cloud-6.md)
+- date: 2026-11-14
+- context: Brochure page build
+- tags: copy, style · standing: yes
+
+### E1830 · Reference hunt for dark boxy layouts in a separate session
+- quote: "Can you have a new session go out then? Like, do you see the boxiness, like the dark mode boxiness style of some of these inspirations I just sent you? I want to find more references for layouts specifically that are like this. Is there any way you can do a search through like the styles underflation? Do a search through the styles on the website and see if they can find layouts or like assets that are something like that, like have that kind of shape. So, I'm really just trying to explore layouts"
+- source: session_01NtNprr36dojS8yA6LWFscp · 2026-11-14T19:20:15.962991Z (cloud-6.md)
+- date: 2026-11-14
+- context: Brochure references
+- tags: process, style · standing: one-off
+
+### E1831 · Wants a board of about 30 frame styles to react to
+- quote: "... Can you have a separate session go out and maybe make a canvas board of a bunch of different styles like this? Like, maybe, like, let's say like 30 different styles, like showing it just like this. If I had like small sections of the frames, but like getting them off of different styles on the website, on referro I used a few gradients like on the Monday layouts designs here and there to create this like more like dark sexy feel and I want to bring some more of that to the website too so I'm looking for just inspiration"
+- source: session_01NtNprr36dojS8yA6LWFscp · 2026-11-14T19:26:29.797006Z (cloud-6.md)
+- date: 2026-11-14
+- context: Brochure inspiration board
+- tags: review-board, style · standing: yes
+
+### E1832 · Artifact comment asks for corner pieces and M background as vectors (comment authorship no
+- quote: "... please make these corner pieces vector objects, same thing with background with M on it. ..."
+- source: session_01NtNprr36dojS8yA6LWFscp · 2026-11-14T03:39:17.042054Z (cloud-6.md)
+- date: 2026-11-14
+- context: Brochure round 6 B artifact
+- tags: style, interaction · standing: one-off
+
+### E1833 · Tablet should use the desktop navigation
+- quote: "Okay, but why do we have a different navigation for tablet? I don't understand. Shouldn't it just be the same as the desktop? I don't know why we would need an alternative and tablet. ..."
+- source: session_01RxyKeMG9w35aDMcKmeP8rK · 2026-10-01T20:26:42.734055Z (cloud-6.md)
+- date: 2026-10-01
+- context: Tablet grid and navigation research
+- tags: responsive, product · standing: yes
+
+### E1834 · Carry his edits to all the other options
+- quote: "Okay, I made some updates to that dock, the last dock he created. I changed the textiles to ten actually look at the journey for like the selected state, but I also like I changed the text, I changed the spacing, I changed a lot of different things. So you should like make sure all the other options are modified as well. Not that they all need to have a selected state, but you know that everything's updated so they match up"
+- source: session_01RxyKeMG9w35aDMcKmeP8rK · 2026-09-30T23:52:42.550314Z (cloud-6.md)
+- date: 2026-09-30
+- context: Mobile nav dock options
+- tags: review-board, process · standing: yes
+
+### E1835 · Icon and text colour differ because strokes are thicker
+- quote: "... they should be different colors because the icons are thicker"
+- source: session_01RxyKeMG9w35aDMcKmeP8rK · 2026-09-30T23:56:30.350495Z (cloud-6.md)
+- date: 2026-09-30
+- context: Mobile nav dock states
+- tags: style, product · standing: one-off
+
+### E1836 · A quick playground version in Figma to try the press and hover effect
+- quote: "... Create a version of that really quickly, not as a component or anything, but just like put it in the input fields page somewhere of my design system. So, because that's where I am right now, so I can play with it and show you how I want the hover effect to look"
+- source: session_01RxyKeMG9w35aDMcKmeP8rK · 2026-09-30T22:09:53.395594Z (cloud-6.md)
+- date: 2026-09-30
+- context: Mobile nav dock in the design system file
+- tags: editor, delivery · standing: yes
+
+### E1837 · Dock heights must include the home indicator space
+- quote: "Okay, so I'm playing with the menu right now. Did you ever do the research for me on the bottom docks and like the heights and stuff? So I know, like, because from my understanding, when I built them before, there's less space than I would anticipate. I also need to think about the little white bar, like all that space below, too, and that wasn't built into any of this, so I don't know if this spacing is proper right now, which makes it more difficult to figure this out as I'm like playing with it. So I think we need to solve that first and then have you rebuild that in Figma"
+- source: session_01RxyKeMG9w35aDMcKmeP8rK · 2026-09-30T22:23:34.128261Z (cloud-6.md)
+- date: 2026-09-30
+- context: Mobile bottom dock
+- tags: responsive, product · standing: yes
+
+### E1838 · Judging size depends on viewing at the right dimension
+- quote: "... It just feels a little small on the screen, but I'm not looking at it at the right dimension, probably either, so that's totally fine ..."
+- source: session_01RxyKeMG9w35aDMcKmeP8rK · 2026-09-30T22:06:21.168943Z (cloud-6.md)
+- date: 2026-09-30
+- context: Mobile dock label size
+- tags: responsive, review-board · standing: yes
+
+### E1839 · Selected state colour must not clash with other uses of green
+- quote: "... if the button at the bottom, like green indicates selected at the bottom, if we're also if we're looking at the rest of our design system, right, will that mess anything up from a communication standpoint to the user or cause any confusion? ..."
+- source: session_01RxyKeMG9w35aDMcKmeP8rK · 2026-09-30T20:17:27.476574Z (cloud-6.md)
+- date: 2026-09-30
+- context: Mobile dock selected state
+- tags: product, style · standing: one-off
+
+### E1840 · Rule changes should propagate to everything related
+- quote: "We just also need to make sure that, like, for some reason, if I change like margin rules, for instance, right, that this stuff is taken into account and adapted, you know what I mean? Like, if I'm like right now, I'm working hands and stuff and I'm worried that this is going to be lost or messed up somehow. Once I get through that stuff, that's related to grid stuff. But there needs to be a way for it to be. I just want to make sure it's being modified and updated, you know, that everything's that's related to each other is being updated when it needs to be, you know"
+- source: session_01RxyKeMG9w35aDMcKmeP8rK · 2026-10-07T19:53:23.701370Z (cloud-6.md)
+- date: 2026-10-07
+- context: Tablet layout and grid rules
+- tags: process, responsive · standing: yes
+
+### E1841 · Match the current system exactly and update the Figma layout too
+- quote: "As long as you can make sure it matches up with the current system exactly and doesn't mess anything up Then obviously the Figma files version of the tablet layout that you created needs modified as well"
+- source: session_01RxyKeMG9w35aDMcKmeP8rK · 2026-10-07T19:41:35.935834Z (cloud-6.md)
+- date: 2026-10-07
+- context: Tablet layout
+- tags: process, responsive · standing: yes
+
+### E1842 · Show it in the chat, not elsewhere
+- quote: "Please show it to me here"
+- source: session_01RxyKeMG9w35aDMcKmeP8rK · 2026-09-30T23:57:47.960064Z (cloud-6.md)
+- date: 2026-09-30
+- context: Mobile nav dock
+- tags: delivery · standing: yes
+
+### E1843 · Check changes elsewhere do not break resumed work
+- quote: "... Can you just make sure that nothing that has changed or anything like affects this and that we can just resume and fix get this all handled now?"
+- source: session_01RxyKeMG9w35aDMcKmeP8rK · 2026-10-09T04:24:15.646261Z (cloud-6.md)
+- date: 2026-10-09
+- context: Tablet grid session
+- tags: process · standing: yes
+
+### E1844 · No sign Claude is working
+- quote: "So, the last thing I see from you is it says two background commands are completed, but it doesn't show you actively working on anything"
+- source: session_01ACKAxCXNtdMbsJB1NZeH4X · 2026-10-15T19:48:49.573656Z (cloud-6.md)
+- date: 2026-10-15
+- context: Chat cleanup session
+- tags: frustration, process · standing: yes
+
+### E1845 · Established structure ignored
+- quote: "Nope, this is not how this should be structured. We already established the structure"
+- source: session_01ACKAxCXNtdMbsJB1NZeH4X · 2026-10-15T19:53:10.306242Z (cloud-6.md)
+- date: 2026-10-15
+- context: Chat cleanup output
+- tags: frustration · standing: yes
+
+### E1846 · Plain words wanted, not internal shorthand
+- quote: "for mentor/mentee experience what do u mean by third separate edit to the same files? are there three chats doing the same thing? can u clarify what ones?   monday design system plan - what do you mean takes longer thant he plan assumes? which plan the plan for tht session? why are you mentioning this specifically?  monday token collections cleanup - so cant we just tell the cht that the work has been overtaken and to close it out then i can ungroup it?  For the last two you said not assigned to. cchat so can we just fix them here?"
+- source: session_01ACKAxCXNtdMbsJB1NZeH4X · 2026-10-15T20:01:07.160418Z (cloud-6.md)
+- date: 2026-10-15
+- context: Chat triage list
+- tags: copy, frustration · standing: yes
+
+### E1847 · Does not understand the merge situation
+- quote: "... I just don't understand how I can get them merged together at some point. I don't know what to do"
+- source: session_01ACKAxCXNtdMbsJB1NZeH4X · 2026-10-15T23:53:08.880969Z (cloud-6.md)
+- date: 2026-10-15
+- context: PR triage
+- tags: copy, frustration · standing: yes
+
+### E1848 · Closure check
+- quote: "are we done here?"
+- source: session_01ACKAxCXNtdMbsJB1NZeH4X · 2026-10-18T02:46:29.556543Z (cloud-6.md)
+- date: 2026-10-18
+- context: Chat cleanup
+- tags: process · standing: yes
+
+### E1849 · Re-check everything after a late discovery
+- quote: "Okay, so if you just found that out now, then my guess is that you need to look over everything else we still have going because you probably have some inaccuracies elsewhere as well /unlazy"
+- source: session_01ACKAxCXNtdMbsJB1NZeH4X · 2026-10-15T19:43:42.187594Z (cloud-6.md)
+- date: 2026-10-15
+- context: Chat cleanup
+- tags: process · standing: yes
+
+### E1850 · Prompts in plain text with a copy button, not a file
+- quote: "Why would you say send an MD document and not just send me the prompt here to send? Like in a plain text box, where I can click the copy button and just paste it in a new chat, you know?"
+- source: session_0122UNAKHYawxUYB167eA884 · 2026-09-25T18:23:57.885690Z (cloud-6.md)
+- date: 2026-09-25
+- context: Handoff prompt for a new chat
+- tags: delivery, frustration · standing: yes
+
+### E1851 · Remove the unasked scheduled check-in
+- quote: "You don't need to be checking on anything anymore. You need to remove whatever that check thing is."
+- source: session_0122UNAKHYawxUYB167eA884 · 2026-09-25T20:48:44.439360Z (cloud-6.md)
+- date: 2026-09-25
+- context: Cohorts audit PR
+- tags: process, frustration · standing: yes
+
+### E1852 · Handoff prompt should go to the session that owns the work
+- quote: "Wait, wait, wait, wait, wait, wait, wait, wait, wait. No, I did not. You said oh no, I didn't. Did I? Before you start read two approved pieces of work that are not merged to main yet, is that the one that was about the cohort screen grid and tokens? We're trying to resolve the difference in which one should be the right direction or submerge of both and what's right, what's not, so we can come up to a conclusion, come with a conclusion. That's what the prompt is supposed to be related to. And you specifically said that was in cohort screen grid and token, so I don't think it makes sense for me to start a new chat. I should ask that specific session. Am I confused or what? ..."
+- source: session_0122UNAKHYawxUYB167eA884 · 2026-09-25T19:00:33.393348Z (cloud-6.md)
+- date: 2026-09-25
+- context: Cohort grid research
+- tags: process, frustration · standing: one-off
+
+### E1853 · Wants two chats findings compared side by side before deciding
+- quote: "... I'm not going to just blindly decide that one chat's information is better than the other, right? Especially when this chat is longer, so it has the possibility likelihood of it being inaccurate information, it's a higher likelihood. Yeah, spacing sides inside the cards is different. also, can I verify this is the chat that you're making updates in this system in the on the designs, right? From the changes I made, were all those done, or is that a different conversation? Yeah, the button stuff too. Don't worry about that. That's happening separately for three separate conversation. I don't know if the single 40 is too small though. Are you saying something's messing up the lining, the way things are lining up or what? Because I also think that part of this issue with the cohort design screens is that maybe you're making that decision based on certain elements being set to fixed currently or something like that because some of the container widths can change too, you know, because they will have to if the gap changes, more likely, probably. I mean, depending on the screen, right ..."
+- source: session_0122UNAKHYawxUYB167eA884 · 2026-09-25T18:52:38.094641Z (cloud-6.md)
+- date: 2026-09-25
+- context: Cohort screen grid and tokens
+- tags: review-board, decision-board · standing: yes
+
+### E1854 · Jargon confused him; closure check
+- quote: "Wait, what do you mean write the corrected decision MD MD entry only? I want this this could have just overwrite something because you said that. Why would they do that? I've already defined the rules. Wait, we're defining the rules here. Wait, what? Oh, I see. You're right, they're correct because we just figured out the spacing shit, right? I see. So you're having it set the rules first before it does Figma. Is that what the point is? But otherwise, there's nothing else we have to do here. We're done, right?"
+- source: session_0122UNAKHYawxUYB167eA884 · 2026-09-25T19:55:55.309683Z (cloud-6.md)
+- date: 2026-09-25
+- context: Spacing rules session
+- tags: copy, process · standing: yes
+
+### E1855 · Closure check
+- quote: "Okay, great, I sent that, but what else do we need to do here? Are we done"
+- source: session_0122UNAKHYawxUYB167eA884 · 2026-09-25T18:26:06.960041Z (cloud-6.md)
+- date: 2026-09-25
+- context: Spacing research prompt
+- tags: process · standing: yes
+
+### E1856 · Spacing rules written like equations so AI can apply them
+- quote: "Okay, so that gap thing you're talking about, well, you said made it just as large as like the cap inside them or whatever. Okay, this is calling out something I've been trying to talk about in a whole bunch of parts when I was like talking about the cards. For instance, this is a huge topic that came up in terms of like figuring out how to put things in the system, especially because we're going to be utilizing like AI a lot, like where you say, in this case, you know, if this is this, blank equals this, blank, like almost like a math equation or something, seems to be the proper protocol for spacing almost. Can you do some research on this for me and tell me if I'm onto something? Because I feel like something there's something here, and I don't want to like miss this. Or actually, you know what? No, don't do that. Give me a prompt to give to a new chat to have it do this research. I think that would actually be the best way to do it ..."
+- source: session_0122UNAKHYawxUYB167eA884 · 2026-09-25T18:19:06.041521Z (cloud-6.md)
+- date: 2026-09-25
+- context: Cohort match spacing
+- tags: product, process · standing: yes
+
+### E1857 · Long chats rotate with a fresh prompt
+- quote: "... this session has gone on too long. We need to do a new one. So I just need a fresh prompt for that one. But I want to make sure that we're not missing anything and it knows exactly what to do /unlazy"
+- source: session_0122UNAKHYawxUYB167eA884 · 2026-09-25T19:23:40.115771Z (cloud-6.md)
+- date: 2026-09-25
+- context: Cohorts sync
+- tags: process · standing: yes
+
+### E1858 · Too many approval prompts
+- quote: "You need to set it up so you can do it that way, because I don't get this many requests to approve things when I'm using my app. It's telling me that there are too many prompts asking me to do stuff when I already basically told you you can do it."
+- source: session_013GcGg7scnijeY8ChEotEuJ · 2026-09-24T20:02:10.489032Z (cloud-6.md)
+- date: 2026-09-24
+- context: Design system session
+- tags: process, frustration · standing: yes
+
+### E1859 · Do config work for him, not by hand
+- quote: "You keep asking me to go to claw.slash settings at JSON. I'm not doing that. I don't need to do that. I don't even know how to do that or find that. I've never done that. I don't need to do that nowIf it needs to be done, then you can do it for me"
+- source: session_013GcGg7scnijeY8ChEotEuJ · 2026-09-24T22:55:28.443744Z (cloud-6.md)
+- date: 2026-09-24
+- context: Design system session
+- tags: process, frustration · standing: yes
+
+### E1860 · Wants a pick-up-where-we-left-off prompt
+- quote: "but i need a prompt to pick up where we left off in a new chat"
+- source: session_013GcGg7scnijeY8ChEotEuJ · 2026-09-25T03:13:20.599649Z (cloud-6.md)
+- date: 2026-09-25
+- context: Design system session
+- tags: delivery · standing: yes
+
+### E1861 · Full audit for stale items after a change
+- quote: "... Can you do a full auto of anything that should have been updated in here ..."
+- source: session_013GcGg7scnijeY8ChEotEuJ · 2026-09-24T23:59:57.676680Z (cloud-6.md)
+- date: 2026-09-24
+- context: Design system library
+- tags: process · standing: yes
+
+### E1862 · Auto mode should mean fewer checks
+- quote: "... Is auto supposed to make it so you don't have to check me and everything?"
+- source: session_013GcGg7scnijeY8ChEotEuJ · 2026-09-24T19:55:58.998091Z (cloud-6.md)
+- date: 2026-09-24
+- context: Design system session
+- tags: process, frustration · standing: yes
+
+### E1863 · Closure and cleanup of the session
+- quote: "We're probably good here by then. We can I can unpin this session"
+- source: session_013GcGg7scnijeY8ChEotEuJ · 2026-09-25T17:35:14.665833Z (cloud-6.md)
+- date: 2026-09-25
+- context: Design system session
+- tags: process · standing: one-off
+
+### E1864 · Closure check
+- quote: "Great, thank you. Anything else to do here? Are we good?"
+- source: session_01NtNprr86Wr9s2UHccNZULw · 2026-11-07T21:23:32.471080Z (cloud-6.md)
+- date: 2026-11-07
+- context: Process replay session
+- tags: process · standing: yes
+
+### E1865 · Asked to say up front if a setup is unusable
+- quote: "let me know if this is written poorly or like you know you can't really utilize it or understand it fully so I can go back to my other Claude account and get adjusted if needed"
+- source: session_01NtNprr86Wr9s2UHccNZULw · message 1 (6e2073fc-6dc6-4ba9-9b00-bf8a02d494de) (cloud-6b.md)
+- date: 2026-10-28
+- context: handing over a motion studio zip to install for Mondai and portfolio
+- tags: process, delivery · standing: one-off
+
+### E1866 · Install it properly, end to end
+- quote: "Otherwise just go ahead and work on installing this properly /unlazy"
+- source: session_01NtNprr86Wr9s2UHccNZULw · message 1 (6e2073fc-6dc6-4ba9-9b00-bf8a02d494de) (cloud-6b.md)
+- date: 2026-10-28
+- context: same motion studio setup ask
+- tags: process · standing: one-off
+
+### E1867 · Check the current state before talking about it
+- quote: "Are you sure you know where things are currently? Because why are we talking about the Monday studio? We've already completed that sprint, did we not?"
+- source: session_01NtNprr86Wr9s2UHccNZULw · 2026-11-07T19:46:22Z (9a32cd9c-8ada-4d08-8339-2858fc4a203d) (cloud-6b.md)
+- date: 2026-11-07
+- context: Claude raised the finished Mondai studio sprint while setting up motion tooling
+- tags: frustration, process · standing: one-off
+
+### E1868 · Quick lookup first, then continue
+- quote: "Can you just let me know really quick before you continue"
+- source: session_01NtNprr86Wr9s2UHccNZULw · 2026-11-07T19:37:01Z (9c103854-7da9-460d-8ffc-c3805414dbe1) (cloud-6b.md)
+- date: 2026-11-07
+- context: asked Claude to check the repos for updates to the motion process before carrying on
+- tags: process · standing: one-off
+
+### E1869 · Do not claim a tool cannot do what it already did elsewhere
+- quote: "You already just recently added both in there in another session, so there's no reason you shouldn't be able to do it here"
+- source: session_01NtNprr36dojS8yA6LWFscp · 2026-11-14T00:23:07Z (f40cdd2e-ef4f-4ea4-9d6d-4b37c4164a35) (cloud-6b.md)
+- date: 2026-11-14
+- context: round 5 brochure layout lead hit a blocker on attaching repos
+- tags: frustration, process · standing: one-off
+
+### E1870 · Canvas stage is an audit, not a Notion drop
+- quote: "Canvas stage is an audit process that for design, why would I show unfinished designs and put them on Notion?"
+- source: session_01RxyKeMG9w35aDMcKmeP8rK · 2026-09-30T17:14:06.262416Z (cloud-6c.md)
+- date: 2026-09-30
+- context: Review process for design work in a canvas
+- tags: process, delivery · standing: one-off
+
+### E1871 · Responsiveness can be done on the canvas
+- quote: "So, we can actually do responsiveness on Canvas. How does that work?"
+- source: session_01RxyKeMG9w35aDMcKmeP8rK · 2026-09-30T17:14:06.262416Z (cloud-6c.md)
+- date: 2026-09-30
+- context: Tablet grid between desktop and mobile
+- tags: responsive, delivery · standing: one-off
+
+### E1872 · Options too predictable, use a skill
+- quote: "these options kind of suck, like there's no creativity here. Maybe you need to access something else. Like, see if there's a skill that will help you create something a little bit more unique."
+- source: session_01RxyKeMG9w35aDMcKmeP8rK · 2026-09-30T19:58:07.851390Z (cloud-6c.md)
+- date: 2026-09-30
+- context: Options shown for the mobile bottom nav press state
+- tags: review-board, style, frustration · standing: yes
+
+### E1873 · Generic AI output rejected
+- quote: "I think the green left edge is like generic AI output, so I need you to look up different ways we can do this or look up skills"
+- source: session_01RxyKeMG9w35aDMcKmeP8rK · 2026-09-30T19:44:03.656214Z (cloud-6c.md)
+- date: 2026-09-30
+- context: Option versions for a bottom nav menu state
+- tags: review-board, style, frustration · standing: yes
+
+### E1874 · Wants options to compare
+- quote: "Can we see some options with all this"
+- source: session_01RxyKeMG9w35aDMcKmeP8rK · 2026-09-30T20:10:26.042075Z (cloud-6c.md)
+- date: 2026-09-30
+- context: Selected state options on the mobile nav menu
+- tags: decision-board, review-board · standing: yes
+
+### E1875 · Show examples, but not when unnecessary
+- quote: "Can you show me some examples of what it would look like if we fix that?"
+- source: session_01RxyKeMG9w35aDMcKmeP8rK · 2026-09-30T18:49:30.792361Z (cloud-6c.md)
+- date: 2026-09-30
+- context: Adding a press state to the mobile bottom nav
+- tags: review-board, process · standing: yes
+
+### E1876 · Do not make me judge small fixes
+- quote: "So I don't need any examples with that."
+- source: session_01RxyKeMG9w35aDMcKmeP8rK · 2026-09-30T18:49:30.792361Z (cloud-6c.md)
+- date: 2026-09-30
+- context: Centering bottom nav icons in grid columns
+- tags: process, review-board · standing: yes
+
+### E1877 · Fix small things yourself
+- quote: "I think you should just fix it yourself."
+- source: session_01RxyKeMG9w35aDMcKmeP8rK · 2026-09-30T18:49:30.792361Z (cloud-6c.md)
+- date: 2026-09-30
+- context: Naming and case fixes on a new colleague's mobile components
+- tags: process · standing: yes
+
+### E1878 · Show what it looks like
+- quote: "Yeah, for the menu items, change that to body, but can you show me what it looks like?"
+- source: session_01RxyKeMG9w35aDMcKmeP8rK · 2026-09-30T18:49:30.792361Z (cloud-6c.md)
+- date: 2026-09-30
+- context: Mobile nav menu item text style change
+- tags: review-board, process · standing: yes
+
+### E1879 · Touch targets are covered by the finger
+- quote: "But if you're touching it and your finger is like covering most of it, it may be harder to see, right?"
+- source: session_01RxyKeMG9w35aDMcKmeP8rK · 2026-09-30T19:27:00.370582Z (cloud-6c.md)
+- date: 2026-09-30
+- context: Bottom nav press state options
+- tags: product, interaction · standing: yes
+
+### E1880 · Icons look brighter than text at the same colour
+- quote: "But an icon, because the lines are thicker in most cases, will usually look brighter at the same color as the text."
+- source: session_01RxyKeMG9w35aDMcKmeP8rK · 2026-09-30T19:27:00.370582Z (cloud-6c.md)
+- date: 2026-09-30
+- context: Bottom nav icons against text
+- tags: product, style · standing: yes
+
+### E1881 · Plain and short, lead with the ask, decide small things
+- quote: "How to talk to me: plain and short. Lead with what you need from me. Explain anything technical in simple terms, and decide small things yourself instead of asking."
+- source: session_013GcGg7scnijeY8ChEotEuJ · df03ea46 (first ask) (cloud-6d.md)
+- date: 2026-09-23
+- context: Opening brief for the Claude Code design system work
+- tags: copy, process · standing: yes
+
+### E1882 · Check visually with screenshots, be token efficient
+- quote: "Check visually with screenshots, not only data. Be token efficient."
+- source: session_013GcGg7scnijeY8ChEotEuJ · df03ea46 (first ask) (cloud-6d.md)
+- date: 2026-09-23
+- context: Opening brief for the Claude Code design system work
+- tags: process · standing: yes
+
+### E1883 · Picker should show the relevant tokens first
+- quote: "The Figma variable picker should show the relevant tokens first (today it opens on time labels and corner radius)."
+- source: session_013GcGg7scnijeY8ChEotEuJ · df03ea46 (first ask) (cloud-6d.md)
+- date: 2026-09-23
+- context: Figma variable picker in the design system library
+- tags: navigation, style · standing: one-off
+
+### E1884 · Does not want to do manual steps the tool could do
+- quote: "I shouldn't have to change that stuff independently, that doesn't make any sense."
+- source: session_013GcGg7scnijeY8ChEotEuJ · dc932a2e (cloud-6d.md)
+- date: 2026-09-23
+- context: Figma variable group ordering; Claude said he would have to drag groups himself
+- tags: frustration, process · standing: yes
+
+### E1885 · Jargon: asks for plain meaning and a visual
+- quote: "I don't know what picker settings are, so if you can confirm that."
+- source: session_013GcGg7scnijeY8ChEotEuJ · dc932a2e (cloud-6d.md)
+- date: 2026-09-23
+- context: Reply that used terms he did not know (picker settings)
+- tags: copy, frustration · standing: yes
+
+### E1886 · Wants a visual example, not an abstract description
+- quote: "or can you elaborate or give me some visual example or something of what you're talking about"
+- source: session_013GcGg7scnijeY8ChEotEuJ · dc932a2e (cloud-6d.md)
+- date: 2026-09-23
+- context: Claude mentioned "space screen outer" without showing it
+- tags: review-board, process · standing: yes
+
+### E1887 · Terminology confusion needs an outside audit
+- quote: "I don't really understand the difference between space and spacing, so there might need to be an audit of the terminology you're using."
+- source: session_013GcGg7scnijeY8ChEotEuJ · dc932a2e (cloud-6d.md)
+- date: 2026-09-23
+- context: Token names Space and Spacing in the Figma library
+- tags: copy, frustration · standing: one-off
+
+### E1888 · Unsure what he must respond to
+- quote: "not sure fi he was answering your questiosn here or what or if i need to respond to anything you asked"
+- source: session_013GcGg7scnijeY8ChEotEuJ · d69e9e73 (cloud-6d.md)
+- date: 2026-09-23
+- context: Approval message relayed to Claude; unclear which open question it answered
+- tags: process, frustration · standing: one-off
+
+### E1889 · Whitespace and 24px too tight (taste on spacing)
+- quote: "One of the things I specifically had you change was to modify some of the spacing because the 24 pixels was too tight and it didn't look good or make sense from just like general design rules."
+- source: session_0122UNAKHYawxUYB167eA884 · 0df2ad97 (cloud-6d.md)
+- date: 2026-09-25
+- context: Cohort match screens, gap between main column and side panel
+- tags: product, style · standing: one-off
+
+### E1890 · Generous whitespace as a general taste
+- quote: "How are we going to have any white space if everything's crunched together?"
+- source: session_0122UNAKHYawxUYB167eA884 · 0df2ad97 (cloud-6d.md)
+- date: 2026-09-25
+- context: Same message, reacting to research that said no source backs 40 to 48 gaps
+- tags: product, style · standing: yes
+
+### E1891 · Wants the same tuner tool as last time, not just a fix
+- quote: "Can you make like a tool, like the way I have the tool for the the mund number display thing? I don't know how you missed that, but like that was part of his ask. Maybe I didn't specify the tool, but I was specifically saying I want it to look like that Style-wise"
+- source: session_01NtNprqRcgnXMZ3o9kqK7F5 · 2026-11-14T21:17:02.494970Z (cloud-7.md)
+- date: 2026-11-14
+- context: Lottie animation for the portfolio number display; he expected a tuner tool built in the style of the earlier tool
+- tags: editor, frustration, style · standing: yes
+
+### E1892 · Link opened the code, not the preview
+- quote: "When I click that, I just see the code"
+- source: session_01NtNprqRcgnXMZ3o9kqK7F5 · 2026-11-14T21:14:51.945849Z (cloud-7.md)
+- date: 2026-11-14
+- context: He clicked the link to the Lottie tool and got source code instead of a working page
+- tags: delivery, frustration · standing: yes
+
+### E1893 · Same problem again, still not usable
+- quote: "It's still just opening. I don't know why. All you did was the bubble, though."
+- source: session_01NtNprqRcgnXMZ3o9kqK7F5 · 2026-11-14T21:17:02.494970Z (cloud-7.md)
+- date: 2026-11-14
+- context: Second attempt at opening the Lottie tool; nothing usable appeared
+- tags: delivery, frustration · standing: yes
+
+### E1894 · Needs a way to get the file into the Figma Lottie plugin
+- quote: "how can I download the lobby then upload it and figure out the lobby plug-in? It looks like this"
+- source: session_01NtNprqRcgnXMZ3o9kqK7F5 · 2026-11-15T00:07:00.470095Z (cloud-7.md)
+- date: 2026-11-15
+- context: Moving the finished Lottie into Figma through the Lottie plugin ("lobby" is dictation for Lottie)
+- tags: delivery · standing: one-off
+
+### E1895 · Already did the step he was told to do
+- quote: "i used the figma lottie plugin thats what i saying"
+- source: session_01NtNprqRcgnXMZ3o9kqK7F5 · 2026-11-15T00:09:56.114408Z (cloud-7.md)
+- date: 2026-11-15
+- context: Claude told him to use a route he had already used; he had uploaded through the Figma Lottie plugin
+- tags: delivery, frustration · standing: one-off
+
+
+### E1896 · Expected big changes, got a small tweak
+- quote: "I'm so sorry, but I expected you to change a lot more than this. I did not mean for you to just change like this section and slightly modify it based on things. Like, I expect you to change a lot more"
+- source: session_01NtNprppPNewwXLTiq441nR · 2026-11-13T23:00:48.520111Z (cloud-7.md)
+- date: 2026-11-13
+- context: Round 4 brochure concepts on the design canvas
+- tags: review-board, frustration, process · standing: yes
+
+### E1897 · One style per concept, not a mixed tweak
+- quote: "No, stop like I don't know why you're not listening to me you're building a direction for each link you're using one style per what you're creating like forget about the grid behind things"
+- source: session_01NtNprppPNewwXLTiq441nR · 2026-11-13T23:02:23.214002Z (cloud-7.md)
+- date: 2026-11-13
+- context: Round 4 options for the brochure; each option should be its own direction
+- tags: review-board, decision-board, frustration · standing: yes
+
+### E1898 · Needs a working prototype with animation baked in
+- quote: "I also need a prototype for all these and the animation baked in from whatever example you're using so I can feel full on with the animation and everything set"
+- source: session_01NtNprppPNewwXLTiq441nR · 2026-11-13T23:07:35.346914Z (cloud-7.md)
+- date: 2026-11-13
+- context: Brochure concepts built from reference sites; he wants to feel the motion, not see stills
+- tags: interaction, delivery, review-board · standing: yes
+
+### E1899 · Checks and a list before he sees it, aimed at 10 out of 10
+- quote: "Like, I want you to make sure you're really fully examining things, making a list, putting all the proper checks into place. I want to make sure this output is 10 out of 10 /unlazy"
+- source: session_01NtNprppPNewwXLTiq441nR · 2026-11-13T23:07:35.346914Z (cloud-7.md)
+- date: 2026-11-13
+- context: Brief for round 4 brochure concepts
+- tags: process · standing: yes
+
+### E1900 · Do it on the canvas, not in Figma
+- quote: "so I think obviously this should all be done in Canvas, not in Figma."
+- source: session_01NtNprppPNewwXLTiq441nR · 2026-11-13T22:51:46.666916Z (cloud-7.md)
+- date: 2026-11-13
+- context: Exploring brochure layouts from reference websites
+- tags: delivery, process · standing: yes
+
+### E1901 · Nothing is built in Figma until he says so
+- quote: "Okay, stop for a moment. No one's building anything in Figma until I say someone builds something in Figma, is the real T here, I think, that we need to come to an understanding of."
+- source: session_01NtNprppPNewwXLTiq441nR · 2026-11-13T22:08:20.594711Z (cloud-7.md)
+- date: 2026-11-13
+- context: A session started drawing in Figma while the design canvas was the agreed place
+- tags: delivery, process, frustration · standing: yes
+
+### E1902 · Question about three board versions he could not parse
+- quote: "So I don't understand your column what you commit to board. Do you want the plain board, the green line version, or the checkerboard? What are you talking about? I don't know what that's talking about. I don't even know what that's in relevance to. Can you like add some clarity there? I don't know what you're saying"
+- source: session_01NtNprppPNewwXLTiq441nR · 2026-11-13T22:08:20.594711Z (cloud-7.md)
+- date: 2026-11-13
+- context: Claude asked which version of the "What you commit to" board he wanted, with no context
+- tags: copy, review-board, frustration · standing: yes
+
+### E1903 · Same instruction repeated, still ignored
+- quote: "I thought I made this super clear but clearly I didn't like I told you to like stop doing the staggered thing like I would you're not supposed to be referencing those sections at all"
+- source: session_01NtNprppPNewwXLTiq441nR · 2026-11-13T23:48:57.647463Z (cloud-7.md)
+- date: 2026-11-13
+- context: Voice note reviewing the four round 4 concepts
+- tags: frustration, process · standing: yes
+
+### E1904 · Repeat ask, asked again
+- quote: "stop doing the staggering shit like I don't know how many more times I need to say this to you"
+- source: session_01NtNprppPNewwXLTiq441nR · 2026-11-13T23:48:57.647463Z (cloud-7.md)
+- date: 2026-11-13
+- context: Same voice note, on the concepts reusing the staggered layout
+- tags: frustration · standing: yes
+
+### E1905 · Fewer options than he asked for
+- quote: "we only did four concepts I thought we had more didn't I say to make a concept for each design style and we had more than four right so what's going on here did you once again not do what I asked you to do that's crazy to me totally crazy"
+- source: session_01NtNprppPNewwXLTiq441nR · 2026-11-13T23:48:57.647463Z (cloud-7.md)
+- date: 2026-11-13
+- context: Four concepts shown when he had asked for one per reference style
+- tags: review-board, frustration · standing: one-off
+
+### E1906 · He reviews by voice note as he scrolls each concept
+- quote: "Alright, I'm just gonna take a vocal note as I go through all of these, okay?"
+- source: session_01NtNprppPNewwXLTiq441nR · 2026-11-13T23:48:57.647463Z (cloud-7.md)
+- date: 2026-11-13
+- context: How he gives feedback on a set of concepts
+- tags: review-board, process, delivery · standing: yes
+
+### E1907 · Handoff must carry full context, not a few quotes
+- quote: "you like create like a handoff that just has like quotes or like references to what i said like it just like specific like points and stuff like no we need way more context than that because that stuff does not make them do so properly for instance how we're working how we're building where we're at in the process what we've been at previously like all that has to carried over so that i can successfully conversate with a new chat"
+- source: session_01NtNprppPNewwXLTiq441nR · 2026-11-13T23:48:57.647463Z (cloud-7.md)
+- date: 2026-11-13
+- context: Chat got heavy; he wants the next lead chat to carry everything
+- tags: process, delivery · standing: yes
+
+### E1908 · Sessions run too long, rotate to a new chat
+- quote: "the session's getting really heavy so we're eventually gonna need to move this to a new session"
+- source: session_01NtNprppPNewwXLTiq441nR · 2026-11-13T23:48:57.647463Z (cloud-7.md)
+- date: 2026-11-13
+- context: Same voice note
+- tags: process · standing: yes
+
+### E1909 · Wrong environment for the conversation
+- quote: "oh, we're in the Monday. Wait, hold on. Why are we in the Monday environment now? We were supposed to be in the brochure environment. Well, actually, we're supposed to be in both. What happened? We can't continue a conversation that's not in both."
+- source: session_01NtNprppPNewwXLTiq441nR · 2026-11-13T22:41:29.727973Z (cloud-7.md)
+- date: 2026-11-13
+- context: Session opened on the wrong repo while working on the brochure
+- tags: delivery, process, frustration · standing: one-off
+
+### E1910 · Session lacks context he already gave
+- quote: "Wait, I don't know what you're talking about. Like, are you do not fully have the full context or something? I actually spoke way more to the layout than this"
+- source: session_01NtNprppPNewwXLTiq441nR · 2026-11-13T21:07:58.028898Z (cloud-7.md)
+- date: 2026-11-13
+- context: New lead chat asked him something he had already answered
+- tags: frustration, process · standing: yes
+
+### E1911 · Wants a link to an archived session to bring it back
+- quote: "Can you send me a link to that session? Because I archived it and I need to like unarchive it now so I can have it fix this"
+- source: session_01NtNprppPNewwXLTiq441nR · 2026-11-13T21:07:58.028898Z (cloud-7.md)
+- date: 2026-11-13
+- context: Finding the earlier layout chat
+- tags: delivery · standing: one-off
+
+
+### E1912 · Test it and show proof before sending it back
+- quote: "Need to be taking like testing this before you send it back to me, like taking a video and like, or whatever you need to do to make sure that it looks like it's supposed to. I think you're missing that step somehow. Are you not using our motion process? Like, what is the issue here"
+- source: session_01NtNprsvaXrtiJWKheNxNhc · 2026-11-09T19:31:52.653444Z (cloud-7.md)
+- date: 2026-11-09
+- context: Footer Contact button liquid effect; he could not see the colour behind the liquid
+- tags: process, frustration · standing: yes
+
+### E1913 · The default state must look like the real footer
+- quote: "So, why the default version? Like, I never asked. Like, the way the default version looks at rest on footer is the way the default version should look at rest on footer."
+- source: session_01NtNprsvaXrtiJWKheNxNhc · 2026-11-09T19:31:52.653444Z (cloud-7.md)
+- date: 2026-11-09
+- context: Same preview; Claude changed the resting look
+- tags: frustration, style · standing: one-off
+
+### E1914 · Add a way to play with the colours in the preview
+- quote: "Okay, maybe you add away somewhere for me to play with those colors in the preview for both"
+- source: session_01NtNprsvaXrtiJWKheNxNhc · 2026-11-09T19:20:26.658128Z (cloud-7.md)
+- date: 2026-11-09
+- context: Liquid button preview; wants live colour controls on both variants
+- tags: editor, interaction · standing: yes
+
+### E1915 · Watch the reference video before building
+- quote: "See, this doesn't work with the video. Did you watch the video? I think those are two different videos and I like literally explained this already in that same like liquid button effects recreation conversation."
+- source: session_01NtNprsvaXrtiJWKheNxNhc · 2026-11-09T19:04:49.380855Z (cloud-7.md)
+- date: 2026-11-09
+- context: Recreating a Framer button effect from his screen recordings
+- tags: process, frustration · standing: yes
+
+### E1916 · Gives up when the tool does not work
+- quote: "You know what? We're just gonna ditch this idea for now and come back to this later because this isn't working and I don't have time to focus on it. So thanks for your help"
+- source: session_01NtNprsvaXrtiJWKheNxNhc · 2026-11-09T20:16:44.733911Z (cloud-7.md)
+- date: 2026-11-09
+- context: End of the gooey button chat after several failed rounds
+- tags: frustration · standing: one-off
+
+### E1917 · Quoted inside a Claude written brief: just match the video
+- quote: "I just want it to work like the video. That's it. That's all I'm asking"
+- source: session_01NtNprsvaXrtiJWKheNxNhc · 2026-11-09T18:47:16.266361Z (cloud-7.md)
+- date: 2026-11-09
+- context: Quoted by a Claude written brief with his date (9 Nov); the words are his, the message is not
+- tags: process, frustration · standing: yes
+
+## 
+
+### E1918 · Wants a quick audit table of his chats, grouped, with a close-out note
+- quote: "So you'll do it in like a tarot table format, keeping all the groups together, and then the note of the status of that combo and whether I should close it out if anything needs ended there, or any questions or any issues."
+- source: session_01NtNprr248DZTRQqCLq35f5 · 2026-11-07T19:29:30.740825Z (cloud-7.md)
+- date: 2026-11-07
+- context: Audit of the Claude Code sidebar session list; "tarot table" is dictation for a table
+- tags: review-board, navigation, delivery · standing: yes
+
+### E1919 · Lost track of where each chat is
+- quote: "I need one of those quick things for us to go through and audit the stuff on the sidebar, so I'm going to take a screenshot right now because there's a lot of things happening here, and I'm starting to get things mixed up."
+- source: session_01NtNprr248DZTRQqCLq35f5 · 2026-11-07T19:29:30.740825Z (cloud-7.md)
+- date: 2026-11-07
+- context: Too many sidebar sessions, wants orientation
+- tags: navigation, frustration · standing: yes
+
+### E1920 · Wants status icons that hint what is done or left
+- quote: "Is there an easy way I can do this? Like, you know, like the icons next to them. I'm still not used to them, like in the bar, you know. Like, is there ones that can hint to me whether I'm done there or like what's left there or anything like that? At least, if anything's open that needs to be finished, like or merged or anything, like, I don't know how that works"
+- source: session_01NtNprr248DZTRQqCLq35f5 · 2026-11-07T19:49:18.781922Z (cloud-7.md)
+- date: 2026-11-07
+- context: Claude Code sidebar status dots and icons
+- tags: navigation, interaction · standing: yes
+
+### E1921 · Show a preview, not a description of colours
+- quote: "So, are we done with the sidebar? Wait, can you show me a preview? I don't understand talking about the colors. Yeah, can you show me this?"
+- source: session_01NtNprr248DZTRQqCLq35f5 · 2026-11-11T17:37:52.060684Z (cloud-7.md)
+- date: 2026-11-11
+- context: Claude explained the status colours in words
+- tags: delivery, copy, review-board · standing: yes
+
+### E1922 · Status legend left gaps (mixed merged states, blue versus yellow)
+- quote: "The one thing this doesn't tell me though is like what about like a blue dot? Like, I know a gray dot flashing means it's working. What is a yellow dot versus a blue dot?"
+- source: session_01NtNprr248DZTRQqCLq35f5 · 2026-11-11T17:46:46.240532Z (cloud-7.md)
+- date: 2026-11-11
+- context: Status colour legend for sidebar dots
+- tags: navigation, copy · standing: yes
+
+## 
+
+### E1923 · Do not put money on usage
+- quote: "I don't know why you're putting why is it putting financial costs on it? We're not like using an API, like we're not paying like that, so it's not costing $690. But why are we putting a financial stake on this? I'm confused"
+- source: session_013wLGaU7ud9NvvRgYC4scVQ · 2026-10-28T17:36:17.754338Z (cloud-7.md)
+- date: 2026-10-28
+- context: Claude showed a dollar figure for the work
+- tags: copy, frustration · standing: yes
+
+### E1924 · Do not ask what he already answered
+- quote: "i literally just mentioned the improvements i was excited about and gave all the info u need so now sure why u r asking that question."
+- source: session_013wLGaU7ud9NvvRgYC4scVQ · 2026-10-28T02:49:31.935785Z (cloud-7.md)
+- date: 2026-10-28
+- context: A "Your call" box asked something his earlier message covered
+- tags: frustration, process · standing: yes
+
+### E1925 · Avoid the default two column layout that looks AI made
+- quote: "there's definitely solutions to avoiding that default too column layout thing that is just ridiculous and I'm kind of sick of it and like I feel like that makes the output look too AI"
+- source: session_013wLGaU7ud9NvvRgYC4scVQ · 2026-10-24T18:22:03.482263Z (cloud-7.md)
+- date: 2026-10-24
+- context: Layout options from reference sites looked generic
+- tags: style, frustration · standing: yes
+
+### E1926 · Be more creative with space, think bento
+- quote: "it's not even about columns not about having like three column or four column layouts it's not about that it's just about being more creative with the space and thinking about it more in the context of even I'm not asking for bento box designs but thinking about bento boxes right"
+- source: session_013wLGaU7ud9NvvRgYC4scVQ · 2026-10-24T18:22:03.482263Z (cloud-7.md)
+- date: 2026-10-24
+- context: Same message, on how option layouts should be composed
+- tags: style · standing: yes
+
+### E1927 · Grilling: only ask what needs an answer
+- quote: "when I do use the girls me skill typically it often asks questions that it doesn't need actual answers from because it forces you to like ask questions so I use grow up me with the limitation that you're only going to ask questions that you need to"
+- source: session_013wLGaU7ud9NvvRgYC4scVQ · 2026-10-24T18:22:03.482263Z (cloud-7.md)
+- date: 2026-10-24
+- context: Setting up the process speed work
+- tags: process · standing: yes
+
+### E1928 · New chat must actually use what is handed over
+- quote: "Not only that it's missing, but that it's actually utilizing, right? We can also put the info in there and needs to be accessed. So there's something missing, it needs to be set up properly so it isn't missed, right?"
+- source: session_013wLGaU7ud9NvvRgYC4scVQ · 2026-10-28T17:37:15.024827Z (cloud-7.md)
+- date: 2026-10-28
+- context: Handing the work to a new chat
+- tags: process, delivery · standing: yes
+
+### E1929 · Handoff must not miss anything
+- quote: "Just make sure you're not clashing anything and make sure that like the new chat's not missing anything. That's I think that's my concern"
+- source: session_013wLGaU7ud9NvvRgYC4scVQ · 2026-10-28T17:36:59.800307Z (cloud-7.md)
+- date: 2026-10-28
+- context: Same handoff
+- tags: process · standing: yes
+
+### E1930 · Fix the setup of unlazy
+- quote: "plese fix the way unlazy is set up then"
+- source: session_013wLGaU7ud9NvvRgYC4scVQ · 2026-10-24T18:58:14.390747Z (cloud-7.md)
+- date: 2026-10-24
+- context: Unlazy gates were not firing as he expected
+- tags: process · standing: yes
+
+## 
+
+### E1931 · Fix the process after a miss
+- quote: "Well, I'm saying please update the process though so it doesn't fail again in the future"
+- source: session_01MLno3JwCSEXxhHg19QRiRH · 2026-10-09T23:51:57.760928Z (cloud-7.md)
+- date: 2026-10-09
+- context: Claude fixed one miss but did not change the process behind it
+- tags: process · standing: yes
+
+### E1932 · Use the copy step next time
+- quote: "Did you did you use the did you fix yeah, please fix it so it uses the copy thing next time, but did you use it here"
+- source: session_01MLno3JwCSEXxhHg19QRiRH · 2026-10-09T23:51:42.514143Z (cloud-7.md)
+- date: 2026-10-09
+- context: The copy pass was skipped on screens
+- tags: process, copy · standing: yes
+
+### E1933 · Existing rule not followed: sentence case
+- quote: "I spoke about this recently I don't know what got into our record but case tense we are that's already a rule and I don't know it's not always being followed so for instance like journey advisement should have a small A, not a large A"
+- source: session_01MLno3JwCSEXxhHg19QRiRH · 2026-10-09T23:43:57.471113Z (cloud-7.md)
+- date: 2026-10-09
+- context: Screen copy casing in the handoff markup ("case tense" is dictated "case tense", meaning sentence case)
+- tags: copy, frustration · standing: yes
+
+### E1934 · A whole phase was skipped
+- quote: "I just realized you never went through the final phase and like marked things up for dev. Why did you never do that? Can you please do that?"
+- source: session_01MLno3JwCSEXxhHg19QRiRH · 2026-10-09T23:20:14.742093Z (cloud-7.md)
+- date: 2026-10-09
+- context: Final phase of the dev handoff was left out
+- tags: process, frustration · standing: yes
+
+### E1935 · Claude lost the history of the work
+- quote: "Why would you stop building there? That's where everything has been being built since forever"
+- source: session_01MLno3JwCSEXxhHg19QRiRH · 2026-10-09T23:23:55.423401Z (cloud-7.md)
+- date: 2026-10-09
+- context: Claude questioned the existing place where screens were built
+- tags: frustration, process · standing: one-off
+
+
+### E1936 · Figma builds must be responsive, auto layout, no spacers
+- quote: "as long as you set up the actual Figma files to be like responsive in the same way with like auto layout and stuff, you know. So, you need to be thinking about you know, obviously, we don't use spacers or shit like that, right? Like, we do design the proper way for this century."
+- source: session_01HQHq6Myh5DeCS2D1oDVHxb · 2026-09-30T17:19:24.390174Z (cloud-7.md)
+- date: 2026-09-30
+- context: Responsiveness approach when the canvas is the build and Figma the translation
+- tags: responsive, style, process · standing: yes
+
+### E1937 · Responsiveness should be solved on the canvas too
+- quote: "I think A sounds good. We need to make sure, obviously, like, it should look almost identical or as identical as possible, right? If the canvas build, that's the point: is to really do most of the designing there, and then when we put Infigma, we're just like fine-tuning and maybe like dealing with responsiveness and all that kind of stuff, I guess. Although, really, some of the responsiveness should be being figured out at the Canvas level as well, if possible."
+- source: session_01HQHq6Myh5DeCS2D1oDVHxb · 2026-09-30T17:05:59.948153Z (cloud-7.md)
+- date: 2026-09-30
+- context: Route A (canvas first, Figma as a 1:1 translation)
+- tags: responsive, delivery, process · standing: yes
+
+### E1938 · Approve base screens first, then states, before Figma
+- quote: "this state shouldn't be built until the designs are settled on the base screens. You know what I mean? And then you can build the states of all them, then I can look at them and we can approve them before building Infigma."
+- source: session_01HQHq6Myh5DeCS2D1oDVHxb · 2026-09-30T17:05:59.948153Z (cloud-7.md)
+- date: 2026-09-30
+- context: Order of work on the Journey Advisement screens
+- tags: review-board, decision-board, process · standing: yes
+
+### E1939 · Flag his canvas edits that break a rule, and talk about it
+- quote: "Just like flag it, but like when you say flag it, make sure we like talk about it."
+- source: session_01HQHq6Myh5DeCS2D1oDVHxb · 2026-09-30T17:05:59.948153Z (cloud-7.md)
+- date: 2026-09-30
+- context: What to do when his own edits on the canvas land off a rule
+- tags: review-board, process · standing: yes
+
+### E1940 · Reviews by talking aloud with a voice app
+- quote: "typically speaking, what I've done previously is I just like turn on my handy app so I can talk out loud as I'm evaluating each screen, and usually you can do a pretty good job of cleaning that up. I'm not against using comments, but it's just a thought."
+- source: session_01HQHq6Myh5DeCS2D1oDVHxb · 2026-09-30T17:05:59.948153Z (cloud-7.md)
+- date: 2026-09-30
+- context: How he wants to review canvas screens; comments also acceptable
+- tags: review-board, delivery · standing: yes
+
+### E1941 · Wants a small label confirming which skills ran
+- quote: "put a small like tiny like label at the bottom of your messages, like not even a full sentence, right?"
+- source: session_01HQHq6Myh5DeCS2D1oDVHxb · 2026-09-30T17:05:59.948153Z (cloud-7.md)
+- date: 2026-09-30
+- context: He cannot tell whether unlazy and research skills ran
+- tags: process, copy · standing: yes
+
+### E1942 · Do not make him read the long list
+- quote: "Because I'm not reading that full long-ass list"
+- source: session_01HQHq6Myh5DeCS2D1oDVHxb · 2026-09-30T17:05:59.948153Z (cloud-7.md)
+- date: 2026-09-30
+- context: Claude put 37 process questions in front of him
+- tags: review-board, copy, frustration · standing: yes
+
+### E1943 · 37 questions is too heavy
+- quote: "Okay, so I should add 37 questions is pretty heavy. Can you audit those and see if they're really all necessary to be answered?"
+- source: session_01HQHq6Myh5DeCS2D1oDVHxb · 2026-09-30T16:56:05.106176Z (cloud-7.md)
+- date: 2026-09-30
+- context: Same list of questions
+- tags: decision-board, process, frustration · standing: yes
+
+### E1944 · Unlazy should run every turn
+- quote: "For unlazy, why would it only work on build? It should be on pretty much every turn The whole point is so I don't have to keep doing it manually every single time"
+- source: session_01HQHq6Myh5DeCS2D1oDVHxb · 2026-09-30T17:19:45.552010Z (cloud-7.md)
+- date: 2026-09-30
+- context: Unlazy skill coverage
+- tags: process, frustration · standing: yes
+
+### E1945 · Rules are set up so Claude follows them
+- quote: "why would you just not follow like just ignoring the rules? That doesn't make any sense. Things are set up in a certain way to make sure that you follow things. That's the whole reason we're setting up this system to begin with."
+- source: session_01HQHq6Myh5DeCS2D1oDVHxb · 2026-09-30T17:33:48.892256Z (cloud-7.md)
+- date: 2026-09-30
+- context: A rule on research and verification was skipped
+- tags: process, frustration · standing: yes
+
+### E1946 · Jargon: the word gate
+- quote: "So, what do you mean by the written gate file? I still get confused about the term gate"
+- source: session_01HQHq6Myh5DeCS2D1oDVHxb · 2026-09-30T17:26:12.035587Z (cloud-7.md)
+- date: 2026-09-30
+- context: Claude used "gate" without explaining
+- tags: copy, frustration · standing: yes
+
+### E1947 · Impeccable should be offered, not silently applied
+- quote: "you can call out to me and say, hey, Impeccable says this. Are you interested in implementing this or whatever?"
+- source: session_01HQHq6Myh5DeCS2D1oDVHxb · 2026-09-30T17:05:59.948153Z (cloud-7.md)
+- date: 2026-09-30
+- context: How design critique rules from a plugin meet his design system
+- tags: process, review-board · standing: yes
+
+## 
+
+### E1948 · Label and clutter left on the Figma page
+- quote: "you built "Claude fix previews, for review. Delete after" on the cohorts page and i dont like the after idk if i said i did but i change my mind please take back whatever rule was established there it looks bad"
+- source: session_018KPbx1PZ5qT3FPqCo2K5f1 · 2026-09-25T02:42:00.842895Z (cloud-7.md)
+- date: 2026-09-25
+- context: A review frame added to the Cohorts page in Figma
+- tags: delivery, style, frustration · standing: one-off
+
+### E1949 · Asked for rules, got previews
+- quote: "i think i was supposed to be figuring out rules then wtf?"
+- source: session_018KPbx1PZ5qT3FPqCo2K5f1 · 2026-09-25T02:45:17.449672Z (cloud-7.md)
+- date: 2026-09-25
+- context: He asked whether the design system rules were established
+- tags: frustration, process · standing: one-off
+
+
+### E1950 · Show the real full version before deciding
+- quote: "maybe I just need to see it with the full rounded version of the component. And maybe that will make a difference. I don't know. But if you can show me that with this, like, let's not make a decision on this yet."
+- source: session_0174K5nWLK4ff5sxrN6t4GdM · 2026-09-23T18:57:41.820713Z (cloud-7.md)
+- date: 2026-09-23
+- context: Comparison drawing of the sync card with a partial loader
+- tags: review-board, decision-board · standing: yes
+
+### E1951 · Show me applied examples, not just a rule
+- quote: "So maybe you should show me a couple examples of if we did apply those weighting rules, how things would look."
+- source: session_0174K5nWLK4ff5sxrN6t4GdM · 2026-09-23T22:27:40.194203Z (cloud-7.md)
+- date: 2026-09-23
+- context: Spacing methods on cards
+- tags: review-board, decision-board · standing: yes
+
+### E1952 · Examples laid out in a table, three kinds by three options
+- quote: "Can you show me using these rules like what each output would look like then? Like, maybe give a couple examples of like different types of cards and what it would look like in each card at each A, B, and C, you know."
+- source: session_0174K5nWLK4ff5sxrN6t4GdM · 2026-09-23T22:41:55.742567Z (cloud-7.md)
+- date: 2026-09-23
+- context: Comparison board for spacing methods
+- tags: review-board, decision-board · standing: yes
+
+### E1953 · Layout of the comparison like a table
+- quote: "Essentially, like laid out basically, like kind of similar to how you did this table"
+- source: session_0174K5nWLK4ff5sxrN6t4GdM · 2026-09-23T22:41:55.742567Z (cloud-7.md)
+- date: 2026-09-23
+- context: Same ask, nine examples in total
+- tags: review-board, style · standing: yes
+
+### E1954 · Show exactly the options he named, nothing more
+- quote: "Option A, B, C, I'm asking for you to show me option A, B, C. That's it. I don't know if you're overcomplicating it or if I'm misunderstanding something."
+- source: session_0174K5nWLK4ff5sxrN6t4GdM · 2026-09-24T00:14:31.801820Z (cloud-7.md)
+- date: 2026-09-24
+- context: Redrawn spacing methods
+- tags: decision-board, frustration, process · standing: yes
+
+### E1955 · Labels on the drawing confused him
+- quote: "Wait, I don't think you did this correctly. Why are you showing me something with like specific spacing options? Like, all of them are going to follow the same spacing option. That wasn't the point."
+- source: session_0174K5nWLK4ff5sxrN6t4GdM · 2026-09-24T00:11:36.037243Z (cloud-7.md)
+- date: 2026-09-24
+- context: 5-spacing-levels drawing
+- tags: decision-board, copy, frustration · standing: yes
+
+### E1956 · Keep moving, do not overcomplicate
+- quote: "This feels overly complicated, like, to be honest with you. So, I want to make sure we're not getting too talking about things that aren't going to matter and make sure that we're moving forward and making progress on what we actually need to be doing, though"
+- source: session_0174K5nWLK4ff5sxrN6t4GdM · 2026-09-23T22:07:17.541258Z (cloud-7.md)
+- date: 2026-09-23
+- context: Detailed discussion of insets
+- tags: process, frustration · standing: yes
+
+### E1957 · Definitions he gave got lost
+- quote: "We already talked about distinguishing cards, so the fact that you never wrote that down, or like we've ever figured out a way to do that, is an issue, and that has gotten lost that we need to fix"
+- source: session_0174K5nWLK4ff5sxrN6t4GdM · 2026-09-23T22:31:54.911020Z (cloud-7.md)
+- date: 2026-09-23
+- context: The card against frame definition
+- tags: process, frustration · standing: yes
+
+### E1958 · Grouping rule: tighter within a group, larger between sections
+- quote: "The way you would typically space these is you would have tighter spacing between the content within that section, like that, you know, the header text and supporting text, then you would have a little bit more spacing between the sections like that, you know, those together and the buttons."
+- source: session_0174K5nWLK4ff5sxrN6t4GdM · 2026-09-23T22:31:54.911020Z (cloud-7.md)
+- date: 2026-09-23
+- context: Dialog and card spacing in the product
+- tags: product, style · standing: yes
+
+### E1959 · Spacing inside a card never greater than the margins
+- quote: "one of the rules that should maybe be built into the design system or something is like the spacing between two items, for instance, in a card like this should never be greater than the margins because then it starts looking odd."
+- source: session_0174K5nWLK4ff5sxrN6t4GdM · 2026-09-23T20:10:03.487674Z (cloud-7.md)
+- date: 2026-09-23
+- context: Product card spacing
+- tags: product, style · standing: yes
+
+### E1960 · Basic grouping principle keeps being missed
+- quote: "the spacing between the year schedule time blah text and the turn of calendar scene title should be less than the space between that grouping of the turn of calendar sync title and then the supporting text below and like that grouping and the buttons like that should be greater right because you're separating them and you're defining two separate sections visually that's why the spacing needs to be different"
+- source: session_0174K5nWLK4ff5sxrN6t4GdM · 2026-09-24T00:22:13.938399Z (cloud-7.md)
+- date: 2026-09-24
+- context: Third card in the grouping comparison
+- tags: product, style, frustration · standing: yes
+
+### E1961 · Divider lines must be visible
+- quote: "the stroke between user interface designer and the UI designer specializes in creating visually appealing and intuitive software interfaces, blah blah blah. It's like almost unseeable, so that will need fixed."
+- source: session_0174K5nWLK4ff5sxrN6t4GdM · 2026-09-24T00:22:13.938399Z (cloud-7.md)
+- date: 2026-09-24
+- context: Career dialog divider in the comparison drawing
+- tags: product, style · standing: yes
+
+### E1962 · Lost the whole context in another chat
+- quote: "what happened is I went over there and you lost the entire context of what we were doing. Like we are literally freaking like I don't even know what to say at this point. Like it's crazy. You lost the entire plot. You this is really frustrating."
+- source: session_0174K5nWLK4ff5sxrN6t4GdM · 2026-09-24T00:56:49.999331Z (cloud-7.md)
+- date: 2026-09-24
+- context: Continuing in a new chat without the history
+- tags: frustration, process, delivery · standing: yes
+
+### E1963 · Blocked from getting his own transcript
+- quote: "you should not be blocking me from getting the information from my own chats. This is an issue."
+- source: session_0174K5nWLK4ff5sxrN6t4GdM · 2026-09-24T00:53:46.111667Z (cloud-7.md)
+- date: 2026-09-24
+- context: Safety classifier stopped transcript extraction
+- tags: frustration, process, delivery · standing: yes
+
+### E1964 · Fix the structure, not the one error
+- quote: "No, the point is that this like something is structured in a way incorrectly where this would ever happen. This is not just that it's an error that it's causing this, it's because the way of something's set up. So I'm asking what we need to change in the way something is set up"
+- source: session_0174K5nWLK4ff5sxrN6t4GdM · 2026-09-24T00:54:45.715428Z (cloud-7.md)
+- date: 2026-09-24
+- context: Same
+- tags: process · standing: yes
+
+### E1965 · Do not answer from memory
+- quote: "Don't answer from memory. Read your own full transcript file under ~/.claude/projects/-home-user-mondai/ (the newest .jsonl), and pull out every message I sent, verbatim, in order."
+- source: session_0174K5nWLK4ff5sxrN6t4GdM · 2026-09-24T00:46:48.160859Z (cloud-7.md)
+- date: 2026-09-24
+- context: Creating a handoff of his messages
+- tags: process · standing: yes
+
+### E1966 · Developer words he does not use
+- quote: "But it's the PR you keep saying PR and I get confused. I don't know what the PR is bro."
+- source: session_0174K5nWLK4ff5sxrN6t4GdM · 2026-09-24T22:53:33.134844Z (cloud-7.md)
+- date: 2026-09-24
+- context: Claude kept saying "PR"
+- tags: copy, frustration · standing: yes
+
+### E1967 · Does not know what is in the pull request
+- quote: "Oh, but I don't know if the pull request is something I want to commit or notBecause I don't really know what's in there."
+- source: session_0174K5nWLK4ff5sxrN6t4GdM · 2026-09-24T22:54:09.857249Z (cloud-7.md)
+- date: 2026-09-24
+- context: Asked whether to merge
+- tags: copy, decision-board, delivery · standing: yes
+
+### E1968 · Continues work elsewhere after a failure
+- quote: "I'm continuing this work elsewhere because you didn't help me out"
+- source: session_0174K5nWLK4ff5sxrN6t4GdM · 2026-09-24T22:49:22.745657Z (cloud-7.md)
+- date: 2026-09-24
+- context: End of the comparisons chat
+- tags: frustration · standing: one-off
+
+
+### E1969 · Every square must be movable on the canvas
+- quote: "I need you to modify all of these so that I cna move individual squares to different places. currently its set up so entire clusters are grouped together but i can not separate the individual squares. this makes it impossible for me to move them around and play with the positios you create and improve them on canvas. i need this ability. /unlazy"
+- source: session_011Y5uqrXNsKHrQ4d1Tun42X · 2026-09-13T18:17:25.849302Z (cloud-7.md)
+- date: 2026-09-13
+- context: Hero branch canvases, clusters were one grouped image
+- tags: editor, interaction, review-board · standing: yes
+
+### E1970 · Repeated rule, apply everywhere
+- quote: "same small square issue. REMOVE SMALL SQUARES LIKE THIS FROM ALL BRANCHES. SMALL SQUARES ARE ONLY FOR THE LIME GREEN BOXES THAT ARE IN RANDOM CORNERS OF THE LARGER SQUARES /unlazy"
+- source: session_011Y5uqrXNsKHrQ4d1Tun42X · 2026-09-13T18:15:58.812948Z (cloud-7.md)
+- date: 2026-09-13
+- context: Comment on a branch canvas, after repeating "same small square issue" on five boards
+- tags: frustration, process, review-board · standing: yes
+
+### E1971 · Already told you once
+- quote: "I have already previously mentioned the behavior fo the small squares and that this should never be liek this.  fix it."
+- source: session_011Y5uqrXNsKHrQ4d1Tun42X · 2026-09-13T18:14:53.895125Z (cloud-7.md)
+- date: 2026-09-13
+- context: Comment on a branch canvas
+- tags: frustration · standing: yes
+
+### E1972 · Black overlay blocks must align with the pixel blocks
+- quote: "the black opacity blocks here are off. they should always align with the pixel blocks."
+- source: session_011Y5uqrXNsKHrQ4d1Tun42X · 2026-09-13T18:21:53.114183Z (cloud-7.md)
+- date: 2026-09-13
+- context: Elements branch canvas
+- tags: review-board, style · standing: one-off
+
+### E1973 · Cut every variant except the source
+- quote: "just delete all  explorations for this branch except the main source one. you have not managed to recreate what i liked about the source one."
+- source: session_011Y5uqrXNsKHrQ4d1Tun42X · 2026-09-13T18:19:27.613019Z (cloud-7.md)
+- date: 2026-09-13
+- context: Degree show branch canvas
+- tags: review-board, decision-board · standing: one-off
+
+### E1974 · Cut every branch board
+- quote: "the nly one that is okay at all (except the indepdendent smaller blocks) is this one. all branch options can be deleted."
+- source: session_011Y5uqrXNsKHrQ4d1Tun42X · 2026-09-13T18:20:26.971689Z (cloud-7.md)
+- date: 2026-09-13
+- context: Corridor branch canvas
+- tags: review-board, decision-board · standing: one-off
+
+### E1975 · Canvas comments are his approve, cut and promote channel
+- quote: "create in figma as well. make main replace soruce with this one. and put in main but delete branch"
+- source: session_011Y5uqrXNsKHrQ4d1Tun42X · 2026-09-13T19:40:06.452536Z (cloud-7.md)
+- date: 2026-09-13
+- context: Artifact comment on a branch canvas; he also wrote "delete branch", "create in figma" on other boards
+- tags: review-board, decision-board, delivery · standing: yes
+
+### E1976 · Put the Figma frames where he said
+- quote: "create segment soruce and segment shape 2 in my figma board on the hero exploration page on the chadwick's workstation board on the bottom right."
+- source: session_011Y5uqrXNsKHrQ4d1Tun42X · 2026-09-13T19:35:34.907279Z (cloud-7.md)
+- date: 2026-09-13
+- context: Artifact comment; where chosen boards land in Figma
+- tags: delivery · standing: one-off
+
+### E1977 · Figma build left parts out
+- quote: "you created the figma frames but didnt include the overlays?"
+- source: session_011Y5uqrXNsKHrQ4d1Tun42X · 2026-09-13T20:23:00.156982Z (cloud-7.md)
+- date: 2026-09-13
+- context: Figma build of the chosen hero boards; he then said "masks" instead of "overlays"
+- tags: frustration, delivery · standing: yes
+
+### E1978 · The answer was in the file and in the session
+- quote: "they have been in the file. they were also accessible to you here to know which ones to use."
+- source: session_011Y5uqrXNsKHrQ4d1Tun42X · 2026-09-13T20:33:25.708634Z (cloud-7.md)
+- date: 2026-09-13
+- context: Claude asked him which items to use
+- tags: frustration, process · standing: yes
+
+### E1979 · 1. Examples outside Figma first, Figma once at the end
+- quote: "you should not be building these right in Figma. It's a waste of tokens. I need you to build me the examples here, the finished examples, even if they're not like completely perfect design system, get as close as possible so we can figure out the way everything's going to be organized, and then we build once we decide with the actual Figma stuff and then full styling."
+- source: mondai/cohorts/CHADWICK-SAID.md · session transcript, about 19 to 20 Sep 2026 (file records times only: 23:40) (repos.md)
+- date: 2026-09-19
+- context: Cohorts screens, first record of the canvas-first rule
+- tags: process, delivery, frustration · standing: yes
+
+### E1980 · 2. Explorations are cheaper outside Figma
+- quote: "the explorations were supposed to be built in here because it costs less token-wise in Figma."
+- source: mondai/cohorts/CHADWICK-SAID.md · session transcript, about 19 to 20 Sep 2026 (22:10) (repos.md)
+- date: 2026-09-19
+- context: Cohorts screens
+- tags: process · standing: yes
+
+### E1981 · 3. Show all options as an image to decide
+- quote: "Why don't you show me all three examples in an image so we can decide between them?"
+- source: mondai/cohorts/CHADWICK-SAID.md · session transcript, about 19 to 20 Sep 2026 (19:16) (repos.md)
+- date: 2026-09-19
+- context: Cohorts home options
+- tags: decision-board, review-board · standing: yes
+
+### E1982 · 4. Show every screen, not one sample
+- quote: "I want to see in this next output all nine fucking proposed ideas for every single screen. Not just the home."
+- source: mondai/cohorts/CHADWICK-SAID.md · session transcript, about 19 to 20 Sep 2026 (20:11) (repos.md)
+- date: 2026-09-19
+- context: Cohorts screens
+- tags: review-board, frustration · standing: yes
+
+### E1983 · 5. Use the file link to reach every page; do not ask for each
+- quote: "If I send you a link to a file, you can go to any of the other pages you want. It is crazy that you keep messing that up. Asking me to send you a link to every single screen. That's not necessary. Of course, you can go to the other pages."
+- source: mondai/cohorts/CHADWICK-SAID.md · session transcript, about 19 to 20 Sep 2026 (22:23) (repos.md)
+- date: 2026-09-19
+- context: Reading a Figma file
+- tags: process, frustration · standing: yes
+
+### E1984 · 6. No markers on drawn screens
+- quote: "Don't put a magenta mark beside placeholder, that makes the UI look more complicated. It's all placeholder right now."
+- source: mondai/cohorts/CHADWICK-SAID.md · session transcript, about 19 to 20 Sep 2026 (19:16) (repos.md)
+- date: 2026-09-19
+- context: Cohorts screens
+- tags: style, frustration · standing: yes
+
+### E1985 · 7. No extra frames
+- quote: "Always make sure you're not like adding an additional frame. Not every text element added in needs a frame around it."
+- source: mondai/cohorts/CHADWICK-SAID.md · session transcript, about 19 to 20 Sep 2026 (19:05) (repos.md)
+- date: 2026-09-19
+- context: Figma build hygiene
+- tags: process, product · standing: yes
+
+### E1986 · 8. No spacers
+- quote: "Definitely don't ever include spacers."
+- source: mondai/cohorts/CHADWICK-SAID.md · session transcript, about 19 to 20 Sep 2026 (19:05) (repos.md)
+- date: 2026-09-19
+- context: Figma build hygiene
+- tags: process, product · standing: yes
+
+### E1987 · 9. Bigger margins when there is less content
+- quote: "play with the margins more. I think because there's less content on this area, utilizing and like framing the content, pushing the bigger margins would make it so the design looks better overall."
+- source: mondai/cohorts/CHADWICK-SAID.md · session transcript, about 19 to 20 Sep 2026 (20:20) (repos.md)
+- date: 2026-09-19
+- context: Cohorts screens
+- tags: style, product · standing: one-off
+
+### E1988 · 10. Screens read like an article, a trap
+- quote: "it kind of feels almost like a document where you have the left line, the header text at the top, and then text below that like supporting text, and then above the header text it's like an eyebrow. It's like I'm reading an article."
+- source: mondai/cohorts/CHADWICK-SAID.md · session transcript, about 19 to 20 Sep 2026 (19:32) (repos.md)
+- date: 2026-09-19
+- context: Cohorts home
+- tags: style, product, frustration · standing: yes
+
+### E1989 · 11. Draw from real patterns
+- quote: "I've never seen a members list like this in my life. It's like not drawing from any patterns, you're just like making random shit in groups up."
+- source: mondai/cohorts/CHADWICK-SAID.md · session transcript, about 19 to 20 Sep 2026 (19:32) (repos.md)
+- date: 2026-09-19
+- context: Cohorts members list
+- tags: style, product, frustration · standing: yes
+
+### E1990 · 12. Presence as a dot, a known pattern
+- quote: "Assuming these will be pictures right of each user then you would just have like a little circle in the corner. That's a universally recognized pattern."
+- source: mondai/cohorts/CHADWICK-SAID.md · session transcript, about 19 to 20 Sep 2026 (19:32) (repos.md)
+- date: 2026-09-19
+- context: Cohorts members
+- tags: style, product · standing: one-off
+
+### E1991 · 13. Far less text on a page, usable
+- quote: "this is over the top in terms of how much output is there. It's over-engineered. There's too much way, way, way, way, way too much text to be usable. You should not be mentioning Michael's name directly either in any of this, since it'll be a document going out to everyone. You don't speak to the writer of that document. That's not the way this should be being done"
+- source: mondai/process/CHADWICK-ASKS-archive.md · A22, 28 Sep 2026 (repos.md)
+- date: 2026-09-28
+- context: Journey Advisement flows page
+- tags: copy, frustration · standing: yes
+
+### E1992 · 14. Visual HTML or slideshow, about a quarter of the text
+- quote: "something other than like a typed-up document maybe we do like a slideshow or some kind of HTML file where it shows things more visually or whatever. But the idea is here is to not have a ton of text at all like 25% of the text that you would include is something like the full transcript, right?"
+- source: mondai/process/CHADWICK-ASKS-archive.md · 28 Sep 2026, 'Let's pause this temporarily again' (repos.md)
+- date: 2026-09-28
+- context: Wanting a simplified explainer before research
+- tags: review-board, copy, delivery · standing: yes
+
+### E1993 · 15. Running list of everything he says
+- quote: "Make sure to create a running list of everything I'm saying here so you make sure each issue is tackled."
+- source: mondai/process/CHADWICK-ASKS-archive.md · 28 Sep 2026, 'Let's pause this temporarily again' (repos.md)
+- date: 2026-09-28
+- context: Process discussion
+- tags: process · standing: yes
+
+### E1994 · 16. Self-test before sending
+- quote: "do not send an output until you can pass your own test of that."
+- source: mondai/process/CHADWICK-ASKS-archive.md · 28 Sep 2026, 'Let's pause this temporarily again' (repos.md)
+- date: 2026-09-28
+- context: Process discussion
+- tags: process · standing: yes
+
+### E1995 · 17. Show him what the research holds
+- quote: "I need something that shows me what you have"
+- source: mondai/process/CHADWICK-ASKS-archive.md · 28 Sep 2026, 'Let's pause this temporarily again' (repos.md)
+- date: 2026-09-28
+- context: Research documents
+- tags: delivery, review-board · standing: yes
+
+### E1996 · 18. Screens on a canvas he can comment on
+- quote: "can you do this on a canvas or something so i can make comments? work that into oru regular flow"
+- source: mondai/process/CHADWICK-ASKS-archive.md · A27, 29 Sep 2026 (repos.md)
+- date: 2026-09-29
+- context: Journey Advisement screens page
+- tags: review-board, delivery · standing: yes
+
+### E1997 · 19. Show base screens first as HTML before building in Figma
+- quote: "In Figma, show them to me first so they can be approved. Build them in an HTML format"
+- source: mondai/process/CHADWICK-ASKS-archive.md · A25, 29 Sep 2026 (repos.md)
+- date: 2026-09-29
+- context: Starting Journey Advisement screens
+- tags: process, delivery · standing: yes
+
+### E1998 · 20. Canvas is for design review, not Notion
+- quote: "I don't ever drop. I don't know why it was put in here that I'm dropping this in Notion at the Canvas stage. Canvas stage is an audit process that for design, why would I show unfinished designs and put them on Notion?"
+- source: mondai/process/CHADWICK-ASKS-archive.md · Archive, section 30 Sep 2026 (merged 7 Oct) (repos.md)
+- date: 2026-09-30
+- context: Where review pages go
+- tags: delivery, review-board · standing: yes
+
+### E1999 · 21. Likes the canvas for comments and live updates; dislikes wireframe look
+- quote: "I like the canvas a lot because it allows me to go in there and make comments and stuff, right? And really like have the AI like update things as we go. The downside of that is at the Canvas stage, it's not utilizing my components at all. They feel a little bit more wireframe-y to a certain extents."
+- source: mondai/process/audit-2026-10-14-misses/evidence/his-words/p2-words.md · line 55 (session session_01WJoqCa6c1auKN9R5exGU8t, message at 2026-10-02T22:29:04Z UTC) (repos.md)
+- date: 2026-10-02
+- context: Comparing canvas review with Figma review
+- tags: review-board, delivery, style · standing: yes
+
+### E2000 · 22. Canvas first because building in Figma costs tokens and time
+- quote: "So one reason that I had been doing Canvas first this, I guess from my understanding, like building Infigma costs a lot of tokens, and so not seeing that at all before it's actually built is like a waste of tokens, it's also a waste of time that it takes to build those, right?"
+- source: mondai/process/audit-2026-10-14-misses/evidence/his-words/p2b-words.md · line 8 (session session_012npadsWtaDCnTxznUvRtmZ, message at 2026-10-02T22:59:03Z UTC) (repos.md)
+- date: 2026-10-02
+- context: Weighing canvas review against Figma review
+- tags: process, delivery · standing: yes
+
+### E2001 · 23. He reviews by talking, not by Figma comments
+- quote: "Usually, I don't read comments, like, I don't book comments on Figma for the AI to read. I use my voice all the time when I'm communicating, so typically what I'll do is I'll go into Figma and I'll start talking."
+- source: mondai/process/audit-2026-10-14-misses/evidence/his-words/p2b-words.md · line 8 (session session_012npadsWtaDCnTxznUvRtmZ, message at 2026-10-02T22:59:03Z UTC) (repos.md)
+- date: 2026-10-02
+- context: Same exchange
+- tags: process, delivery · standing: yes
+
+### E2002 · 24. Canvas comments work when he cannot talk
+- quote: "The biggest benefit for using Canva, honestly, was that I could do the comments and I really like that process. It's really nice. And also, like, I can't always use my voice."
+- source: mondai/process/audit-2026-10-14-misses/evidence/his-words/p2b-words.md · line 14 (session session_012npadsWtaDCnTxznUvRtmZ, message at 2026-10-02T23:07:30Z UTC) (repos.md)
+- date: 2026-10-02
+- context: Same exchange
+- tags: review-board, delivery · standing: yes
+
+### E2003 · 25. Option to bring Figma screens into the canvas for comments
+- quote: "once everything's built in Figma, I can either go into Figma and doing my review, or we can bring it all into Canvas so I can do it with the comments instead"
+- source: mondai/process/audit-2026-10-14-misses/evidence/his-words/p2b-words.md · line 15 (session session_012npadsWtaDCnTxznUvRtmZ, message at 2026-10-02T23:08:28Z UTC) (repos.md)
+- date: 2026-10-02
+- context: Same exchange
+- tags: review-board, delivery · standing: yes
+
+### E2004 · 26. Screenshots in the canvas to point at details
+- quote: "I think it you were talking about taking screenshots and then making inputting that in the canvas and me making edits that way too. That's probably better because I can like indicate specific things. Maybe Though this is where it gets hard, right? Because then I'm like, well, if it was in Canva, I could like figure it out because sometimes I may not know the exact specification, for instance, if I want spacing changed. I can't like change that spacing and see what it would actually look like and make a confirmation"
+- source: mondai/process/audit-2026-10-14-misses/evidence/his-words/p2b-words.md · line 10 (session session_012npadsWtaDCnTxznUvRtmZ, message at 2026-10-02T23:02:53Z UTC) (repos.md)
+- date: 2026-10-02
+- context: Same exchange
+- tags: review-board, interaction · standing: one-off
+
+### E2005 · 27. Think with him, not for him
+- quote: "So please ask me questions, don't just go based off of what I'm saying. Respond. Like talk to me, like listen to what I'm saying and actually think about it with me"
+- source: mondai/process/audit-2026-10-14-misses/evidence/his-words/p2b-words.md · line 12 (session session_012npadsWtaDCnTxznUvRtmZ, message at 2026-10-02T23:05:54Z UTC) (repos.md)
+- date: 2026-10-02
+- context: Process discussion
+- tags: process · standing: one-off
+
+### E2006 · 28. Small fixes should take the time the fixes take
+- quote: "I did not ask for changes. This should have made anything take that long. The changes I put in, I could have easily changed myself and probably a quarter of the time, maybe half"
+- source: mondai/process/audit-2026-10-14-misses/evidence/his-words/p2b-words.md · line 47 (session session_01WJoqCa6c1auKN9R5exGU8t, message at 2026-10-02T21:40:16Z UTC) (repos.md)
+- date: 2026-10-02
+- context: A session redrew HTML on the canvas for every fix instead of applying edits
+- tags: process, frustration · standing: yes
+
+### E2007 · 29. Deliver the format he asked for, no extra index page
+- quote: "The transcript file should never be HTML. Make sure that's on the record going forward. I don't know why you're sending me an index.html file either. Like, I just need the transcript. That's all this first step should be: transcribing what I sent."
+- source: mondai/process/CHADWICK-ASKS-archive.md · 2 Oct 2026, Student Advisement stage 1 (repos.md)
+- date: 2026-10-02
+- context: Transcription step
+- tags: delivery, frustration · standing: yes
+
+### E2008 · 30. Do not fill every screen to the brim
+- quote: "I still again don't understand why so much space is being taken up. You're literally filling every single screen to the bram. Why?"
+- source: mondai/journey-advisement/refero-redesign/REVISION-NOTES.md · Canvas comment M7.2, 2 Oct 2026 (repos.md)
+- date: 2026-10-02
+- context: Journey Advisement redesign canvas
+- tags: style, product, frustration · standing: yes
+
+### E2009 · 31. Over framing and over engineering
+- quote: "you're overframing everything and like over engineering stuff so it feels overly complicated again compared to the original"
+- source: mondai/journey-advisement/refero-redesign/REVISION-NOTES.md · Canvas comment M6.3, 2 Oct 2026 (repos.md)
+- date: 2026-10-02
+- context: Journey Advisement redesign canvas
+- tags: style, product, frustration · standing: yes
+
+### E2010 · 32. Too many frames
+- quote: "Too many frames, you keep stacking so many frames for some reason"
+- source: mondai/journey-advisement/refero-redesign/REVISION-NOTES.md · Canvas comment M7.4, 2 Oct 2026 (repos.md)
+- date: 2026-10-02
+- context: Journey Advisement redesign canvas
+- tags: product, frustration · standing: yes
+
+### E2011 · 33. Menu sections collapse and expand from anywhere
+- quote: "you should be able to just like click each of the four options for the original menu and expand it to see it no matter where you are. Like collapse and expand it."
+- source: mondai/journey-advisement/refero-redesign/REVISION-NOTES.md · Canvas comment M2.9, 2 Oct 2026 (repos.md)
+- date: 2026-10-02
+- context: Step menu on application screens
+- tags: shell, navigation, interaction, product · standing: yes
+
+### E2012 · 34. Redesign worse than the original
+- quote: "the original just feels so much cleaner, and then yours again is over-engineered and it's weirdly filling the spaces and not utilizing the proper it's like you're trying to use somebody else's design system or margins or something within ours or something weird. It's like spaced out, it looks crazy"
+- source: mondai/journey-advisement/refero-redesign/REVISION-NOTES.md · Canvas comment M9.1, 2 Oct 2026 (repos.md)
+- date: 2026-10-02
+- context: Journey Advisement redesign canvas
+- tags: style, product, frustration · standing: yes
+
+### E2013 · 35. Canvas not using his design system
+- quote: "why rent you using my design system?"
+- source: mondai/journey-advisement/refero-redesign/REVISION-NOTES.md · Canvas comment M2.1, 2 Oct 2026 (repos.md)
+- date: 2026-10-02
+- context: Journey Advisement redesign canvas, preview card
+- tags: style, frustration · standing: yes
+
+### E2014 · 36. The product is dark only
+- quote: "It's dark only"
+- source: mondai/mondai/reference/DECISIONS.md · 2 Oct 2026 entry (repos.md)
+- date: 2026-10-02
+- context: Colour mode of the product
+- tags: style, product · standing: one-off
+
+### E2015 · 37. Wants to take part in the decisions
+- quote: "I want to be more involved in the decision-making process. So, I want to be less reliant on you to decide every single UX thing or whatever."
+- source: mondai/process/audit-2026-10-14-misses/evidence/his-words/p3-words.md · line 84 (session session_01TQXMZ3DdSGnHSyKCPDe8Qa, message at 2026-10-07T01:25:16Z UTC) (repos.md)
+- date: 2026-10-07
+- context: Asking for an interactive review interface for open UX questions instead of reading long chat output
+- tags: review-board, decision-board · standing: yes
+
+### E2016 · 38. Only state what is valuable, keep output short
+- quote: "Only state information when it's valuable, because otherwise, I have to read way too much and it's not necessary. It feels like this could be a lot shorter, like your output, and it would be easier for me to consume"
+- source: mondai/process/audit-2026-10-14-misses/evidence/his-words/p3-words.md · line 84 (session session_01TQXMZ3DdSGnHSyKCPDe8Qa, message at 2026-10-07T01:25:16Z UTC) (repos.md)
+- date: 2026-10-07
+- context: Reacting to a long output listing states and placeholders for a screen round
+- tags: copy, review-board · standing: yes
+
+### E2017 · 39. Screen three quarters of the view, arrows, keyboard, no scrolling
+- quote: "I don't really want to read through this anymore because I feel like it's just like a lot and it would be way easier if I didn't have to scroll. Like, I'm imagining the screen taking up at least like three-quarters of the page space, and then like there being like some kind of like arrows that I can click that would be like I could also use my keyboard to click left and right on or something like that, right?"
+- source: mondai/process/audit-2026-10-14-misses/evidence/his-words/p3-words.md · line 84 (session session_01TQXMZ3DdSGnHSyKCPDe8Qa, message at 2026-10-07T01:25:16Z UTC) (repos.md)
+- date: 2026-10-07
+- context: Asking for a review interface for screens in place of a long scrolling document
+- tags: review-board, shell, interaction, navigation · standing: yes
+
+### E2018 · 40. Decisions and comments inside the viewer, quiz style with next arrows
+- quote: "Where any decisions that I need to be that need to be made at a certain point or whatever, I can make them there and I can add comments in and maybe any questions that you have related to this that you think that I would want that you would think an answer is needed for to prove the results or whatever, right? Like, you could put that in there, and that could be a little quiz interface that, even if you had multiple questions, I could have like arrows or something to go to the next one or something like that in there, too."
+- source: mondai/process/audit-2026-10-14-misses/evidence/his-words/p3-words.md · line 84 (session session_01TQXMZ3DdSGnHSyKCPDe8Qa, message at 2026-10-07T01:25:16Z UTC) (repos.md)
+- date: 2026-10-07
+- context: Same message: the decision quiz inside the review interface
+- tags: decision-board, review-board, interaction · standing: yes
+
+### E2019 · 41. Look of the review tool: brutalist, Monday adjacent, not Monday
+- quote: "And it would be really cool if we could make it kind of brutalist, maybe. Like, I think there's a brutalist scale. I don't know if that would work for something like product, but if we could make it a little bit more brutalist, that could be cool too. Like the interface itself. Like, I want to do like Monday adjacent, like, it goes with Monday, but it's not Monday, right?"
+- source: mondai/process/audit-2026-10-14-misses/evidence/his-words/p3-words.md · line 84 (session session_01TQXMZ3DdSGnHSyKCPDe8Qa, message at 2026-10-07T01:25:16Z UTC) (repos.md)
+- date: 2026-10-07
+- context: Same message: how the review interface itself should look
+- tags: style, review-board · standing: yes
+
+### E2020 · 42. Review tool look: square, boxy, old school UI
+- quote: "something that's more square in Boxy and kind of gives like reference to like old school UI, right? Where everything is like more square and like things were wider or whatever"
+- source: mondai/process/audit-2026-10-14-misses/evidence/his-words/p3-words.md · line 84 (session session_01TQXMZ3DdSGnHSyKCPDe8Qa, message at 2026-10-07T01:25:16Z UTC) (repos.md)
+- date: 2026-10-07
+- context: Same message
+- tags: style · standing: one-off
+
+### E2021 · 43. Review tool type: Heebo with IBM Plex Sans Mono
+- quote: "using like maybe like Hebo or Satoshi and maybe you could show me what each would look like and then have like maybe use like our mono font to actually probably like IBM Plexans Mano would be good and that would be good with Hebo because they pair well together and it would feel design system adjacent"
+- source: mondai/process/audit-2026-10-14-misses/evidence/his-words/p3-words.md · line 84 (session session_01TQXMZ3DdSGnHSyKCPDe8Qa, message at 2026-10-07T01:25:16Z UTC) (repos.md)
+- date: 2026-10-07
+- context: Same message: fonts for the review interface
+- tags: style · standing: one-off
+
+### E2022 · 44. Review tool colour: black with white outlines
+- quote: "imagine it being like black with like the main colors like white outlines like maybe like zero like 200 or something like that for my design system and it's like black and white"
+- source: mondai/process/audit-2026-10-14-misses/evidence/his-words/p3-words.md · line 84 (session session_01TQXMZ3DdSGnHSyKCPDe8Qa, message at 2026-10-07T01:25:16Z UTC) (repos.md)
+- date: 2026-10-07
+- context: Same message
+- tags: style · standing: one-off
+
+### E2023 · 45. Do not label placeholders, readers can tell
+- quote: "I don't know what placeholders on the screen, the reply time as the mentor said it in M216. You don't have to say that, placeholders. You don't have to put place like say the placeholders. Like, the guy can't figure that out that something's a placeholder. Are you kidding me? That doesn't make any sense."
+- source: mondai/process/audit-2026-10-14-misses/evidence/his-words/p3-words.md · line 84 (session session_01TQXMZ3DdSGnHSyKCPDe8Qa, message at 2026-10-07T01:25:16Z UTC) (repos.md)
+- date: 2026-10-07
+- context: Same message: notes under each drawn screen
+- tags: copy · standing: one-off
+
+### E2024 · 46. Dropped the brutalism skill
+- quote: "The brutalism skill is horrible. Get rid of it. Like, F that. Like, we don't like that anymore."
+- source: mondai/process/audit-2026-10-14-misses/evidence/his-words/p3-words.md · line 87 (session session_01TQXMZ3DdSGnHSyKCPDe8Qa, message at 2026-10-07T01:43:33Z UTC) (repos.md)
+- date: 2026-10-07
+- context: Reacting to a tool look built with an industrial brutalist skill; he sent his own inspirations
+- tags: style, frustration · standing: one-off
+
+### E2025 · 47. Medium weight only and more than one look
+- quote: "Can we do like no bold fonts only medium looks like you're using like extra bold for some reason? I don't know if that's like the brutalism stuff, like bleeding over still or something, but and then can you actually give me a couple options I see that you copied like the style of like it looks like one specific one, which is fine because I know I asked for dark mode, but I'd like to see a few more options."
+- source: mondai/process/audit-2026-10-14-misses/evidence/his-words/p3-words.md · line 88 (session session_01TQXMZ3DdSGnHSyKCPDe8Qa, message at 2026-10-07T01:51:15Z UTC) (repos.md)
+- date: 2026-10-07
+- context: Reviewing the first review interface build; he had asked for dark mode
+- tags: style, review-board · standing: one-off
+
+### E2026 · 48. Settled on one font, stop offering font options
+- quote: "we're settled on the font, so we don't need that anymore"
+- source: mondai/process/audit-2026-10-14-misses/evidence/his-words/p3-words.md · line 93 (session session_01TQXMZ3DdSGnHSyKCPDe8Qa, message at 2026-10-07T18:44:57Z UTC) (repos.md)
+- date: 2026-10-07
+- context: Review interface revision: remove the Satoshi option
+- tags: style · standing: one-off
+
+### E2027 · 49. Wants to know whether picks save and how he finishes
+- quote: "will this save automatically? Or like, what happens? Like, can I just click finish? Or what, like, what is the flow"
+- source: mondai/process/audit-2026-10-14-misses/evidence/his-words/p3-words.md · line 94 (session session_01TQXMZ3DdSGnHSyKCPDe8Qa, message at 2026-10-07T18:52:05Z UTC) (repos.md)
+- date: 2026-10-07
+- context: Using the first review interface
+- tags: review-board, interaction · standing: yes
+
+### E2028 · 50. Every multiple choice gets an Other with a custom note
+- quote: "the multiple choice options should always have another option to choose on top of the recommend, like the options you choose, and then I would put in a custom note to specify what the other is"
+- source: mondai/process/audit-2026-10-14-misses/evidence/his-words/p3-words.md · line 95 (session session_01TQXMZ3DdSGnHSyKCPDe8Qa, message at 2026-10-07T18:52:27Z UTC) (repos.md)
+- date: 2026-10-07
+- context: Review interface decisions
+- tags: decision-board · standing: yes
+
+### E2029 · 51. The tool should inform Claude of his edits
+- quote: "You should be able to update it so it informs you as I make edits. I actually recently had this happen for the first time with Claude when they created something for me"
+- source: mondai/process/audit-2026-10-14-misses/evidence/his-words/p3-words.md · line 96 (session session_01TQXMZ3DdSGnHSyKCPDe8Qa, message at 2026-10-07T18:52:43Z UTC) (repos.md)
+- date: 2026-10-07
+- context: Review interface: saved answers read back by the session
+- tags: delivery, review-board · standing: yes
+
+### E2030 · 52. Tell Claude once at Finish or Save, not per answer
+- quote: "I don't mean for it to inform you for each reply so that you feel like you have to reply back. So, if that's what would result in, then you can just wait until I click finish or save, and then it should update you without me having to tell you"
+- source: mondai/process/audit-2026-10-14-misses/evidence/his-words/p3-words.md · line 97 (session session_01TQXMZ3DdSGnHSyKCPDe8Qa, message at 2026-10-07T18:53:11Z UTC) (repos.md)
+- date: 2026-10-07
+- context: Same exchange
+- tags: delivery, review-board · standing: yes
+
+### E2031 · 53. Auto-save so leaving and coming back keeps his work
+- quote: "Can you just make sure that includes auto-save? So if I do something and then leave and come back, it's not, I don't have to redo it"
+- source: mondai/process/audit-2026-10-14-misses/evidence/his-words/p3-words.md · line 98 (session session_01TQXMZ3DdSGnHSyKCPDe8Qa, message at 2026-10-07T18:56:03Z UTC) (repos.md)
+- date: 2026-10-07
+- context: Review interface
+- tags: interaction, review-board · standing: yes
+
+### E2032 · 54. Right panel must align with the left section, no overlap
+- quote: "can you please make sure that the right panel aligns with the left section? I didn't mean for it to like overlap like that."
+- source: mondai/process/audit-2026-10-14-misses/evidence/his-words/p3-words.md · line 99 (session session_01TQXMZ3DdSGnHSyKCPDe8Qa, message at 2026-10-07T18:57:42Z UTC) (repos.md)
+- date: 2026-10-07
+- context: Review interface layout
+- tags: shell, review-board · standing: one-off
+
+### E2033 · 55. Inspiration sets style, not shape or layout
+- quote: "I think maybe you took it too literally in terms of like the shape I was meant to. The style, the style is quite different than the shape or the layout. That shouldn't inform the design. That's where the UX should be informing the actual layout and design"
+- source: mondai/process/audit-2026-10-14-misses/evidence/his-words/p3-words.md · line 99 (session session_01TQXMZ3DdSGnHSyKCPDe8Qa, message at 2026-10-07T18:57:42Z UTC) (repos.md)
+- date: 2026-10-07
+- context: Review interface built too literally from his inspiration images
+- tags: style, process · standing: yes
+
+### E2034 · 56. Finishing in the tool should be enough, no telling the chat
+- quote: "I have finished. I thought I didn't have to tell you that"
+- source: mondai/process/audit-2026-10-14-misses/evidence/his-words/p3-words.md · line 100 (session session_01TQXMZ3DdSGnHSyKCPDe8Qa, message at 2026-10-07T19:14:11Z UTC) (repos.md)
+- date: 2026-10-07
+- context: Review interface: no automatic hand back at the time
+- tags: delivery, frustration · standing: yes
+
+### E2035 · 57. Accidental zoom with no way back
+- quote: "I don't know what's going on, but it's like I'm like zoomed in now, and I didn't mean to be, and I'm like stuck on one of the images, and I don't know how to go back"
+- source: mondai/process/audit-2026-10-14-misses/evidence/his-words/p3-words.md · line 111 (session session_01YV8VB4pVycXtWbWJzoxbY5, message at 2026-10-07T01:27:02Z UTC) (repos.md)
+- date: 2026-10-07
+- context: Viewing screen images on an artifact canvas
+- tags: interaction, frustration · standing: yes
+
+### E2036 · 58. Forms stacked, not spread across wide space
+- quote: "The layout of the forms and stuff in here feels really odd. Like they should just be stacked on top of each other instead of taking up so much horizontal space and then everything seems crammed."
+- source: mondai/process/audit-2026-10-14-misses/evidence/his-words/p3-words.md · line 114 (session session_01YV8VB4pVycXtWbWJzoxbY5, message at 2026-10-07T18:47:08Z UTC) (repos.md)
+- date: 2026-10-07
+- context: Comment on a canvas artifact of call screens
+- tags: shell, product · standing: one-off
+
+### E2037 · 59. Spacing pushed too tight, repeated
+- quote: "You keep doing stuff where you push stuff like way too tight."
+- source: mondai/process/audit-2026-10-14-misses/evidence/his-words/p3-words.md · line 112 (session session_01YV8VB4pVycXtWbWJzoxbY5, message at 2026-10-07T01:32:45Z UTC) (repos.md)
+- date: 2026-10-07
+- context: Call screen options on a canvas
+- tags: style, frustration · standing: yes
+
+### E2038 · 60. Deck question lacked clarity
+- quote: "I think we need to clarify what the calls are in this image. Like, are they upcoming calls? Because then the title should say upcoming calls, right?"
+- source: mondai/process/audit-2026-10-14-misses/evidence/blind/issues-neutral.md · 7 Oct 2026, row SB4 (review deck) (repos.md)
+- date: 2026-10-07
+- context: Review deck item S3.1
+- tags: review-board, copy, frustration · standing: yes
+
+### E2039 · 61. Deck question not understandable
+- quote: "I don't understand the question here"
+- source: mondai/process/audit-2026-10-14-misses/evidence/blind/issues-neutral.md · 7 Oct 2026, row SB9 (review deck) (repos.md)
+- date: 2026-10-07
+- context: Review deck item S8.2
+- tags: review-board, decision-board, frustration · standing: yes
+
+### E2040 · 62. Link opened the wrong thing
+- quote: "Why did you just send a setting screen and stuff out to me? Click that, it just showed those like round two screens."
+- source: mondai/process/audit-2026-10-14-misses/evidence/his-words/p3-words.md · line 120 (session session_01YV8VB4pVycXtWbWJzoxbY5, message at 2026-10-08T04:01:45Z UTC) (repos.md)
+- date: 2026-10-08
+- context: He clicked a link for call screens and got round two screens instead
+- tags: delivery, frustration · standing: one-off
+
+### E2041 · 63. Wants a downloadable file
+- quote: "Why aren't you doing this in a way that I can like download it?"
+- source: mondai/process/audit-2026-10-14-misses/evidence/his-words/p3-words.md · line 124 (session session_01YV8VB4pVycXtWbWJzoxbY5, message at 2026-10-08T21:21:58Z UTC) (repos.md)
+- date: 2026-10-08
+- context: Receiving a handoff document or screen output
+- tags: delivery · standing: one-off
+
+### E2042 · 64. Logic must not hide in documents he has to read
+- quote: "It's like you keep thinking that I'm just gonna like read these random documents that you make. So that logic needs to stay out of the way you communicate with me. That's a huge issue because I think that's caused issues elsewhere potentially as well"
+- source: mondai/process/audit-2026-10-14-misses/evidence/his-words/p3-words.md · line 31 (session session_01187BF3yzDKmvAV2jKHAFGr, message at 2026-10-08T22:13:47Z UTC) (repos.md)
+- date: 2026-10-08
+- context: Session left decisions in a document instead of the chat (the same words are quoted in mondai/CLAUDE.md under 9 Oct)
+- tags: process, delivery, frustration · standing: yes
+
+### E2043 · 65. Max width is his manual call, no process around it
+- quote: "Look at what I actually said. Ignore anything about line length. When I was talking about line length, I was talking about like a max width thing. Like, I'm going in myself and max widthing certain sections to 72 or 79 because that's around what max line length is. I'm figuring out manually and telling you I'm updating it."
+- source: mondai/process/audit-2026-10-14-misses/evidence/his-words/p2-words.md · line 30 (session session_01Cg8GtsX79KJhQ2KJTi2rYv, message at 2026-10-08T22:25:38Z UTC) (repos.md)
+- date: 2026-10-08
+- context: Session built a line length process from an aside
+- tags: process, shell · standing: one-off
+
+### E2044 · 66. Review the base screens in Figma, no canvas step for them
+- quote: "I think that going forward, there's no necessary reason for you to probably bring into Canva like that. I know that we talked about this previously when we were forming how this is set up, but I just feel like for efficiency's sake, it just seems to make way more sense for me to do kind of like what we just did, where you give me all the base screen designs, right? And then I go through and like make edits and like talk to you as I'm fixing them."
+- source: mondai/process/audit-2026-10-14-misses/evidence/his-words/p3-words.md · line 30 (session session_01187BF3yzDKmvAV2jKHAFGr, message at 2026-10-08T21:33:45Z UTC) (repos.md)
+- date: 2026-10-08
+- context: Student Advisement round 1 review in Figma, 8 Oct; also saved in student-advisement/screens/REVIEW-1.md
+- tags: process, review-board, delivery · standing: yes
+
+### E2045 · 67. Long lists load the reader
+- quote: "It's a lot of cognitive load for the user to consume."
+- source: mondai/process/audit-2026-10-14-misses/evidence/his-words/p3-words.md · line 30 (session session_01187BF3yzDKmvAV2jKHAFGr, message at 2026-10-08T21:33:45Z UTC) (repos.md)
+- date: 2026-10-08
+- context: Student Advisement S2.1 in Figma
+- tags: style, product · standing: yes
+
+### E2046 · 68. Things drawn too big
+- quote: "You keep designing everything so big, not everything, but a lot of things."
+- source: mondai/process/audit-2026-10-14-misses/evidence/blind/issues-neutral.md · 8 Oct 2026, row SB29 (REVIEW-1) (repos.md)
+- date: 2026-10-08
+- context: Student Advisement base designs
+- tags: style, frustration · standing: yes
+
+### E2047 · 69. Could not find the layout options and got raw code
+- quote: "I don't see anything I can click, or I don't know where to look to look at the different layout options or whatever. Like, I see options R2 to HTML, but that just shows me the code when I click it. I don't know what I'm supposed to do with that"
+- source: mondai/process/audit-2026-10-14-misses/evidence/his-words/p3-words.md · line 42 (session session_015KUCuqSpkvQkFLGvyTaukw, message at 2026-10-09T18:38:12Z UTC) (repos.md)
+- date: 2026-10-09
+- context: Layout options sent as HTML; clicking showed the code
+- tags: review-board, delivery, frustration · standing: yes
+
+### E2048 · 70. Use the UI he already had built for reviewing options
+- quote: "Can you please literally do this in a way that's going to make more sense? I've already gone through this whole process with somebody else and they put it in a UI interface for me and they did like some UX fixes and all that. You need to find that combo where they tried to do something with this before and fix this methodology, please"
+- source: mondai/process/audit-2026-10-14-misses/evidence/his-words/p3-words.md · line 43 (session session_015KUCuqSpkvQkFLGvyTaukw, message at 2026-10-09T19:34:52Z UTC) (repos.md)
+- date: 2026-10-09
+- context: Student Advisement round 2 options; he points at an earlier review interface
+- tags: review-board, process · standing: yes
+
+### E2049 · 71. Options shown without scrolling, zoomable full screen
+- quote: "This is not laid out in a way that's useful to me. I actually had to build a whole way that we go through this now, like a whole specific UI, like that's like black and white and kind of like vintage looking, and there's a UI laid out in a nice way for this type of thing. So I don't have to scroll. And the problem right now, like you're sending me this, and like there's two images, and you have an A and B. And if I try to like zoom in on one, I can only get a slightly glimpse of it, I can't even view the full screen"
+- source: mondai/process/audit-2026-10-14-misses/evidence/his-words/p3-words.md · line 44 (session session_015KUCuqSpkvQkFLGvyTaukw, message at 2026-10-09T19:46:41Z UTC) (repos.md)
+- date: 2026-10-09
+- context: Student Advisement options sent as two images A and B
+- tags: review-board, interaction, shell · standing: yes
+
+### E2050 · 72. Left pane is a pan and zoom canvas with margins that lock it
+- quote: "I think you need to make the left section like where the actual frame of the UI is like almost a canvas where I can like zoom in and out and move around on it. But it needs to lock me. Like, there needs to be significant margins or something around, like, however, you want to do it, around the UI, like, because they need to be able to move up and down and look at details and corners if I need to as well"
+- source: mondai/process/audit-2026-10-14-misses/evidence/his-words/p3-words.md · line 45 (session session_015KUCuqSpkvQkFLGvyTaukw, message at 2026-10-09T19:54:09Z UTC) (repos.md)
+- date: 2026-10-09
+- context: Describing the review interface canvas
+- tags: review-board, interaction, shell · standing: yes
+
+### E2051 · 73. Option switcher at the top of the screen pane, one next and previous pair, nothing at 
+- quote: "I don't understand how I look at different options. I need to make more edits. First of all, I need to be able to see the options, so I don't know where the frick I'm supposed to do that. Probably should be an option at the top of the box that contains the left section, like the UI. Also, the next and previous buttons should be next to each other and only needs to show the current one that we're on. You don't need to ship for every single one. Nothing should be at the bottom, and it shouldn't be this big, it should be simplified. Because, I mean, right now I can't even look through the options. I don't even know where to do that"
+- source: mondai/process/audit-2026-10-14-misses/evidence/his-words/p3-words.md · line 46 (session session_015KUCuqSpkvQkFLGvyTaukw, message at 2026-10-09T19:56:57Z UTC) (repos.md)
+- date: 2026-10-09
+- context: Review interface round two
+- tags: review-board, navigation, shell · standing: yes
+
+### E2052 · 74. Completion state must be visible
+- quote: "I think I'm done, but it doesn't like say done or anything, and it keeps like having me go through the rest of them, so I'm assuming they need them done"
+- source: mondai/process/audit-2026-10-14-misses/evidence/his-words/p3-words.md · line 47 (session session_015KUCuqSpkvQkFLGvyTaukw, message at 2026-10-09T20:19:23Z UTC) (repos.md)
+- date: 2026-10-09
+- context: Review interface: no done indicator
+- tags: navigation, review-board · standing: yes
+
+### E2053 · 75. Show which item is still open
+- quote: "it says one's still open, but I don't know what it doesn't it's not clear to me what one's still open, so"
+- source: mondai/process/audit-2026-10-14-misses/evidence/his-words/p3-words.md · line 48 (session session_015KUCuqSpkvQkFLGvyTaukw, message at 2026-10-09T20:20:00Z UTC) (repos.md)
+- date: 2026-10-09
+- context: Review interface: unclear which decision remained
+- tags: navigation, review-board · standing: yes
+
+### E2054 · 76. Handoff document too heavy and over engineered
+- quote: "I just think it's a little bit heavy. Does like the dev really need all of this detail? Like, these feels like a little engineered in terms of how much information is being given or like how much detail for each thing is being given. Seems a little bit over the top."
+- source: mondai/process/audit-2026-10-14-misses/evidence/his-words/p3-words.md · line 138 (session session_01YV8VB4pVycXtWbWJzoxbY5, message at 2026-10-09T17:02:14Z UTC) (repos.md)
+- date: 2026-10-09
+- context: Developer handoff document on call screens
+- tags: copy · standing: yes
+
+### E2055 · 77. Fully responsive means filling and hugging
+- quote: "We also still have some issues with responsiveness, pretty serious issues with responsiveness, I'd say. Like things just aren't filling and everything. Like, this is supposed to be ready for death. Like, it should be fully responsive. You know, like, I don't know what the situation would be that that wasn't the case already. I find that slightly odd considering all this is obviously supposed to be you don't really do a good job with like hugging text. I feel like I bring this up almost every time we talk"
+- source: mondai/process/audit-2026-10-14-misses/evidence/his-words/p3-words.md · line 41 (session session_015KUCuqSpkvQkFLGvyTaukw, message at 2026-10-09T17:46:49Z UTC) (repos.md)
+- date: 2026-10-09
+- context: Reviewing Student Advisement Figma screens
+- tags: responsive, frustration · standing: yes
+
+### E2056 · 78. Wants a variation set to explore a style
+- quote: "I want to see the menus look different, like, I just want to see some variation. Like, I want to explore the style here and like be a little bit more creative"
+- source: mondai/process/audit-2026-10-14-misses/evidence/his-words/p3-words.md · line 131 (session session_01YV8VB4pVycXtWbWJzoxbY5, message at 2026-10-09T04:54:25Z UTC) (repos.md)
+- date: 2026-10-09
+- context: Exploring a hand chooser menu: six different options with hover states and animation
+- tags: editor, interaction · standing: yes
+
+### E2057 · 79. Look for real interaction references first
+- quote: "Like I wonder if there are any really good examples out there in like a micro interactions website or something. Why don't you do some research to find that"
+- source: mondai/process/audit-2026-10-14-misses/evidence/his-words/p3-words.md · line 132 (session session_01YV8VB4pVycXtWbWJzoxbY5, message at 2026-10-09T04:54:37Z UTC) (repos.md)
+- date: 2026-10-09
+- context: Same exploration
+- tags: process, interaction · standing: one-off
+
+### E2058 · 80. A look he cannot judge in isolation must be shown in context
+- quote: "I like the glass dock hover on the kit pill, though I didn't realize it was glass and I can't tell that obviously because there's nothing behind it. So now if this is gonna be part of the design system, like I would need to know that. So I feel like it shouldn't be black or glass right now, it should just remain black"
+- source: mondai/process/audit-2026-10-14-misses/evidence/his-words/p3-words.md · line 136 (session session_01YV8VB4pVycXtWbWJzoxbY5, message at 2026-10-09T05:11:49Z UTC) (repos.md)
+- date: 2026-10-09
+- context: Hand chooser hover study
+- tags: style, review-board · standing: one-off
+
+### E2059 · 81. Options pair unreadable, could not zoom, no way to pick
+- quote: "I'm really confused for like a bunch of reasons. I don't know what this is supposed to be, like with the letters. Like for each screen, tell me which version is better? Like, am I just contrasting left and right? I'm guessing. But even that, like I can't zoom into the individual screens correctly. Or it like cuts them off, like it just doesn't really seem like there's a lot of thought in this process. It's not like I can select one or the other. Like, it's like you want me to manually tell you that doesn't make any sense. Like, why don't you just have this built with some kind of ability to do that? That's that's insanity. This is not how we work"
+- source: mondai/process/audit-2026-10-14-misses/evidence/his-words/p2-words.md · line 37 (session session_01Cg8GtsX79KJhQ2KJTi2rYv, message at 2026-10-09T04:34:34Z UTC) (repos.md)
+- date: 2026-10-09
+- context: Student Advisement layout test sent as letters A and B beside screens
+- tags: review-board, decision-board, interaction, frustration · standing: yes
+
+### E2060 · 82. Plain words, clean communication
+- quote: "You really need to speak to me in English. Like, I feel like I'm talking to a drunk aunt or something. Like, I'm not trying to be rude, but like, can you just make this clean? Like, are you act like I'm still not confident you know what's going on? Like, that's why I'm saying this. Like, it's weirdLike, you're not communicating this effectively to me at all"
+- source: mondai/process/audit-2026-10-14-misses/evidence/his-words/p2-words.md · line 44 (session session_01Cg8GtsX79KJhQ2KJTi2rYv, message at 2026-10-09T04:50:08Z UTC) (repos.md)
+- date: 2026-10-09
+- context: Session talking about process in jargon
+- tags: copy, process, frustration · standing: yes
+
+### E2061 · 83. Keep him oriented on where a decision stands
+- quote: "I need you to help me keep this like really on track"
+- source: mondai/process/CHADWICK-ASKS.md · A113, 9 Oct 2026, Student Advisement S8.3 (repos.md)
+- date: 2026-10-09
+- context: Deciding where notifications and toasts live
+- tags: navigation, process · standing: yes
+
+### E2062 · 84. Breadcrumbs everywhere is not good design
+- quote: "The question is if we really need breadcrumbs everywhere because I'm kind of getting sick of the breadcrumbs. I feel like that's like not good design doing those everywhere"
+- source: mondai/student-advisement/screens/REVIEW-3.md · Review 3, 9 Oct 2026, M5.7 (repos.md)
+- date: 2026-10-09
+- context: Student Advisement screens in Figma
+- tags: navigation, product · standing: yes
+
+### E2063 · 85. Buttons fill their container in a dialog
+- quote: "Yes, but that's something in our rules that's already set ... it doesn't necessarily mean it's always the case, but generally speaking, yes, it is, and then it just like got rid of it entirely, so they never fill now"
+- source: mondai/mondai/reference/DECISIONS.md · 9 Oct 2026 entry, review deck on M8.4 (repos.md)
+- date: 2026-10-09
+- context: Review deck answer about dialog buttons (the saved file joins fragments with ... inside this quote)
+- tags: responsive, product · standing: yes
+
+### E2064 · 86. Open to picking layouts at low fidelity
+- quote: "I'm not all down with like if I need to be a human auditor and picking layouts and low fidelity, let's do it."
+- source: mondai/process/audit-2026-10-14-misses/evidence/his-words/p1-words.md · line 9 (session session_01L49ennMZ1qP4qvjb4QbLit, message at 2026-10-09T19:42:42Z UTC) (repos.md)
+- date: 2026-10-09
+- context: Reacting to a proposal that he pick layouts from drawn options
+- tags: decision-board, process · standing: one-off
+
+### E2065 · 87. Do not miss anything the session said, even unanswered
+- quote: "Okay, so I don't want you to miss anything you said here, even if I don't address everything."
+- source: mondai/process/audit-2026-10-14-misses/evidence/his-words/p2b-words.md · line 36 (session session_01Qcy6VejBERNLaXB2Hh4BE8, message at 2026-10-09T19:45:21Z UTC) (repos.md)
+- date: 2026-10-09
+- context: Process audit chat
+- tags: process · standing: yes
+
+### E2066 · 88. Do not lose anything
+- quote: "Don't lose any of this."
+- source: mondai/process/audit-2026-10-14-misses/evidence/his-words/p2b-words.md · line 38 (session session_01Qcy6VejBERNLaXB2Hh4BE8, message at 2026-10-09T19:51:53Z UTC) (repos.md)
+- date: 2026-10-09
+- context: Process audit chat
+- tags: process · standing: yes
+
+### E2067 · 89. Hover on rows needed
+- quote: "do we have highlighting like hover effects for those? Because those all need to be done."
+- source: mondai/process/audit-2026-10-14-misses/evidence/blind/issues-neutral.md · 9 Oct 2026, row SB48 (REVIEW-2) (repos.md)
+- date: 2026-10-09
+- context: Feedback rows
+- tags: interaction, product · standing: yes
+
+### E2068 · 90. Looks collapsible must be collapsible
+- quote: "if that's not collapsible, then it's gonna make users think that that should be collapsible"
+- source: mondai/process/audit-2026-10-14-misses/evidence/blind/issues-neutral.md · 9 Oct 2026, row SB58 (REVIEW-2) (repos.md)
+- date: 2026-10-09
+- context: Header copied from the pathway page
+- tags: shell, interaction, product · standing: yes
+
+### E2069 · 91. Fully responsive is part of the process, stated many times
+- quote: "Making things fully responsive is just part of the process ... I've stated that so many times."
+- source: mondai/process/audit-2026-10-14-misses/evidence/blind/issues-neutral.md · 14 Oct 2026 17:37, row SH11 (repos.md)
+- date: 2026-10-14
+- context: Student Advisement review (the saved file joins fragments with ... inside this quote)
+- tags: responsive, frustration · standing: yes
+
+### E2070 · 92. Re-raised an already decided scope
+- quote: "It just doesn't make sense why that ever would have been created because we already had the conversation of what we're actually doing with that stuff. So if there's a problem in our plan ... it's definitely a problem in this plan too that's causing it to be an issue."
+- source: mondai/process/CHADWICK-ASKS.md · Asks section 15 Oct 2026 (repos.md)
+- date: 2026-10-15
+- context: Work redone after a decided scope (the saved file joins fragments with ... inside this quote)
+- tags: process, frustration · standing: one-off
+
+### E2071 · 93. Stretch grid is responsive inside the core frame
+- quote: "we already decided on the grid style and why the margins are necessary... and that its responsive inside the core frame right?"
+- source: mondai/mondai/reference/DECISIONS.md · 20 Oct 2026 entry, collapsed sidebar (repos.md)
+- date: 2026-10-20
+- context: Grid when the sidebar collapses (the saved file joins fragments with ... inside this quote)
+- tags: responsive, shell, product · standing: yes
+
+### E2072 · 94. Read the live thing, not memory
+- quote: "it may be recalling everything about the product from memory instead of like actually understanding the other flows"
+- source: mondai/process/CHADWICK-ASKS.md · Asks section 21 and 22 Oct 2026 (repos.md)
+- date: 2026-10-21
+- context: Process worry on flows
+- tags: process · standing: yes
+
+### E2073 · 95. Questions buried under text
+- quote: "there's like so much text to sort through, and then there's like this question at the end without any context"
+- source: mondai/process/CHADWICK-ASKS-archive.md · A143, 21 Oct 2026 (repos.md)
+- date: 2026-10-21
+- context: Chat replies (the same words are quoted in mondai/CLAUDE.md under 21 Oct)
+- tags: copy, frustration · standing: yes
+
+### E2074 · 96. Do not force a question each time
+- quote: "I also don't want to force them to ask questions every time too"
+- source: mondai/process/CHADWICK-ASKS-archive.md · A143, 21 Oct 2026 (repos.md)
+- date: 2026-10-21
+- context: Chat replies
+- tags: process · standing: yes
+
+### E2075 · 97. Deck item unclear what to look at
+- quote: "I don't know exactly what I'm supposed to even be looking at here. Like, I don't know if I'm looking at the wrong image or what's going on"
+- source: mondai/mentor-events/screens/REVIEW-1.md · Review deck answer, 21 Oct 2026 (repos.md)
+- date: 2026-10-21
+- context: Mentor events review deck, item lib-camera
+- tags: review-board, frustration · standing: yes
+
+### E2076 · 98. Deck asked questions the sources answer
+- quote: "most of these questions I don't need to be asked, it's weird."
+- source: mondai/mentor-events/screens/REVIEW-1.md · Review deck answer, 21 Oct 2026 (repos.md)
+- date: 2026-10-21
+- context: Mentor events review deck, item margin
+- tags: decision-board, frustration · standing: yes
+
+### E2077 · 99. Deck showed stand-in frames, not real designs
+- quote: "are these designs? I don't know because they don't follow a lot of rules, so I don't know if I'm approving the design or if I'm just improving the fact that we're at a sharing box"
+- source: mondai/mentor-events/screens/REVIEW-1.md · Review deck answer, 21 Oct 2026 (repos.md)
+- date: 2026-10-21
+- context: Mentor events review deck, item lib-rsvp
+- tags: review-board, style, frustration · standing: yes
+
+### E2078 · 100. Deck page without an introduction
+- quote: "What even is this page? I don't know what's going on in this page, and I don't even know what you're asking. What are you asking about?"
+- source: mondai/mentor-events/screens/REVIEW-1.md · Review deck answer, 21 Oct 2026 (repos.md)
+- date: 2026-10-21
+- context: Mentor events review deck, item lib-calendar
+- tags: review-board, copy, frustration · standing: yes
+
+### E2079 · 101. A question on a page names the screen and what the thing is (21 Oct)
+- quote: "I don't know what the sharing box is in reference to"
+- source: mondai/CLAUDE.md · Project instructions, Deciding, dated 21 Oct (repos.md)
+- date: 2026-10-21
+- context: Review deck question about a sharing box
+- tags: decision-board, copy, frustration · standing: yes
+
+### E2080 · 102. Question documents say what they are about; he answers in place and saves
+- quote: "So, when you send this back to me, it should be like it should be clear what you're talking about. So, I think it would make sense to work that into the process for the HTML events flow document that you send, and then maybe I can put my answer right in there and then save it."
+- source: mondai/process/sprint-review-2026-10-28/his-words.md · message of 21 Oct 2026 16:59 UTC (session_01FXxcJggVkCNNmDRYKa2jmZ) (repos.md)
+- date: 2026-10-21
+- context: Mentor events flows document with a question about the sharing box
+- tags: decision-board, review-board, copy · standing: yes
+
+### E2081 · 103. A page with many things hides the one he must answer
+- quote: "I don't know what the sharing box is in reference to because you sent over a document with a lot of different stuff. So it's hard for a human like me to it's extra work for me to try to dive through and find exactly what you're talking about."
+- source: mondai/process/sprint-review-2026-10-28/his-words.md · message of 21 Oct 2026 16:59 UTC (session_01FXxcJggVkCNNmDRYKa2jmZ) (repos.md)
+- date: 2026-10-21
+- context: Same flows document
+- tags: decision-board, navigation, frustration · standing: yes
+
+### E2082 · 104. Plain clarification before the question
+- quote: "The shearing box is. Can you just really simply for me like clarify what that is? I'm still unclear about it."
+- source: mondai/process/sprint-review-2026-10-28/his-words.md · message of 21 Oct 2026 18:06 UTC (session_01FXxcJggVkCNNmDRYKa2jmZ) (repos.md)
+- date: 2026-10-21
+- context: Same question, second ask
+- tags: copy, decision-board · standing: yes
+
+### E2083 · 105. Edge case: long content should scroll in its own area
+- quote: "what happens if it gets too long does it scroll right not the whole page but like that section specifically"
+- source: mondai/mentor-events/screens/REVIEW-6.md · Review deck answer, 22 Oct 2026 (repos.md)
+- date: 2026-10-22
+- context: Mentor events base screen options deck
+- tags: shell, interaction, product · standing: yes
+
+### E2084 · 106. References force-fit his copy, looks crammed
+- quote: "when you're using these referral layouts, are you just using your exact same copy? Because it seems like you're trying to like squeeze a bunch of your copy into certain spaces almost, or like it doesn't quite whatever they're doing is different than what we're doing, and then you're trying to make what we're doing fit within what they're doing, and it looks crammed sometimes"
+- source: mondai/mentor-events/screens/REVIEW-6.md · Review deck answer, 22 Oct 2026 (repos.md)
+- date: 2026-10-22
+- context: Mentor events base screen options deck
+- tags: review-board, style, frustration · standing: one-off
+
+### E2085 · 107. Text must not run under the collapse button; the component needs a max width
+- quote: "the hosting, mentoring, or both text is literally going under the collapse button and it looks really, really weird."
+- source: mondai/mentor-events/screens/REVIEW-7.md · Review 7, 22 Oct 2026, H1.1 step list (repos.md)
+- date: 2026-10-22
+- context: Step list menu with a collapse button
+- tags: shell, responsive, product · standing: yes
+
+### E2086 · 108. Do not change the process mid work
+- quote: "making changes in the middle of the process, like this is an issue that's causing more problems for me"
+- source: mondai/process/CHADWICK-ASKS.md · Asks section 21 and 22 Oct 2026 (repos.md)
+- date: 2026-10-22
+- context: Process timing
+- tags: process, frustration · standing: yes
+
+### E2087 · 109. Two columns is a known AI slop layout
+- quote: "the two-column thing, the reason I keep bringing it up is because this is a known. Like, when people talk about like AI slop and design, right? Obviously, that's not what I wanted to do as a designer. And the two-column layout like this is a known AI slop thing where you like stick to this two-column layout and think like two columns."
+- source: mondai/process/sprint-review-2026-10-28/his-words.md · message of 22 Oct 2026 16:49 UTC (session_01YNpTxFqCPrdNFXKUk7km6U) (repos.md)
+- date: 2026-10-22
+- context: Mentor events screens
+- tags: style, frustration · standing: yes
+
+### E2088 · 110. Layout needs more thought than columns
+- quote: "design is so much more than just figuring out a couple columns for a layout, right? Like, there should be more, way more abstraction done by figuring out the layouts"
+- source: mondai/process/sprint-review-2026-10-28/his-words.md · message of 22 Oct 2026 16:49 UTC (session_01YNpTxFqCPrdNFXKUk7km6U) (repos.md)
+- date: 2026-10-22
+- context: Mentor events screens
+- tags: style · standing: yes
+
+### E2089 · 111. Everything is two columns, no design
+- quote: "they're also still following a stupid, like, everything's two columns. Like, they're not, there's no originality, there's no, like, not even originality, it's the wrong word. There's no, like, design, it's just everything's too calm layout."
+- source: mondai/process/sprint-review-2026-10-28/his-words.md · message of 22 Oct 2026 05:03 UTC (session_01KVSsjbDxZKjFS3B3CSHr36) (repos.md)
+- date: 2026-10-22
+- context: Mentor events base screens
+- tags: style, frustration · standing: yes
+
+### E2090 · 112. Three layouts per new screen, not two
+- quote: "Okay, so every new screen span has to weigh at least three two layouts. Should it be three layouts? Two doesn't seem like a good way of looking at doing it, like, because you could, I don't know, it seems like three at least."
+- source: mondai/process/sprint-review-2026-10-28/his-words.md · message of 22 Oct 2026 15:16 UTC (session_01KVSsjbDxZKjFS3B3CSHr36) (repos.md)
+- date: 2026-10-22
+- context: Mentor events base screens
+- tags: decision-board, review-board · standing: yes
+
+### E2091 · 113. Three options per base screen to choose between
+- quote: "I'd like to see some for like the base screens, like some alternative options, so it can give me like three for each really quickly. And then I can like choose between them"
+- source: mondai/process/sprint-review-2026-10-28/his-words.md · message of 22 Oct 2026 16:42 UTC (session_01KVSsjbDxZKjFS3B3CSHr36) (repos.md)
+- date: 2026-10-22
+- context: Mentor events base screens
+- tags: decision-board, review-board · standing: yes
+
+### E2092 · 114. Praise: three versions drawn from real patterns
+- quote: "it actually gave like three different versions based on like direct like patterns and examples, which is cool because it's never done that, and I've been waiting for it to do show like shit like that. So I could do it for the first time, which is really cool"
+- source: mondai/process/sprint-review-2026-10-28/his-words.md · message of 22 Oct 2026 15:09 UTC (session_01KVSsjbDxZKjFS3B3CSHr36) (repos.md)
+- date: 2026-10-22
+- context: Mentor events screens after his feedback
+- tags: style, review-board · standing: yes
+
+### E2093 · 115. Decision steps should run through him
+- quote: "But is the part of the problem like should that step when there are three decisions like shouldn't that be something that's ran through me? Like, would it be better to just kind of do what I'm doing now? Wouldn't that be more efficient"
+- source: mondai/process/sprint-review-2026-10-28/his-words.md · message of 22 Oct 2026 16:50 UTC (session_01KVSsjbDxZKjFS3B3CSHr36) (repos.md)
+- date: 2026-10-22
+- context: Choosing between three options
+- tags: decision-board, process · standing: yes
+
+### E2094 · 116. Too many permission prompts
+- quote: "do you need like permission for like this many things? Because it's a little ridiculous. I have to basically hover over this chat right now and keep accepting things over and over again. Like, it's like way too much. Why are you asking me to allow you to use Figma every single time? That doesn't make sense"
+- source: mondai/process/sprint-review-2026-10-28/his-words.md · message of 22 Oct 2026 15:04 UTC (session_01JaSG94PGkJxzKH1B3Jici2) (repos.md)
+- date: 2026-10-22
+- context: Figma work in a build chat
+- tags: process, frustration · standing: yes
+
+### E2095 · 117. Banner must fill its container
+- quote: "I don't know why the banner is not filling that container it should fill that container there like it should fill the whole container there shouldn't be like blank space at the bottom"
+- source: mondai/mentor-events/screens/REVIEW-8.md · Review 8, 23 Oct 2026, event banner (repos.md)
+- date: 2026-10-23
+- context: Event banner component
+- tags: responsive, product, frustration · standing: yes
+
+### E2096 · 118. Banner fill, repeated; the checks ignore it
+- quote: "please fix the banner. Like it needs to fill the whole thing. I don't know if there's a max width or something on it. Like, I don't know why it's doing that. Like, I checked it, I didn't see any problems. Maybe I overlooked something. Yeah, if I'm looking at it, frankly, I don't understand why doing that, but like, please stop. I don't know how that keeps the checks keep ignoring that. Like, that's not okay."
+- source: mondai/process/sprint-review-2026-10-28/his-words.md · message of 23 Oct 2026 03:11 UTC (session_01V2pHwYBy4LjDRQWtjnbUSG), also REVIEW-9.md (repos.md)
+- date: 2026-10-23
+- context: Event banner A1.2
+- tags: responsive, frustration, product · standing: yes
+
+### E2097 · 119. Fix small things without coming back
+- quote: "don't come back to me, it shouldn't take forever for you to come back to me and fix the small things that I'm mentioning. And I already did updates myself. So please just build the rest of the screens."
+- source: mondai/process/sprint-review-2026-10-28/his-words.md · message of 23 Oct 2026 03:11 UTC (session_01V2pHwYBy4LjDRQWtjnbUSG) (repos.md)
+- date: 2026-10-23
+- context: Mentor events base screens
+- tags: process, frustration · standing: yes
+
+### E2098 · 120. Process too long and complex, usage high
+- quote: "We're way too high on our weekly usage, and I need to get this done today. So I feel like this process has become way too long and complex."
+- source: mondai/process/sprint-review-2026-10-28/his-words.md · message of 23 Oct 2026 19:06 UTC (session_01NooCSCdMMWYE2yE5Tbi2TL) (repos.md)
+- date: 2026-10-23
+- context: Mentor events round 2
+- tags: process, frustration · standing: yes
+
+### E2099 · 121. Cost of a long chat
+- quote: "we're already at 48% context. That means it's costing way too many tokens every time we have any discussion in this chat."
+- source: mondai/process/sprint-review-2026-10-28/his-words.md · message of 23 Oct 2026 19:09 UTC (session_01NooCSCdMMWYE2yE5Tbi2TL) (repos.md)
+- date: 2026-10-23
+- context: Mentor events round 2
+- tags: process, frustration · standing: yes
+
+### E2100 · 122. Tool he installed would not run
+- quote: "I'm trying to use the unlazy skill here, but I don't understand why it's not letting me"
+- source: mondai/process/CHADWICK-ASKS.md · A151, 24 Oct 2026 (repos.md)
+- date: 2026-10-24
+- context: Unlazy skill outside the Mondai repo
+- tags: delivery, frustration · standing: one-off
+
+### E2101 · 123. More creative with space, not columns
+- quote: "it's not even about columns ... it's just about being more creative with the space"
+- source: mondai/process/speed-and-layout/BRIEF.md · 24 Oct 2026 message, quoted in the brief (repos.md)
+- date: 2026-10-24
+- context: Avoiding the default two column layout (the saved file joins fragments with ... inside this quote)
+- tags: style · standing: yes
+
+### E2102 · 124. Bento-style emphasis by importance
+- quote: "thinking about bento boxes ... you make them overlap based on ... what you want to emphasize and what the most important things of the page are"
+- source: mondai/process/speed-and-layout/BRIEF.md · 24 Oct 2026 message, quoted in the brief (repos.md)
+- date: 2026-10-24
+- context: Layout ideas (the saved file joins fragments with ... inside this quote)
+- tags: style · standing: one-off
+
+### E2103 · 125. Do not change hover states without asking
+- quote: "you changed some of the hover effects and that was done without my permission"
+- source: mondai/mondai/reference/DECISIONS.md · 28 Oct 2026 replaced entry, after Undo it all (repos.md)
+- date: 2026-10-28
+- context: States in the design system
+- tags: interaction, frustration, product · standing: yes
+
+### E2104 · 126. Questions must be visible and numbered where he reads
+- quote: "it says grill question 10, but I don't see a list of grill questions"
+- source: mondai/process/CHADWICK-ASKS.md · Asks section 29 Oct 2026 (repos.md)
+- date: 2026-10-29
+- context: A question referenced by number with no list in view
+- tags: navigation, frustration · standing: yes
+
+### E2105 · 127. Explain what is being asked
+- quote: "These aren't actually questions, these conflicts and open questions. Like, you have to actually explain what the question is ... in order to properly respond, I need to know what you're asking of me"
+- source: mondai/process/CHADWICK-ASKS.md · Asks section 29 Oct 2026 (repos.md)
+- date: 2026-10-29
+- context: Research page labelled questions that were conflicts (the saved file joins fragments with ... inside this quote)
+- tags: copy, decision-board, frustration · standing: yes
+
+### E2106 · 128. Show each finding beside the strategy line it belongs to
+- quote: "you would say, you know, in strategy document, and then you'd say ... separately, the connected research insight ... So I can see the context of each"
+- source: mondai/process/CHADWICK-ASKS.md · Asks section 29 Oct 2026 (repos.md)
+- date: 2026-10-29
+- context: Research page layout (the saved file joins fragments with ... inside this quote)
+- tags: review-board, copy · standing: one-off
+
+### E2107 · 129. What counts as research
+- quote: "You don't find one study and then use that one study to back, like that's not research, that's finding a study and applying that study's information to something that we're working on. That's not research. Research means you have to find several different sources, compare them once again, you know, to one another, make sure that the research is actually measuring something that's applicable in the sense of what we're doing ... I can't believe I had to explain this to you ... I've already spent a lot of time making sure this is clear."
+- source: mondai/process/CHADWICK-ASKS.md · Asks section 29 Oct 2026, reading the Studio research page (repos.md)
+- date: 2026-10-29
+- context: Research page (the saved file joins fragments with ... inside this quote)
+- tags: process · standing: one-off
+
+### E2108 · 130. Two column layouts are AI slop
+- quote: "two column layouts are a known AI slop type of design pattern ... maybe you need to do research and figure that out ... we shouldn't keep seeing that because we've been trying to make it stop."
+- source: mondai/process/CHADWICK-ASKS.md · Asks section 30 Oct 2026, relayed by the Studio build chat (repos.md)
+- date: 2026-10-30
+- context: Studio options all in two columns (the saved file joins fragments with ... inside this quote)
+- tags: style, frustration · standing: yes
+
+### E2109 · 131. Auto layout and clip content errors
+- quote: "its becuse of your messed up auto lyout and the fricken clip content thing -_-"
+- source: mondai/process/CHADWICK-ASKS.md · Asks section 31 Oct 2026 (repos.md)
+- date: 2026-10-31
+- context: Figma build
+- tags: process, frustration · standing: yes
+
+### E2110 · 132. Clip content left on
+- quote: "Clip content still on, names clipped"
+- source: mondai/process/CHADWICK-ASKS.md · Asks section 31 Oct 2026, REVIEW-4 R4.7 (repos.md)
+- date: 2026-10-31
+- context: Studio Figma screens
+- tags: process, product, frustration · standing: yes
+
+### E2111 · 133. Design and check the same sidebar state every time
+- quote: "I know that technically speaking it would be responsive, but this does bring up a point that we need to always be designing the same way."
+- source: mondai/intelligent-career-tools-1/screens/REVIEW-4.md · Studio review 4, 31 Oct 2026 (repos.md)
+- date: 2026-10-31
+- context: Studio ST9.2 with the sidebar collapsed versus expanded
+- tags: responsive, shell, product · standing: yes
+
+### E2112 · 134. Cost limits what tools can be used
+- quote: "I don't have money to pay for this at all. I can run it by Michael. But we need to create a process in the meantime that is like an alternative non-refero version"
+- source: mondai/process/CHADWICK-ASKS.md · Asks section 5 Nov 2026 (repos.md)
+- date: 2026-11-05
+- context: Refero turned off
+- tags: process · standing: one-off
+
+### E2113 · 135. Token cost of a style change
+- quote: "What can we do to do this without it costing a million tokens? This is ridiculous"
+- source: mondai/process/CHADWICK-ASKS-archive.md · Archive, 7 Nov 2026, chat Mondai: type tuning tool (repos.md)
+- date: 2026-11-07
+- context: Type tuning relink
+- tags: process, frustration · standing: yes
+
+### E2114 · 136. Wants the sidebar decision settled and built
+- quote: "I don't even know where we end with the sidebar conversation. Can you have a new session pickup from where we left off there? Because I thought we had settled it and then ... I thought we were gonna have like child instances ... I have never seen that added here yet, so I don't know if that's in place ... I want us to just get that handled really quick so that will lead to how these are supposed to look as well"
+- source: mondai/process/navigation-groups/HANDOFF-2026-11-08.md · 8 Nov 2026 ask, sidebar nesting (repos.md)
+- date: 2026-11-08
+- context: Nested sidebar and child instances (the saved file joins fragments with ... inside this quote)
+- tags: shell, navigation, product, frustration · standing: one-off
+
+### E2115 · 137. Do not tell him to start a new session
+- quote: "stop telling me to start a new session when you can do it yourself"
+- source: portfolio/fixes/2026-11-09-new-session-at-250k.md · 9 Nov 2026, site build session (repos.md)
+- date: 2026-11-09
+- context: Cost guard blocking a long session
+- tags: process, frustration · standing: yes
+
+### E2116 · 138. List everything he says so it is tracked and checked
+- quote: "make sure you're making a list of everything I'm saying that needs to be done and handled ... so that everything's being tracked and checked, and you're not missing anything"
+- source: mondai/design-system-plan/token-cleanup/ASKS.md · T11, 11 Nov 2026 (repos.md)
+- date: 2026-11-11
+- context: Token cleanup message (the saved file joins fragments with ... inside this quote)
+- tags: process · standing: yes
+
+### E2117 · 139. Retired items left visible are dirty
+- quote: "why is there something that says retiring right now in layout number one? ... Why is that not deleted? That's dirty."
+- source: mondai/design-system-plan/token-cleanup/ASKS.md · T3, 11 Nov 2026 (repos.md)
+- date: 2026-11-11
+- context: Design system library variables (the saved file joins fragments with ... inside this quote)
+- tags: style, product, frustration · standing: one-off
+
+### E2118 · 140. Names he cannot read without a key
+- quote: "The terminology is very vague, and I don't know if you just made it up yourself or if you got it from a different system or what"
+- source: mondai/design-system-plan/token-cleanup/ASKS.md · T2, 11 Nov 2026 (repos.md)
+- date: 2026-11-11
+- context: Token names
+- tags: copy, product · standing: yes
+
+### E2119 · 141. No fixed on page element for the assistant
+- quote: "I just don't think there needs to be like a place in the screen"
+- source: mondai/conversational-ai/source/ASKS.md · A52, 12 Nov 2026 (repos.md)
+- date: 2026-11-12
+- context: Where the chat lives
+- tags: product, shell · standing: one-off
+
+### E2120 · 142. Find and use a named skill from its file
+- quote: "What can't you just find the skill and use it? Like if it's mentioned, like you can just look it up and you grab it to use. I don't really mean this session skill list. We don't do skill by session typically"
+- source: mondai/process/CHADWICK-ASKS.md · A195, 12 Nov 2026 (repos.md)
+- date: 2026-11-12
+- context: Mondai chat sprint
+- tags: process, frustration · standing: yes
+
+### E2121 · 143. Dividers inside a frame are darker than its outline
+- quote: "It should be 650 at the lightest because it needs to be darker than whatever outlines there. So that needs to be a rule in the system as well that whatever the dividers are within another frame, those should always be a darker color."
+- source: mondai/mondai/reference/DECISIONS.md · 12 Nov 2026 entry (repos.md)
+- date: 2026-11-12
+- context: Divider token
+- tags: style, product · standing: yes
+
+### E2122 · 144. Not in Figma for exploration
+- quote: "I also don't want you to just be like building all this shit in Figma"
+- source: mondai/.unlazy/m1-1-options/GATES.md · 12 Nov 2026 ask quoted in gates (repos.md)
+- date: 2026-11-12
+- context: Become a mentor options
+- tags: process, frustration · standing: yes
+
+### E2123 · 145. List every ask so nothing is missed
+- quote: "make a list so nothing's being missed"
+- source: mondai/.unlazy/m1-1-story/GATES.md · 12 Nov 2026 ask quoted in gates (repos.md)
+- date: 2026-11-12
+- context: Become a mentor page story
+- tags: process · standing: yes
+
+### E2124 · 146. Show design ideas in Claude so he can edit there
+- quote: "we should be using Claude ... so I can see some of like these ideas ... in there instead ... it's easier for me to make edits"
+- source: mondai/conversational-ai/source/ASKS.md · A74, 13 Nov 2026 (repos.md)
+- date: 2026-11-13
+- context: Asking for chat panel options on a Claude design canvas (the saved file joins fragments with ... inside this quote)
+- tags: review-board, delivery, editor · standing: yes
+
+### E2125 · 147. Canvas must accurately reflect the design system
+- quote: "I did it once so far and it wasn't like fully accurate. So just make sure ... it's like an accurate reflection of like our design system and how we use things"
+- source: mondai/conversational-ai/source/ASKS.md · A74, 13 Nov 2026 (repos.md)
+- date: 2026-11-13
+- context: Same ask (the saved file joins fragments with ... inside this quote)
+- tags: style, process · standing: yes
+
+### E2126 · 148. Praised canvas options built on the design system
+- quote: "these are incredibly well designed so this needs to be mrked down for the record in turns of design output and how good it looks this is just.. just excellent"
+- source: mondai/conversational-ai/source/ASKS.md · A75, 13 Nov 2026 (repos.md)
+- date: 2026-11-13
+- context: Round 1 chat options on the Claude design canvas
+- tags: style, review-board · standing: one-off
+
+### E2127 · 149. Picks from drawn options
+- quote: "in terms of the ui interface A wins for the most part"
+- source: mondai/conversational-ai/source/ASKS.md · A76, 13 Nov 2026 (repos.md)
+- date: 2026-11-13
+- context: Choosing between chat panel options
+- tags: decision-board · standing: one-off
+
+### E2128 · 150. Input does not fill its panel
+- quote: "a2 chat box doesnt fill for some reason"
+- source: mondai/conversational-ai/source/ASKS.md · A77, 13 Nov 2026 (repos.md)
+- date: 2026-11-13
+- context: Canvas option A2: fixed width input
+- tags: responsive, frustration · standing: yes
+
+### E2129 · 151. Wants a clickable prototype of the picked flow
+- quote: "can i see a full prototype of this flow with an opton of each of the 4?"
+- source: mondai/conversational-ai/source/ASKS.md · A78, 13 Nov 2026 (repos.md)
+- date: 2026-11-13
+- context: After picking options on the canvas
+- tags: review-board, interaction · standing: yes
+
+### E2130 · 152. Selected state contrast too soft
+- quote: "is far too close to the original color the contrast is almost nonexistent"
+- source: mondai/conversational-ai/source/ASKS.md · A79, 13 Nov 2026 (repos.md)
+- date: 2026-11-13
+- context: Selected row in the history menu on the canvas
+- tags: style, product · standing: yes
+
+### E2131 · 153. Hover parity across the product, a canvas to feel all hover states
+- quote: "I really like the color transition from in the chat box, like for the hover, and I feel like that should be very similar to what we see on like buttons and stuff, but the button doesn't feel like I don't even know if it gets as light on hover as the chat box does, and I think the chat box button might be ... darker to begin with". The action item card needs a hover too, "there would have to be a component built clearly as well". A canvas where he can "feel all the hover responses for things like forms and buttons and cards ... test them all out and see how they feel towards each other", with "some kind of analysis ... what the averages are if there's like certain like outliers ... make sure we can get them all in line and all the same"
+- source: mondai/conversational-ai/source/ASKS.md · A81, 13 Nov 2026 (repos.md)
+- date: 2026-11-13
+- context: Asking for a hover test canvas for forms, buttons and cards (the saved file joins fragments with ... inside this quote)
+- tags: interaction, editor, style · standing: yes
+
+### E2132 · 154. No full screen version of the chat
+- quote: "I'm not exactly sure if we need a full screen version though. I don't think we probably do."
+- source: mondai/conversational-ai/source/ASKS.md · A72, 13 Nov 2026 (repos.md)
+- date: 2026-11-13
+- context: Chat panel options
+- tags: product, shell · standing: one-off
+
+### E2133 · 155. Right side panel
+- quote: "I do think that the right side panel is the right direction to go."
+- source: mondai/conversational-ai/source/ASKS.md · A71, 13 Nov 2026 (repos.md)
+- date: 2026-11-13
+- context: Chat container choice
+- tags: product, shell · standing: one-off
+
+### E2134 · 156. Richer panel opening
+- quote: "more of an interface"
+- source: mondai/conversational-ai/source/ASKS.md · A73, 13 Nov 2026 (repos.md)
+- date: 2026-11-13
+- context: Chat panel opening screen
+- tags: product, style · standing: one-off
+
+### E2135 · 157. Do options on the canvas from the start
+- quote: "Maybe this would have been more efficient if I instructed you to do this in Canvas from the get-go."
+- source: mondai/mentor-events/screens/m1-1-layout/MIXER-NOTES-1.md · 13 Nov 2026 mixer notes (repos.md)
+- date: 2026-11-13
+- context: Become a mentor layout options
+- tags: process, delivery · standing: yes
+
+### E2136 · 158. Use the design system
+- quote: "I don't really feel like you did a good job of actually utilizing our design system at all here."
+- source: mondai/mentor-events/screens/m1-1-layout/MIXER-NOTES-1.md · 13 Nov 2026 mixer notes (repos.md)
+- date: 2026-11-13
+- context: Become a mentor layout options
+- tags: style, frustration · standing: yes
+
+### E2137 · 159. Brochure must not look like a product
+- quote: "we just don't want it to look like a product."
+- source: mondai/mentor-events/screens/m1-1-layout/MIXER-NOTES-1.md · 13 Nov 2026 mixer notes (repos.md)
+- date: 2026-11-13
+- context: Brochure page options
+- tags: style, product · standing: one-off
+
+### E2138 · 160. Only clickable things get hover
+- quote: "These shouldn't be hoverable because they're not clickable either."
+- source: mondai/mentor-events/screens/m1-1-layout/MIXER-NOTES-1.md · 13 Nov 2026 mixer notes (repos.md)
+- date: 2026-11-13
+- context: Brochure commitment cards
+- tags: interaction, style · standing: yes
+
+### E2139 · 161. Three options on the canvas, lined up, creative
+- quote: "produce the next three options in Canvas and make sure that they actually line up better. Be more creative. Don't just do icons for every single card ... Be creative with what you think Mondai's branding is too."
+- source: mondai/mentor-events/screens/m1-1-layout/MIXER-NOTES-1.md · 13 Nov 2026 chat message (repos.md)
+- date: 2026-11-13
+- context: Become a mentor layout round 2 (the saved file joins fragments with ... inside this quote)
+- tags: review-board, process · standing: yes
+
+### E2140 · 162. A mixer: pick A, B or C per section with notes
+- quote: "choose which one I want for each section ... put notes in there"
+- source: mondai/.unlazy/m1-1-layout/GATES.md · 13 Nov 2026 ask quoted in gates (repos.md)
+- date: 2026-11-13
+- context: Become a mentor layout review page (the saved file joins fragments with ... inside this quote)
+- tags: decision-board, review-board · standing: yes
+
+### E2141 · 163. Read the current page, not an old copy
+- quote: "I don't know if you're actually looking at the current version of the brochure page"
+- source: mondai/.claude/skills/mondai-design/steps/brochure.md · 13 Nov 2026, quoted in brochure steps (repos.md)
+- date: 2026-11-13
+- context: Brochure page reference
+- tags: process, frustration · standing: yes
+
+### E2142 · 164. Reference the real brochure pages
+- quote: "Your main reference needs to be the brochure website pages, so like the events and the hero, and tying that all kind of together."
+- source: mondai/mentor-events/screens/m1-1-layout/MIXER-NOTES-1.md · 13 Nov 2026 mixer notes (repos.md)
+- date: 2026-11-13
+- context: Become a mentor layout options
+- tags: style, process · standing: yes
+
+### E2143 · 165. No unnecessary frames
+- quote: "One thing you got to really get out of the habit of doing is just making unnecessary frames. Like, for instance, right now, why do we have greeting and then we have frame 2087328410 with the things in between it? So you don't need the extra frame to use auto layout, right? You already have auto layout anyway, like on the frame ahead of it. So, why would you not just put those two text frames in the greeting frame? Why do you need to create an extra frame? Does that make sense? Like, you don't, is what I'm trying to say. So that's the extra layer you keep adding in that just like is not necessary."
+- source: mondai/conversational-ai/screens/REVIEW-2.md · 14 Nov 2026 review of round 2 states in Figma (repos.md)
+- date: 2026-11-14
+- context: Figma build of chat panels (also row A197 in mondai/process/CHADWICK-ASKS.md)
+- tags: process, product · standing: yes
+
+### E2144 · 166. No persistent AI disclaimer line under an input
+- quote: "I don't see it normally underneath the chat bar, like that, like a persistent text thing that feels very AI and not something that would actually be real in real life"
+- source: mondai/conversational-ai/screens/REVIEW-2.md · 14 Nov 2026 review of round 2 states in Figma (repos.md)
+- date: 2026-11-14
+- context: Chat panels
+- tags: product, copy · standing: one-off
+
+### E2145 · 167. Search at the top of a history list
+- quote: "we need to add a search bar to the top in case someone needs to find something"
+- source: mondai/conversational-ai/screens/REVIEW-2.md · 14 Nov 2026 review of round 2 states in Figma (repos.md)
+- date: 2026-11-14
+- context: Chat History
+- tags: product, navigation · standing: one-off
+
+### E2146 · 168. Rows are hoverable on desktop
+- quote: "it's obviously high hoverable on a desktop, just to be clear"
+- source: mondai/conversational-ai/screens/REVIEW-2.md · 14 Nov 2026 review of round 2 states in Figma (repos.md)
+- date: 2026-11-14
+- context: History and source rows
+- tags: interaction, product · standing: yes
+
+### E2147 · 169. Design in Claude Code on the canvas, never straight in Figma
+- quote: "I specifically keep asking to design to be done in Claude Code first like on the canvas and I don't want you like wasting tokens building in Figma because it's more expensive and you keep just like doing that"
+- source: mondai/process/CHADWICK-ASKS.md · A198, 15 Nov 2026 (repos.md)
+- date: 2026-11-15
+- context: Options drawn in Figma instead of the canvas
+- tags: process, delivery, frustration · standing: yes
+
+### E2148 · 170. No permission step added to the process
+- quote: "it didn't really work because it was like making adding additional steps to the process so there should be exceptions for certain things like you know my process build for Monday so that it doesn't need to ask ... I don't need to set it up in a way where it asks for permission but doesn't affect any processes"
+- source: mondai/process/CHADWICK-ASKS.md · A198, 15 Nov 2026 (repos.md)
+- date: 2026-11-15
+- context: Gate that asked before Figma builds (the saved file joins fragments with ... inside this quote)
+- tags: process, frustration · standing: yes
+
+### E2149 · 171. Copy talks product to a reader who is not using it
+- quote: "you keep just like talking with the product because that's how we like operate when we're doing day-to-day product stuff but also bleeds into the copy overall so something we need to find a solution for at some point here too"
+- source: mondai/process/CHADWICK-ASKS.md · A192, 15 Nov 2026 (repos.md)
+- date: 2026-11-15
+- context: Become a mentor page
+- tags: copy · standing: yes
+
+### E2150 · 172. Do not ask what the sources answer
+- quote: "why are you asking me that when you have full access to the information?"
+- source: mondai/process/CHADWICK-ASKS.md · A192, 15 Nov 2026 second message (repos.md)
+- date: 2026-11-15
+- context: M1.1 copy round
+- tags: process, frustration · standing: yes
+
+### E2151 · 173. Gather the information yourself
+- quote: "You are clearly not accessing the information on your own necessary to properly propose copy"
+- source: mondai/process/CHADWICK-ASKS.md · A192, 15 Nov 2026 second message (repos.md)
+- date: 2026-11-15
+- context: M1.1 copy round
+- tags: process, frustration · standing: yes
+
+### E2152 · 174. Options shown in a page with comments and notes, not a text reply
+- quote: "three alternative options in some kind of like thing that's not just like a text response ... make comments ... add a couple custom notes"
+- source: mondai/mentor-events/screens/m1-1-copy-r3/ASKS.md · 15 Nov 2026 message, row 20 (repos.md)
+- date: 2026-11-15
+- context: Become a mentor copy round 3 (the saved file joins fragments with ... inside this quote)
+- tags: review-board, decision-board, delivery · standing: yes
+
+### E2153 · 175. List every point, nothing missed
+- quote: "make a list of everything I said here. Nothing can be missed. Everything needs to check"
+- source: mondai/mentor-events/screens/m1-1-copy-r3/ASKS.md · 15 Nov 2026 message, row 22 (repos.md)
+- date: 2026-11-15
+- context: Become a mentor copy round 3
+- tags: process · standing: yes
+
+### E2154 · 176. Use the checks
+- quote: "Our harness needs to be utilized fully"
+- source: mondai/mentor-events/screens/m1-1-copy-r3/ASKS.md · 15 Nov 2026 message, row 23 (repos.md)
+- date: 2026-11-15
+- context: Become a mentor copy round 3
+- tags: process · standing: one-off
+
+### E2155 · 177. Do not repeat the same layouts
+- quote: "don't ... keep sticking to the exact same layouts ... thinking about what layouts make the most sense"
+- source: mondai/mentor-events/screens/m1-1-copy-r3/styles-r4/ASKS-R4.md · 15 Nov 2026 message, round 4 row 13 (repos.md)
+- date: 2026-11-15
+- context: Canvas round 4, three styles (the saved file joins fragments with ... inside this quote)
+- tags: style, frustration · standing: yes
+
+### E2156 · 178. Rounds end on his word
+- quote: "just do one last round"
+- source: mondai/mentor-events/screens/m1-1-copy-r3/styles-r5/ASKS-R5.md · 15 Nov 2026, round 5 row 8 (repos.md)
+- date: 2026-11-15
+- context: Canvas round 5
+- tags: process · standing: one-off
+
+### E2157 · 179. Review pages in dark mode, white burns his eyes
+- quote: "make this in dark mode its burning my eyes"
+- source: mondai/mentor-events/screens/m1-1-copy-r3/review.html · his 15 Nov 2026 ask, quoted in the page's CSS comment and in build.mjs (repos.md)
+- date: 2026-11-15
+- context: Become a mentor copy review page; the 12 Nov page (m1-1-story/review.html) had been white on his earlier ask for white paper and black text
+- tags: style, review-board · standing: yes
+
+### E2158 · 180. Design explored in Claude Code first, Figma for the pick
+- quote: "Design is explored in Claude Code first, on a canvas or a page I can open; Figma gets the direction I picked, or work I asked for in Figma."
+- source: Claude-Harness/CLAUDE.md · Global instruction file in his voice (Working section) (repos.md)
+- date: 2026-11-16
+- context: General rule across projects (his global instruction file, first person; a stated rule, not a typed chat message)
+- tags: process, delivery · standing: yes
+
+### E2159 · 181. Decisions and facts go in the chat, plain words
+- quote: "Whatever I must decide or know goes in the chat message itself; a document or link never stands in for it. Plain words: say what happens to my work, not file paths and sizes."
+- source: Claude-Harness/CLAUDE.md · Global instruction file in his voice (Talking to me) (repos.md)
+- date: 2026-11-16
+- context: General rule across projects (his global instruction file, first person; a stated rule, not a typed chat message)
+- tags: copy, delivery · standing: yes
+
+### E2160 · 182. No progress or status messages
+- quote: "No progress or status messages: each message delivers something to review or asks a question I need to answer."
+- source: Claude-Harness/CLAUDE.md · Global instruction file in his voice (Talking to me) (repos.md)
+- date: 2026-11-16
+- context: General rule across projects (his global instruction file, first person; a stated rule, not a typed chat message)
+- tags: copy, process · standing: yes
+
+### E2161 · 183. Show a result within an hour
+- quote: "Nothing runs more than an hour without me seeing a result or one line on what is taking time."
+- source: Claude-Harness/CLAUDE.md · Global instruction file in his voice (Working) (repos.md)
+- date: 2026-11-16
+- context: General rule across projects (his global instruction file, first person; a stated rule, not a typed chat message)
+- tags: process · standing: yes
+
+## 
+
+### E2162 · Feature book is simple, internal, updated
+- quote: "it's internal for the team and it gets updated when new features get added. And it's very simple, not over the top. It just explains simply what the feature is, and it shows all of its main screens."
+- source: session_018pq2hNT9D8RNU3benHMJY4 · 2026-10-06T22:01 (cloud-2b.md)
+- date: 2026-10-06
+- context: a book for internal feature explanation, sets the whole tool's tone
+- tags: style,delivery,copy · standing: yes
+
+### E2163 · Simplicity stressed, restraint over polish
+- quote: "But very simple. I can't stress that enough. Not in terms of we can make it look decent visually, but in terms of how each page works"
+- source: session_018pq2hNT9D8RNU3benHMJY4 · 2026-10-06T22:01 (cloud-2b.md)
+- date: 2026-10-06
+- context: feature book concept
+- tags: style,copy · standing: yes
+
+### E2164 · Flip through like a book, one summary per page
+- quote: "imagine flipping through a book that just gives you a bit of a summary so you understand the feature, and then you can switch to the next"
+- source: session_018pq2hNT9D8RNU3benHMJY4 · 2026-10-06T22:01 (cloud-2b.md)
+- date: 2026-10-06
+- context: feature book page model
+- tags: navigation,review-board · standing: one-off
+
+### E2165 · Show main screens only, not every state
+- quote: "It doesn't need to show each flow or each state or anything like that, but it needs to set up the general idea of how the feature works"
+- source: session_018pq2hNT9D8RNU3benHMJY4 · 2026-10-06T22:01 (cloud-2b.md)
+- date: 2026-10-06
+- context: feature book content
+- tags: review-board,copy · standing: one-off
+
+### E2166 · Same pages must work as a presentation
+- quote: "what I really also need is for this to kind of work for me so I can show it as like a presentation too."
+- source: session_018pq2hNT9D8RNU3benHMJY4 · 2026-10-06T22:01 (cloud-2b.md)
+- date: 2026-10-06
+- context: feature book doubling as slides
+- tags: delivery,style · standing: yes
+
+### E2167 · No summary title, main text block
+- quote: "you wouldn't need a summary title or anything, but like there would be the main block of text that would just explain what it is"
+- source: session_018pq2hNT9D8RNU3benHMJY4 · 2026-10-06T22:01 (cloud-2b.md)
+- date: 2026-10-06
+- context: feature book page anatomy
+- tags: copy,style · standing: one-off
+
+### E2168 · Pages must show how a feature connects as a whole
+- quote: "we need to make sure that we have a way of making sure it's clear how it connects the connect as a whole."
+- source: session_018pq2hNT9D8RNU3benHMJY4 · 2026-10-06T22:01 (cloud-2b.md)
+- date: 2026-10-06
+- context: orientation visual on each book page
+- tags: navigation · standing: yes
+
+### E2169 · Simple visualization over journey map
+- quote: "Where we can use some kind of like simple visualization, which you should probably do some like deep research on"
+- source: session_018pq2hNT9D8RNU3benHMJY4 · 2026-10-06T22:01 (cloud-2b.md)
+- date: 2026-10-06
+- context: connection visual in feature book
+- tags: navigation,style · standing: yes
+
+### E2170 · Each screen must be seeable and speakable independently
+- quote: "you're not going to actually be able to visualize or see the screens. And you have to be able to speak to each screen independently."
+- source: session_018pq2hNT9D8RNU3benHMJY4 · 2026-10-06T22:14 (cloud-2b.md)
+- date: 2026-10-06
+- context: pushback on one screen group per page
+- tags: review-board,style · standing: yes
+
+### E2171 · Build the three newest features first
+- quote: "we need to build one specifically for the three most recent features first before we do anything else."
+- source: session_018pq2hNT9D8RNU3benHMJY4 · 2026-10-06T22:14 (cloud-2b.md)
+- date: 2026-10-06
+- context: scope of the first feature book version
+- tags: process · standing: one-off
+
+### E2172 · Chat message too long to get through
+- quote: "the message is so long, I don't know how to even get through all of it."
+- source: session_018pq2hNT9D8RNU3benHMJY4 · 2026-10-06T22:14 (cloud-2b.md)
+- date: 2026-10-06
+- context: long proposal message about the book
+- tags: process,frustration · standing: yes
+
+### E2173 · Figma Slides sharing without showing notes
+- quote: "I can never figure out how to like share it properly with other people, like do a presentation without like showing the notes and stuff like that."
+- source: session_018pq2hNT9D8RNU3benHMJY4 · 2026-10-06T22:14 (cloud-2b.md)
+- date: 2026-10-06
+- context: presenting the feature book
+- tags: delivery · standing: one-off
+
+### E2174 · Prefers PDF over PPTX as the handbook file
+- quote: "I don't necessarily know if I would love the idea of having the handbook itself being like a like PowerPoint file, like a PPTX or whatever it may be, rather than a like PDF or something"
+- source: session_018pq2hNT9D8RNU3benHMJY4 · 2026-10-06T22:14 (cloud-2b.md)
+- date: 2026-10-06
+- context: file format of the feature book
+- tags: delivery · standing: one-off
+
+### E2175 · Presentation quality includes how it communicates
+- quote: "Not just how it looks visually, but how it communicates and everything too."
+- source: session_018pq2hNT9D8RNU3benHMJY4 · 2026-10-06T22:14 (cloud-2b.md)
+- date: 2026-10-06
+- context: wanting better decks and storytelling
+- tags: style,process · standing: yes
+
+### E2176 · Check the build has not started before verifying
+- quote: "I just want to make sure you're not starting the build yet"
+- source: session_018pq2hNT9D8RNU3benHMJY4 · 2026-10-06T22:08 (cloud-2b.md)
+- date: 2026-10-06
+- context: worried the agent began building while still verifying
+- tags: process,frustration · standing: one-off
+
+### E2177 · Asked whether the deep research skill was used
+- quote: "Did you use the deep research skill? I don't see any mention of you ever using it"
+- source: session_018pq2hNT9D8RNU3benHMJY4 · 2026-10-06T22:08 (cloud-2b.md)
+- date: 2026-10-06
+- context: no visible sign of the requested research skill
+- tags: process,frustration · standing: one-off
+
+### E2178 · Agent stopped working without telling him
+- quote: "It looks like he just stopped working. Where are we at?"
+- source: session_018pq2hNT9D8RNU3benHMJY4 · 2026-10-06T22:10 (cloud-2b.md)
+- date: 2026-10-06
+- context: session went quiet mid build
+- tags: process,frustration · standing: one-off
+
+### E2179 · Components must not look off
+- quote: "we're like not saying anything that's going to make the components look off or like anything look off"
+- source: session_01MQ4WVVR5Y7GdAqr23ugNnv · 2026-09-23T16:43 (cloud-2b.md)
+- date: 2026-09-23
+- context: design system packaged for Claude Design
+- tags: process,product · standing: one-off
+
+### E2180 · Fidelity over saving effort
+- quote: "If without wrappers, components can lock off, then we need wrappers"
+- source: session_01MQ4WVVR5Y7GdAqr23ugNnv · 2026-09-23T16:45 (cloud-2b.md)
+- date: 2026-09-23
+- context: React wrappers for all 72 components
+- tags: process · standing: one-off
+
+### E2181 · Multi hour runtime rejected
+- quote: "a few hours of runtime seems a little crazy, so if that's your estimation right now, I think you need to rethink that"
+- source: session_01MQ4WVVR5Y7GdAqr23ugNnv · 2026-09-23T16:45 (cloud-2b.md)
+- date: 2026-09-23
+- context: estimate for wrapper generation
+- tags: process,frustration · standing: one-off
+
+### E2182 · Research must use latest sources
+- quote: "don't just like find an answer and then go with it. Like, you need to make sure you find up the most updated information, right? Because things update over time, and one source may be incorrect"
+- source: session_01MQ4WVVR5Y7GdAqr23ugNnv · 2026-09-23T18:01 (cloud-2b.md)
+- date: 2026-09-23
+- context: browser route for Claude Design upload
+- tags: process · standing: yes
+
+### E2183 · Prompt to send to the other account
+- quote: "if that's something you think that the other account should do, I think it should just be in an updated prompt you want me to send to them or something."
+- source: session_01MQ4WVVR5Y7GdAqr23ugNnv · 2026-09-23T18:00 (cloud-2b.md)
+- date: 2026-09-23
+- context: how to hand work to his second Claude account
+- tags: delivery · standing: yes
+
+### E2184 · Desktop sign in is hard, wants GitHub route
+- quote: "I have trouble, like long story short, without giving too much detail, like signing into this account all the time, like on my desktop app."
+- source: session_01MQ4WVVR5Y7GdAqr23ugNnv · 2026-09-23T17:35 (cloud-2b.md)
+- date: 2026-09-23
+- context: getting the design system into Claude Design
+- tags: delivery,frustration · standing: one-off
+
+### E2185 · Unanswered question had to be asked again
+- quote: "But did you answer the thing I asked about if I set it up in that account?"
+- source: session_01MQ4WVVR5Y7GdAqr23ugNnv · 2026-09-23T17:58 (cloud-2b.md)
+- date: 2026-09-23
+- context: did Claude answer the two account question
+- tags: frustration,process · standing: one-off
+
+### E2186 · Overcomplicating complaint
+- quote: "It feels like you're overcomplicating this."
+- source: session_01MQ4WVVR5Y7GdAqr23ugNnv · 2026-09-23T18:00 (cloud-2b.md)
+- date: 2026-09-23
+- context: answers about Claude Design setup
+- tags: process,frustration · standing: one-off
+
+### E2187 · Wants Claude Design and Claude Code integrated in the browser
+- quote: "I don't know if we're still restricted by that limitation before where we're going to have to sign in on the app, or if that's even a problem anymore, if we can just kind of like integrate it and start utilizing it here"
+- source: session_01NtNprsC6u3fJpbqoSeHoBh · first message (cloud-3b.md)
+- date: 2026-11-11
+- context: opening ask about the Claude Design and Claude Code merge, working from the browser account
+- tags: delivery, frustration · standing: one-off
+
+### E2188 · Interested in small edits directly on a canvas
+- quote: "I'm also interested in the Claude Code. I'm finding out has an ability to like make how their canvas, right? Where you can make like small changes and stuff right in there, too."
+- source: session_01NtNprsC6u3fJpbqoSeHoBh · first message (cloud-3b.md)
+- date: 2026-11-11
+- context: asking how Claude Code's canvas could change his process for the design system
+- tags: editor, delivery · standing: one-off
+
+### E2189 · Design system set up for the new integrated flow
+- quote: "how we have the design system set up and our process going forward since it's integrated. We're not like preparing it in that way anymore."
+- source: session_01NtNprsC6u3fJpbqoSeHoBh · first message (cloud-3b.md)
+- date: 2026-11-11
+- context: the artifact he wanted is the Mondai design system as set up for Claude Design
+- tags: process, delivery · standing: one-off
+
+### E2190 · Sidebars collapsible and everything fully responsive, said all the time
+- quote: "There are things, for instance, that I mention all the time, like making like if there's a sidebar, making it collapsible, making everything fully responsive."
+- source: session_01NtNprrGGQZvczYNVSW4CDA · first message (this session)
+- date: 2026-11-16
+- context: his brief for this tool defaults system
+- tags: shell, responsive · standing: yes

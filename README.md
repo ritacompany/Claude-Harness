@@ -12,6 +12,7 @@ checks, replay set and product facts in its own repo).
 | `skills/unlazy` | Writes gates before substantial work and checks them before anything is called done (MIT, by Leonxlnx; this copy carries the fix from 4 Nov that lets a turn wait on running agents) |
 | `skills/humanizer` | Strips the signs of AI writing from copy (MIT) |
 | `skills/resource-sourcing` | Searches for an existing skill, plugin or tool before anything is built |
+| `skills/tool-defaults` | My standing defaults for every tool, board, canvas, editor, prototype, dashboard, deck or page built for me, written from 2,190 of my own quotes, with one short file per tool type and `scripts/tool-check.mjs`, which loads a page at five widths and fails on sideways scroll, a sidebar that cannot collapse, inner scroll boxes, tiny text, a light page, unsaved controls, dashes and missing titles |
 | `hooks/usage-guard.sh` | At 75% of the weekly limit it tells Claude to wrap up; at 85% it refuses to start agents or workflows |
 | `hooks/turn-check.mjs` | At the end of each turn, blocks a reply with a dash, an Oxford comma or no footer, and one that started a scheduled task, reminder or PR watch nobody asked for in that chat |
 | `hooks/unlazy-stop.sh` | Runs unlazy's own check, which refuses a done claim while gates are unmet |
@@ -34,7 +35,8 @@ ways in (from Anthropic's docs, checked 11 Nov 2026):
 | Hooks (turn check, unlazy, usage guard) | install script | no: user hooks do not run in the cloud | no |
 
 So the skills also need to be turned on in each claude.ai account; that is the only route into
-cloud sessions and Cowork. A guard that must hold in cloud sessions has to live in that project's
+cloud sessions and Cowork. For tool-defaults, upload the zip that `scripts/skill-zip.sh tool-defaults` makes (it leaves
+out the evidence and test files, which stay in this repo). A guard that must hold in cloud sessions has to live in that project's
 own repo.
 
 ## What is enforced and what is only written

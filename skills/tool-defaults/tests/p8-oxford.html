@@ -1,0 +1,28 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Clean tool</title>
+<style>
+:root{--bg:#0b0c0b;--fg:#e6e6e3;--line:#3a3c3a}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--fg);font:15px/1.5 system-ui}
+.shell{display:flex;min-height:100vh}
+aside.side{width:240px;flex:none;border-right:1px solid var(--line);padding:16px;transition:width .2s}
+.shell.min aside.side{width:56px;overflow:hidden}
+.shell.min aside.side .label{display:none}
+main{flex:1;min-width:0;padding:24px}
+.wrap{max-width:1100px;margin:0 auto}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:16px}
+.card{border:1px solid var(--line);padding:16px}
+button{background:none;color:var(--fg);border:1px solid var(--line);padding:8px 12px;font:inherit;cursor:pointer}
+button:hover{background:#1b1d1b}
+input{background:#111;color:var(--fg);border:1px solid var(--line);padding:8px;font:inherit;width:100%}
+@media (max-width:760px){.shell{flex-direction:column}aside.side{width:auto;border-right:0;border-bottom:1px solid var(--line)}.shell.min aside.side{width:auto}}
+</style></head><body>
+<div class="shell" id="shell">
+<aside class="side" id="side"><button aria-expanded="true" aria-label="Collapse sidebar" id="tog">‹</button><p class="label">Screens</p></aside>
+<main><div class="wrap"><h1>Review round</h1><p>Pick a layout, a style, and a note.</p>
+<div class="grid"><div class="card">Option A</div><div class="card">Option B</div><div class="card">Option C</div></div>
+<p><label>Note <input id="note"></label></p></div></main></div>
+<script>
+const s=document.getElementById('shell'),t=document.getElementById('tog'),n=document.getElementById('note');
+t.onclick=()=>{s.classList.toggle('min');const m=s.classList.contains('min');t.setAttribute('aria-expanded',!m);try{localStorage.setItem('min',m)}catch(e){}};
+n.oninput=()=>{try{localStorage.setItem('note',n.value)}catch(e){}};
+</script></body></html>

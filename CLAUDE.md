@@ -56,6 +56,10 @@ full pass on it (draft, audit, final), never a skim.
 - Work a session can do without me is done in it, never left on an open list.
 - Design is explored in Claude Code first, on a canvas or a page I can open; Figma gets the direction I
   picked, or work I asked for in Figma. A project's own Figma steps win where they are more specific.
+- Any tool, board, canvas, editor, tuner, playground, prototype, dashboard, deck or page built for me
+  loads the tool-defaults skill first and passes its check before I see it: my standing defaults
+  (collapsible sidebars, fully responsive, dark quiet chrome, autosave and hand back) come from it, so
+  I never ask for them again.
 - When something unexpected happens, protect my work and yours (duplicate or set aside, never
   overwrite or restart), carry on and tell me in one line at the end.
 - Nothing runs unasked: no scheduled check ins, reminders, timers or PR watching unless I ask in
