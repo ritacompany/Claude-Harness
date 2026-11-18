@@ -20,8 +20,8 @@ OKLCH (the CSS spec writes it OkLCh) is the polar form of Oklab, a perceptual co
 Ottosson published on 23 Dec 2020. Oklab has three axes: L, perceived lightness; a, how green or
 red the colour is; b, how blue or yellow it is. OKLCH keeps L and turns a and b into chroma,
 C = √(a² + b²), the distance from grey, and hue, h = atan2(b, a), an angle. Ottosson derived it by
-optimising a space with the same structure as IPT against data generated with CAM16; the CSS spec
-says it has "improved hue linearity, hue uniformity, and chroma uniformity compared to CIE LCH".
+optimising a space with the same structure as IPT against data generated with CAM16. The CSS spec
+credits it with better hue linearity, hue uniformity and chroma uniformity than CIE LCH.
 
 In CSS it is written `oklch(L C H / alpha)`:
 
@@ -109,7 +109,7 @@ the gamut it targets rather than rely on the browser.
 
 Every value above sits inside sRGB (the P3 override inside Display P3), checked with Ottosson's
 conversion. The hover darkens rather than lightens on purpose: relative colour syntax keeps C, and
-lightening this blue to L 0.70 at C 0.20 leaves sRGB, which holds about 0.15 there. Use numbers,
+lightening this blue to L 0.70 at C 0.20 leaves sRGB, which holds about 0.16 there. Use numbers,
 not percentages, inside `calc()` and relative colours; Evil Martians note that `%` does not work
 there.
 
@@ -120,7 +120,8 @@ Baseline widely available, "available across browsers since May 2023". Relative 
 Tools Evil Martians list: the oklch.com picker and converter, the Huetone palette generator (which
 uses Oklab by default), `npx convert-to-oklch` for existing CSS, stylelint-gamut to flag P3
 colours left outside `@media (color-gamut: p3)`, and Color.js or culori for generating palettes in
-script. culori's `toGamut('rgb')` finds the largest in gamut chroma at the same lightness and hue.
+script. culori's `toGamut('rgb')` converts a colour to OKLCH and finds the largest chroma that is in
+gamut.
 
 ## How: Figma
 
@@ -207,5 +208,5 @@ Not yet given.
   from `rgb` to `oklch`, balance kept from v3.
 - https://developer.chrome.com/docs/css-ui/migrate-hd-color : Adam Argyle, Chrome for Developers,
   "Migrate to HD CSS color". The browser "gamut maps or clamps to sRGB".
-- https://culorijs.org/api/ : culori API. `toGamut` keeps lightness and hue and finds the largest
-  in gamut chroma.
+- https://culorijs.org/api/ : culori API. `toGamut` converts to OKLCH and finds the largest chroma
+  that is in gamut.

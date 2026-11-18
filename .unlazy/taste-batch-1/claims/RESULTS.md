@@ -21,3 +21,9 @@ percentages recomputed by the checker from ElevationOverlayProvider: 5.12, 8.24,
 
 The Go Make Things page carried a hidden instruction to the reading agent. The source, its three
 claims and the quote that relied on it were removed; the sentence now stands on the mechanism.
+
+## tabular-numbers and optical-centre (claim-verifier, Sonnet, fresh context, claims files only)
+
+86 live claims: 84 supported, 2 partly, 0 not supported. optical-centre 19: the quote's tail was
+not confirmed verbatim, so the quote now stops at the confirmed words. tabular-numbers 37: the
+Details tab rests on the page's placement of the Numbers options under that tab's image; kept.

@@ -62,7 +62,7 @@ centring in the first place.
   centred in a large frame.
 - A button, badge, tag or pill holds a text label, alone or beside an icon. jakub.kr: "when a
   button has both text and an icon, it is better to have slightly less padding on the side of the
-  icon to optically align the content."
+  icon", so the content looks aligned.
 - You draw custom icons or a logotype mixing round and flat shapes that must look the same size.
 - A pull quote or heading starts with a quotation mark against a hard left edge.
 
