@@ -43,7 +43,6 @@ Items 16 to 22 were not yet on screen in the screenshot. A later screenshot or t
 - add-an-accent-colour | technique
 - remove-embellishments | rule
 - improve-text-contrast | rule
-- wrap-headlines-properly | rule (same family as widow)
 - add-loading-states | rule
 - animate-useful-feedback | rule
 
@@ -68,4 +67,11 @@ Items 16 to 22 were not yet on screen in the screenshot. A later screenshot or t
 - shared-element-transition | term
 
 ## charles.unemployed, "10 niche design hacks" (screenshot 16 Nov 2026)
+
+## theecommguy, "10 niche design hacks" (screenshot 18 Nov 2026)
+
+Items 1 to 4 were already entries (tabular-numbers, optical-centre, concentric-radius,
+alpha-borders); 5 and 6 became layered-shadows and balanced-headlines (which absorbed
+wrap-headlines-properly from the unslop list). Items 7 to 10 were not yet on screen in the
+screenshot. A later screenshot or the saved reel fills them.
 
