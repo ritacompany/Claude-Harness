@@ -13,6 +13,7 @@ checks, replay set and product facts in its own repo).
 | `skills/humanizer` | Strips the signs of AI writing from copy (MIT) |
 | `skills/resource-sourcing` | Searches for an existing skill, plugin or tool before anything is built |
 | `skills/tool-defaults` | My standing defaults for every tool, board, canvas, editor, prototype, dashboard, deck or page built for me, written from 2,190 of my own quotes, with one short file per tool type and `scripts/tool-check.mjs`, which loads a page at five widths and fails on sideways scroll, a sidebar that cannot collapse, inner scroll boxes, tiny text, a light page, unsaved controls, dashes and missing titles |
+| `skills/taste` and `taste/` | The taste library: researched design rules, techniques, terms and textures with my verdicts, read through a short index; `taste/README.md` is how it grows |
 | `hooks/usage-guard.sh` | At 75% of the weekly limit it tells Claude to wrap up; at 85% it refuses to start agents or workflows |
 | `hooks/turn-check.mjs` | At the end of each turn, blocks a reply with a dash, an Oxford comma or no footer, and one that started a scheduled task, reminder or PR watch nobody asked for in that chat |
 | `hooks/unlazy-stop.sh` | Runs unlazy's own check, which refuses a done claim while gates are unmet |
