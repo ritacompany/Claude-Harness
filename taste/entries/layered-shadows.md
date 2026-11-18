@@ -256,8 +256,9 @@ Run over the computed `box-shadow` of every element that has one, outer layers o
    colour in those styles is bound to the shadow colour variable.
 
 The thresholds in 1, 3, 4 and 7 are my judgment, set so the sourced stacks above (Ahlin's,
-Material's and Atlassian's light tokens) pass and a single heavy black shadow such as Ahlin's own
-counter example `0 6px 6px rgba(0,0,0,0.4)` fails.
+Material's and Atlassian's light tokens) pass and a single black shadow fails: Ahlin's first
+comparison labels its single shadow `0 6px 6px rgba(0,0,0,0.2)`, which fails check 1, and the page's
+demo CSS draws it at 0.4, which fails check 3 as well.
 
 ## His take
 
