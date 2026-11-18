@@ -211,7 +211,7 @@ Not yet given.
   Guidelines, SF Symbols. The Replace animation and its down-up, up-up and off-up configurations;
   Magic Replace.
 - https://developer.chrome.com/blog/animated-blur : Surma and Yi Gu, "Animating a blur", Chrome
-  for Developers (last updated October 2017). Blur is a costly convolution that grows with size
+  for Developers. Blur is a costly convolution that grows with size
   and radius; pre blurred copies crossfaded with opacity.
 - https://web.dev/articles/animations-guide : Kayce Basques and Rachel Andrew, web.dev. Restrict
   animations to opacity and transform where possible.
