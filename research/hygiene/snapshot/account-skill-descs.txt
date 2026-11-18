@@ -1,0 +1,151 @@
+a-b-test-design | description: Design rigorous A/B tests with hypotheses, variants, metrics, and sample size calculations.
+accessibility-audit | description: Conduct a comprehensive accessibility audit against WCAG guidelines with severity ratings and rem
+accessibility-review | description: Run a WCAG 2.1 AA accessibility audit on a design or page. Trigger with "audit accessibility", "c
+accessibility-test-plan | description: Create accessibility testing plans covering assistive technologies and WCAG criteria.
+aesthetic-usability | description: Apply the Aesthetic-Usability Effect — visually consistent, polished interfaces are perceived a
+affinity-diagram | description: Organize qualitative research data into an affinity diagram with themes, clusters, and insight st
+animated-component-libraries | description: Pre-built animated React component collections combining Magic UI (150+ TypeScript/Tailwind/Motio
+animation-principles | description: Apply animation principles to UI motion for purposeful, polished interactions.
+animejs | description: Versatile JavaScript animation engine for DOM, CSS, SVG, and JavaScript objects. Use when creatin
+barba-js | description: Page transitions library for creating fluid, smooth transitions between website pages. Use this s
+blindspot-audit | description: "Project-level blind spot audits and consent-gated BLINDSPOT_LEDGER.md triage. Use when the owner
+built-in-browser | description: "Read this skill before the first step that uses the built-in browser, the browser pane inside th
+business-design | description: A practitioner's toolkit for thinking and communicating as a designer in a business context — r
+card-sort-analysis | description: Analyze card sorting results to inform information architecture and navigation structure. Use aft
+case-study | description: Craft portfolio-ready case studies that tell the story of a design project. Runs a structured int
+caveman | description: >
+chrome-browser | description: "Read this skill before the first step that uses Claude in Chrome, the browser extension whose to
+click-test-plan | description: Design click/first-click tests to evaluate navigation and information findability.
+color-system | description: Build a comprehensive color system with palette generation, semantic mapping, and accessibility c
+competitive-analysis | description: Conduct a structured competitive analysis comparing UX patterns, features, strengths, and gaps ac
+component-spec | description: Write a detailed component specification including props, states, variants, accessibility require
+computer-use | description: "Read this skill before the first step of any request to do something in an app on the person's o
+content-strategy | description: Define what content a product needs, how it should be structured, and who owns it.
+context-engineering | description: Use when designing agent system prompts, optimizing RAG retrieval, or when context is too expensi
+dark-mode-design | description: Design effective dark mode interfaces with proper color adaptation, contrast, and elevation.
+deep-research | description: Use this skill when the user's prompt requires (1) researching a topic across multiple sources, c
+design-an-interface | description: Generate multiple radically different interface designs for a module using parallel sub-agents. U
+design-brief | description: Write a comprehensive design brief that defines the problem space, constraints, audience, and suc
+design-critique | description: Get structured design feedback on usability, hierarchy, and consistency. Trigger with "review thi
+design-debt-audit | description: Identify, categorize, and prioritize accumulated design inconsistencies and structural problems a
+design-handoff | description: Generate developer handoff specs from a design. Use when a design is ready for engineering and ne
+design-impact-reporting | description: Communicate design's contribution to business and user outcomes in terms that resonate with stake
+design-negotiation | description: Advocate for design quality, scope, and time with cross-functional partners and leadership using 
+design-principles | description: Define a set of actionable design principles that guide decision-making and resolve trade-offs.
+design-qa-checklist | description: Create QA checklists for verifying design implementation accuracy.
+design-rationale | description: Write clear design rationale connecting decisions to user needs, business goals, and principles.
+design-review-process | description: Establish design review gates with criteria, checklists, and approval workflows.
+design-sprint-plan | description: Plan and facilitate design sprints from challenge framing through prototype testing.
+design-system-adoption | description: Create adoption strategies and materials to drive design system usage across teams.
+design-system-generator | description: Generate a structured DESIGN.md file for any business or project. Produces a machine-readable des
+design-system-governance | description: Define how a design system evolves — contribution models, versioning, change management, and de
+design-system | description: Audit, document, or extend your design system. Use when checking for naming inconsistencies or ha
+design-taste-frontend-v1 | description: The original v1 taste-skill, preserved for projects depending on its exact behavior. The current 
+design-token-audit | description: Audit design token usage across a product for consistency and coverage.
+design-token | description: Define and organize design tokens (color, spacing, typography, elevation) with naming conventions
+diary-study-plan | description: Design a diary study plan with prompts, duration, participant criteria, and analysis framework. U
+docs | description: 'docs (editable docs people share and comment on; the default for any document, named as a doc or
+docx | description: "Use this skill whenever the user wants to create, read, edit, or manipulate Word documents (.doc
+emil-design-eng | description: This skill encodes Emil Kowalski's philosophy on UI polish, component design, animation decisions
+empathy-map | description: Build a 4-quadrant empathy map (Says, Thinks, Does, Feels) to synthesize user research into actio
+error-handling-ux | description: Design error prevention, detection, and recovery experiences.
+evaluation-rubrics | description: Designs structured scoring tools with explicit criteria, performance scales, and descriptors for 
+experience-map | description: Create a holistic experience map showing the full ecosystem of user touchpoints, channels, and re
+feedback-patterns | description: Design system feedback for user actions including confirmations, status updates, and notification
+figma-code-connect | description: Creates and maintains Figma Code Connect template files that map Figma components to code snippet
+figma-create-new-file | description: "**MANDATORY prerequisite** — you MUST invoke this skill BEFORE every `create_new_file` tool ca
+figma-design-to-code | description: "**MANDATORY prerequisite** — you MUST invoke this skill BEFORE calling the `get_design_context
+figma-generate-design | description: "Use this skill alongside figma-use when the task involves translating an application page, view,
+figma-generate-diagram | description: "MANDATORY prerequisite — load this skill BEFORE every `generate_diagram` tool call. NEVER call
+figma-implement-motion | description: Translates Figma motion and animations into production-ready application code. Use when implement
+figma-swiftui | description: "SwiftUI ↔ Figma translation. Use whenever the user mentions Swift, SwiftUI, iOS, iPhone, or iP
+figma-use-figjam | description: "This skill helps agents use Figma's use_figma MCP tool in the FigJam context. Can be used alongs
+figma-use-motion | description: "Motion / animation context for the `use_figma` MCP tool — animating Figma nodes via manual key
+figma-use-slides | description: "This skill helps agents use Figma's use_figma MCP tool in the Slides context. Can be used alongs
+figma-use | description: "**MANDATORY prerequisite** — you MUST invoke this skill BEFORE every `use_figma` tool call. NE
+form-design | description: Design forms that minimize friction, prevent errors, and guide users to successful completion.
+frontend-design | description: Create distinctive, production-grade frontend interfaces with high design quality. Use this skill
+gesture-patterns | description: Design gesture-based interactions for touch and pointer devices.
+grill-me | description: A relentless interview to sharpen a plan or design.
+grilling | description: "Grill the user relentlessly about a plan, decision, or idea. Use when the user wants to stress-t
+gsap-scrolltrigger | description: Comprehensive skill for GSAP (GreenSock Animation Platform) and ScrollTrigger plugin. Use this sk
+hallmark | description: "Anti-AI-slop design skill for greenfield pages, audits, redesigns, and design extraction from UR
+handoff-spec | description: Create developer handoff specifications with measurements, behaviors, assets, and edge cases.
+handoff | description: Compact the current conversation into a handoff document for another agent to pick up.
+heuristic-evaluation | description: Conduct expert heuristic evaluations using Nielsen's heuristics and domain-specific criteria.
+high-end-visual-design | description: Teaches the AI to design like a high-end agency. Defines the exact fonts, spacing, shadows, card 
+humanizer | description: |
+icon-system | description: Create an icon system specification covering grid, sizing, naming, categories, and implementation
+illustration-style | description: Define an illustration style guide with visual language, color usage, and application rules.
+image-to-code | description: Elite website image-to-code skill for Codex. For visually important web tasks, it must first gene
+imagegen-frontend-mobile | description: Elite mobile app image-generation skill for creating premium, app-native screen concepts and flow
+impeccable | description: Use when the user wants to design, redesign, shape, critique, audit, polish, clarify, distill, ha
+import-memory | description: Import a memory export from another AI assistant into Claude's memory — conversationally, addit
+industrial-brutalist-ui | description: Raw mechanical interfaces fusing Swiss typographic print with military terminal aesthetics. Rigid
+information-architecture | description: Design the structure, hierarchy, and navigation model for a product's content and features.
+interfaces-that-feel | description: Apply an emotional resonance lens to any UI. Use when a design is technically correct but flat �
+interview-script | description: Create a structured user interview script with warm-up, core exploration, and wrap-up sections. U
+jobs-to-be-done | description: Map user Jobs-to-Be-Done with functional, emotional, and social dimensions plus outcome expectati
+journey-map | description: Create an end-to-end user journey map with stages, touchpoints, emotions, pain points, and opport
+layout-grid | description: Define responsive layout grid systems with columns, gutters, margins, and breakpoint behavior.
+ledger | description: Maintain and read LEDGER.md, a project's live state file. Use at the start of any session in a fo
+loading-states | description: Design loading, skeleton, and progressive content reveal patterns.
+localization-design | description: Design interfaces that adapt gracefully to multiple languages, writing directions, and cultural c
+locomotive-scroll | description: Comprehensive skill for Locomotive Scroll smooth scrolling library with parallax effects, viewpor
+lottie-animations | description: After Effects animation rendering for web and React applications. Use this skill when implementin
+memory-management | description: >
+micro-interaction-spec | description: Specify micro-interactions with trigger, rules, feedback, and loop/mode definitions.
+minimalist-ui | description: Clean editorial-style interfaces. Warm monochrome palette, typographic contrast, flat bento grids
+modern-web-design | description: Modern web design trends, principles, and implementation patterns for 2024-2025. Use this skill w
+motion-design | description: >
+motion-framer | description: Modern animation library for React and JavaScript. Create smooth, production-ready animations wit
+motion-system | description: Define a motion system with duration tokens, easing vocabulary, and reduced-motion handling for c
+naming-convention | description: Establish a naming convention system for design elements, components, and tokens with clear rules
+navigation-patterns | description: Select and design navigation patterns that match product structure, user tasks, and platform conv
+no-ai-slop | description: Edit drafts into sharper, more human writing while preserving the writer's personal voice, or det
+north-star-vision | description: Articulate a compelling north-star product vision that aligns teams and inspires strategic design
+onboarding-design | description: Design first-run experiences that get users to value quickly without overwhelming them.
+opportunity-framework | description: Identify, evaluate, and prioritize design opportunities using impact-effort frameworks and strate
+pattern-library | description: Structure a pattern library entry with problem context, solution pattern, usage examples, and rel
+pdf | description: Use this skill whenever the user wants to do anything with PDF files. This includes reading or ex
+pptx | description: "Use this skill any time a .pptx or .potx file is involved in any way — as input, output, or bo
+presentation-deck | description: Structure compelling design presentations for stakeholders, reviews, and showcases.
+react-spring-physics | description: Physics-based animation library combining React Spring (spring dynamics, gesture integration, 60f
+remember | description: Save session state for clean continuation next session.
+remotion-best-practices | description: Best practices for Remotion - Video creation in React
+research-repository | description: Build and maintain a research repository that makes findings findable, reusable, and cumulative a
+research-synthesis | description: Synthesize user research into themes, insights, and recommendations. Use when you have interview 
+resource-sourcing | description: Find the best existing skill, plugin, MCP server or other community resource for a need before bu
+scaffold-exercises | description: Create exercise directory structures with sections, problems, solutions, and explainers that pass
+scroll-reveal-libraries | description: Simple scroll-triggered reveal animations using AOS (Animate On Scroll). Use this skill when buil
+scrollytelling | description: 'Implements scroll-driven storytelling experiences with pinned sections, progressive reveals, and
+search-ux | description: Design search experiences that help users find what they need, recover from failure, and refine r
+service-blueprint | description: Map the end-to-end service delivery system including frontstage actions, backstage processes, and
+skill-inspector | description: Review AI agent skills before installation using NVIDIA SkillSpector and source-aware semantic re
+skill-shortlist | description: Choose which installed skills to use for a task by reading the shortlisted skills' own instructio
+sleek-design-mobile-apps | description: Use when the user wants to design a mobile app, create screens, build UI, or interact with their 
+spacing-system | description: Create a consistent spacing system based on a base unit with contextual application rules.
+stakeholder-alignment | description: Create stakeholder alignment artifacts including responsibility matrices, decision frameworks, an
+state-machine | description: Model complex UI behavior as finite state machines with states, events, and transitions.
+stitch-design-taste | description: Semantic Design System Skill for Google Stitch. Generates agent-friendly DESIGN.md files that enf
+subagent-driven-development | description: Use when executing implementation plans with independent tasks in the current session
+survey-design | description: Design surveys that collect reliable, unbiased quantitative data to validate hypotheses and measu
+systematic-debugging | description: Use when encountering any bug, test failure, or unexpected behavior, before proposing fixes
+teach | description: Teach the user a new skill or concept, within this workspace.
+team-workflow | description: Design team workflows covering task management, collaboration rituals, and tooling.
+theming-system | description: Design a theming architecture that supports brand variants, dark mode, and high-contrast modes wi
+top-design | description: 'Create award-winning, immersive web experiences at the level of Awwwards-featured agencies. Use 
+typography-scale | description: Create a modular typography scale with size, weight, and line-height relationships.
+unlazy | description: Enforces completion discipline for substantial autonomous work by writing acceptance gates before
+usability-test-plan | description: Design a usability test plan with tasks, success metrics, participant criteria, and facilitation 
+user-flow-diagram | description: Create user flow diagrams showing paths, decisions, and branch logic.
+user-persona | description: Create refined user personas from research data with demographics, goals, frustrations, and behav
+user-research | description: Plan, conduct, and synthesize user research. Trigger with "user research plan", "interview guide"
+ux-copy | description: Write or review UX copy — microcopy, error messages, empty states, CTAs. Trigger with "write co
+variate | description: >
+verification-before-completion | description: Use when about to claim work is complete, fixed, or passing, before committing or creating PRs - 
+view-pdf | description: Interactive PDF viewer. Use when the user wants to open, show, or view a PDF and collaborate on i
+visual-hierarchy | description: Establish clear visual hierarchy through size, weight, color, spacing, and positioning.
+web-design-guidelines | description: Review UI code for Web Interface Guidelines compliance. Use when asked to "review my UI", "check 
+wireframe-spec | description: Specify wireframe layouts with content priority, component placement, and annotation.
+xlsx | description: "Use this skill any time a spreadsheet file is the primary input or output. This means any task w
