@@ -61,7 +61,7 @@ The limit is the screen. OKLCH can describe colours no display shows, and Evil M
 only a blue color with a large chroma." A colour outside the display's gamut has to be brought
 back in. The spec's three permitted algorithms all aim at "constant-lightness, constant-hue chroma
 reduction in the OkLCh color space". In practice it varies: Chrome's own guide says "The browser
-gamut maps or clamps to sRGB", and Evil Martians reported that Chrome and Safari clip, which can
+gamut maps or clamps to sRGB", and Evil Martians reported in 2025 that Chrome and Safari clip, which can
 shift the hue (the spec's clipping example moves a hue by 69°). So a palette should stay inside
 the gamut it targets rather than rely on the browser.
 
@@ -129,7 +129,7 @@ Evil Martians wrote on 28 May 2025 that "Figma doesn't support OKLCH in its colo
 yet". Plugins fill the gap: OkColor picks colours in OKLCH and copies them as `oklch()` in its
 OkLCh (CSS) format; Harmonizer (Evil Martians) generates whole palettes in OKLCH with APCA
 contrast and takes its colour space, P3 or sRGB, from the Figma document; Polychrom checks text
-contrast with APCA and shows and adjusts colours in OKLCH. Evil Martians also report a bug:
+contrast with APCA and uses OKLCH to suggest adjustments. Evil Martians also report a bug:
 pasting an `oklch()` value into the hex field breaks in a file set to the P3 colour profile. Build
 the ramp in a plugin, then store the results as colour variables so code and Figma read the same
 values.

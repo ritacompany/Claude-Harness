@@ -40,3 +40,12 @@ A separate script with Ottosson's published matrices recomputed every computed c
 0.127 for hue 90 and 0.206 for hue 260; 0.157 at L 0.70 hue 260; midpoints #909880 (C 0.035,
 L 0.665), Oklab L 0.703 C 0.026, OKLCH C 0.194 at hue 177.4 against 0.13 held; the eleven
 sampled stops and both lilac hex values identical.
+
+## oklch-palettes and oklch-gradients (claim-verifier, Sonnet, fresh context, claims files only)
+
+110 claims: 93 supported, 4 partly, 0 not supported, 13 computed (rechecked above). Fixes:
+palettes 29 (Chrome and Safari clipping now dated to the 2025 report; the entry already called the
+spec's algorithms permitted, not required), palettes 48 (Polychrom now "uses OKLCH to suggest
+adjustments"). Kept: palettes 36 (calc(l - 0.07) is the entry's own value in code, same pattern as
+MDN's examples), gradients 34 (0 to 263 shorter arc gives 311.5 by the spec's rule; rechecked by
+hand: 263 minus 0 exceeds 180, so the first hue becomes 360 and the midpoint is 311.5).
