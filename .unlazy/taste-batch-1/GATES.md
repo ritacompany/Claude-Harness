@@ -15,5 +15,5 @@ Scope: ten inbox items researched into entries to the README standard (the rest 
 - [x] G3: I read each new entry as a design lead: the use and do not use sections are real limits, the defaults are real values, the check is runnable by a critic, no dashes or Oxford commas, humanizer pass done
   EVIDENCE: 18 Nov 2026, read every entry's header, limits, defaults and check sections; fixed masked-edges default line and a quote with an Oxford comma; scanned all entries for dashes (0), AI tells and Oxford commas outside code; three of five writing agents ran humanizer and the scan covered all ten.
 
-- [ ] G4: the batch is merged into main
-  EVIDENCE: pending
+- [x] G4: the batch is merged into main
+  EVIDENCE: 18 Nov 2026, merged to main as ritacompany/claude-harness#5, merge commit 8feae004.
