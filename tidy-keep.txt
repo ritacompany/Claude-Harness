@@ -1,0 +1,6 @@
+# Restatements and overlaps kept on purpose, so the tidy inventory stops reporting them.
+# One per line: rule id (or "overlap") | a part of the path or the pair of skill names | why it stays.
+copy | harness/skills/humanizer/SKILL.md | the humanizer's dash section is how the copy rule is applied when rewriting; it defers to CLAUDE.md
+handoffs | /ledger/SKILL.md | the ledger skill holds the details of the handoff rule; CLAUDE.md points to it
+overlap | figma-use-figjam + figma-use-slides | the Figma plugin ships them as a pair for two different file types
+tidy | harness/skills/tidy/SKILL.md | the tidy skill is the procedure for this rule
