@@ -35,7 +35,7 @@ if (part === "sourcing") {
   if (urls.size < 6) fail(`${urls.size} distinct sources, need 6`);
   console.log(`RESEARCH OK (${urls.size} sources)`);
 } else if (part === "claims") {
-  const rows = read("claims.md").split("\n").filter((l) => /^\|\s*C?\d+\s*\|/.test(l));
+  const rows = read("claims.md").split("\n").filter((l) => /^\|\s*[CS]?\d+\s*\|/.test(l));
   if (rows.length < 10) fail(`${rows.length} claim rows, need 10`);
   const verdicts = rows.map((r) => r.split("|").map((c) => c.trim()).filter(Boolean).pop());
   const unchecked = verdicts.filter((v) => !/^(SUPPORTED|CORRECTED|REMOVED)\b/.test(v));
