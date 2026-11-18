@@ -57,7 +57,6 @@ Items 16 to 22 were not yet on screen in the screenshot. A later screenshot or t
 - touch-target | term
 - leading | term
 - origin-aware-animation | term
-- oklch | term (same family as oklch-palettes)
 - widow | term
 - safe-area | term
 - stagger | term
@@ -70,5 +69,3 @@ Items 16 to 22 were not yet on screen in the screenshot. A later screenshot or t
 
 ## charles.unemployed, "10 niche design hacks" (screenshot 16 Nov 2026)
 
-- oklch-palettes | technique
-- oklch-gradients | technique

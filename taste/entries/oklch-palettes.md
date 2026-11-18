@@ -18,8 +18,8 @@ step looks equally light in every hue and lightness can be read straight from th
 
 OKLCH (the CSS spec writes it OkLCh) is the polar form of Oklab, a perceptual colour space Björn
 Ottosson published on 23 Dec 2020. Oklab has three axes: L, perceived lightness; a, how green or
-red the colour is; b, how blue or yellow it is. OKLCH keeps L and turns a and b into chroma,
-C = √(a² + b²), the distance from grey, and hue, h = atan2(b, a), an angle. Ottosson derived it by
+red the colour is; b, how blue or yellow it is. OKLCH keeps L and turns a and b into chroma
+C = √(a² + b²) (the distance from grey) and hue h = atan2(b, a) (an angle). Ottosson derived it by
 optimising a space with the same structure as IPT against data generated with CAM16. The CSS spec
 credits it with better hue linearity, hue uniformity and chroma uniformity than CIE LCH.
 
@@ -46,14 +46,14 @@ visual perception of lightness across hues": `hsl(240deg 100% 50%)` (blue) and
 
 Ottosson's stated aim was that L, C and h "should be perceived as orthogonal, so one can be altered
 without affecting the other two". So a palette can hold L as the constant: blue-500 and green-500
-share a lightness, a hover state is the same colour with L moved, and a 0.1 step means about the
-same visible change in every hue. Evil Martians, who moved their CSS to OKLCH, say its "predictable
+share a lightness, a hover state is the same colour with L moved and a 0.1 step is meant to
+look like the same change in every hue. Evil Martians, who moved their CSS to OKLCH, say its "predictable
 lightness" gives better accessibility and show contrast problems being read off L values in code
 (their example flags a 0.2 lightness gap between text and background as too small).
 
 My judgement: L predicts contrast well enough to plan a palette, not well enough to sign it off.
 Harmonizer, Evil Martians' own palette tool, pairs OKLCH with the APCA contrast formula to get
-consistent contrast across hues, which says L alone was not enough for them either. Measure the
+consistent contrast across hues, which suggests L alone was not enough for them either. Measure the
 final text pairs.
 
 The limit is the screen. OKLCH can describe colours no display shows, and Evil Martians note that
@@ -113,13 +113,13 @@ lightening this blue to L 0.70 at C 0.20 leaves sRGB, which holds about 0.16 the
 not percentages, inside `calc()` and relative colours; Evil Martians note that `%` does not work
 there.
 
-Support: `oklch()` works in Safari 15.4, Chrome and Edge 111 and Firefox 113, and MDN marks it
+Support: `oklch()` works in Safari 15.4, Chrome 111, Edge 111 and Firefox 113. MDN marks it
 Baseline widely available, "available across browsers since May 2023". Relative colour syntax in
 `oklch()` has full support from Chrome and Edge 122, Firefox 128 and Safari 18.
 
 Tools Evil Martians list: the oklch.com picker and converter, the Huetone palette generator (which
 uses Oklab by default), `npx convert-to-oklch` for existing CSS, stylelint-gamut to flag P3
-colours left outside `@media (color-gamut: p3)`, and Color.js or culori for generating palettes in
+colours left outside `@media (color-gamut: p3)` and Color.js or culori for generating palettes in
 script. culori's `toGamut('rgb')` converts a colour to OKLCH and finds the largest chroma that is in
 gamut.
 
@@ -187,7 +187,7 @@ Not yet given.
   aim at constant lightness and hue chroma reduction in OkLCh).
 - https://bottosson.github.io/posts/oklab/ : Björn Ottosson, "A perceptual color space for image
   processing", 23 Dec 2020. What L, a and b mean, the polar form C and h, the orthogonality aim,
-  derivation from IPT structure and CAM16 data, and the conversion used for the gamut numbers.
+  derivation from IPT structure and CAM16 data and the conversion used for the gamut numbers.
 - https://developer.mozilla.org/en-US/docs/Web/CSS/color_value/oklch : MDN `oklch()`. L, C and H
   definitions, 100% = 0.4 for C, hue angles differ from `hsl()`, Baseline widely available since
   May 2023.

@@ -32,3 +32,11 @@ Details tab rests on the page's placement of the Numbers options under that tab'
 
 83 claims: 82 supported, 1 partly, 0 not supported. blurred-icon-swaps 21: the Chrome article's
 2017 date was not on the fetched page, so the date was cut.
+
+## OKLCH computed figures (recomputed independently)
+
+A separate script with Ottosson's published matrices recomputed every computed claim
+(palettes 32, 34, 35; gradients 21 to 24, 29, 30, 35). All matched: max sRGB chroma at L 0.62 is
+0.127 for hue 90 and 0.206 for hue 260; 0.157 at L 0.70 hue 260; midpoints #909880 (C 0.035,
+L 0.665), Oklab L 0.703 C 0.026, OKLCH C 0.194 at hue 177.4 against 0.13 held; the eleven
+sampled stops and both lilac hex values identical.
