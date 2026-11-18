@@ -12,6 +12,7 @@ checks, replay set and product facts in its own repo).
 | `skills/unlazy` | Writes gates before substantial work and checks them before anything is called done (MIT, by Leonxlnx; this copy carries the fix from 4 Nov that lets a turn wait on running agents) |
 | `skills/humanizer` | Strips the signs of AI writing from copy (MIT) |
 | `skills/resource-sourcing` | Searches for an existing skill, plugin or tool before anything is built |
+| `skills/taste` and `taste/` | The taste library: researched design rules, techniques, terms and textures with my verdicts, read through a short index; `taste/README.md` is how it grows |
 | `hooks/usage-guard.sh` | At 75% of the weekly limit it tells Claude to wrap up; at 85% it refuses to start agents or workflows |
 | `hooks/turn-check.mjs` | At the end of each turn, blocks a reply with a dash, an Oxford comma or no footer, and one that started a scheduled task, reminder or PR watch nobody asked for in that chat |
 | `hooks/unlazy-stop.sh` | Runs unlazy's own check, which refuses a done claim while gates are unmet |
