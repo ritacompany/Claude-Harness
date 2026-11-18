@@ -45,28 +45,28 @@ by these two light sources." A real object on a surface shows both at once, a da
 where it nearly touches and a wide faint one around it. One CSS shadow has one blur radius, so it
 can be the tight edge or the soft cloud but not both; that follows from the syntax. Josh Comeau:
 "By layering multiple shadows, we create a bit of the subtlety present in real-life shadows." His
-description of the single shadow default: "The web is covered in fuzzy grey boxes that don't
+description of typical web shadows: "The web is covered in fuzzy grey boxes that don't
 really look much like shadows."
 
 Height is read from how the shadow changes. Material 1: "The shadow grows softer and larger as
 the object's elevation increases" and "grows crisper and smaller as the elevation decreases".
 Android's docs: "Views with higher Z values cast larger, softer shadows". Comeau gives the three
-moves together: "the offset should increase, the blur radius should increase, and the shadow's
-opacity should decrease." Layers give you separate control of each part. Ahlin: layering gives
-"more control over the rendering of shadows, and with it we can fine-tune sharpness, distance,
-and spread."
+moves together: as an element rises its offset and blur radius should increase and its shadow's
+opacity should decrease. Layers give you separate control of each part. Ahlin: layering gives
+"more control over the rendering of shadows".
 
-Consistency carries the illusion. Comeau: "we should decide on a single light source for all
-elements on the page", and if each shadow is made in isolation "it just looks like a bunch of
+The illusion only holds if every shadow agrees. Comeau: "we should decide on a single light
+source for all elements on the page", and if each shadow is made in isolation "it just looks like a bunch of
 blurry borders". He also argues for a use beyond looks: "Our attention tends to be drawn to the
 elements closest to us", so a higher shadow directs attention. That is his claim, not a measured
 result.
 
-Colour matters as much as shape. Comeau: "When we layer black over our background color, it
+Colour is the other half. Comeau: "When we layer black over our background color, it
 doesn't just make it darker; it also desaturates it quite a bit." His fix keeps the background's
 hue and drops lightness and saturation: on a `hsl(220deg 100% 80%)` background the shadow colour
-that reads right is `hsl(220deg 60% 50%)`. Ahlin's own page header uses a tinted dark,
-`rgba(16,27,30,0.15)`, not pure black.
+that reads right is `hsl(220deg 60% 50%)`. The banner demo at the top of Ahlin's article draws
+both its "Default" and "Smooth" boxes in a tinted dark, `rgba(16,27,30,...)`, not pure black
+(read from the page's own CSS).
 
 ## Use it when
 
@@ -81,8 +81,8 @@ that reads right is `hsl(220deg 60% 50%)`. Ahlin's own page header uses a tinted
 ## Do not use it when
 
 - The brand system is flat by intent. A layered shadow adds depth the system has chosen not to
-  have; that is judgment. Material 3 itself moved away from shadow first elevation: Android's docs
-  note that "Material3 introduces an elevation approach based on surface color."
+  have; that is judgment. Material 3 leans on surface colour for elevation instead; Android's
+  docs note that "Material3 introduces an elevation approach based on surface color."
 - The element is one of many in a dense list, table or grid. Atlassian: "Raised elevations can
   create visual noise, so don't use to group content when a border or white space would suffice",
   and "The shadows and surfaces of raised and overlay elevations can create busy UI if not applied
@@ -186,12 +186,13 @@ the shadow tint with the surfaces. Number variables list "Effects" among the pro
 drive. After saving a style, open it and confirm every layer of the stack is still in it before
 reusing it; that is a working habit, not something the help page states.
 
-Two Figma limits change what translates from code. Spread: "Shadow spread is only supported on
-rectangles, ellipses, frames, and components", and a frame or component also needs "Clip content"
-on and "A visible fill with at least 1% opacity". Material's negative spread umbra layers and a
-1px spread ring like Atlassian's dark overlay will not render on other layer types. Transparency:
-by default Figma's drop shadows do not show through transparent areas of a layer, which matches
-CSS, where the outer shadow is clipped inside the element's border box.
+Two Figma limits change what translates from code. Spread works only on rectangles, ellipses,
+frames and components (Figma: "Shadow spread is only supported on" those types), and a frame or
+component also needs "Clip content" on and "A visible fill with at least 1% opacity". Material's
+negative spread umbra layers and a 1px spread ring like Atlassian's dark overlay lose their spread
+on other layer types, because Figma does not render spread there. Transparency: by default Figma's drop shadows do not show through
+transparent areas of a layer, which matches CSS, where the outer shadow is clipped inside the
+element's border box.
 
 ## Defaults to start from
 
@@ -204,7 +205,8 @@ CSS, where the outer shadow is clipped inside the element's border box.
   (Material's highest is 0.2; Atlassian's light tokens reach about 0.31 only on a 1px blur, zero
   offset ring).
 - Colour: the surface hue at 15 to 50% lightness, for example `220deg 15% 15%` on a cool neutral
-  page and Comeau's `220deg 60% 50%` on `hsl(220deg 100% 80%)`. Never `#000` above 0.2 alpha.
+  page and Comeau's `220deg 60% 50%` on `hsl(220deg 100% 80%)`. Never `#000` above 0.2 alpha
+  outside a contact layer of 2px blur or less.
 - Direction: x 0 with y growing, or Comeau's 1 to 2 ratio of x to y, one choice for the whole
   product.
 - Dark theme: near black at 0.3 to 0.5, plus a light 1px ring at about 0.12 on floating layers
@@ -225,8 +227,8 @@ CSS, where the outer shadow is clipped inside the element's border box.
   layout", spec), so an ancestor with `overflow: hidden`, or a Figma frame with Clip content on,
   clips them like any other overflowing paint; give the parent padding or move the clip.
 - The light theme stack reused unchanged in dark mode, where it nearly vanishes.
-- A spread layer that renders in the browser but not on a Figma group or text layer, so design and
-  build disagree.
+- A layer whose spread renders in the browser but is dropped on a Figma group or text layer, so
+  design and build disagree.
 
 ## How to check it
 
@@ -234,12 +236,14 @@ Run over the computed `box-shadow` of every element that has one, outer layers o
 
 1. Layers: every elevated surface (card that lifts, menu, popover, dropdown, sheet, dialog, toast)
    has two or more layers, and its widest blur is at least three times its tightest (count a 0
-   blur as 1px). A lone layer passes only if its blur is 2px or less (a contact shadow).
+   blur as 1px). A shadow whose layers all have a blur of 2px or less passes as a contact
+   shadow, one layer or several.
 2. Direction: across all layers on the page, x offsets are all zero or above, or all zero or
    below, and the same holds for y. Layers with a non zero x share one x to y ratio within 10%.
 3. Opacity, light theme: no layer with a colour under 30% lightness exceeds 0.25 alpha where its
-   blur is over 2px, or 0.35 at any blur. No layer is `rgb(0 0 0)` above 0.2 alpha. Tinted colours
-   at 30% lightness or more are judged by eye against the same token on a neutral surface.
+   blur is over 2px, or 0.35 at any blur. No layer is `rgb(0 0 0)` above 0.2 alpha where its
+   blur is over 2px. Tinted colours at 30% lightness or more are judged by eye against the same
+   token on a neutral surface.
 4. Tint: on a background with visible chroma, the shadow colour's hue sits within 20 degrees of
    the background's hue.
 5. Dark theme: skip check 3. Instead each floating layer has a lighter surface than its parent
