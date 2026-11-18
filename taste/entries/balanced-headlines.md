@@ -137,6 +137,14 @@ every line would look wrong, but a single word alone at the end breaks the parag
 - A left aligned heading whose full first line is part of the design: a headline that must run to a
   column or image edge, or a display line set as a long first line over a short one for rhythm. That
   is my judgment, not a source rule; balance shortens the first line on purpose.
+- The heading is two or three words and the break should follow meaning. Balance evens widths and
+  ignores phrases: on Chadwick's portfolio at 390px, "Design system CS" went from "Design system /
+  CS" to "Design / system CS", splitting the name of the thing (seen in a test on 18 Nov 2026,
+  kept in the portfolio repo at `reports/taste-2026-11-18/`). Keep the phrase whole with a
+  non breaking space, or leave it.
+- A built page whose heading breaks already match the Figma file. Balance rebreaks lines that
+  were fine; on the same portfolio test it moved a desktop line that matched Figma while fixing a
+  phone orphan. Retrofit with `pretty`, which there changed one break in twelve: only the orphan.
 - The text is being edited: contenteditable regions, live inputs, editors, chat composers. Balance
   re-solves every line as the person types, so words above the cursor jump (by the mechanism above).
   The spec's value for editable text is `stable`.
@@ -234,6 +242,8 @@ Two habits, both my judgment:
 - Copy length: keep balanced text to six lines or fewer at the narrowest width it ships at, so all
   three engines balance it.
 - In Figma: Wrap style Balance in every heading text style, Pretty in body styles.
+- Retrofitting a page that is already built and matched to Figma: `pretty` on headings first, and
+  balance only where a heading still shows a stub at some width.
 
 ## How it goes wrong
 
