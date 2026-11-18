@@ -57,15 +57,14 @@ surface and breaks the moment the surface is an image.
 - People must read right up to the edge: long text, tables and forms. Chrome's guide picks a
   shadow for these because "a fade makes content near the edge hard to read".
 - The scroller sits under fixed chrome such as a dialog header or sticky table header. The guide
-  picks a shadow there so the chrome looks raised.
+  picks a shadow there.
 - The fade is the only sign that more text exists and there is no way to reveal it. My judgment:
   a mask changes painting only, so the hidden part is still in the page for a screen reader but
   out of reach for a sighted reader. Pair a text fade with an expand control.
 - The fade shows when everything already fits. A static fade then dims the first and last items
   for no reason; make it conditional (see How: code).
 - The scrollbar is hidden and the fade is the only cue. Chrome's guide says that in this case the
-  hint must reach 3:1 contrast against adjacent colours (WCAG 1.4.11) and needs a fallback where
-  scroll driven animations are not supported.
+  hint must reach 3:1 contrast against adjacent colours (WCAG 1.4.11).
 
 ## How: code
 
@@ -124,8 +123,8 @@ with the scroll padding it recommends added:
 Points from the guide: the two custom properties must be registered with `@property` or the
 fades jump; `scroll-padding-inline` set to the fade size keeps snapped and focused items out of
 the fade; gradient directions are physical, so right to left content flips them. Where
-`animation-timeline` is unsupported the fade simply never shows; the guide's fallback is an
-`IntersectionObserver` on the first and last children that toggles classes.
+`animation-timeline` is unsupported the custom properties stay at their 0px initial value, so the
+fade never shows; the guide offers a fallback built on `IntersectionObserver`.
 
 Support and side effects:
 - MDN lists `mask-image` as Baseline widely available, "available across browsers since December
@@ -145,9 +144,8 @@ Support and side effects:
 ## How: Figma
 
 Figma's masks support alpha: its help page says "All masks in Figma support alpha channels" and
-lists "fills, strokes, and gradients with varying opacity" as ways to shape a mask, with more
-revealed where the mask's opacity is higher. So: draw a rectangle the size of the visible row,
-fill it with a linear gradient from 0% opacity at each edge to 100% inside, place it below the
+lists fills, strokes and gradients with varying opacity as ways to shape a mask. So: draw a
+rectangle the size of the visible row, fill it with a linear gradient from 0% opacity at each edge to 100% inside, place it below the
 row's layers (Figma positions masks below the layers they mask) and choose Use as mask (Ctrl Alt M
 on Windows, Control Command M on Mac). Because the fade lives in the mask, the frame behind can
 be swapped for an image or a dark theme without redrawing it. A static frame shows one scroll position, so my

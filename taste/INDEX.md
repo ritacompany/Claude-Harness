@@ -10,3 +10,11 @@ it without being asked. Default no means it is an option to propose, never appli
 | --- | --- | --- | --- | --- | --- | --- |
 | concentric-radius | rule | product-ui, brochure, editorial | shape, layout | yes | none yet | Nested rounded shapes take the outer radius minus the gap, floored above zero |
 | multiply-blending | technique | product-ui, brochure, editorial, graphic | image, colour | no | none yet | White backed images set to multiply drop their white box on light tinted surfaces; off in dark mode |
+| alpha-borders | technique | product-ui, brochure, editorial | colour, shape, image | yes (decorative and image edges) | none yet | Borders in black or white at low alpha adapt to any surface; never the only boundary of a control unless it passes 3:1 |
+| dark-mode-depth | rule | product-ui, brochure | colour, shape | yes | none yet | In dark themes higher layers get lighter surfaces, base never pure black, floating layers keep a shadow or edge |
+| tabular-numbers | rule | product-ui, brochure, editorial, motion | type, state | yes | none yet | Numbers that update or sit in columns use tabular figures; running text keeps the font's default |
+| optical-centre | rule | product-ui, brochure, editorial, graphic | layout, shape, type | yes | none yet | Asymmetric shapes, lone elements and button labels are centred by eye, never on data edges |
+| matched-icon-weight | rule | product-ui, brochure, editorial | shape, type | yes | none yet | One icon family at one stroke, weight matched to the label and sized from its cap height |
+| blurred-icon-swaps | technique | product-ui, brochure, motion | motion, state, interaction | no | none yet | An icon changing in place crossfades with scale and a small blur; never on large or constantly used icons |
+| masked-edges | technique | product-ui, brochure, editorial | layout, interaction, state | yes (the method) | none yet | Fade scroller edges with a mask, not a background coloured overlay, and only when there is more to scroll |
+| dynamic-viewport | rule | product-ui, brochure, editorial | layout, state | yes | none yet | Full height blocks on mobile use svh for heroes, dvh for things that must fit, lvh for backdrops; never 100vh |

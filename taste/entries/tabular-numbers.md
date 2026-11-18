@@ -33,8 +33,7 @@ lowercase. The spec keeps the two axes apart: `lnum` "is distinct from the figur
 ## Why it works
 
 When digits change width, a number that updates live changes width with them. A counter moving
-from 0 to 1 gets narrower, and anything laid out after it moves (Go Make Things uses exactly this
-counter, where the button beside it shifts because "`1` is narrower than `0`"). Fixed width digits
+from 0 to 1 gets narrower in most proportional fonts, and anything laid out after it moves. Fixed width digits
 keep the same footprint every tick, so the eye can stay on the value. In a column, fixed width
 lines up units, tens and hundreds vertically, which is what lets someone scan a list of prices.
 Butterick: "tabular figures are essential for one purpose: vertically aligned columns."
@@ -165,8 +164,6 @@ Not yet given.
 - https://practicaltypography.com/alternate-figures.html : Matthew Butterick, Practical Typography.
   Tabular versus proportional, lining versus oldstyle, where each belongs, system font defaults,
   not every font has every set, the zeros over ones test.
-- https://gomakethings.com/preventing-layout-shift-with-numbers-using-css/ : Go Make Things, 28 Mar
-  2022. The counter that shifts layout, the fix and "It's not available in all fonts".
 - https://dialtone.dialpad.com/utilities/typography/font-variant-numeric.html : Dialpad Dialtone
   design system. Tabular figures for tabular data and changing content, the countdown timer case.
 - https://dev.to/alanwest/tabular-numbers-in-css-font-variant-numeric-vs-monospace-hacks-25cn : DEV

@@ -41,21 +41,15 @@ Items 16 to 22 were not yet on screen in the screenshot. A later screenshot or t
 - make-headlines-specific | rule
 - emphasize-the-cta | rule
 - add-an-accent-colour | technique
-- keep-icons-consistent | rule (same family as matched-icon-weight)
 - remove-embellishments | rule
-- inner-radius-equals-outer-minus-padding | researched as concentric-radius
 - improve-text-contrast | rule
 - wrap-headlines-properly | rule (same family as widow)
-- align-by-eye-not-pixels | rule (same family as optical-centre)
-- use-tabular-nums | rule (same as tabular-numbers)
 - add-loading-states | rule
 - animate-useful-feedback | rule
 
 ## charles.unemployed, "20 design terms you should know" (screenshot 16 Nov 2026)
 
 - kerning | term
-- optical-centre | term
-- tabular-numbers | term
 - layout-shift | term
 - tracking | term
 - optimistic-update | term
@@ -76,13 +70,5 @@ Items 16 to 22 were not yet on screen in the screenshot. A later screenshot or t
 
 ## charles.unemployed, "10 niche design hacks" (screenshot 16 Nov 2026)
 
-- concentric-radius | researched
-- alpha-borders | technique
 - oklch-palettes | technique
 - oklch-gradients | technique
-- matched-icon-weight | rule
-- masked-edges | technique
-- blurred-icon-swaps | technique
-- dark-mode-depth | rule
-- dynamic-viewport | rule
-- multiply-blending | researched

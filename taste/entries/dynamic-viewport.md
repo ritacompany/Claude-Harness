@@ -44,7 +44,7 @@ underneath the address bar UI in iOS Safari and cropped in Android browsers", an
 modal whose bottom part is invisible. The fix is to say which height you mean. The spec spells
 out the trade: large units may be "hidden behind such interfaces when they are expanded"; small
 units "will fill the screen perfectly, without any of its content being obscured" but leave
-"extra space" once the bars hide and are "safer in general"; dynamic units fit exactly but "can
+space below once the bars hide and are "safer in general"; dynamic units fit exactly but "can
 cause content to resize e.g. while the user scrolls the page", which "can be disturbing to the
 user and/or costly in terms of performance".
 
@@ -100,12 +100,12 @@ that declaration and keeps the one before it. Use `min-height` for a hero so lon
 still grow past the screen.
 
 Support: caniuse lists the small, large and dynamic units in Chrome and Edge 108, Safari and iOS
-Safari 15.4, Firefox 101 and Samsung Internet 21. It put global usage at about 96% when checked
-on 18 Nov 2026. web.dev's announcement says Chrome 108 joined Safari and Firefox, which already
+Safari 15.4, Firefox 101 and Samsung Internet 21. It put global usage at about 96% (StatCounter figures for
+October 2026). web.dev's announcement says Chrome 108 joined Safari and Firefox, which already
 had them; WebKit announced them in Safari 15.4 on 14 March 2022.
 
 Layout shift: dynamic units do not update smoothly. web.dev: "The values for the dynamic viewport
-do not update at 60fps. In all browsers updating is throttled as the UA UI expands or retracts."
+do not update at 60fps."
 The spec lets a browser skip animating them during the bar animation and recommends assuming the
 fully retracted size while it runs. So a `dvh` box changes height in a step after the bars
 settle, and anything laid out below or inside it moves with it.
@@ -171,7 +171,7 @@ Not yet given.
   default units equal their large counterparts, small units "safer", dynamic units can cause a
   performance hit.
 - https://web.dev/blog/viewport-units : Bramus, web.dev. Why `100vh` bleeds out on mobile, the
-  three viewports, dynamic values clamped and throttled, keyboard not part of the UA UI, Chrome
+  three viewports, dynamic values clamped and not updated at 60fps, keyboard not part of the UA UI, Chrome
   108 support.
 - https://webkit.org/blog/12445/new-webkit-features-in-safari-15-4/ : WebKit, 14 March 2022. The
   new units shipped in Safari 15.4.

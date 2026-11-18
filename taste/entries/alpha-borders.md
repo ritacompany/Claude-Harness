@@ -67,7 +67,7 @@ slight border to make the edge visible against a dark background."
 - The surface behind is a busy photo or a strong colour where the border must look the same
   everywhere. Hobday's caveat: the shift from one colour to another "can look bad in a different
   way".
-- The same black alpha token is reused in dark mode. Black at 10% on `#121212` is about 1.01:1, so
+- The same black alpha token is reused in dark mode. Black at 10% on `#121212` is about 1.02:1, so
   the line disappears; dark surfaces need a white alpha, and Hobday notes a dark background needs
   a less transparent border.
 
@@ -184,6 +184,8 @@ Not yet given.
   picker, strokes not counted in dimensions except in auto layout when included.
 - https://help.figma.com/hc/en-us/articles/15343107263511 : Figma help, Apply variables to
   designs. Colour variables apply to stroke colours.
+- https://help.figma.com/hc/en-us/articles/15343816063383 : Figma help, Modes for variables. One
+  variable can hold a light and a dark value as modes.
 - https://developer.apple.com/design/human-interface-guidelines/dark-mode : Apple HIG, Dark Mode.
   The oil drop icon that needs a slight border on a dark background. The page renders with
   JavaScript; its text is at

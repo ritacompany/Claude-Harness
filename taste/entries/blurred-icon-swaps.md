@@ -20,16 +20,16 @@ state rather than a frame cut.
 Both icons occupy one slot. The outgoing icon goes from full opacity, full scale and no blur to
 transparent, smaller and blurred; the incoming icon runs the same values in reverse, and the two
 overlap in time. Emil Kowalski's version takes a plain crossfade and adds "2px of blur to that
-animation". The Icon Swap component on chanhdai.com enters from opacity 0, scale 0.25 and `blur(4px)` to
-opacity 1, scale 1 and `blur(0px)`, exits the same way, and runs on a spring with a duration of 0.3
-and no bounce. It credits Emil Kowalski for the blur. The "Animating icons" write up on jakub.kr
-describes the same
-move as animating opacity, scale and blur when different icons are shown contextually in a button.
+animation". The Icon Swap component on chanhdai.com enters from opacity 0, scale 0.25 and
+`blur(4px)` to opacity 1, scale 1 and `blur(0px)`, exits the same way and runs on a spring with a
+duration of 0.3 and no bounce. It credits Emil Kowalski for the blur. The "Animating icons" write
+up on jakub.kr describes the same move as animating opacity, scale and blur when different icons
+are shown contextually in a button.
 
 Apple ships the scale half natively. SF Symbols has a Replace animation whose down-up
 configuration scales the outgoing symbol down and the incoming symbol up, "communicating a change
 in state", and Magic Replace transitions between symbols with related shapes, falling back to
-down-up between unrelated ones. Apple's guidelines do not describe a blur in it.
+down-up between unrelated ones. Apple's description of Replace mentions scale, not blur.
 
 ## Why it works
 
@@ -105,7 +105,7 @@ confirmation has been seen.
 
 React with Motion. `AnimatePresence` runs a child's `exit` animation before removing it, changing
 the child's `key` swaps it, `mode="popLayout"` pops the exiting element out of the layout so
-surrounding elements reflow at once, and `initial={false}` stops the icon animating on first
+surrounding elements reflow at once and `initial={false}` stops the icon animating on first
 render.
 
 ```jsx
@@ -152,14 +152,14 @@ the prototype before relying on the blur.
 
 These are judgment within the published values:
 
-- Duration 200ms, ease-out, or a spring with duration 0.25 and no bounce. Emil Kowalski keeps UI
+- Duration 200ms with ease-out, or a spring with duration 0.25 and no bounce. Emil Kowalski keeps UI
   animations under 300ms and uses ease-out for anything entering or exiting.
 - Hidden icon: opacity 0, scale 0.8, blur 4px. Published values range from 2px blur on a crossfade
   (Emil Kowalski) to 4px blur and scale 0.25 (the chanhdai.com component). Emil warns that scale(0) "looks like the
   element comes out of nowhere".
 - Both icons animate at the same time; the outgoing one does not wait.
 - Return from tick to copy after about 2 seconds.
-- Reduced motion: opacity only, 150ms linear, or an instant swap.
+- Reduced motion: an opacity fade alone at 150ms linear, or an instant swap.
 
 ## How it goes wrong
 

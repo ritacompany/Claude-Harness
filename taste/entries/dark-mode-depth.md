@@ -3,7 +3,7 @@
 - id: dark-mode-depth
 - kind: rule
 - surfaces: product-ui, brochure
-- layers: colour, shape, state
+- layers: colour, shape
 - default: yes, whenever a dark theme stacks surfaces (cards, sheets, menus, popovers, modals)
 - captured from: charles.unemployed, "10 niche design hacks" (no. 8)
 - researched: 18 Nov 2026
@@ -25,14 +25,14 @@ implied light source".
 
 Three systems implement the same idea differently:
 
-- Material, first version: a semi-transparent overlay composited on the surface, with an alpha
+- Material's earlier approach: a semi-transparent overlay composited on the surface, with an alpha
   that rises with elevation. The library's formula is `(4.5 x ln(1 + elevation in dp) + 2) / 100`,
   which gives about 5% at 1dp, 8% at 3dp, 11% at 6dp, 12% at 8dp, 15% at 16dp and 16% at 24dp.
   Material 3 themes set the overlay colour to the primary colour.
 - Material 3: the overlays are replaced by fixed tonal surface roles. In the dark scheme the
   documented tones are background and surface 6, surface container lowest 4, low 10, container
   12, high 17, highest 22 and surface bright 24.
-- Apple: two sets of background colours, base and elevated. "The base colors are dimmer, making
+- Apple, in iOS and iPadOS: two sets of background colours, base and elevated. "The base colors are dimmer, making
   background interfaces appear to recede, and the elevated colors are brighter, making foreground
   interfaces appear to advance." The switch is automatic when an interface comes to the
   foreground, such as a popover or modal sheet.
@@ -167,7 +167,7 @@ Not yet given.
 - https://github.com/material-components/material-components-android/blob/master/lib/java/com/google/android/material/color/res/values/colors.xml
   : `#121212` as the default dark background and surface colour.
 - https://developer.apple.com/design/human-interface-guidelines/dark-mode : Apple HIG, Dark Mode.
-  Base and elevated background sets, automatic switch for popovers and modal sheets, contrast of
+  Base and elevated background sets in iOS and iPadOS, automatic switch for popovers and modal sheets, contrast of
   at least 4.5:1 and 7:1 for custom colours, colours not simple inversions, immersive media apps.
   The page renders with JavaScript; its text is at
   https://developer.apple.com/tutorials/data/design/human-interface-guidelines/dark-mode.json
