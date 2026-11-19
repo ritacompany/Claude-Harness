@@ -1,0 +1,242 @@
+# Sources read for the tool defaults research (16 Nov 2026)
+
+How the research ran: Sonnet readers pulled his own messages (never Claude's) from each source into findings with a verbatim quote, source and date; Opus agents then grouped the 2,190 findings into themes; the skill cites the themes' strongest ids. Raw counts below are measured from the lists themselves.
+
+## Archived claude.ai chats (mondaihistory export, 8 Mar to 29 Sep 2026): every chat, his messages read in full
+
+- 2026-03-08--figma-prompt-for-minimalist-journey-hub-homepage--4acbd28a.md
+- 2026-03-08--premium-dark-mode-saas-homepage-design-system--81cda2a5.md
+- 2026-03-09--brand-family-consistency-across-subsidiaries--fa35c8f5.md
+- 2026-03-09--scheduling-intern-onboarding-meetings--da633d76.md
+- 2026-03-10--mondai-rita-abc-design-flows--c9210d9e.md
+- 2026-03-12--standardizing-task-descriptions-across-notion-pages--1b1a1fb0.md
+- 2026-03-14--progress-tracking-indicators--5286b90f.md
+- 2026-03-17--collapsible-sidebar-margin-layout--935871a6.md
+- 2026-03-18--mondai-rita-abc-knowledge--a8baa619.md
+- 2026-03-18--project-assistance-needed--db6cdec6.md
+- 2026-03-18--starting-screen-design-review--7765dc4c.md
+- 2026-03-19--task-formatting-and-descriptions--6e6229a1.md
+- 2026-03-20--integrating-ai-into-a-new-page--76e5a583.md
+- 2026-03-22--exploring-next-steps-from-research--fd429466.md
+- 2026-03-23--weekly-task-view-redesign-and-code-implementation--f059e097.md
+- 2026-03-24--calendar-integration-flow--bb473d8a.md
+- 2026-03-24--figma-ai-agents-and-canvas-integration--caf83d91.md
+- 2026-03-24--vertical-centering-and-optical-balance-in-ui-design--4618a9f2.md
+- 2026-03-31--nearly-finished-project--f906a86d.md
+- 2026-04-01--mondai-career-navigation-design-kickoff--4ba05fa0.md
+- 2026-04-03--figma-link-verification-for-design-sizing--2e7197cf.md
+- 2026-04-05--journey-screen-design-requirements-and-component-links--55c9b4f0.md
+- 2026-04-05--understanding-npx-and-claude-s-theme-factory--466f3caf.md
+- 2026-04-06--pathway-icons-and-hover-animations-exploration--4cd87cd3.md
+- 2026-04-06--weekly-framework-mvp-alignment--bac4a8ff.md
+- 2026-04-07--mondai-brochure-hero-background-concepts--7c922553.md
+- 2026-04-09--visualizing-target-and-pace-dates--9773d210.md
+- 2026-04-09--your-journey-and-pathways-page--1289d949.md
+- 2026-04-11--multi-angle-video-editing-terminology--71d88c5b.md
+- 2026-04-12--image-models-for-style-extraction-and-replication--b89b2bbe.md
+- 2026-04-13--cognition-pathway-action-items-review--396fe579.md
+- 2026-04-14--figma-design-system-link-verification--3b06609d.md
+- 2026-04-15--action-item-arrow-hover-animation--f4d3c853.md
+- 2026-04-19--career-selection-modal-redesign--7f2c3f09.md
+- 2026-04-19--mondai-notifications-consistency-review--edaeb89c.md
+- 2026-04-20--redesigning-core-frame-grid-system--f8b090e5.md
+- 2026-04-22--action-items-page-design--f3f4c69b.md
+- 2026-04-22--progress-bar-design-for-linear-focus-areas--ebd54950.md
+- 2026-04-23--compressing-screen-recordings-with-handbrake--0abc8776.md
+- 2026-04-23--refining-onboarding-transition-design--a52374da.md
+- 2026-04-25--organizing-filter-and-sort-options-for-ux--4d0dba16.md
+- 2026-04-27--converting-progress-list-to-notion-task-format--6588ec3a.md
+- 2026-04-27--figma-design-system-access--b3fa5d36.md
+- 2026-04-28--refining-card-design-and-interactions--46ecb816.md
+- 2026-04-28--understanding-the-action-hub-page--8a6cbc5a.md
+- 2026-04-29--calendar-integration-flow-in-action-hub--5fd39d50.md
+- 2026-04-29--target-pace-field-for-completed-pathways--130c164e.md
+- 2026-04-30--ai-driven-scheduling-onboarding-design--99810268.md
+- 2026-04-30--clarifying-pathway-page-sorting-and-task-organization--4a7e54ec.md
+- 2026-04-30--growth-journey-responsiveness--791a5eea.md
+- 2026-04-30--onboarding-career-flow--7224289a.md
+- 2026-04-30--sidebar-menu-collapsed-vs-expanded-state-usage--2ad7d729.md
+- 2026-05-01--action-hub-post-add-variation-design--752071f1.md
+- 2026-05-01--tooltip-design--28a3e662.md
+- 2026-05-02--action-item-page-design-without-ai-features--8724ce06.md
+- 2026-05-02--finishing-the-leftover-task-flow-design--6ee39aaa.md
+- 2026-05-02--four-different-resource-types-for-this-week--56c56100.md
+- 2026-05-02--resource-page-and-action-hub-overview--9f4b08f1.md
+- 2026-05-03--reconciling-calendar-scheduling-with-weekly-framework--c18cc51a.md
+- 2026-05-04--action-hub-schedule-view-design-constraints--d73964c6.md
+- 2026-05-04--action-item-page-content-sections-design--e02ffb02.md
+- 2026-05-04--flex-point-icon-ideas-from-tdesign--15bb773d.md
+- 2026-05-04--wcag-icon-contrast-ratio-requirements--1824e7db.md
+- 2026-05-05--presenting-design-flows-to-michael-effectively--66f01de5.md
+- 2026-05-05--unfinished-action-items-in-get-ahead-flow--7ad9f71b.md
+- 2026-05-06--simplifying-product-rollover-automation-and-user-clarity--6bea79a8.md
+- 2026-05-06--stress-and-serious-life-changes-needed--4b322696.md
+- 2026-05-07--framework-mapping-and-mvp-rollover-solution--92eca2a4.md
+- 2026-05-07--ui-flow-solving-for-framework-mapping-mvp--3bbdaf8b.md
+- 2026-05-08--mondai-brochure-website-strategy-and-portfolio-positioning--6e1cbea6.md
+- 2026-05-08--replicating-website-animations--11dba617.md
+- 2026-05-12--differentiating-top-match-recommendations-without-percentage--2b3415fc.md
+- 2026-05-12--llm-choice-impact-on-design--8ae5bf95.md
+- 2026-05-12--refining-the-hero-section-design--f7401b33.md
+- 2026-05-13--designing-content-blocks-for-action-item-pages--740a1467.md
+- 2026-05-14--action-items-page-header-and-spacing-redesign--7f12ba4b.md
+- 2026-05-14--claude-max-account-business-case-for-michael--73d4bb73.md
+- 2026-05-14--converting-brochure-screenshots-to-plain-text-sections--58b5fdaf.md
+- 2026-05-15--action-hub-context-menu-alignment--f2e240c4.md
+- 2026-05-15--action-items-page-scrolling-and-layout-strategy--8bf13090.md
+- 2026-05-15--html-file-mystery--fcc195a0.md
+- 2026-05-15--sentence-case-vs-title-case-research-backed-design-analysis--f51eeeef.md
+- 2026-05-17--journey-level-target-naming-and-product-onboarding-integrati--95ea5c56.md
+- 2026-05-17--refining-product-onboarding-flow-and-design--62165c2e.md
+- 2026-05-19--capacity-modification-placement-in-onboarding--687cd4e2.md
+- 2026-05-20--home-page-design-for-unselected-career-users--0a0deb81.md
+- 2026-05-20--scheduled-mode-action-items-rescheduling-architecture--8d1f078e.md
+- 2026-05-21--start-of-week-flow-design-with-capacity-and-rollover-handlin--afa3c2c1.md
+- 2026-05-23--deep-dive-into-week-flow-setup--ad73fd64.md
+- 2026-05-25--week-flow-setup-alternatives-and-edge-cases--a08261c9.md
+- 2026-05-26--get-ahead-flow-documentation-and-tone-review--90a7440f.md
+- 2026-05-26--glitch-treatment-and-layout-rhythm-exploration--137e786b.md
+- 2026-05-27--i-need-you-to-find-the-best-cl--c724fb8c.md
+- 2026-05-28--mondai-brochure-refinement-and-hero-section-animation-strate--2d214ed3.md
+- 2026-05-28--mvp-framework-documentation-for-swyam--997bf29c.md
+- 2026-05-28--optimizing-claude-model-selection-and-thinking-settings-for---b889db03.md
+- 2026-05-29--events-page-design-consistency-audit--06a0e595.md
+- 2026-05-30--calendar-integration-toggle-placement-solution--3dd43c15.md
+- 2026-05-31--designing-rollover-flow-instances--3465f72b.md
+- 2026-05-31--mvp-onboarding-flow-deep-dive--0318092a.md
+- 2026-06-04--mondai-event-survey-design-and-completion-strategy--82754707.md
+- 2026-06-13--auditing-skills-setup-and-duplicates--a11ef426.md
+- 2026-06-14--streamlining-project-skills-and-design-uploads--b8bfa15b.md
+- 2026-06-17--finding-michael-s-website-links--f52fd598.md
+- 2026-06-17--sharing-website-animations-for-review--c23c2396.md
+- 2026-06-18--brochure-features-section-copy-refinement--dfb4765c.md
+- 2026-06-18--building-a-wireframing-tool-for-brochure-website-layouts--0ca20689.md
+- 2026-06-20--body-text-for-mondai-landing-page--ea6f8d43.md
+- 2026-06-20--visual-alternatives-for-career-action-plan-section--734231df.md
+- 2026-06-22--background-props-for-mondai-mockup--5c164c5c.md
+- 2026-06-22--decorative-tech-elements-for-card-design--7621102f.md
+- 2026-06-22--reviewing-career-action-plan-visual-alternatives--99e39381.md
+- 2026-06-23--quick-core-x-meeting-topic-ideas--60a4c8eb.md
+- 2026-06-24--lottie-animations-for-mondai-brochure--93766394.md
+- 2026-06-25--pathway-icon-representation-strategy--f3c99d8d.md
+- 2026-06-26--scroll-animation-ideas-for-brochure-layout--6835f86a.md
+- 2026-06-29--organizing-feature-card-visual-hierarchy--5ccfdd9d.md
+- 2026-06-29--personalization-attributes-for-user-onboarding--535cba94.md
+- 2026-07-14--context-document-for-brochure-website-design--e32d706a.md
+- 2026-07-14--integrating-claude-with-figma-s-new-agent--03436614.md
+- 2026-07-14--modular-grid-setup-in-figma--bbfa7d50.md
+- 2026-07-16--beta-vs-launched-saas-website-design-patterns--d71a0ab4.md
+- 2026-07-21--mondaia-events-page-flow-and-signup-architecture--c841939f.md
+- 2026-07-22--generic-career-discovery-template--64de8872.md
+- 2026-07-23--claude-code-setup-for-brochure-website--0e8330fc.md
+- 2026-07-24--chatgpt-prompts-for-figma-design-work--de3972ea.md
+- 2026-07-24--grid-layout-for-hero-section--ecacdd62.md
+- 2026-07-26--brochure-website-strategy-and-design-system-separation--5251cc48.md
+- 2026-07-27--naming-a-shared-design-system-file--09b01956.md
+- 2026-07-27--review-previous-chat-and-csv-file--4184a9aa.md
+- 2026-07-27--web-to-mobile-transition-database-design--e070eb84.md
+- 2026-07-28--streamlining-team-work-tracking-system-in-notion--aeff4316.md
+- 2026-07-29--event-registration-and-onboarding-flow-redesign--b30275af.md
+- 2026-07-30--setting-up-local-mcp-server-for-figma--61ace9c0.md
+- 2026-08-03--creating-a-product-sitemap-for-designer-meeting--71363bc3.md
+- 2026-08-05--designer-s-role-in-full-team-meetings--dd0d12f0.md
+- 2026-08-10--calendar-view-documentation-for-mobile-design--229952d7.md
+- 2026-08-10--transferring-project-data-to-rita-s-account--870b5172.md
+- 2026-08-11--cohort-feature-meeting-prep-and-task-delegation--f97294d0.md
+- 2026-08-19--setting-up-github-for-work-account--6e44df1f.md
+- 2026-09-21--grid-information-research-task--9b2be52f.md
+- 2026-09-22--feature-document-analysis-with-psychology--1c849fef.md
+- 2026-09-23--cohort-matchings-design-progress--f216f372.md
+- 2026-09-23--prompt-preparation-and-audit--1cd50667.md
+- 2026-09-24--ai-design-assistance-struggles--e8c5e398.md
+- 2026-09-24--cohort-matching-feature-research--c53bf391.md
+- 2026-09-24--core-frame-grid-margins--08490381.md
+- 2026-09-29--mondai-by-rita-brochure-figma-access--712b21cd.md
+
+## Cloud sessions read (71 chosen from 386 by title as the ones where tools, boards, canvases, labs, decks or responsive rules were built or argued; 63 read to the first message, 8 partial)
+
+- session_01NtNprp73Ti4A4bFkiqkKL7 · 2026-11-16 · Mondai brochure: mentor hero layout explorations · read to first message
+- session_01NtNprtDv4saxYd6Da65TEE · 2026-11-14 · Portfolio website number display · read to first message
+- session_01NtNprtfRV7qs4knsGf674Q · 2026-11-13 · Mondai: M1.1 Become a mentor brochure layout options · read to first message
+- session_01NtNprp2qxAxeFw1rakboqD · 2026-11-09 · Portfolio: site build Phase 3 responsive · read to first message
+- session_01NtNprstDeC1QTC64wkbun8 · 2026-11-06 · Design system CS: reference board · read to first message
+- session_01Bjp1mtde35MvkQ9yjAxEKf · 2026-10-23 · Mentor events: dev handoff on the board · read to first message
+- session_0194BLaZeMGvnLfUPBM3jJry · 2026-10-09 · Mondai: where notifications and toasts live · read to first message
+- session_018ALKXi99JeSv74S7A8vbXa · 2026-09-29 · Cohort and PeerConnect presentation · read to first message
+- session_019PmHctXEdFqukEZCcCiNYi · 2026-09-24 · Mondai: design system setup tracker · read to first message
+- session_01SkGCnXxgzXuViDU68k8H7C · 2026-09-23 · Breakpoints strategy · read to first message
+- session_01VcKbv6hf2uMYWPMJ6sDpih · 2026-09-11 · Pixel block layouts for Monday brochure · read to first message
+- session_01NtNprrVvBF5wXPFqzTgz7p · 2026-11-16 · Monday brochure Mentor Review layouts · read to first message
+- session_01NtNprpa8dUYdrTGTy5GMKF · 2026-11-14 · Research: dark frame styles board (M1.1 brochure) · read to first message
+- session_01NtNprrTRsPnnEzKbhounTL · 2026-11-12 · Mondai: why sessions override his words · partial: newest part only (process chat, no tool content seen)
+- session_01NtNprsKE28H8PxrfkJbRLC · 2026-11-09 · Portfolio: Contact button liquid effect · read to first message
+- session_01NtNprsTNRPmCz7fSNf6bVZ · 2026-11-03 · Setup: sidebar cleanup, 3 Nov · partial: newest part only (machine text only seen)
+- session_01SKEbA1stJrsUHdRQZqbSQk · 2026-10-22 · Mondai: Refero deciding the first screen build · read to first message
+- session_018pq2hNT9D8RNU3benHMJY4 · 2026-10-06 · Internal feature book concept · read to first message
+- session_01PSpZXrERQ9pQvfJ5peTNMM · 2026-09-29 · Grid split handoff · read to first message
+- session_01Dksma5FZm3uQ6hAXcYGeoJ · 2026-09-24 · Mondai: comparisons PRs 45 and 46 · read to first message
+- session_01MQ4WVVR5Y7GdAqr23ugNnv · 2026-09-23 · Claude Design Setup (on hold for desktop sign in) · read to first message
+- session_01NtNprrVhY3SbxTZmboUBVr · 2026-11-15 · Portfolio: whole-site style lab · read to first message
+- session_01NtNprqW93xEZUZaJKanmTH · 2026-11-14 · Research: dark boxed layout references (M1.1 brochure) · read to first message
+- session_01NtNprsC6u3fJpbqoSeHoBh · 2026-11-11 · Mondai: Claude Design System artifact · read to first message
+- session_01NtNprrdgkH7BwS9KC34Ed6 · 2026-11-08 · Portfolio: site build Phase 1 and 2 · read to first message
+- session_01NtNprsV8pmvJW6HQx8KF4F · 2026-10-31 · Studio: trim handle options · read to first message
+- session_01HG3re2BNmUZoq3QjVAjt4C · 2026-10-21 · Setup: question box for Claude's replies · read to first message
+- session_01TT8fL2k5XEfx44PQ5g5ftL · 2026-10-02 · Mondai: M6 flow prototype with named comments · read to first message
+- session_014xSwEkdzECjMUx5BMDAv1h · 2026-09-28 · Mondai: Journey Advisement research and explainer · partial: back to 28 Sep 04:16 UTC
+- session_019HToFAiP4McWTP35URkiFJ · 2026-09-24 · Design component audit · read to first message
+- session_01FPbyfXuHjQ7wqP7Zge3fkU · 2026-09-18 · Rounded chips component audit · read to first message
+- session_01NtNprqGEdagU94y9FfN5EN · 2026-11-15 · Mondai: Action Hub tour handoff onto the Action Hub page · read to first message
+- session_01NtNprp4hKbyFppwVUfiF4y · 2026-11-14 · Mondai: Action Hub onboarding tour · read to first message
+- session_01NtNprrht1dkXbpZeWyyttF · 2026-11-10 · Tablet and mobile grid columns · read to first message
+- session_01NtNprsFPqvqXpSpqpiCWnC · 2026-11-08 · Portfolio: site build Phase 0 foundation · read to first message
+- session_01NtNprswKgaiEK8gx9SHaGA · 2026-10-30 · Studio research and redraws · read to first message
+- session_01Y5qexiTn68NwPwLHnSqvrn · 2026-10-20 · Mondai: mentor events primer · read to first message
+- session_01CSAQfaYZG7A1sFqBfSiTJS · 2026-09-30 · Text effect technique analysis · read to first message
+- session_018ycdxU6iRq39X7rzdYW6QR · 2026-09-26 · Mondai site: grid split glitch tool recreation · read to first message
+- session_01SzvWRBFshSfz7Vekob7bxF · 2026-09-24 · User flow visualization tool history · read to first message
+- session_01TXYKRR4cSiMkpDcc6sRowZ · 2026-09-14 · Hero section mask image blocks · read to first message
+- session_01NtNprpu3RjMCaEGgtCnf6c · 2026-11-15 · Mondai chat: panel width and responsive rules · read to first message
+- session_01NtNprtSRe1p6iB2dHQVcpA · 2026-11-14 · Mondai: Claude Design kept in sync with Figma design system · read to first message
+- session_01NtNprsBg6pFPtYLmTJ1kKY · 2026-11-09 · Portfolio: homepage shader background · read to first message
+- session_01NtNprpvFMiJzn3zpnmibzY · 2026-11-08 · Square grid layout options · read to first message
+- session_01NtNprsGAiaqCn1n36VDDLK · 2026-10-29 · Mondai: learning the docs · read to first message
+- session_01TBhJZSRgdJGQESrRWdrgBR · 2026-10-17 · Liquid button effects recreation · read to first message
+- session_01WAgCDtY4nt6HDMQTLCyrzc · 2026-09-30 · Canvas route process and mechanical checks · partial: back to 1 Oct 21:29 UTC; his first ask not reached
+- session_012S73prdnQN5eu8h3NV1snk · 2026-09-26 · Dashboard · read to first message
+- session_01XTFcEfMmFQSEz9e3mkhC8m · 2026-09-24 · Design system comparisons · partial: back to 24 Sep 11:55 UTC
+- session_014YeaR5n3MgpwmXFD25fXES · 2026-09-13 · Portfolio homepage build verification · partial: back to 16 Sep 22:52 UTC
+- session_01NtNprtEw5p3iE9c1EjnWQk · 2026-11-15 · Portfolio: hero and selected works React playground · read to first message
+- session_01NtNprr36dojS8yA6LWFscp · 2026-11-14 · Mondai: M1.1 brochure layout lead (round 5, design canvas) · read to first message
+- session_01NtNprqYhLqhk8LzH7GXx2L · 2026-11-09 · Portfolio: hover highlight text match · read to first message
+- session_01NtNprp9UZMRdMkayXtL9bf · 2026-11-07 · Mondai: type tuning tool · read to first message
+- session_01NtNprr86Wr9s2UHccNZULw · 2026-10-28 · Setup: motion studio for Mondai and portfolio · read to first message
+- session_01ACKAxCXNtdMbsJB1NZeH4X · 2026-10-14 · Chat cleanup and triage · read to first message
+- session_01RxyKeMG9w35aDMcKmeP8rK · 2026-09-30 · Tablet grid design for responsiveness · read to first message
+- session_0122UNAKHYawxUYB167eA884 · 2026-09-25 · Figma cohorts design audit · partial: back to 25 Sep 17:53 UTC
+- session_013GcGg7scnijeY8ChEotEuJ · 2026-09-23 · Claude Code design system · read to first message
+- session_019dtJM3Jhh4juFe4boEPXig · 2026-09-12 · Canvas tool grouping and font weights · read to first message
+- session_01NtNprqRcgnXMZ3o9kqK7F5 · 2026-11-14 · Portfolio number display animation · read to first message
+- session_01NtNprppPNewwXLTiq441nR · 2026-11-13 · Mondai: M1.1 brochure layout lead (round 3, design canvas) · read to first message
+- session_01NtNprsvaXrtiJWKheNxNhc · 2026-11-09 · Portfolio: Contact button gooey split from the recording · read to first message
+- session_01NtNprr248DZTRQqCLq35f5 · 2026-11-07 · Sidebar session audit · read to first message
+- session_013wLGaU7ud9NvvRgYC4scVQ · 2026-10-24 · Mondai: process speed and layout from references · read to first message
+- session_01MLno3JwCSEXxhHg19QRiRH · 2026-10-09 · Final phase markup for dev · read to first message
+- session_01HQHq6Myh5DeCS2D1oDVHxb · 2026-09-30 · Design canvas alignment with Figma rules · read to first message
+- session_018KPbx1PZ5qT3FPqCo2K5f1 · 2026-09-25 · Cohorts: F5 fix preview rejected · read to first message
+- session_0174K5nWLK4ff5sxrN6t4GdM · 2026-09-23 · Design system comparisons brief · read to first message
+- session_011Y5uqrXNsKHrQ4d1Tun42X · 2026-09-11 · Catbook Workstation typography/composition · partial: back to 13 Sep 05:28 UTC; his 11 and 12 Sep board comments are covered by the artifact comment sweep where they were left on artifacts
+
+## Cloud sessions not read
+
+- 315 of the 386 sessions (26 Aug to 16 Nov) were screened by title only: product screens, tokens, research, setup and process chats with no tool built for him. Their tool asks, if any, are not in the evidence.
+
+## Artifacts and their comments
+
+- 161 artifacts listed with Artifact list scope all; every one read with ArtifactComments (29 had threads). Per artifact counts are in the research scratch file artifacts.md Coverage, summarised here.
+- Gaps: very long single comments were cut by the tool; 6 threads on Hero round six were not listed by the tool.
+
+## Repo sweep
+
+- ritacompany/mondai, ritacompany/portfolio, ritacompany/claude-harness, ritacompany/mondai-site and ritacompany/mondaihistory (outside the chat export) searched by script for his recorded words (His words, Chadwick, CHADWICK-SAID, his-words folders, REVIEW and ASKS files) and every HTML tool inventoried: 183 quotes, 25 tool entries.
+
