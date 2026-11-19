@@ -21,6 +21,20 @@ Three uses:
 3. Critique. When judging work, each matching default entry's "How to check it" line is run
    against the build.
 
+## Where it is wired in
+
+Decided by: Chadwick, 18 Nov 2026, "yes" to every page build applying the library's defaults and
+running its checks. Each project names it at the step that builds or reviews a page, and its own
+rules win where they disagree:
+
+- Mondai brochure design: ritacompany/mondai, `mondai-design/steps/brochure.md` step 7 (ask A205).
+- Mondai brochure code: ritacompany/mondai-site, CLAUDE.md, rules for every change.
+- Portfolio site: ritacompany/portfolio, `docs/PROJECT_CONTEXT.md` guardrails, with `npm run taste`
+  running six entries' checks on the shipped pages.
+
+A cloud session only has the taste skill when it is turned on in the claude.ai account, so each
+pointer also names this repo, where INDEX.md can be read directly.
+
 ## Folder
 
 - `INBOX.md`: captured items waiting for research, with where each came from.
