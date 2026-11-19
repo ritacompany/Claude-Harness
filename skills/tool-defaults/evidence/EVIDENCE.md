@@ -17423,7 +17423,7 @@ Sources: archived claude.ai chats (mondaihistory), cloud Claude Code sessions, a
 
 ### E2484 · Edit in canvas must visibly change
 - quote: "if I click on something and change the color, should I see the color change?"
-- source: session_019TMvtLPLFecAz9fEbEisVn · 2026-09-25T17:51:18.216430Z (wave-3.md)
+- source: session_01ByCW6sxio2TTKHk7TnrTvz · 2026-09-25T17:51:18.216430Z (wave-3.md)
 - date: 2026-09-25
 - context: Editable canvas, first time using Canva-style editor
 - tags: editor | interaction · standing: yes
@@ -18503,28 +18503,28 @@ Sources: archived claude.ai chats (mondaihistory), cloud Claude Code sessions, a
 - quote: "Show before and after images in chat first."
 - source: session_01KYnAdaA7vwc1VVEeXfroDt · 53e87967-afd0-4625-81f8-8d8a06b6b64c (2026-09-25T03:17:57.959662Z) (wave-4.md)
 - date: 2026-09-25
-- context: Layout damage fixes brief on the MVP file
+- context: Layout damage fixes brief on the MVP file (relayed in a brief, not typed by him as his own words)
 - tags: review-board | delivery · standing: standing
 
 ### E2639 · No links to go and look at
 - quote: "Don't send him Figma links to go and look at."
 - source: session_01KYnAdaA7vwc1VVEeXfroDt · 53e87967-afd0-4625-81f8-8d8a06b6b64c (2026-09-25T03:17:57.959662Z) (wave-4.md)
 - date: 2026-09-25
-- context: Layout damage fixes brief on the MVP file
+- context: Layout damage fixes brief on the MVP file (relayed in a brief, not typed by him as his own words)
 - tags: delivery · standing: standing
 
 ### E2640 · One line per pair, one ask
 - quote: "Give each pair one line saying what changes."
 - source: session_01KYnAdaA7vwc1VVEeXfroDt · 53e87967-afd0-4625-81f8-8d8a06b6b64c (2026-09-25T03:17:57.959662Z) (wave-4.md)
 - date: 2026-09-25
-- context: Layout damage fixes brief on the MVP file
+- context: Layout damage fixes brief on the MVP file (relayed in a brief, not typed by him as his own words)
 - tags: review-board | copy · standing: standing
 
 ### E2641 · Screenshot check against the preview
 - quote: "Screenshot each fixed screen and check it against its AFTER preview."
 - source: session_01KYnAdaA7vwc1VVEeXfroDt · 53e87967-afd0-4625-81f8-8d8a06b6b64c (2026-09-25T03:17:57.959662Z) (wave-4.md)
 - date: 2026-09-25
-- context: Layout damage fixes brief on the MVP file
+- context: Layout damage fixes brief on the MVP file (relayed in a brief, not typed by him as his own words)
 - tags: process · standing: standing
 
 ### E2642 · Comparisons drawn as images outside Figma
@@ -18692,7 +18692,7 @@ Sources: archived claude.ai chats (mondaihistory), cloud Claude Code sessions, a
 - quote: "No new text overlaps or clipping anywhere on the page, and screenshots of Cohort match 03, 04, 13, Cohorts 02 Invitation and one cohort home screen after the change."
 - source: session_01WMM1YYX2MUcJKbcRMk7xX1 · f4ed0acf-f463-4897-a4da-714348f6a255 (2026-09-25T19:51:18.966688Z) (wave-4.md)
 - date: 2026-09-25
-- context: Region gap rule applied in Figma
+- context: Region gap rule applied in Figma (relayed in a brief, not typed by him as his own words)
 - tags: process | review-board · standing: standing
 
 ### E2666 · Show the evidence

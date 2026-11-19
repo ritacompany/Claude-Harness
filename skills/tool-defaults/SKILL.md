@@ -120,8 +120,7 @@ Scope
   copy only ask, or a fix he already agreed, needs no page.
   (E0036, E0067, E0100, E0279, E1876, E2373, E2654, E2269)
 - Before he approves a visual change, show before and after side by side as images in the reply
-  or on the page, one line per pair saying what changes; never a link to go and look in Figma.
-  (E2370, E2635, E2638, E2639, E2640, E2856)
+  or on the page; never a link to go and look in Figma. (E2370, E2635, E2856, E2639)
 - Show only the area that changes, cropped close enough that the difference is plain; never a
   whole page or a redesigned screen to show one part. (E2771, E2874, E2875, E2927)
 - Keep one current version of each tool at one link and say which it is.
@@ -138,7 +137,7 @@ Scope
 - Open it in a real browser and click every tab, control and state at phone and desktop width.
   Run the checker and fix what it reports:
   `node <skill-dir>/scripts/tool-check.mjs <file.html or url>`.
-  (E0019, E0088, E0194, E0301, E1994, E0957, E1823, E2438, E2648, E2665)
+  (E0019, E0088, E0194, E0301, E1994, E0957, E1823, E2438, E2648)
 - Look at the screenshots the checker saves and compare them with his reference; judge what you
   see, not the code. (E1380, E1398, E1512, E2745, E2829, E2641)
 - Tick every item on the running list; build anything missing.
