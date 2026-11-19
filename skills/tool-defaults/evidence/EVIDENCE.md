@@ -15369,3 +15369,5337 @@ Sources: archived claude.ai chats (mondaihistory), cloud Claude Code sessions, a
 - date: 2026-11-16
 - context: his brief for this tool defaults system
 - tags: shell, responsive · standing: yes
+
+### E2191 · Design in Claude Code canvas first, not Figma
+- quote: "I specifically keep asking to design to be done in Claude Code first like on the canvas and I don't want you like wasting tokens building Infigma because it's more expensive"
+- source: session_01NtNprtADpYJXDNW5b6JrxP · 2026-11-15T20:19:00.883534Z (msg 385131b4) (wave-1.md)
+- date: 2026-11-15
+- context: Process: Claude defaults to building in Figma
+- tags: delivery, process, frustration · standing: yes
+
+### E2192 · No building in Figma, waste of tokens
+- quote: "I also don't want you to just be like building all this shit in Figman. That's like a huge waste of tokens."
+- source: session_01NtNprtGFTSHUhL4iQY9Xgu · 2026-11-12T20:27:16.569388Z (msg ebabb0bd) (wave-1.md)
+- date: 2026-11-12
+- context: Brochure M1.1 redesign setup
+- tags: delivery, process, frustration · standing: yes
+
+### E2193 · Three options on the design canvas
+- quote: "if you give me three suggestions on the design canvas based on that, if I do not like any of them at all, I will go ahead and find some other examples"
+- source: session_01NtNprtGFTSHUhL4iQY9Xgu · 2026-11-12T20:27:16.569388Z (msg ebabb0bd) (wave-1.md)
+- date: 2026-11-12
+- context: Brochure M1.1 redesign setup
+- tags: decision-board, delivery · standing: yes
+
+### E2194 · Use the Claude design canvas
+- quote: "since Claude design merged with Claude Code and regular Claude now, we should be able to do this better process-wise"
+- source: session_01NtNprtGFTSHUhL4iQY9Xgu · 2026-11-12T20:27:16.569388Z (msg ebabb0bd) (wave-1.md)
+- date: 2026-11-12
+- context: Brochure M1.1 redesign setup
+- tags: delivery · standing: one-off
+
+### E2195 · Review options in a review page in the right Figma file
+- quote: "These should be built in the brochure Figma file, just with a new like review panel or new review page or something, not on the Monday"
+- source: session_01NtNprtGFTSHUhL4iQY9Xgu · 2026-11-12T21:03:42.054743Z (msg 2b88b46e) (wave-1.md)
+- date: 2026-11-12
+- context: Where brochure options live
+- tags: delivery, review-board · standing: one-off
+
+### E2196 · Options in a commentable thing, not a text reply
+- quote: "I need you to present to me three alternative options in some kind of like thing that's not just like a text response, so I can like go through and make comments."
+- source: session_01NtNprtXGqvUNcgX1SU71YM · 2026-11-15T00:41:48.951619Z (msg 4ceae85b) (wave-1.md)
+- date: 2026-11-15
+- context: Mentor page copy options
+- tags: decision-board, delivery, review-board · standing: yes
+
+### E2197 · Has to say it every time: content plus options plus custom notes
+- quote: "I feel like I have to say this to you every time, but like we do really specific things quite often, a very specific thing quite often where we give me content and then you like have a couple options for me and I can like I can add a couple custom notes or whatever"
+- source: session_01NtNprtXGqvUNcgX1SU71YM · 2026-11-15T00:41:48.951619Z (msg 4ceae85b) (wave-1.md)
+- date: 2026-11-15
+- context: Mentor page copy options
+- tags: decision-board, frustration · standing: yes
+
+### E2198 · Dark mode, light hurts eyes
+- quote: "pleae make this in dark mode its burning my eyes"
+- source: session_01NtNprtXGqvUNcgX1SU71YM · 2026-11-15T02:25:52.806302Z (msg ab5c0753) (wave-1.md)
+- date: 2026-11-15
+- context: Options page he was viewing
+- tags: style · standing: yes
+
+### E2199 · Build on the canvas to see messaging
+- quote: "maybe in Canvas, you can just create Example for each what it looks like with all the copying stuff in place"
+- source: session_01NtNprtXGqvUNcgX1SU71YM · 2026-11-15T20:02:07.930570Z (msg 3bad0e6f) (wave-1.md)
+- date: 2026-11-15
+- context: Mentor page exploration
+- tags: delivery, review-board · standing: one-off
+
+### E2200 · Built in Figma when canvas was asked
+- quote: "Did you build these in Figma? I literally said on the canvas. The Claude Code canvas. What???"
+- source: session_01NtNprtXGqvUNcgX1SU71YM · 2026-11-15T20:17:32.722909Z (msg 6b7a4690) (wave-1.md)
+- date: 2026-11-15
+- context: Mentor page options
+- tags: frustration, delivery · standing: yes
+
+### E2201 · Put options next to each other in a review section
+- quote: "Can you please just put these somewhere next to each other in the Monday brochure website page under M1.1 Become a Mentor Review"
+- source: session_01NtNprtXGqvUNcgX1SU71YM · 2026-11-15T21:30:42.997707Z (msg 7b314600) (wave-1.md)
+- date: 2026-11-15
+- context: Mentor page options
+- tags: review-board, delivery · standing: one-off
+
+### E2202 · Layout and copy together
+- quote: "this time I want you to figure out the layout and the copy with one another, right?"
+- source: session_01NtNprtXGqvUNcgX1SU71YM · 2026-11-15T20:33:46.569238Z (msg c739cf6c) (wave-1.md)
+- date: 2026-11-15
+- context: Mentor page options round 2
+- tags: process · standing: one-off
+
+### E2203 · Notes should live in the review interface
+- quote: "I realize I should be leaving these notes in the actual interface and I haven't been up to this point"
+- source: session_01NtNprrTKQmhwsDkPVBnPdp · 2026-10-30T20:17:02.412637Z (msg f66c82ae) (wave-1.md)
+- date: 2026-10-30
+- context: Round of options review (ST/M screens)
+- tags: review-board, delivery · standing: yes
+
+### E2204 · Dependent decisions cannot be judged out of order
+- quote: "I don't really know if I have a choice for three because three is dependent on one and I haven't like I can't judge three until I judge one"
+- source: session_01NtNprrTKQmhwsDkPVBnPdp · 2026-10-30T20:17:02.412637Z (msg f66c82ae) (wave-1.md)
+- date: 2026-10-30
+- context: Round of options review
+- tags: review-board, decision-board · standing: yes
+
+### E2205 · Jargon label he could not read
+- quote: "what is Project Six Lines mean under the experience stuff? I don't know what that means"
+- source: session_01NtNprrTKQmhwsDkPVBnPdp · 2026-10-30T20:17:02.412637Z (msg f66c82ae) (wave-1.md)
+- date: 2026-10-30
+- context: Resume options screen
+- tags: copy, frustration · standing: yes
+
+### E2206 · Pure white too bright on dark
+- quote: "the white that you're using currently is like really shocking on the eye compared to the black"
+- source: session_01NtNprrTKQmhwsDkPVBnPdp · 2026-10-30T20:17:02.412637Z (msg f66c82ae) (wave-1.md)
+- date: 2026-10-30
+- context: Resume option on dark UI
+- tags: style · standing: yes
+
+### E2207 · Review interface must say what each design is
+- quote: "you're not like telling me in this interface like what these designs are, so I'm like having to figure it out manually."
+- source: session_01NtNprrTKQmhwsDkPVBnPdp · 2026-10-30T20:37:44.004231Z (msg 026d9b56) (wave-1.md)
+- date: 2026-10-30
+- context: Round of options review
+- tags: review-board, copy, frustration · standing: yes
+
+### E2208 · Decisions and comments should feed work in parallel
+- quote: "as I'm saving into making decisions and comments about stuff, that, like, even if you're not doing it within this chat, if you send out another chat to work on certain things or something that this can be done alongside"
+- source: session_01NtNprrTKQmhwsDkPVBnPdp · 2026-10-30T20:37:44.004231Z (msg 026d9b56) (wave-1.md)
+- date: 2026-10-30
+- context: Round of options review
+- tags: review-board, decision-board, process · standing: yes
+
+### E2209 · Do not make him decide each item separately
+- quote: "there needs to be some coherency. And right now you're asking him to make all these decisions individually."
+- source: session_01NtNprrTKQmhwsDkPVBnPdp · 2026-10-30T20:37:44.004231Z (msg 026d9b56) (wave-1.md)
+- date: 2026-10-30
+- context: Round of options review (shelf patterns)
+- tags: decision-board, process · standing: yes
+
+### E2210 · Overlapping, crunched screens on the board
+- quote: "you're literally like crunching things together, like each screen, like three, even like this SD 5.1 skill, like tax and bright green, is literally overlapping the screen that's on top of it"
+- source: session_01NtNprrTKQmhwsDkPVBnPdp · 2026-10-30T20:04:58.866364Z (msg 30cc451d) (wave-1.md)
+- date: 2026-10-30
+- context: Options board of base screens
+- tags: frustration, review-board, shell · standing: yes
+
+### E2211 · Poor organisation on the board
+- quote: "this is poor organization"
+- source: session_01NtNprrTKQmhwsDkPVBnPdp · 2026-10-30T20:04:58.866364Z (msg 30cc451d) (wave-1.md)
+- date: 2026-10-30
+- context: Options board of base screens
+- tags: frustration, review-board · standing: yes
+
+### E2212 · Not everything needs a big button
+- quote: "I'd like to see us explore the way, like, not everything needs to be a big button."
+- source: session_01NtNprrTKQmhwsDkPVBnPdp · 2026-10-30T20:39:08.367879Z (msg fe1a8351) (wave-1.md)
+- date: 2026-10-30
+- context: Options review comment on M6.1
+- tags: product, interaction · standing: yes
+
+### E2213 · Icon buttons with hover label or small label
+- quote: "maybe when you hover over it, it tells you what it does or something like that"
+- source: session_01NtNprrTKQmhwsDkPVBnPdp · 2026-10-30T20:39:08.367879Z (msg fe1a8351) (wave-1.md)
+- date: 2026-10-30
+- context: Options review comment on M6.1
+- tags: product, interaction · standing: one-off
+
+### E2214 · Not every screen needs a big CTA
+- quote: "not every screen needs a clear big CTA either"
+- source: session_01NtNprrTKQmhwsDkPVBnPdp · 2026-10-30T22:26:55.902182Z (msg 8b06c897) (wave-1.md)
+- date: 2026-10-30
+- context: Options review comment ST7.2
+- tags: product · standing: yes
+
+### E2215 · Should have researched obvious patterns
+- quote: "these are obvious patterns. Like, why would you have an additional box?"
+- source: session_01NtNprrTKQmhwsDkPVBnPdp · 2026-10-30T22:26:55.902182Z (msg 8b06c897) (wave-1.md)
+- date: 2026-10-30
+- context: Options review comment ST7.3
+- tags: product, frustration · standing: one-off
+
+### E2216 · Two column layouts are AI slop
+- quote: "there's this whole thing with like AI slap and design, and two column layouts are a known AI slop type of design pattern."
+- source: session_01NtNprrTKQmhwsDkPVBnPdp · 2026-10-30T22:52:48.780386Z (msg feb9110d) (wave-1.md)
+- date: 2026-10-30
+- context: Reviewing rounds of options
+- tags: style, frustration, product · standing: yes
+
+### E2217 · Still getting two columns
+- quote: "we're still getting a lot of two column layouts"
+- source: session_01NtNprrTKQmhwsDkPVBnPdp · 2026-10-30T22:50:55.767594Z (msg 2345e2f4) (wave-1.md)
+- date: 2026-10-30
+- context: Reviewing rounds of options
+- tags: style, frustration · standing: yes
+
+### E2218 · Two column list default again
+- quote: "I know we've been doing the two column thing a lot, but this either can go underneath or we do something on the right."
+- source: session_01NtNprrTKQmhwsDkPVBnPdp · 2026-10-30T23:06:44.291385Z (msg 9e1515e9) (wave-1.md)
+- date: 2026-10-30
+- context: Options review comment M6.1
+- tags: style, product · standing: yes
+
+### E2219 · Button must hug its text
+- quote: "look at the button, it's not hugging the text"
+- source: session_01NtNprrTKQmhwsDkPVBnPdp · 2026-10-30T23:06:44.291385Z (msg 9e1515e9) (wave-1.md)
+- date: 2026-10-30
+- context: Options review comment MS1.2
+- tags: product · standing: yes
+
+### E2220 · Use updated components
+- quote: "you seem to be using old components"
+- source: session_01NtNprrTKQmhwsDkPVBnPdp · 2026-10-30T23:06:44.291385Z (msg 9e1515e9) (wave-1.md)
+- date: 2026-10-30
+- context: Options review comment MS1.2
+- tags: product, process · standing: yes
+
+### E2221 · Grids left on
+- quote: "can you stop leaving these grids on?"
+- source: session_01NtNprrTKQmhwsDkPVBnPdp · 2026-10-31T00:01:16.086440Z (msg 7048853b) (wave-1.md)
+- date: 2026-10-31
+- context: Reviewing built studio screens in Figma
+- tags: shell, frustration, delivery · standing: yes
+
+### E2222 · Stacked old screens on the board
+- quote: "there's literally a screen stacking type of screens. You can get rid of old ones"
+- source: session_01NtNprrTKQmhwsDkPVBnPdp · 2026-10-31T00:01:16.086440Z (msg 7048853b) (wave-1.md)
+- date: 2026-10-31
+- context: Reviewing built studio screens in Figma
+- tags: review-board, frustration · standing: yes
+
+### E2223 · Three screens stacked on each other
+- quote: "you literally have three screens that are stacked on top of each other"
+- source: session_01NtNprrTKQmhwsDkPVBnPdp · 2026-10-31T00:03:43.149010Z (msg 3ed98eb9) (wave-1.md)
+- date: 2026-10-31
+- context: Reviewing built studio screens in Figma
+- tags: frustration, review-board · standing: yes
+
+### E2224 · Keep it clean as you go
+- quote: "why aren't you keeping this clean as you go and making sure the colors match up and stuff"
+- source: session_01NtNprrTKQmhwsDkPVBnPdp · 2026-10-31T00:49:36.118120Z (msg a433ab85) (wave-1.md)
+- date: 2026-10-31
+- context: Reviewing built studio screens in Figma
+- tags: process, frustration · standing: yes
+
+### E2225 · Asked to drop the grid and it was not done
+- quote: "i also asked you to drop the grid and they never did that"
+- source: session_01NtNprrTKQmhwsDkPVBnPdp · 2026-10-31T00:49:36.118120Z (msg a433ab85) (wave-1.md)
+- date: 2026-10-31
+- context: Reviewing built studio screens in Figma
+- tags: frustration · standing: yes
+
+### E2226 · Text hugs so it aligns with icons
+- quote: "text always needs to hug itself so it lines up with icons on the left"
+- source: session_01NtNprrTKQmhwsDkPVBnPdp · 2026-10-31T00:49:36.118120Z (msg a433ab85) (wave-1.md)
+- date: 2026-10-31
+- context: Screen build rules
+- tags: product, style · standing: yes
+
+### E2227 · Popovers align to the grid
+- quote: "why are you not aligning the popovers to the grid?"
+- source: session_01NtNprrTKQmhwsDkPVBnPdp · 2026-10-31T00:49:36.118120Z (msg a433ab85) (wave-1.md)
+- date: 2026-10-31
+- context: Screen build rules
+- tags: product, shell · standing: yes
+
+### E2228 · Do not make every container the same width
+- quote: "you can center things sometimes, right?"
+- source: session_01NtNprrTKQmhwsDkPVBnPdp · 2026-10-31T00:49:36.118120Z (msg a433ab85) (wave-1.md)
+- date: 2026-10-31
+- context: Screen build rules
+- tags: product, shell · standing: yes
+
+### E2229 · Clickable cards with hover, not lists with arrows
+- quote: "they should probably just be clickable cards, so they need like proper hover effects and everything"
+- source: session_01NtNprrTKQmhwsDkPVBnPdp · 2026-10-31T00:49:36.118120Z (msg a433ab85) (wave-1.md)
+- date: 2026-10-31
+- context: Video entries cards
+- tags: product, interaction · standing: one-off
+
+### E2230 · Asks for three options for card designs
+- quote: "you need to give me three options for the card designs"
+- source: session_01NtNprrTKQmhwsDkPVBnPdp · 2026-10-31T00:49:36.118120Z (msg a433ab85) (wave-1.md)
+- date: 2026-10-31
+- context: Video entries cards
+- tags: decision-board · standing: yes
+
+### E2231 · Stop tiny buttons
+- quote: "can you please stop with these little tiny ass buttons?"
+- source: session_01NtNprrTKQmhwsDkPVBnPdp · 2026-10-31T00:49:36.118120Z (msg a433ab85) (wave-1.md)
+- date: 2026-10-31
+- context: Screen build
+- tags: product, frustration · standing: yes
+
+### E2232 · Grid when sidebar collapses
+- quote: "When it collapses, also the grid just doesn't work anymore."
+- source: session_01NtNprrTKQmhwsDkPVBnPdp · 2026-10-31T00:01:16.086440Z (msg 7048853b) (wave-1.md)
+- date: 2026-10-31
+- context: Reviewing studio screens
+- tags: shell, responsive, product · standing: yes
+
+### E2233 · Show options in our tool, not Figma, cheaper
+- quote: "isnt it more expensive to build in figma token wise then jsut show me the options in our tool?"
+- source: session_01NtNprrTKQmhwsDkPVBnPdp · 2026-10-31T05:09:48.419665Z (msg 519d4140) (wave-1.md)
+- date: 2026-10-31
+- context: Options review tool
+- tags: delivery, process, decision-board · standing: yes
+
+### E2234 · Review one by one, simple, clean, do not overengineer
+- quote: "don't overengineer it, like, don't put a whole bunch of text in there. Like, it just keep it simple and clean so we can just go through it one by one."
+- source: session_01M7VAL6e2AcxUCNGGqv9XLJ · 2026-10-16T21:04:26.096162Z (msg aba4b8c3) (wave-1.md)
+- date: 2026-10-16
+- context: Rules review file he asked for
+- tags: review-board, copy, style · standing: yes
+
+### E2235 · Free text response, save, next arrow at top right
+- quote: "I think you don't need like multiple choices, just like have a spot for me to type my response and then save it, and then I can like go and then they go to the next one, right? Click the next arrow that should be like on the top, right?"
+- source: session_01M7VAL6e2AcxUCNGGqv9XLJ · 2026-10-16T21:04:26.096162Z (msg aba4b8c3) (wave-1.md)
+- date: 2026-10-16
+- context: Rules review file he asked for
+- tags: review-board, interaction, editor · standing: yes
+
+### E2236 · Use proper UX principles and a skill when building
+- quote: "use proper UX principles, like use a skill that will help build this and make it look efficient"
+- source: session_01M7VAL6e2AcxUCNGGqv9XLJ · 2026-10-16T21:04:26.096162Z (msg aba4b8c3) (wave-1.md)
+- date: 2026-10-16
+- context: Rules review file he asked for
+- tags: process, style · standing: yes
+
+### E2237 · Plain words, not what-failed language
+- quote: "all this language with like very specific instances and stuff of like what failed, what checked, all that kind of stuff. Like, that's not what I need."
+- source: session_01M7VAL6e2AcxUCNGGqv9XLJ · 2026-10-16T20:44:17.798354Z (msg 922f427a) (wave-1.md)
+- date: 2026-10-16
+- context: A process summary he was shown
+- tags: copy, frustration · standing: yes
+
+### E2238 · Review tool: could not zoom, cut off, no select
+- quote: "I can't zoom into the individual screens correctly. Or it like cuts them off"
+- source: session_01Cg8GtsX79KJhQ2KJTi2rYv · 2026-10-09T04:34:34.704891Z (msg 2b3aef60) (wave-1.md)
+- date: 2026-10-09
+- context: Side by side screen review tool
+- tags: review-board, interaction, frustration · standing: yes
+
+### E2239 · Review tool should let him select
+- quote: "It's not like I can select one or the other. Like, it's like you want me to manually tell you that doesn't make any sense. Like, why don't you just have this built with some kind of ability to do that?"
+- source: session_01Cg8GtsX79KJhQ2KJTi2rYv · 2026-10-09T04:34:34.704891Z (msg 2b3aef60) (wave-1.md)
+- date: 2026-10-09
+- context: Side by side screen review tool
+- tags: review-board, decision-board, frustration · standing: yes
+
+### E2240 · Unexplained labels on the review tool
+- quote: "I don't know what this is supposed to be, like with the letters."
+- source: session_01Cg8GtsX79KJhQ2KJTi2rYv · 2026-10-09T04:34:34.704891Z (msg 2b3aef60) (wave-1.md)
+- date: 2026-10-09
+- context: Side by side screen review tool
+- tags: review-board, copy, frustration · standing: yes
+
+### E2241 · Better to review in Figma than the tool
+- quote: "I think the best way for me to do this, I would need to do this in Figma."
+- source: session_01Cg8GtsX79KJhQ2KJTi2rYv · 2026-10-09T04:46:03.798468Z (msg 4f09af9d) (wave-1.md)
+- date: 2026-10-09
+- context: Side by side screen review tool
+- tags: review-board, delivery · standing: one-off
+
+### E2242 · Speak plain English
+- quote: "You really need to speak to me in English."
+- source: session_01Cg8GtsX79KJhQ2KJTi2rYv · 2026-10-09T04:50:08.396758Z (msg 01065e77) (wave-1.md)
+- date: 2026-10-09
+- context: Explanation of review process
+- tags: copy, frustration · standing: yes
+
+### E2243 · Max width for line length, he sets it himself
+- quote: "I'm going in myself and max widthing certain sections to 72 or 79 because that's around what max line length is."
+- source: session_01Cg8GtsX79KJhQ2KJTi2rYv · 2026-10-08T22:25:38.408017Z (msg 5bbe9fe7) (wave-1.md)
+- date: 2026-10-08
+- context: Page section widths
+- tags: product, shell · standing: one-off
+
+### E2244 · No way to choose on some options
+- quote: "I'm just going to respond to the ones that I, like, for some reason, don't have an option of like choosing anything on first"
+- source: session_01NtNprsA95rubxrEUG9U9f7 · 2026-11-07T01:16:01.289815Z (msg 6603a3d0) (wave-1.md)
+- date: 2026-11-07
+- context: Case study ending options page
+- tags: review-board, decision-board, frustration · standing: one-off
+
+### E2245 · Link not clickable
+- quote: "that link isnt letting me click it"
+- source: session_01NtNprsA95rubxrEUG9U9f7 · 2026-11-07T21:32:53.843838Z (msg 29847335) (wave-1.md)
+- date: 2026-11-07
+- context: Link to a case study audit page
+- tags: delivery, frustration · standing: one-off
+
+### E2246 · Three versions in a plain document first
+- quote: "maybe you can present three different versions to me, just like simply written in a simple empty document that I can look at, just very plain text, like white background, black text"
+- source: session_01NtNprqEv1yFx1rtdzQc9Eb · 2026-11-12T21:59:31.324545Z (msg 04ffe449) (wave-1.md)
+- date: 2026-11-12
+- context: Brochure section M1.1 story
+- tags: decision-board, style, delivery · standing: one-off
+
+### E2247 · HTML file he answers in that sends back to Claude
+- quote: "one of those like HTML files or whatever we usually build, right? Where you can go through and put things for me, and I can answer them or you know, respond to them in there, and then I then you know, the information gets back to you"
+- source: session_01NtNprqEv1yFx1rtdzQc9Eb · 2026-11-12T21:59:31.324545Z (msg 04ffe449) (wave-1.md)
+- date: 2026-11-12
+- context: Brochure section M1.1 story
+- tags: decision-board, review-board, delivery · standing: yes
+
+### E2248 · Expected an interactive prototype on canvas
+- quote: "I was expecting this to be a prototype that I can try on canvas. That's what I asked for"
+- source: session_01NtNprtWNmegDfZjpdNePZh · 2026-11-13T04:33:29.438552Z (msg 01a9b15d) (wave-1.md)
+- date: 2026-11-13
+- context: Colour or hover work, canvas deliverable
+- tags: delivery, frustration · standing: yes
+
+### E2249 · Hover analysis over-engineered
+- quote: "I think the hover analysis is a little like over-engineered where it's like to the point that it's hard to understand. Can you like simplify this and make it a little bit more clear, please? Only mention the things that like I need to know"
+- source: session_01NtNprtWNmegDfZjpdNePZh · 2026-11-13T04:53:02.428113Z (msg aff1f6f8) (wave-1.md)
+- date: 2026-11-13
+- context: Hover and colour analysis
+- tags: copy, frustration · standing: yes
+
+### E2250 · No component-by-component list
+- quote: "I don't need a list of every single component, for instance."
+- source: session_01NtNprtWNmegDfZjpdNePZh · 2026-11-13T04:53:02.428113Z (msg aff1f6f8) (wave-1.md)
+- date: 2026-11-13
+- context: Hover and colour analysis
+- tags: copy · standing: yes
+
+### E2251 · Show after for each option
+- quote: "show me if you have a couple options or something, what yeah, like an after would look like for each of those if we went with those changes"
+- source: session_01NtNprtWNmegDfZjpdNePZh · 2026-11-13T04:53:02.428113Z (msg aff1f6f8) (wave-1.md)
+- date: 2026-11-13
+- context: Hover and colour analysis
+- tags: review-board, decision-board · standing: yes
+
+### E2252 · Sticky bars at the top, scrolling to find them is annoying
+- quote: "you can just move the sticky bars to the top, stick to the top or something. It's annoying because I have to like scroll up and down and like find them."
+- source: session_01NtNprtWNmegDfZjpdNePZh · 2026-11-13T19:00:43.041902Z (msg 70ad2d02) (wave-1.md)
+- date: 2026-11-13
+- context: Colour test page with sticky bars
+- tags: shell, navigation, interaction · standing: yes
+
+### E2253 · Make colour tests responsive
+- quote: "can you make these responsive so when I like use the portfolio or like when I use the prototype it will be an easier way to get an actual idea of the color"
+- source: session_01NtNprtWNmegDfZjpdNePZh · 2026-11-13T20:54:10.321696Z (msg 290c9408) (wave-1.md)
+- date: 2026-11-13
+- context: Colour test page
+- tags: responsive, editor · standing: yes
+
+### E2254 · Green accent line on sidebar is AI cliche
+- quote: "I don't know why you have a green line like to the left on the sidebar."
+- source: session_01NtNprtWNmegDfZjpdNePZh · 2026-11-13T21:05:21.609071Z (msg aef5fee0) (wave-1.md)
+- date: 2026-11-13
+- context: Sidebar mock in colour test
+- tags: style, frustration, product · standing: yes
+
+### E2255 · Typical cliche AI look
+- quote: "it's very typical cliche AI, you know."
+- source: session_01NtNprtWNmegDfZjpdNePZh · 2026-11-13T21:05:21.609071Z (msg aef5fee0) (wave-1.md)
+- date: 2026-11-13
+- context: Sidebar mock in colour test
+- tags: style, frustration · standing: yes
+
+### E2256 · Mock should use real components
+- quote: "these are not our components fully"
+- source: session_01NtNprtWNmegDfZjpdNePZh · 2026-11-13T21:05:21.609071Z (msg aef5fee0) (wave-1.md)
+- date: 2026-11-13
+- context: Sidebar mock in colour test
+- tags: product, frustration · standing: yes
+
+### E2257 · Send the whole sheet as a table
+- quote: "can you send me the whole sheet like you did before, like a table with the jobs or whatever"
+- source: session_01NtNprtWNmegDfZjpdNePZh · 2026-11-13T22:42:15.572956Z (msg d56c916d) (wave-1.md)
+- date: 2026-11-13
+- context: Colour usage audit
+- tags: review-board, delivery · standing: one-off
+
+### E2258 · Cannot find what was made
+- quote: "can you resend it to me if you've already made something? Like, I don't know where that is"
+- source: session_01NtNprtWNmegDfZjpdNePZh · 2026-11-13T23:24:04.955298Z (msg 5813a0ab) (wave-1.md)
+- date: 2026-11-13
+- context: Colour work deliverable
+- tags: delivery, frustration · standing: yes
+
+### E2259 · Audit table with status and close-out note
+- quote: "you'll do it in like a tarot table format, keeping all the groups together, and then the note of the status of that combo and whether I should close it out"
+- source: session_01NtNprq1tSAXSLMMZvUqzTC · 2026-11-07T19:29:30.740825Z (msg 62066695) (wave-1.md)
+- date: 2026-11-07
+- context: Sidebar of chats audit list
+- tags: review-board, process · standing: one-off
+
+### E2260 · Simple version, less info
+- quote: "Can you just give me like a simple version of this? Like, it's a lot of info here for what we're trying to do if it's a little bit over the top."
+- source: session_01NtNprq1tSAXSLMMZvUqzTC · 2026-10-30T01:07:33.585361Z (msg bca07f99) (wave-1.md)
+- date: 2026-10-30
+- context: Process explanation
+- tags: copy · standing: yes
+
+### E2261 · Handoff: not a book
+- quote: "I'm not asking my developers to read a book."
+- source: session_01LedJNRJFUnJwFnMT6n5Dsj · 2026-09-25T16:05:54.229215Z (msg f4867751) (wave-1.md)
+- date: 2026-09-25
+- context: Developer handoff frame in Figma
+- tags: copy, review-board · standing: yes
+
+### E2262 · Rules need actual UI, not a text list
+- quote: "Like, with like actual UI to it, maybe to make it stand out more rather than just like a simple text list"
+- source: session_01LedJNRJFUnJwFnMT6n5Dsj · 2026-09-25T16:05:54.229215Z (msg f4867751) (wave-1.md)
+- date: 2026-09-25
+- context: Developer handoff frame
+- tags: style, review-board · standing: yes
+
+### E2263 · Spacing abhorrent
+- quote: "the spacing is abhorrent"
+- source: session_01LedJNRJFUnJwFnMT6n5Dsj · 2026-09-25T16:05:54.229215Z (msg f4867751) (wave-1.md)
+- date: 2026-09-25
+- context: Developer handoff frame
+- tags: style, frustration · standing: one-off
+
+### E2264 · Too much text, prioritise
+- quote: "it's overkill"
+- source: session_01LedJNRJFUnJwFnMT6n5Dsj · 2026-09-25T16:05:54.229215Z (msg f4867751) (wave-1.md)
+- date: 2026-09-25
+- context: Developer handoff frame
+- tags: copy · standing: yes
+
+### E2265 · No pile of separate documents
+- quote: "I don't want a whole bunch of different separate documents either."
+- source: session_01LedJNRJFUnJwFnMT6n5Dsj · 2026-09-25T17:33:58.629647Z (msg 7fb0ea90) (wave-1.md)
+- date: 2026-09-25
+- context: Developer handoff plan
+- tags: delivery, process · standing: yes
+
+### E2266 · Grouping through spacing
+- quote: "You just have to be really good with spacing between everything to make sure that everything was grouped together properly"
+- source: session_01LedJNRJFUnJwFnMT6n5Dsj · 2026-09-25T17:33:58.629647Z (msg 7fb0ea90) (wave-1.md)
+- date: 2026-09-25
+- context: Handoff examples
+- tags: style · standing: yes
+
+### E2267 · Show in image or HTML before Figma, explain choice
+- quote: "I don't want you to build those in Figma yet. I think what we should do is have you show me them in an image visually or an HTML document, whatever you think is the better solution here. But explain why you chose that solution when you respond."
+- source: session_01H8DU64aeLxejMJTzWmGo6u · 2026-09-24T23:31:41.259163Z (msg b8f17a6f) (wave-1.md)
+- date: 2026-09-24
+- context: Cohort screens build instruction
+- tags: delivery, process · standing: yes
+
+### E2268 · Base screens first, states after approval
+- quote: "why don't you design the different screens first and save the states until after I confirm the screen designs work and are valid"
+- source: session_01H8DU64aeLxejMJTzWmGo6u · 2026-09-24T23:31:41.259163Z (msg b8f17a6f) (wave-1.md)
+- date: 2026-09-24
+- context: Cohort screens build instruction
+- tags: process, decision-board · standing: yes
+
+### E2269 · No visual needed for a name change
+- quote: "a name change i dont need to see a visual of."
+- source: session_01H8DU64aeLxejMJTzWmGo6u · 2026-09-25T01:15:29.173141Z (msg 4b574ff4) (wave-1.md)
+- date: 2026-09-25
+- context: Cohort rename
+- tags: process, delivery · standing: one-off
+
+### E2270 · Expected options
+- quote: "i thought it was going to give me options?"
+- source: session_01H8DU64aeLxejMJTzWmGo6u · 2026-09-25T01:43:32.292266Z (msg a0c213a4) (wave-1.md)
+- date: 2026-09-25
+- context: Cohort screens
+- tags: decision-board, frustration · standing: yes
+
+### E2271 · Use real components, do not invent
+- quote: "We shouldn't be inventing new ones if that is what's happening"
+- source: session_01H8DU64aeLxejMJTzWmGo6u · 2026-09-24T23:58:11.720782Z (msg 0adc8060) (wave-1.md)
+- date: 2026-09-24
+- context: Cohort screens review
+- tags: product, process, frustration · standing: yes
+
+### E2272 · Show 3 options for states
+- quote: "but please show me 3 options for the states."
+- source: session_01VAHz6J5RzejLtzexQ1aByq · 2026-10-19T18:26:48.717059Z (msg a15c60b0) (wave-1.md)
+- date: 2026-10-19
+- context: Component states
+- tags: decision-board · standing: yes
+
+### E2273 · Over the top, too much text to be usable
+- quote: "this is over the top in terms of how much output is there. It's over-engineered. There's too much way, way, way, way, way too much text to be usable."
+- source: session_019wKL7mEirCDVwFmTLdCaNE · 2026-09-28T23:52:24.413690Z (msg f9914d37) (wave-1.md)
+- date: 2026-09-28
+- context: Flows document
+- tags: copy, frustration · standing: yes
+
+### E2274 · Not all dividers same: lighter bg lighter stripe
+- quote: "Not all dividers should be the same."
+- source: session_018CTtLggWoT3mpMtWpjKUc3 · 2026-09-24T23:21:20.344896Z (msg af5d15ba) (wave-1.md)
+- date: 2026-09-24
+- context: Card dividers colour rule
+- tags: product, style · standing: yes
+
+### E2275 · Repeated instruction frustration
+- quote: "Lighter for lighter backgrounds, darker for darker backgrounds."
+- source: session_018CTtLggWoT3mpMtWpjKUc3 · 2026-09-24T23:32:03.029857Z (msg a1707770) (wave-1.md)
+- date: 2026-09-24
+- context: Card dividers colour rule
+- tags: product, style, frustration · standing: yes
+
+### E2276 · Centered form fields should not be long
+- quote: "the centered form fields shouldt be super long"
+- source: session_01A6wtzdsb1K4iAxCSCGeFie · 2026-09-30T03:20:19.456388Z (msg fd64ecce) (wave-1.md)
+- date: 2026-09-30
+- context: Sign-up form widths
+- tags: product, shell · standing: yes
+
+### E2277 · No extra room in frames without a visible boundary
+- quote: "i have seen that a couple times where there's like extra room built onto these types of frames when it's not necessar"
+- source: session_01A6wtzdsb1K4iAxCSCGeFie · 2026-09-30T17:36:11.163911Z (msg 9f397df5) (wave-1.md)
+- date: 2026-09-30
+- context: Menu item frame spacing
+- tags: product, shell · standing: yes
+
+### E2278 · Hug text horizontally rather than wrap menu items
+- quote: "i would recommend that we just like hug the tax horizontally"
+- source: session_01A6wtzdsb1K4iAxCSCGeFie · 2026-09-30T17:36:11.163911Z (msg 9f397df5) (wave-1.md)
+- date: 2026-09-30
+- context: Menu item frame spacing
+- tags: product, style · standing: one-off
+
+### E2279 · Likes colourful icons for nested sidebar items
+- quote: "what I really like is if you look in the after, how they have some of the colorful icons for some of the nested instances, which I think is really cute"
+- source: session_01NtNprrbEv6vnP8S7zBHsko · 2026-11-11T18:07:18.350919Z (msg 23fc63a4) (wave-1.md)
+- date: 2026-11-11
+- context: Sidebar reference screenshot
+- tags: product, style · standing: one-off
+
+### E2280 · Non-selected sidebar items too dark
+- quote: "the non selected items are very dark nd they look very odd with the mondai logo and the whiter text i think in the designs"
+- source: session_01NtNprrbEv6vnP8S7zBHsko · 2026-11-11T23:42:40.439870Z (msg 8c478f3a) (wave-1.md)
+- date: 2026-11-11
+- context: Sidebar mock
+- tags: product, style · standing: one-off
+
+### E2281 · Grid needs a margin of about 40 beside the sidebar
+- quote: "there needs to be something that's like 40 pixels or something like that. That's like the smallest size."
+- source: session_01QneJ6kEAwzrjxetzJzbPP4 · 2026-09-25T23:45:34.224183Z (msg 60af6383) (wave-1.md)
+- date: 2026-09-25
+- context: Core frame grid with sidebar
+- tags: product, shell · standing: one-off
+
+### E2282 · Largest first when ordering variables
+- quote: "Largest should always be first."
+- source: session_01NtNprr6gw2x87qu2tLbsC4 · 2026-11-12T20:27:46.665804Z (msg cad60368) (wave-1.md)
+- date: 2026-11-12
+- context: Variable ordering rule
+- tags: product, process · standing: yes
+
+### E2283 · Why show this, how is it useful
+- quote: "why are you showing me this? how is this useful?"
+- source: session_01YNgrNPmrppw5NyhD5SVQfo · 2026-09-23T02:09:39.603655Z (msg fcc1a934) (wave-1.md)
+- date: 2026-09-23
+- context: Test page shown during design system extraction
+- tags: frustration, delivery · standing: yes
+
+### E2284 · Claude builds get Monday system wrong, not real components
+- quote: "it always gets it really, really wrong and doesn't pull the actual components"
+- source: session_01YNgrNPmrppw5NyhD5SVQfo · 2026-09-19T02:57:07.061789Z (msg 66a72274) (wave-1.md)
+- date: 2026-09-19
+- context: Design system in Claude Code
+- tags: product, frustration · standing: yes
+
+### E2285 · He is not a coder, jargon
+- quote: "You gotta remember I'm not a coder again, right?"
+- source: session_01YNgrNPmrppw5NyhD5SVQfo · 2026-09-19T02:57:07.061789Z (msg 66a72274) (wave-1.md)
+- date: 2026-09-19
+- context: Design system extraction questions
+- tags: copy, frustration · standing: yes
+
+### E2286 · Send screenshots of what and where
+- quote: "I need you to send me screenshots or something of what these look like and where they are, because I'm not really following you right now."
+- source: session_01YNgrNPmrppw5NyhD5SVQfo · 2026-09-24T21:41:04.476297Z (msg bdf4733e) (wave-1.md)
+- date: 2026-09-24
+- context: Icon sizes discussion
+- tags: process, delivery · standing: yes
+
+### E2287 · Decisions need a plain recap, titles not enough
+- quote: "Can you give me a brief explanation of a recap of what the three decisions are? Because I don't understand from the titles alone what you're asking me to make a decision"
+- source: session_01YNgrNPmrppw5NyhD5SVQfo · 2026-09-23T18:42:42.963752Z (msg 94a92070) (wave-1.md)
+- date: 2026-09-23
+- context: Decision page titles
+- tags: decision-board, copy, frustration · standing: yes
+
+### E2288 · Name things as he sees them in Figma
+- quote: "I can't use that to find what I need on Figma, so I need you to tell me the name of it or something."
+- source: session_01YNgrNPmrppw5NyhD5SVQfo · 2026-09-24T20:03:20.346126Z (msg 4add3a6b) (wave-1.md)
+- date: 2026-09-24
+- context: Icon set discussion
+- tags: copy, frustration · standing: yes
+
+### E2289 · Screenshot to show where in the UI
+- quote: "Can you get a screenshot to show me where in the UI"
+- source: session_01YNgrNPmrppw5NyhD5SVQfo · 2026-09-24T21:06:53.427472Z (msg 1902f436) (wave-1.md)
+- date: 2026-09-24
+- context: Icon sizes discussion
+- tags: process, delivery · standing: yes
+
+### E2290 · Research menu patterns with pros and cons
+- quote: "when it returns it must  explain the negatives and positives of both froma. product/ux perspective."
+- source: session_016sbiCrVZoRVtCjRfgQMAaP · a72bf0fb-7083-4b1b-b2b4-452e01512146 2026-09-30T02:43:12.552687Z (wave-2.md)
+- date: 2026-09-30
+- context: Onboarding screens canvas, menu navigation
+- tags: decision-board, process · standing: yes
+
+### E2291 · Explore other header options
+- quote: "we also need different header optiosn to explore i am not loving it."
+- source: session_016sbiCrVZoRVtCjRfgQMAaP · a72bf0fb-7083-4b1b-b2b4-452e01512146 2026-09-30T02:43:12.552687Z (wave-2.md)
+- date: 2026-09-30
+- context: Onboarding screens canvas, header
+- tags: decision-board, style · standing: one-off
+
+### E2292 · Canvas screen should match design system styling
+- quote: "make this feel more connected to the styling overall. something feels off. i think that may be the incorrect drop down too? or no? and  text field? i have components are these those?"
+- source: session_016sbiCrVZoRVtCjRfgQMAaP · c0e754fd-824a-4876-9706-2964f417a5f6 2026-09-30T02:44:27.915672Z (wave-2.md)
+- date: 2026-09-30
+- context: Onboarding canvas, drop down and text field
+- tags: style, process · standing: yes
+
+### E2293 · Headers too big
+- quote: "these headers feel unnecessarily big."
+- source: session_016sbiCrVZoRVtCjRfgQMAaP · 50606b55-8b64-49d3-b416-213952dffde6 2026-09-30T02:47:42.235591Z (wave-2.md)
+- date: 2026-09-30
+- context: Artifact comment on M2.3 Industries and expertise
+- tags: style · standing: one-off
+
+### E2294 · Odd spacing above and below
+- quote: "spacing above and below this is odd."
+- source: session_016sbiCrVZoRVtCjRfgQMAaP · 7d451f7e-83c9-4b7c-870f-40954e9c2957 2026-09-30T02:48:08.387367Z (wave-2.md)
+- date: 2026-09-30
+- context: Artifact comment on M2.3
+- tags: style · standing: one-off
+
+### E2295 · Feels crammed
+- quote: "feels crammed overall."
+- source: session_016sbiCrVZoRVtCjRfgQMAaP · 8bd7551a-07cc-4cda-84de-5458304186a1 2026-09-30T02:48:28.663265Z (wave-2.md)
+- date: 2026-09-30
+- context: Artifact comment on M2.3
+- tags: style · standing: one-off
+
+### E2296 · Gap too large
+- quote: "this gap is incredibly large."
+- source: session_016sbiCrVZoRVtCjRfgQMAaP · a554b494-0086-484d-96e0-46d583cf301f 2026-09-30T02:48:43.268898Z (wave-2.md)
+- date: 2026-09-30
+- context: Artifact comment on M2.4
+- tags: style · standing: one-off
+
+### E2297 · Too close
+- quote: "too close now."
+- source: session_016sbiCrVZoRVtCjRfgQMAaP · 6b0a6fa2-b2b0-46a4-be5f-b6b7261a1694 2026-09-30T02:49:55.317861Z (wave-2.md)
+- date: 2026-09-30
+- context: Artifact comment on M2.9
+- tags: style · standing: one-off
+
+### E2298 · Wants click-to-inspect and edit on the canvas
+- quote: "How come I can't do that thing on this where I can like change some of the settings like you know like for instance if I were to click text it would like show me the color the weight the size and all that and I can like modify it Don't you have that now too?"
+- source: session_016sbiCrVZoRVtCjRfgQMAaP · 4cc75a65-dfb7-41e6-8068-a97e3874ea6f 2026-09-30T02:51:56.300529Z (wave-2.md)
+- date: 2026-09-30
+- context: Claude canvas of screens
+- tags: editor, interaction · standing: yes
+
+### E2299 · Always use design system components first
+- quote: "Make sure you work it into your system going forward that you're always using the components first."
+- source: session_016sbiCrVZoRVtCjRfgQMAaP · 95b2d754-4261-4f03-b881-8cb6c0957101 2026-09-30T02:53:37.374535Z (wave-2.md)
+- date: 2026-09-30
+- context: Artifact comment on M2.2
+- tags: process, style · standing: yes
+
+### E2300 · Look in the design system before building a drop-down
+- quote: "something as simple as like a drop-down menu, you always would like look for what's in the design system first. There's no reason you shouldn't be doing that kind of stuff"
+- source: session_016sbiCrVZoRVtCjRfgQMAaP · 95b2d754-4261-4f03-b881-8cb6c0957101 2026-09-30T02:53:37.374535Z (wave-2.md)
+- date: 2026-09-30
+- context: Artifact comment on M2.2
+- tags: process · standing: yes
+
+### E2301 · No cryptic badges cluttering the audit view
+- quote: "i dont even know what these mean and i dont want them clogging up th4e screen as i am auditing they are ugly and annoying lol"
+- source: session_016sbiCrVZoRVtCjRfgQMAaP · a1145a31-1c20-4d1c-b171-62efe9fdf499 2026-09-30T03:26:08.588239Z (wave-2.md)
+- date: 2026-09-30
+- context: Artifact comment on placeholder labels, M2.6
+- tags: review-board, copy, frustration · standing: yes
+
+### E2302 · Wants drawn menu versions to look at
+- quote: "Can we have a sub-agent or a separate conversation or something create those versions so I can see what they look like Like, they don't have to be perfect, but examples of the menu styles"
+- source: session_016sbiCrVZoRVtCjRfgQMAaP · 5e377057-ecd6-4015-9884-9ea356343d3a 2026-09-30T16:32:21.294949Z (wave-2.md)
+- date: 2026-09-30
+- context: Menu navigation patterns
+- tags: decision-board, process · standing: yes
+
+### E2303 · Comments disappearing, cannot tell if addressed
+- quote: "Where are my comments going? Do you like get lost in track and like if I say one comment after another, like you need the one comment fix or response to happen first or something? Because some of my comments have been disappearing and I don't know if they've been addressed"
+- source: session_016sbiCrVZoRVtCjRfgQMAaP · e7d191cb-7e55-424b-92cb-9cf8f13effb8 2026-09-30T16:34:02.895518Z (wave-2.md)
+- date: 2026-09-30
+- context: Artifact comment threads on the canvas
+- tags: review-board, frustration · standing: yes
+
+### E2304 · UX checks missing at the canvas build step
+- quote: "I just want to mention that this is the kind of UX stuff that we shouldn't be missing, so I don't know what we need to build in to our process."
+- source: session_016sbiCrVZoRVtCjRfgQMAaP · 20fd0a57-8814-42d8-8575-5492385918ef 2026-09-30T16:36:20.792801Z (wave-2.md)
+- date: 2026-09-30
+- context: Artifact comment on M2.3
+- tags: process, frustration · standing: yes
+
+### E2305 · Design rules were not applied at the HTML canvas step
+- quote: "It's the problem that it wasn't built into the process of building the screens at this HTML on this Canvas level"
+- source: session_016sbiCrVZoRVtCjRfgQMAaP · b9d5f6c0-5b9a-4069-b733-1524f4b21e58 2026-09-30T16:38:51.881247Z (wave-2.md)
+- date: 2026-09-30
+- context: Artifact comment on M2.3
+- tags: process · standing: yes
+
+### E2306 · Canvas stage must apply the same design logic as Figma
+- quote: "when we're doing this before building Infigma, I think we're doing the building here. So that should be reflected properly, like in the design process"
+- source: session_016sbiCrVZoRVtCjRfgQMAaP · ef962429-1a25-440b-9316-9e5ff9a7012a 2026-09-30T16:42:23.520617Z (wave-2.md)
+- date: 2026-09-30
+- context: Artifact comment on M2.3
+- tags: process · standing: yes
+
+### E2307 · Likes canvas control; asks what Tweaks are
+- quote: "there's definitely more control here, which is really nice. What are tweaks"
+- source: session_016sbiCrVZoRVtCjRfgQMAaP · 7efd8b08-0ed7-470d-a581-9fc800243de4 2026-09-30T16:38:04.801827Z (wave-2.md)
+- date: 2026-09-30
+- context: Claude canvas
+- tags: editor, interaction · standing: yes
+
+### E2308 · Wants to be asked whether a new step applies elsewhere
+- quote: "you ask me, say, hey, this is like what we do here. Should we do this elsewhere?"
+- source: session_016sbiCrVZoRVtCjRfgQMAaP · ccaee2ea-b344-416a-a47a-ba2bd81f2acf 2026-09-30T16:43:55.223670Z (wave-2.md)
+- date: 2026-09-30
+- context: Process discussion after canvas review
+- tags: process · standing: one-off
+
+### E2309 · Asks for a prompt to hand to a new session
+- quote: "give me a prompt to have a new session work that out and ill be back."
+- source: session_016sbiCrVZoRVtCjRfgQMAaP · 11a009eb-fbdf-4038-848e-f2564822b0c6 2026-09-30T02:54:16.795936Z (wave-2.md)
+- date: 2026-09-30
+- context: Artifact comment on M2.5
+- tags: delivery, process · standing: yes
+
+### E2310 · Only builds in Figma when he asks
+- quote: "So this is the only time I will ask you to actually, or unless I specifically instruct you other times, to actually build something in Figma for me. Generally speaking, I won't do that going forward"
+- source: session_01NtNprpvVEtsykTmDeXX7gf · c0cb3917-b28f-404e-87d7-2f9d07defcb3 2026-11-06T19:15:32.478557Z (wave-2.md)
+- date: 2026-11-06
+- context: Case study section in Figma
+- tags: delivery, process · standing: yes
+
+### E2311 · Put each iteration to the right of the previous version
+- quote: "push start building up to the right if we need to make more iterations, like next to the previous version"
+- source: session_01NtNprpvVEtsykTmDeXX7gf · 3e6eba47-c038-481c-ba59-e8b8a5a3fc7f 2026-11-06T19:56:48.764064Z (wave-2.md)
+- date: 2026-11-06
+- context: Figma case study frame iterations
+- tags: review-board, delivery · standing: yes
+
+### E2312 · Use the real background fill so he can read it
+- quote: "You don't want to fill this with black so it's easier for me to see if you don't mind."
+- source: session_01NtNprpvVEtsykTmDeXX7gf · 3e6eba47-c038-481c-ba59-e8b8a5a3fc7f 2026-11-06T19:56:48.764064Z (wave-2.md)
+- date: 2026-11-06
+- context: Figma iteration beside the case study
+- tags: style, review-board · standing: one-off
+
+### E2313 · Humanizer every single time
+- quote: "Humanizer needs to be used every single time, and that should be part of the instructions that were built"
+- source: session_01NtNprpvVEtsykTmDeXX7gf · 14e6b068-ee48-40bc-a0f0-530e0bd3ff97 2026-11-06T21:34:26.104011Z (wave-2.md)
+- date: 2026-11-06
+- context: Copy drafts for case study
+- tags: process, copy, frustration · standing: yes
+
+### E2314 · Show copy suggestions in chat to save tokens
+- quote: "can u just show the copy update suggestiosn in here now to save tokens please."
+- source: session_01NtNprpvVEtsykTmDeXX7gf · 6feb50e3-f3a9-4715-90b6-ccedb11d61b7 2026-11-06T21:50:31.305087Z (wave-2.md)
+- date: 2026-11-06
+- context: Case study copy review
+- tags: delivery, review-board · standing: one-off
+
+### E2315 · Audit document he can review on the right
+- quote: "Have them create some kind of document where I can like audit it on the right or something"
+- source: session_01NtNprpvVEtsykTmDeXX7gf · 77e813c7-ce79-4904-9b28-bd34eceea902 2026-11-07T00:25:21.428758Z (wave-2.md)
+- date: 2026-11-07
+- context: Full audit of the case study
+- tags: review-board, delivery · standing: yes
+
+### E2316 · Draw outside Figma, critic that did not draw it, then canvas for his pick
+- quote: "Draw it outside Figma with the shared kit (mondai/kit/), from library components, on the grid."
+- source: session_01YV8VB4pVycXtWbWJzoxbY5 · 9085ec00-d1d1-484b-8a9a-cc08d9243e85 2026-10-07T00:44:17.046603Z (wave-2.md)
+- date: 2026-10-07
+- context: Journey Advisement M7.6 in-call screen brief
+- tags: process, decision-board · standing: yes
+
+### E2317 · Two options only if layout is a real question; critic did not draw it
+- quote: "UX critique with an agent that did not draw it, then put both on a canvas for my pick."
+- source: session_01YV8VB4pVycXtWbWJzoxbY5 · 9085ec00-d1d1-484b-8a9a-cc08d9243e85 2026-10-07T00:44:17.046603Z (wave-2.md)
+- date: 2026-10-07
+- context: M7.6 brief
+- tags: decision-board, process · standing: yes
+
+### E2318 · After he picks, build in Figma and verify by screenshot
+- quote: "After I pick, apply it in Figma on the existing M7.6 frame."
+- source: session_01YV8VB4pVycXtWbWJzoxbY5 · 9085ec00-d1d1-484b-8a9a-cc08d9243e85 2026-10-07T00:44:17.046603Z (wave-2.md)
+- date: 2026-10-07
+- context: M7.6 brief
+- tags: process, delivery · standing: yes
+
+### E2319 · Search Refero for patterns, not their look
+- quote: "Open at least five. Note the patterns: how the person is centred, photo size, where"
+- source: session_01YV8VB4pVycXtWbWJzoxbY5 · 9085ec00-d1d1-484b-8a9a-cc08d9243e85 2026-10-07T00:44:17.046603Z (wave-2.md)
+- date: 2026-10-07
+- context: M7.6 brief
+- tags: process · standing: yes
+
+### E2320 · Accidentally zoomed and stuck on an image
+- quote: "I'm like zoomed in now, and I didn't mean to be, and I'm like stuck on one of the images, and I don't know how to go back"
+- source: session_01YV8VB4pVycXtWbWJzoxbY5 · 7279a0b8-66ac-4c50-bd94-773913da611e 2026-10-07T01:27:02.291408Z (wave-2.md)
+- date: 2026-10-07
+- context: Claude canvas image viewer
+- tags: interaction, frustration · standing: yes
+
+### E2321 · Photo too big, did you find references
+- quote: "The picture also seems huge. That's way too big. I don't know what examples you're looking at"
+- source: session_01YV8VB4pVycXtWbWJzoxbY5 · 52c69f57-4356-4883-ac14-b171e4bbc787 2026-10-07T01:32:45.481783Z (wave-2.md)
+- date: 2026-10-07
+- context: M7.6 call screen options
+- tags: style, process · standing: one-off
+
+### E2322 · Wants a cooler voice level indicator
+- quote: "I want something that feels like more cool, to be honest with you. It just feels a little off"
+- source: session_01YV8VB4pVycXtWbWJzoxbY5 · 52c69f57-4356-4883-ac14-b171e4bbc787 2026-10-07T01:32:45.481783Z (wave-2.md)
+- date: 2026-10-07
+- context: M7.6 voice level indicator
+- tags: style · standing: one-off
+
+### E2323 · One chance, then he edits it himself in Figma
+- quote: "I'm gonna give you one chance to like clean this up a bit. If not, I'm gonna want to make the edits to this myself, so I'll have to have you build a couple screens that I specify in Figma so I can do that"
+- source: session_01YV8VB4pVycXtWbWJzoxbY5 · 52c69f57-4356-4883-ac14-b171e4bbc787 2026-10-07T01:32:45.481783Z (wave-2.md)
+- date: 2026-10-07
+- context: M7.6 call screen
+- tags: process, delivery · standing: yes
+
+### E2324 · He edits in Figma, Claude updates finals and builds the component
+- quote: "I'll make edits to it in Figma, and you can update the final versions, and we can create a component based on it at that point"
+- source: session_01YV8VB4pVycXtWbWJzoxbY5 · 6747bcab-88f9-436c-8d44-fa6f4c47502c 2026-10-07T18:46:49.959096Z (wave-2.md)
+- date: 2026-10-07
+- context: Artifact comment on M7.5 image
+- tags: delivery, process · standing: yes
+
+### E2325 · Form layout should stack, not sprawl horizontally
+- quote: "Like they should just be stacked on top of each other instead of taking up so much horizontal space and then everything seems crammed. I don't even know if these fit our margins properly."
+- source: session_01YV8VB4pVycXtWbWJzoxbY5 · dda14dec-88cf-4a65-97a6-00a376a968d4 2026-10-07T18:47:08.932692Z (wave-2.md)
+- date: 2026-10-07
+- context: Artifact comment on M7.5 before the call
+- tags: style, product · standing: one-off
+
+### E2326 · Keep work separate so he can edit independently
+- quote: "I just need it separate so I can edit those independently"
+- source: session_01YV8VB4pVycXtWbWJzoxbY5 · 29fbdf63-0d8a-4c3a-8168-c91ee2bd96f1 2026-10-07T18:51:41.111448Z (wave-2.md)
+- date: 2026-10-07
+- context: Journey advisement section in Figma
+- tags: delivery · standing: one-off
+
+### E2327 · Check Refero for patterns
+- quote: "You could also check referral to see like what standards like or what the patterns are a lot of times it's more about patterns than having something specific online say something"
+- source: session_01YV8VB4pVycXtWbWJzoxbY5 · 195330c1-b253-4a01-a400-2a4a3d88edde 2026-10-08T02:24:48.381852Z (wave-2.md)
+- date: 2026-10-08
+- context: Speaking indicator research
+- tags: process · standing: yes
+
+### E2328 · Does not feel like the product
+- quote: "I really don't like the option that you gave before, it really doesn't feel like the product"
+- source: session_01YV8VB4pVycXtWbWJzoxbY5 · 743e9145-2e97-4061-94be-7989a9ed4353 2026-10-08T03:43:13.256753Z (wave-2.md)
+- date: 2026-10-08
+- context: Speaking ring options
+- tags: decision-board, style · standing: one-off
+
+### E2329 · Canvas did not show the speaking state
+- quote: "I don't see any green outline, which indicates that it's speaking. I have no idea what you're doing"
+- source: session_01YV8VB4pVycXtWbWJzoxbY5 · bc55237c-3373-43af-8759-c6b2d1ba1a60 2026-10-08T04:01:45.403264Z (wave-2.md)
+- date: 2026-10-08
+- context: Claude canvas of M7.5 to M7.7 states
+- tags: frustration, review-board · standing: yes
+
+### E2330 · Did not propagate his edits to every design
+- quote: "Why are you not modifying all the designs like I ask? I specifically, like, you have been for the most part, but now you haven't."
+- source: session_01YV8VB4pVycXtWbWJzoxbY5 · 4b62e6e3-007a-434e-a283-27c3c7a4c897 2026-10-08T21:34:50.596276Z (wave-2.md)
+- date: 2026-10-08
+- context: Journey advisement call screens
+- tags: frustration, process · standing: yes
+
+### E2331 · Explore around six options with different interactions
+- quote: "Can you explore maybe like six different options, maybe? Which would include different interactions or like different types of like animations and like hover states"
+- source: session_01YV8VB4pVycXtWbWJzoxbY5 · 13d7021e-0cff-4ab1-88a9-838ede60ea6f 2026-10-09T04:54:25.045380Z (wave-2.md)
+- date: 2026-10-09
+- context: Raise hand menu
+- tags: decision-board, interaction · standing: yes
+
+### E2332 · Cannot judge glass effect with nothing behind it
+- quote: "I didn't realize it was glass and I can't tell that obviously because there's nothing behind it."
+- source: session_01YV8VB4pVycXtWbWJzoxbY5 · 0ad134e9-9415-4768-942e-9a040b774ec4 2026-10-09T05:11:49.677986Z (wave-2.md)
+- date: 2026-10-09
+- context: Kit pill glass dock hover option
+- tags: review-board, style · standing: yes
+
+### E2333 · Dev doc too heavy
+- quote: "I just think it's a little bit heavy. Does like the dev really need all of this detail?"
+- source: session_01YV8VB4pVycXtWbWJzoxbY5 · a7b2da77-511d-4918-88ce-6b4ca7182b02 2026-10-09T17:02:14.394278Z (wave-2.md)
+- date: 2026-10-09
+- context: Dev handoff doc for the call screens
+- tags: copy, delivery · standing: yes
+
+### E2334 · UX must be reinforced while designing, not only at research
+- quote: "obviously UX has to be continuously reinforced as you're designing"
+- source: session_01WJoqCa6c1auKN9R5exGU8t · 0946cbaf-8bce-4793-a352-d3c37287b38a 2026-10-02T20:46:49.503684Z (wave-2.md)
+- date: 2026-10-02
+- context: Process audit after sprint
+- tags: process · standing: yes
+
+### E2335 · Refero used wrong and grid ignored
+- quote: "And they didn't even do things like utilize my grid or anything. It used referral completely wrong."
+- source: session_01WJoqCa6c1auKN9R5exGU8t · 0946cbaf-8bce-4793-a352-d3c37287b38a 2026-10-02T20:46:49.503684Z (wave-2.md)
+- date: 2026-10-02
+- context: Process audit
+- tags: process, frustration · standing: yes
+
+### E2336 · Session could not reach Figma and did not say so
+- quote: "it's like oh yeah actually I couldn't use the Figma plugin this whole time and it just didn't tell me"
+- source: session_01WJoqCa6c1auKN9R5exGU8t · 00b7ab1a-c1f5-485c-9c0c-56392a7980e8 2026-10-02T21:25:16.827660Z (wave-2.md)
+- date: 2026-10-02
+- context: Process audit
+- tags: frustration, process · standing: yes
+
+### E2337 · Edits he commented were not in the latest designs
+- quote: "when I asked them to give me the most current versions of the designs, they're basically the old designs before they made any edits"
+- source: session_01WJoqCa6c1auKN9R5exGU8t · 8bb7243c-b1ae-4c86-a4bb-5651409dfd7a 2026-10-02T21:32:36.021887Z (wave-2.md)
+- date: 2026-10-02
+- context: Canvas comment rounds
+- tags: frustration, review-board · standing: yes
+
+### E2338 · One-off requests must not become process rules
+- quote: "if I ask for something one time, it doesn't mean the entire process changes."
+- source: session_01WJoqCa6c1auKN9R5exGU8t · 29eb5397-af13-4bb1-9377-1da2ce600d55 2026-10-02T21:47:32.043331Z (wave-2.md)
+- date: 2026-10-02
+- context: Process audit
+- tags: process, frustration · standing: yes
+
+### E2339 · Likes canvas for comments and live updates
+- quote: "I like the canvas a lot because it allows me to go in there and make comments and stuff"
+- source: session_01WJoqCa6c1auKN9R5exGU8t · fc1e39b0-902b-4ee8-8133-517af70e607f 2026-10-02T22:29:04.664201Z (wave-2.md)
+- date: 2026-10-02
+- context: Canvas stage of the build process
+- tags: review-board, interaction · standing: yes
+
+### E2340 · Canvas stage ignores his components and looks like wireframes
+- quote: "The downside of that is at the Canvas stage, it's not utilizing my components at all. They feel a little bit more wireframe-y to a certain extents."
+- source: session_01WJoqCa6c1auKN9R5exGU8t · fc1e39b0-902b-4ee8-8133-517af70e607f 2026-10-02T22:29:04.664201Z (wave-2.md)
+- date: 2026-10-02
+- context: Canvas stage of the build process
+- tags: style, process, frustration · standing: yes
+
+### E2341 · Unlazy in every pass
+- quote: "They should be using unlazy in every pass."
+- source: session_01WJoqCa6c1auKN9R5exGU8t · d5fbde9c-8158-4310-87df-97cb4fcbd006 2026-10-02T22:31:42.523732Z (wave-2.md)
+- date: 2026-10-02
+- context: Process audit
+- tags: process · standing: yes
+
+### E2342 · Footer lists skills used so he can see they ran
+- quote: "The footer shows only the skills. That's what I wanted."
+- source: session_01WJoqCa6c1auKN9R5exGU8t · 5f2e501a-6ac7-4563-8fb6-1272f310a348 2026-10-02T22:05:20.895103Z (wave-2.md)
+- date: 2026-10-02
+- context: Process audit
+- tags: process · standing: yes
+
+### E2343 · Do not over-engineer the process
+- quote: "it should be about improving the process like that's the goal it's not about just continually like tightening the engineering because then at a certain point the workflow becomes unusable because it becomes too stringent"
+- source: session_01WJoqCa6c1auKN9R5exGU8t · a818d202-10ba-43f8-a425-44fc05aa2ce5 2026-10-02T21:51:43.367213Z (wave-2.md)
+- date: 2026-10-02
+- context: Process audit
+- tags: process · standing: yes
+
+### E2344 · Search for existing skills and tools before building
+- quote: "Definitely search before building any tool or skill. That's so important."
+- source: session_01WJoqCa6c1auKN9R5exGU8t · f90d367e-64ae-43eb-a9df-64de3bd45be9 2026-10-02T22:52:24.980307Z (wave-2.md)
+- date: 2026-10-02
+- context: Process audit cut list
+- tags: process · standing: yes
+
+### E2345 · Asks for a prompt for a new chat
+- quote: "Can you give me a prompt maybe to do that in a whole new chat"
+- source: session_01WJoqCa6c1auKN9R5exGU8t · fc1e39b0-902b-4ee8-8133-517af70e607f 2026-10-02T22:29:04.664201Z (wave-2.md)
+- date: 2026-10-02
+- context: Process audit
+- tags: delivery, process · standing: yes
+
+### E2346 · Align elements to the grid when not in a frame
+- quote: "if it's not in a frame, you should just look at the grid and align it towards the grid. It's almost always possible, and it always always makes it better."
+- source: session_01UaCk11dEmdsouAfuBnJdHR · 8aebe1cf-3eb2-40c1-ba91-a3ee358f36f6 2026-09-25T16:45:33.805391Z (wave-2.md)
+- date: 2026-09-25
+- context: Cohorts page buttons in Figma
+- tags: product, shell · standing: yes
+
+### E2347 · Fill, not hug, so things are responsive
+- quote: "a lot of things should be set to film, and that's how you make them responsive. So setting everything to hug would actually mess up the responsiveness in terms of Figma."
+- source: session_01UaCk11dEmdsouAfuBnJdHR · b0223d61-39fd-4a3d-b265-e903d916a2c3 2026-09-25T17:23:05.631588Z (wave-2.md)
+- date: 2026-09-25
+- context: Button rules
+- tags: responsive, product · standing: yes
+
+### E2348 · Do not over-target a rule to one example
+- quote: "I gave you that very specific example to make sure that you didn't make this too targeted to only like a single button."
+- source: session_01UaCk11dEmdsouAfuBnJdHR · efd7ade1-d8ad-4461-901f-64d533c18a0b 2026-09-25T17:45:37.382508Z (wave-2.md)
+- date: 2026-09-25
+- context: Button width rules
+- tags: process · standing: yes
+
+### E2349 · Fix the component generally, not only the one page
+- quote: "This isn't just a cohort request, you know that, right? Like, we're talking about the button in general and like updating the components and everything"
+- source: session_01UaCk11dEmdsouAfuBnJdHR · 3d93a9fa-b662-4cc6-96ee-7da7071c5c67 2026-09-25T18:09:37.431384Z (wave-2.md)
+- date: 2026-09-25
+- context: Button rules
+- tags: process · standing: yes
+
+### E2350 · No button can be messed up
+- quote: "There can't be one instance of a button messed up, like, no buttons can be messed up. Everything has to be fixed."
+- source: session_01UaCk11dEmdsouAfuBnJdHR · 4d9e9a24-8d69-4bd8-bdd7-54eb258a4489 2026-09-25T19:13:44.236615Z (wave-2.md)
+- date: 2026-09-25
+- context: Button component rework
+- tags: process · standing: yes
+
+### E2351 · Margins should stay consistent with and without a sidebar
+- quote: "I think it's a little weird that we have 24 pixel margins in the main container that contains the core grid when the sidebar is present, but the absence of a sidebar changes the margins."
+- source: session_016dxziHfxCVE2sr8KGGiBpr · d2fbd4bb-b726-4742-bd21-b857d1b5f1b2 2026-10-06T22:03:41.488232Z (wave-2.md)
+- date: 2026-10-06
+- context: Journey Advisement M2.1 grid
+- tags: shell, product · standing: yes
+
+### E2352 · Grid is responsive so content should fit
+- quote: "The grid is responsive, though, right? Like, as I mentioned several times, like when it actually gets put out, that's that's how it's supposed to be."
+- source: session_016dxziHfxCVE2sr8KGGiBpr · 95192d43-f6ab-4f64-ae91-63c54130319a 2026-10-06T23:13:16.343226Z (wave-2.md)
+- date: 2026-10-06
+- context: Grid with sidebar collapse state
+- tags: responsive, product · standing: yes
+
+### E2353 · Run the research with a sub-agent, not a new session
+- quote: "I shouldn't have to go into a new session and do that. You should be able to do that yourself, like send out an agent or a sub-agent to do this"
+- source: session_016dxziHfxCVE2sr8KGGiBpr · 1a4df40b-da99-47dc-8d35-7b626823cb15 2026-10-07T18:55:18.174574Z (wave-2.md)
+- date: 2026-10-07
+- context: Grid research
+- tags: process · standing: yes
+
+### E2354 · Invisible containers must not add margins that break alignment
+- quote: "when a container is invisible and you putting like extra margins in that can like mess it up so things don't line up properly"
+- source: session_016dxziHfxCVE2sr8KGGiBpr · 215f503a-df96-43d0-9517-cd2b0e07fb95 2026-10-07T19:32:05.738809Z (wave-2.md)
+- date: 2026-10-07
+- context: Grid and margins
+- tags: product, shell · standing: yes
+
+### E2355 · Gates so the decision passes its own test
+- quote: "make sure you're using proper gates to make sure that the decision that you're putting over to me passes your own or you know the proper test so that the results are accurate"
+- source: session_016dxziHfxCVE2sr8KGGiBpr · 215f503a-df96-43d0-9517-cd2b0e07fb95 2026-10-07T19:32:05.738809Z (wave-2.md)
+- date: 2026-10-07
+- context: Grid research
+- tags: process · standing: yes
+
+### E2356 · Skills used listed at end of message
+- quote: "The whole idea is like the skills you use should be listed at the end of your message, right?"
+- source: session_01FRiLpEJ88TnjKWnZ52iTGe · 6ebe0fb5-d2ea-4cdb-a0e6-eac1c686e90f 2026-09-30T18:09:45.430023Z (wave-2.md)
+- date: 2026-09-30
+- context: Hook setup
+- tags: process · standing: yes
+
+### E2357 · Component needs a max width so text cannot run under a button
+- quote: "that should be built into the component that it can't go. Like there needs to be a max width or something put into place."
+- source: session_01V2pHwYBy4LjDRQWtjnbUSG · b2cda6f5-0097-4a1d-88b7-e25a2fa84a84 2026-10-22T23:30:08.223192Z (wave-2.md)
+- date: 2026-10-22
+- context: Step list in H1.1
+- tags: style, responsive, frustration · standing: yes
+
+### E2358 · Margins causing a title to wrap to three lines
+- quote: "right now director of product design Northwind Health is going into three lines and it looks stupid"
+- source: session_01V2pHwYBy4LjDRQWtjnbUSG · b2cda6f5-0097-4a1d-88b7-e25a2fa84a84 2026-10-22T23:30:08.223192Z (wave-2.md)
+- date: 2026-10-22
+- context: Preview card in H2.2
+- tags: style · standing: one-off
+
+### E2359 · Screens he never approved were treated as approved
+- quote: "I'm not approving those yet, so I don't know why you did that."
+- source: session_01V2pHwYBy4LjDRQWtjnbUSG · b2cda6f5-0097-4a1d-88b7-e25a2fa84a84 2026-10-22T23:30:08.223192Z (wave-2.md)
+- date: 2026-10-22
+- context: H5.1 and event screens review
+- tags: frustration, review-board · standing: yes
+
+### E2360 · Ignored instruction
+- quote: "you definitely should ever ignore me. That's not cool."
+- source: session_01V2pHwYBy4LjDRQWtjnbUSG · b2cda6f5-0097-4a1d-88b7-e25a2fa84a84 2026-10-22T23:30:08.223192Z (wave-2.md)
+- date: 2026-10-22
+- context: Event screen review
+- tags: frustration · standing: yes
+
+### E2361 · Asked six times for avatar position
+- quote: "Because I've already asked you like six times to put those in the proper positions."
+- source: session_01V2pHwYBy4LjDRQWtjnbUSG · b2cda6f5-0097-4a1d-88b7-e25a2fa84a84 2026-10-22T23:30:08.223192Z (wave-2.md)
+- date: 2026-10-22
+- context: H8.2 avatars
+- tags: frustration · standing: yes
+
+### E2362 · Parked screens left behind
+- quote: "why do we have all these parked screens that's not okay Like at all"
+- source: session_01V2pHwYBy4LjDRQWtjnbUSG · b2cda6f5-0097-4a1d-88b7-e25a2fa84a84 2026-10-22T23:30:08.223192Z (wave-2.md)
+- date: 2026-10-22
+- context: Desktop MVP file
+- tags: process, frustration · standing: yes
+
+### E2363 · Clean up scratch pages
+- quote: "just make sure you clean up after yourself"
+- source: session_01V2pHwYBy4LjDRQWtjnbUSG · b2cda6f5-0097-4a1d-88b7-e25a2fa84a84 2026-10-22T23:30:08.223192Z (wave-2.md)
+- date: 2026-10-22
+- context: Scratch pages in Figma
+- tags: process · standing: yes
+
+### E2364 · Screens should match the cleaned Journey Advisement ones
+- quote: "they should all look like the journey advisement one does"
+- source: session_01V2pHwYBy4LjDRQWtjnbUSG · b2cda6f5-0097-4a1d-88b7-e25a2fa84a84 2026-10-22T23:30:08.223192Z (wave-2.md)
+- date: 2026-10-22
+- context: Mentor events screens
+- tags: style, process · standing: yes
+
+### E2365 · Options page was messy and did not address his notes
+- quote: "I'm not looking into these options right because there's no options regarding the stuff that I mentioned to you already"
+- source: session_01V2pHwYBy4LjDRQWtjnbUSG · b2cda6f5-0097-4a1d-88b7-e25a2fa84a84 2026-10-22T23:30:08.223192Z (wave-2.md)
+- date: 2026-10-22
+- context: Options page for H screens
+- tags: review-board, frustration · standing: yes
+
+### E2366 · No single orphan word when text wraps
+- quote: "you have text that wraps and only one word wraps that means either you need to like modify the copy so if it's better or you need to like wrap it more so at least a couple words wrap and make sure that's in the rules because that looks crazy"
+- source: session_01V2pHwYBy4LjDRQWtjnbUSG · d502e818-8bf3-4eb0-9b67-019b16e8b2fb 2026-10-23T00:14:41.966276Z (wave-2.md)
+- date: 2026-10-23
+- context: H9.1 text wrapping
+- tags: style, copy · standing: yes
+
+### E2367 · Preview rendering differs from the real component
+- quote: "I don't know why when you show in the preview it looks funky but the component for that's fine"
+- source: session_01V2pHwYBy4LjDRQWtjnbUSG · d502e818-8bf3-4eb0-9b67-019b16e8b2fb 2026-10-23T00:14:41.966276Z (wave-2.md)
+- date: 2026-10-23
+- context: Event banner preview
+- tags: review-board, frustration · standing: one-off
+
+### E2368 · Banner fix asked repeatedly and checks ignore it
+- quote: "I don't know how many times I just say this and I'm kind of sick of it, but A1.2, this banner, please fix the banner."
+- source: session_01V2pHwYBy4LjDRQWtjnbUSG · 5d8f9ffe-a48e-407f-8575-9a50f4b98353 2026-10-23T03:11:21.299342Z (wave-2.md)
+- date: 2026-10-23
+- context: A1.2 banner
+- tags: frustration · standing: yes
+
+### E2369 · Checks keep ignoring the same issue
+- quote: "I don't know how that keeps the checks keep ignoring that. Like, that's not okay."
+- source: session_01V2pHwYBy4LjDRQWtjnbUSG · 5d8f9ffe-a48e-407f-8575-9a50f4b98353 2026-10-23T03:11:21.299342Z (wave-2.md)
+- date: 2026-10-23
+- context: A1.2 banner
+- tags: frustration, process · standing: yes
+
+### E2370 · Wants before and after screenshots to approve
+- quote: "Can you show me a screenshot of it like before and after the change so I can make sure I can approve it"
+- source: session_017vRTyX87DYKYmziyHyJNeo · eb87a84d-b26c-4b45-b773-244374b221b1 2026-09-26T16:55:15.963793Z (wave-2.md)
+- date: 2026-09-26
+- context: Text style changes in Figma
+- tags: review-board · standing: yes
+
+### E2371 · Wants a before and after on a real design
+- quote: "When you say labels are taller, can you just show me an example of like a before and after on one of the designs"
+- source: session_017vRTyX87DYKYmziyHyJNeo · 63442155-9933-44eb-b59a-e7c2679f4e61 2026-09-26T18:13:44.377810Z (wave-2.md)
+- date: 2026-09-26
+- context: Text style changes
+- tags: review-board · standing: yes
+
+### E2372 · Claude must track and do bulk edits, not hand them to him
+- quote: "it's your job to keep track of that because you mess it up."
+- source: session_017vRTyX87DYKYmziyHyJNeo · 04671ae2-a732-4f4a-a1a3-5a7e5dd0cafe 2026-09-26T21:30:45.126155Z (wave-2.md)
+- date: 2026-09-26
+- context: Text style cleanup of 82 layers
+- tags: frustration, process · standing: yes
+
+### E2373 · Humans need visualization
+- quote: "I think you don't understand how much humans need visualization."
+- source: session_017vRTyX87DYKYmziyHyJNeo · 61310c14-a445-4b6a-bbde-21ab8d5b2baa 2026-09-26T21:52:50.984036Z (wave-2.md)
+- date: 2026-09-26
+- context: Text style cleanup
+- tags: review-board, style · standing: yes
+
+### E2374 · Tool looks ugly; wants a few versions with different design skills
+- quote: "it just looks ugly and not trying to be mean, but maybe you could show me a few versions of what they would look like with like different design skills"
+- source: session_01NtNprphnGB3FUZqCCgdo2N · 03eda704-c3d5-4baa-94d8-093cf369b2d9 2026-11-15T21:10:51.124520Z (wave-2.md)
+- date: 2026-11-15
+- context: Monday chat by page documentation
+- tags: style, decision-board · standing: yes
+
+### E2375 · Show the real chat design next to the text
+- quote: "you could just show the shat window itself and like you know how it has like multiple prompts"
+- source: session_01NtNprphnGB3FUZqCCgdo2N · 03eda704-c3d5-4baa-94d8-093cf369b2d9 2026-11-15T21:10:51.124520Z (wave-2.md)
+- date: 2026-11-15
+- context: Monday chat documentation for Lily
+- tags: review-board · standing: one-off
+
+### E2376 · Reviewer gets a notes box, no approve buttons
+- quote: "I wouldn't put agree or change it or anything. I don't think that will needs to make decisions like that. I think as long as there's a note section for her in there to give her thoughts, opinions"
+- source: session_01NtNprphnGB3FUZqCCgdo2N · 03eda704-c3d5-4baa-94d8-093cf369b2d9 2026-11-15T21:10:51.124520Z (wave-2.md)
+- date: 2026-11-15
+- context: Review doc for Lily
+- tags: review-board · standing: one-off
+
+### E2377 · Do not over-engineer
+- quote: "And don't like over-engineer things, you know."
+- source: session_01NtNprphnGB3FUZqCCgdo2N · 03eda704-c3d5-4baa-94d8-093cf369b2d9 2026-11-15T21:10:51.124520Z (wave-2.md)
+- date: 2026-11-15
+- context: Review doc
+- tags: process · standing: yes
+
+### E2378 · Reviewer can save her own comments
+- quote: "create something for Lily to put her own like comments in and she can like save it and you know give her own feedback"
+- source: session_01NtNprphnGB3FUZqCCgdo2N · e0fe2956-1f07-4a02-bafd-6d7e1329fa35 2026-11-15T20:57:12.062366Z (wave-2.md)
+- date: 2026-11-15
+- context: Review doc for Lily
+- tags: review-board, editor · standing: one-off
+
+### E2379 · Collapsed or expanded panels can crush the layout
+- quote: "responsiveness would become a huge issue if like the left side was open and like the menu was full expanded and the chat was open and if anything was like there's potential for things to be kind of like crush responsively depending on the size right"
+- source: session_01NtNprphnGB3FUZqCCgdo2N · 55cc89ac-f72d-40bf-af3c-3eb93618c81f 2026-11-15T20:42:02.968887Z (wave-2.md)
+- date: 2026-11-15
+- context: Monday chat panel with sidebar
+- tags: responsive, shell, product · standing: yes
+
+### E2380 · Never edit originals; duplicate first
+- quote: "Never edit the original calendar or any original screen. Duplicate the calendar frame first, name the copy"
+- source: session_01NtNprsaJPHougnkCd4RC2t · 69cfcb36-ec0f-4d46-a59f-bc433918e4d1 2026-11-05T21:04:23.817696Z (wave-2.md)
+- date: 2026-11-05
+- context: Calendar images build in Figma
+- tags: process · standing: yes
+
+### E2381 · Wants a yes or no check list at the end
+- quote: "When done, send me a short list of every check above with yes or no, and the node IDs of the copies."
+- source: session_01NtNprsaJPHougnkCd4RC2t · 69cfcb36-ec0f-4d46-a59f-bc433918e4d1 2026-11-05T21:04:23.817696Z (wave-2.md)
+- date: 2026-11-05
+- context: Calendar build brief
+- tags: process, review-board · standing: yes
+
+### E2382 · Components do not scale because of max heights and widths
+- quote: "the problem is because the way the components are set up, it's not wanting to shrink the components properly. And so, like, because they're max heights and all that."
+- source: session_01NtNprsaJPHougnkCd4RC2t · 358ebf60-082f-4d1f-ae18-19aba82b7313 2026-11-05T22:41:13.915279Z (wave-2.md)
+- date: 2026-11-05
+- context: Calendar tall version in Figma
+- tags: responsive, frustration · standing: yes
+
+### E2383 · Preview a spacing change before it is applied
+- quote: "Can you show me maybe like before you do it what it would look like if we've made that change"
+- source: session_01NtNprsaJPHougnkCd4RC2t · 8a64d6d3-27ef-4c76-855b-f315c440402e 2026-11-05T22:46:02.541423Z (wave-2.md)
+- date: 2026-11-05
+- context: Calendar spacing
+- tags: review-board · standing: yes
+
+### E2384 · Render options before deciding
+- quote: "renders settled in minutes what days of reasoning had not"
+- source: session_01A2X1Fcjp8LjMkWJ8gKLyc2 · 37345338-c459-4739-b991-53e4ff19c9b3 2026-09-26T18:11:15.840524Z (wave-2.md)
+- date: 2026-09-26
+- context: Design structure brief
+- tags: process, decision-board · standing: yes
+
+### E2385 · Pick from two or three renders of real Figma values
+- quote: "three options from real Figma values, I pick, then build and verify."
+- source: session_01A2X1Fcjp8LjMkWJ8gKLyc2 · 37345338-c459-4739-b991-53e4ff19c9b3 2026-09-26T18:11:15.840524Z (wave-2.md)
+- date: 2026-09-26
+- context: Design structure brief
+- tags: decision-board, process · standing: yes
+
+### E2386 · Scripts check mechanical facts; grouping judged on the render
+- quote: "scripts check only mechanical facts such as token values, column spans and fill versus"
+- source: session_01A2X1Fcjp8LjMkWJ8gKLyc2 · 37345338-c459-4739-b991-53e4ff19c9b3 2026-09-26T18:11:15.840524Z (wave-2.md)
+- date: 2026-09-26
+- context: Design structure brief
+- tags: process · standing: yes
+
+### E2387 · Answer too long, simplify
+- quote: "This is really long though. Can you give me like a simplistic, like a more watered-down version? I can't read all this."
+- source: session_01A2X1Fcjp8LjMkWJ8gKLyc2 · 050c89bb-f95e-44bd-b07c-745f8646eda0 2026-09-26T18:56:20.349194Z (wave-2.md)
+- date: 2026-09-26
+- context: Design structure answer
+- tags: copy, frustration · standing: yes
+
+### E2388 · Lead chat should rotate but stay connected
+- quote: "there needs to be a point where that parent changes, you know, because there's all the work that is like goes with it underneath it, and you still want it to be connected."
+- source: session_01NtNprs4XjFaGaBnKRo473E · 66aad3c4-8ab4-4830-b263-2f7773ea77c2 2026-10-29T19:49:08.985285Z (wave-2.md)
+- date: 2026-10-29
+- context: Process audit on usage
+- tags: process · standing: yes
+
+### E2389 · Canvas means the Claude canvas
+- quote: "no, I literally said canvas, like the claw canvas"
+- source: session_01NtNprs7hjw6vAM1Mzom8n9 · 5a044a3b-808d-4ddb-9052-ebdabf7d92fe 2026-11-13T23:21:06.492856Z (wave-2.md)
+- date: 2026-11-13
+- context: Before and after of spacing tokens
+- tags: delivery, frustration · standing: yes
+
+### E2390 · Before and after image on the canvas
+- quote: "can you just show me a quick before and after like image on the canvas of what they looked like before"
+- source: session_01NtNprs7hjw6vAM1Mzom8n9 · 77a78a15-20ab-4a4f-bc7b-7d065828b1ae 2026-11-13T23:17:22.007537Z (wave-2.md)
+- date: 2026-11-13
+- context: Spacing token fixes
+- tags: review-board, delivery · standing: yes
+
+### E2391 · Too much text
+- quote: "This feels like way too much text. Can you simplify this? I feel like I don't need to read all this"
+- source: session_01GfnKXKqHMnNUvDMC9s9cS8 · ba19ebdd-850c-434e-a8f7-093082690f22 2026-09-30T21:50:42.310767Z (wave-2.md)
+- date: 2026-09-30
+- context: Input field review
+- tags: copy, frustration · standing: yes
+
+### E2392 · Do not take the easy way with modular auto layout
+- quote: "It's not necessary to do it that way. That's like the easy way out, and then it makes it more difficult for me."
+- source: session_01GfnKXKqHMnNUvDMC9s9cS8 · 1cefdc7b-affd-49ce-b33a-fae72fcf0d42 2026-09-30T21:58:00.633213Z (wave-2.md)
+- date: 2026-09-30
+- context: Design system file structure
+- tags: process, frustration · standing: one-off
+
+### E2393 · Unasked change to focus outline
+- quote: "why did you change the color of the outline for the focus state? No one asked you to do that"
+- source: session_01GfnKXKqHMnNUvDMC9s9cS8 · ff948a72-ec79-4b37-a674-fd8846e78278 2026-09-30T22:51:17.389809Z (wave-2.md)
+- date: 2026-09-30
+- context: Input field states
+- tags: frustration, process · standing: yes
+
+### E2394 · Likes lighter strokes on active state
+- quote: "I like the idea of like the active one getting light enough where it feels more brutalist with lighter strokes"
+- source: session_01GfnKXKqHMnNUvDMC9s9cS8 · c080dfee-70c8-42ff-80d6-73f40b2888c3 2026-09-30T21:44:34.550389Z (wave-2.md)
+- date: 2026-09-30
+- context: Input field states
+- tags: style, product · standing: one-off
+
+### E2395 · Do the research instead of guessing how a tool works
+- quote: "you shouldn't tell me how to do something without knowing how it works. Literally do the research. That's unacceptable."
+- source: session_012NmcLi1kvVvkSyUmyndZ8P · c36afc24-f559-4532-9507-0013bfb2ffb4 2026-09-24T21:39:25.077699Z (wave-2.md)
+- date: 2026-09-24
+- context: Uploading a skill
+- tags: frustration, process · standing: yes
+
+### E2396 · Tools: collapsible right sidebar that is draggable and resizable
+- quote: "this stuff should be built with a colossal right sidebar that's draggable and resizable"
+- source: session_01NtNprp57Nk757XeNDfy1iA · 0a3d3351-072c-493f-8496-f5910e601c8f 2026-11-14T20:29:25.541803Z (wave-2.md)
+- date: 2026-11-14
+- context: Brochure lines tuner
+- tags: shell, editor · standing: yes
+
+### E2397 · He already put rules in place for how tools are built
+- quote: "I put some rules into place in terms of like how this shit should be built"
+- source: session_01NtNprp57Nk757XeNDfy1iA · 0a3d3351-072c-493f-8496-f5910e601c8f 2026-11-14T20:29:25.541803Z (wave-2.md)
+- date: 2026-11-14
+- context: Brochure lines tuner
+- tags: frustration, process · standing: yes
+
+### E2398 · Sliders where they make sense only
+- quote: "Sliders, whenever it makes sense, but don't use sliders when it doesn't make sense, but sliders are useful for helping shape these"
+- source: session_01NtNprp57Nk757XeNDfy1iA · 0a3d3351-072c-493f-8496-f5910e601c8f 2026-11-14T20:29:25.541803Z (wave-2.md)
+- date: 2026-11-14
+- context: Brochure lines tuner
+- tags: editor, interaction · standing: yes
+
+### E2399 · Tuner should expose width, line count and font styles
+- quote: "I want to be able to like change the width and the amount of lines like horizontally use all my different fonts for Monday"
+- source: session_01NtNprp57Nk757XeNDfy1iA · 0a3d3351-072c-493f-8496-f5910e601c8f 2026-11-14T20:29:25.541803Z (wave-2.md)
+- date: 2026-11-14
+- context: Brochure lines tuner
+- tags: editor · standing: one-off
+
+### E2400 · Control that does nothing and unlabeled value
+- quote: "I see the fade down, I'm assuming that's why you added, but like, I don't see anything when I use it."
+- source: session_01NtNprp57Nk757XeNDfy1iA · 28ee7bd1-2e4a-4fb2-95a7-ac909750817e 2026-11-14T21:04:43.709710Z (wave-2.md)
+- date: 2026-11-14
+- context: Brochure lines tuner fade control
+- tags: editor, frustration · standing: yes
+
+### E2401 · Unlabeled percent value
+- quote: "it says, like, like percent 23. I don't know if that's supposed to make it more less intense"
+- source: session_01NtNprp57Nk757XeNDfy1iA · 28ee7bd1-2e4a-4fb2-95a7-ac909750817e 2026-11-14T21:04:43.709710Z (wave-2.md)
+- date: 2026-11-14
+- context: Brochure lines tuner
+- tags: editor, copy · standing: one-off
+
+### E2402 · Gradient only covers half
+- quote: "the gradient effect that you did only covers like half of it, like so the lines halfway up, stop changing color"
+- source: session_01NtNprp57Nk757XeNDfy1iA · 60e0b7a3-7198-4791-b72d-19e363fa09c3 2026-11-14T21:11:32.642816Z (wave-2.md)
+- date: 2026-11-14
+- context: Brochure lines tuner
+- tags: editor, frustration · standing: one-off
+
+### E2403 · After tuning, build the picked result in Figma
+- quote: "can you build these Infigma then on that page we've been working on"
+- source: session_01NtNprp57Nk757XeNDfy1iA · 3796d7d6-7b67-4979-b2e4-f86610e184f6 2026-11-14T21:16:16.631552Z (wave-2.md)
+- date: 2026-11-14
+- context: Brochure lines tuner to Figma
+- tags: delivery · standing: yes
+
+### E2404 · Decision page row too dense
+- quote: "the first one is like really confusing. There's like a lot of info there. Like I don't even know how to juggle through that. Is there any way you can like simplify that?"
+- source: session_01JWCZd3YSpWh36izDdThCja · 9f291fc4-d537-40f8-9ac7-4caeeb93dd26 2026-09-24T03:59:53.313517Z (wave-2.md)
+- date: 2026-09-24
+- context: Text style rulings decision page
+- tags: decision-board, copy · standing: yes
+
+### E2405 · Decision page lacks instructions and after examples
+- quote: "I don't see an example of anything. I don't think like what it would look like after"
+- source: session_01JWCZd3YSpWh36izDdThCja · 8f7ddb32-cfbd-43e8-bcc8-b23f5865aff7 2026-09-24T23:41:12.885633Z (wave-2.md)
+- date: 2026-09-24
+- context: Text style rulings decision page
+- tags: decision-board, review-board · standing: yes
+
+### E2406 · Decision page unclear how to use
+- quote: "I don't really understand how it works, so hopefully, I didn't mess anything up and it's like really seems overly long."
+- source: session_01JWCZd3YSpWh36izDdThCja · 8f7ddb32-cfbd-43e8-bcc8-b23f5865aff7 2026-09-24T23:41:12.885633Z (wave-2.md)
+- date: 2026-09-24
+- context: Text style rulings decision page
+- tags: decision-board, frustration · standing: yes
+
+### E2407 · Walk through open rows with a recommendation, he approves or notes
+- quote: "give each open row your recommendation and reason, then let me approve or note rows on the page."
+- source: session_01JWCZd3YSpWh36izDdThCja · c77c0dcf-cbf1-472a-a00f-0592523ea623 2026-09-24T00:14:50.112154Z (wave-2.md)
+- date: 2026-09-24
+- context: Text style decision page brief
+- tags: decision-board · standing: yes
+
+### E2408 · Do not write to Figma until he has ruled and says go
+- quote: "Do not write to the product file until I have ruled on the page and said go."
+- source: session_01JWCZd3YSpWh36izDdThCja · c77c0dcf-cbf1-472a-a00f-0592523ea623 2026-09-24T00:14:50.112154Z (wave-2.md)
+- date: 2026-09-24
+- context: Text style decision page brief
+- tags: decision-board, process · standing: yes
+
+### E2409 · Note field on every decision, more than reject
+- quote: "there's an option to add a note no matter what decision I make because I feel like I need to be doing that"
+- source: session_01NtNprp4drfXkEKxJu3Qdp8 · 0964a160-49c7-45b4-958b-e4a9b56e200d 2026-11-07T20:07:43.690881Z (wave-2.md)
+- date: 2026-11-07
+- context: Case study review log
+- tags: decision-board, review-board · standing: yes
+
+### E2410 · Unchanged items clutter the review
+- quote: "Why are we mentioning stuff that is unchanged? What am I missing"
+- source: session_01NtNprp4drfXkEKxJu3Qdp8 · 245e3b1b-3228-44cc-bbab-f629a84120c7 2026-11-07T20:48:22.344524Z (wave-2.md)
+- date: 2026-11-07
+- context: Case study review log
+- tags: review-board, frustration · standing: yes
+
+### E2411 · Does not know how to save the filled page
+- quote: "I have filled out everything, but I don't know how I'm supposed to like save this or if I need to or what"
+- source: session_01NtNprp4drfXkEKxJu3Qdp8 · a13cad60-8299-4620-9e09-49ae23ddd65a 2026-11-07T20:56:39.025152Z (wave-2.md)
+- date: 2026-11-07
+- context: Case study review log
+- tags: delivery, editor · standing: yes
+
+### E2412 · Will not hunt for the connected area to respond
+- quote: "I don't know if you're expecting me to go find the connected area and like do it there, but I think that's really weird. I'm not like doing that. That's super convoluted."
+- source: session_01NtNprp4drfXkEKxJu3Qdp8 · 994d678d-1195-4b82-8afc-9d0eef565ec6 2026-11-07T21:06:50.030454Z (wave-2.md)
+- date: 2026-11-07
+- context: Case study review log
+- tags: review-board, frustration · standing: yes
+
+### E2413 · Ignores things he says and decides for him
+- quote: "you keep doing this stuff where you ignore things I say or you make decisions because you think that your insight's like better than mine"
+- source: session_01NtNprrzJVYyWotnXTnqhhU · f8fc06a4-3281-402a-a7ce-a7672c2e7e5e 2026-11-12T20:01:00.566967Z (wave-2.md)
+- date: 2026-11-12
+- context: Monday chat design
+- tags: frustration, process · standing: yes
+
+### E2414 · Keeps clipping contents
+- quote: "You also keep clipping contents."
+- source: session_01Lgz42B3cYXSEiAdQEhA3B9 · 36c8eb16-1a82-4282-b66d-8f6d59c61f89 2026-10-22T23:32:48.188335Z (wave-2.md)
+- date: 2026-10-22
+- context: Student card in Figma
+- tags: frustration, style · standing: yes
+
+### E2415 · Decision asked with no place to answer
+- quote: "you just said there was a decision to make, but I don't see anywhere to make that decision"
+- source: session_01Lgz42B3cYXSEiAdQEhA3B9 · c7f4a79a-b6ba-46fd-bfb1-a47a1400bfae 2026-10-22T21:35:23.166001Z (wave-2.md)
+- date: 2026-10-22
+- context: Design system audit
+- tags: decision-board, frustration · standing: yes
+
+### E2416 · Many messages back make it hard to follow
+- quote: "Can you make this like really clear? Because you keep sending me a bunch of messages back, and it makes it hard to kind of like go through this"
+- source: session_0174AJ9vFnds5vDhsFFxvnZ4 · 98f5eccb-518c-40bd-ae07-51622c2bb4d8 2026-09-18T22:55:59.927623Z (wave-2.md)
+- date: 2026-09-18
+- context: Calendar component variants
+- tags: copy, frustration · standing: yes
+
+### E2417 · Look at the real components
+- quote: "are you actually looking at the components themselves at all? Like, I think that would help you resolve a lot of these problems."
+- source: session_0174AJ9vFnds5vDhsFFxvnZ4 · 98f5eccb-518c-40bd-ae07-51622c2bb4d8 2026-09-18T22:55:59.927623Z (wave-2.md)
+- date: 2026-09-18
+- context: Calendar component variants
+- tags: process · standing: yes
+
+### E2418 · Wants a fully working prototype with hover and press
+- quote: "I would love if you could actually just make me a workable prototype, fully working sidebar, you know, all the proper effects, and you know, hover press, all the shit, you know, all the component parts working."
+- source: session_01NtNprsE6T5k57GaYgNQ2Y5 · e5923547-45f2-4bd2-9f4d-4060da81bdd8 2026-10-29T03:16:00.587450Z (wave-2.md)
+- date: 2026-10-29
+- context: Sidebar navigation
+- tags: editor, interaction, review-board · standing: yes
+
+### E2419 · Did not use the format he said exists
+- quote: "I literally told you I have that format set up. What are you doing"
+- source: session_01NtNprsE6T5k57GaYgNQ2Y5 · ae6185bf-e6cb-4cd5-abf0-ec00b1aa8717 2026-10-29T19:50:01.784439Z (wave-2.md)
+- date: 2026-10-29
+- context: Sidebar nav prototype
+- tags: frustration · standing: one-off
+
+### E2420 · Two selected states confuse
+- quote: "there shouldn't be like two selected states that's confusing because they're indicated to two different things"
+- source: session_01NtNprsE6T5k57GaYgNQ2Y5 · 12f6d9f4-793c-49a6-9629-f877e64ec101 2026-10-30T00:59:36.666629Z (wave-2.md)
+- date: 2026-10-30
+- context: Sidebar nav prototype
+- tags: interaction, navigation, product · standing: yes
+
+### E2421 · Seven nav items as a guide
+- quote: "I always kind of use seven as a good guiding U-box and product as like a starting point."
+- source: session_01NtNprsE6T5k57GaYgNQ2Y5 · 528c32b6-6acd-4896-8fb1-acae6428d6ba 2026-10-28T17:55:03.254526Z (wave-2.md)
+- date: 2026-10-28
+- context: Sidebar navigation
+- tags: navigation, product · standing: yes
+
+### E2422 · Transcript file never HTML
+- quote: "The transcript file should never be HTML. Make sure that's on the record going forward."
+- source: session_01XqYiQ2gyb5fJ8RUTJWjgH4 · 2c6338aa-9818-4405-b210-b5394ca5d315 2026-10-02T21:34:30.764068Z (wave-2.md)
+- date: 2026-10-02
+- context: Strategy transcript step
+- tags: delivery, frustration · standing: yes
+
+### E2423 · Show a prototype in canvas, not a confusing image
+- quote: "Can you please do a prototype in Canvas or something, like, and make sure I know what's going on here? Because I have no idea what you're presenting me right now in this image"
+- source: session_01NtNprtcAnRcCMyGew6ReLB · 8ca08ea5-b16e-4e7f-9612-07187ae9f3c9 2026-11-14T00:27:22.031936Z (wave-2.md)
+- date: 2026-11-14
+- context: Component audit image
+- tags: review-board, delivery, frustration · standing: yes
+
+### E2424 · Show me the evidence
+- quote: "You need to show me, I guess, but that does not make any sense"
+- source: session_01NtNprtcAnRcCMyGew6ReLB · e0f889ad-e4d6-4a09-996c-7b2ef5c13371 2026-11-17T03:05:56.709426Z (wave-2.md)
+- date: 2026-11-17
+- context: Selected state colour check
+- tags: review-board · standing: one-off
+
+### E2425 · Four standard breakpoints
+- quote: "I'm probably going to have to make sure we're designing a desktop, tablet, mobile, and then this like larger mobile as well now."
+- source: session_01V447h1tC4QgafjwhxygPXc · 05c49f37-7b25-4056-9611-95462cfcb9eb 2026-09-18T20:41:14.232681Z (wave-2.md)
+- date: 2026-09-18
+- context: New wide phone breakpoint
+- tags: responsive, product · standing: yes
+
+### E2426 · Unsure about stretching mobile layout to wider breakpoint
+- quote: "allowing the existing layout to expand based on usable space is like a little bit confusing though to me because is it just gonna look stretched out"
+- source: session_01V447h1tC4QgafjwhxygPXc · 02b9e37c-a6ea-4f8f-8fb1-e690d7f6cb2e 2026-09-18T21:42:27.407413Z (wave-2.md)
+- date: 2026-09-18
+- context: Wide phone breakpoint
+- tags: responsive, product · standing: one-off
+
+### E2427 · Align to the grid when you can
+- quote: "You should try to align it to the grid when you can, right?"
+- source: session_01HB8aq5iY6iaWCYKXWdqKP3 · fcbeafaf-ae42-45a2-be6c-875d9185321c 2026-10-02T23:38:15.333828Z (wave-2.md)
+- date: 2026-10-02
+- context: M2.6 content frame
+- tags: product, shell · standing: yes
+
+### E2428 · Over-engineering again
+- quote: "I think you're over-engineering a bit."
+- source: session_01HB8aq5iY6iaWCYKXWdqKP3 · 3859780d-7958-4a1a-832a-965d2a92acb3 2026-10-02T23:41:45.410753Z (wave-2.md)
+- date: 2026-10-02
+- context: Grid rules
+- tags: process · standing: yes
+
+### E2429 · Table format in order
+- quote: "In table format and in order, this is a screenshot of my sidebar on the left."
+- source: session_01NtNprshUFDwNAx8ECBJS8x · 00302182-2a07-4414-a2fd-5becb76a0d3e 2026-11-12T18:33:45.243795Z (wave-2.md)
+- date: 2026-11-12
+- context: Chat inventory
+- tags: delivery, copy · standing: one-off
+
+### E2430 · Copy: no names in titles, no filler words on buttons
+- quote: "specifically mentioning a mentor's name, for instance, in a title about like upcoming calls instead of just using the word mentor, adding unnecessary words to buttons like the in between two words"
+- source: session_01SaDdevp4bnYZfqxoDxZdxQ · 50b311f9-ec12-4413-87e0-7275f5e1116a 2026-10-07T21:15:18.866001Z (wave-2.md)
+- date: 2026-10-07
+- context: Screen copy
+- tags: copy, frustration · standing: yes
+
+### E2431 · Clear and simple status
+- quote: "I just need something clear and simple for you to tell me where you're at with it and what you think"
+- source: session_01SaDdevp4bnYZfqxoDxZdxQ · 336b780c-1b4f-42d1-9179-51c17242c096 2026-10-08T03:14:01.245562Z (wave-2.md)
+- date: 2026-10-08
+- context: Copy skill discussion
+- tags: copy · standing: yes
+
+### E2432 · Design system page: nothing aligns to the title
+- quote: "nothing should ever align to the top of the component title, whatever's in the right."
+- source: session_01NyhXmXE9UXRTnN2V3zKYDs · bcbceaa2-c4bc-42ee-a23f-a843e3167da3 2026-09-18T22:52:34.714708Z (wave-2.md)
+- date: 2026-09-18
+- context: Design system component pages
+- tags: style, frustration · standing: yes
+
+### E2433 · Telling each one separately is annoying
+- quote: "I'm having the issue now where I'm having to tell all of them, and it's kind of annoying"
+- source: session_01NyhXmXE9UXRTnN2V3zKYDs · bcbceaa2-c4bc-42ee-a23f-a843e3167da3 2026-09-18T22:52:34.714708Z (wave-2.md)
+- date: 2026-09-18
+- context: Design system component pages
+- tags: frustration · standing: yes
+
+### E2434 · Finding unfinished work again and again
+- quote: "this has been the most tedious work to over and over and over again find unfinished work with i really need this to be the last time"
+- source: session_01NyhXmXE9UXRTnN2V3zKYDs · d8015d72-3313-466a-b5de-d991a0def4a0 2026-10-18T17:30:16.238971Z (wave-2.md)
+- date: 2026-10-18
+- context: Mentor experience final pass
+- tags: frustration, process · standing: yes
+
+### E2435 · Do not make things up
+- quote: "And don't just make something up"
+- source: session_01NyhXmXE9UXRTnN2V3zKYDs · 68a96cf4-668d-40b9-959a-20a6cead1e75 2026-10-23T18:53:21.727724Z (wave-2.md)
+- date: 2026-10-23
+- context: Mentor experience final pass
+- tags: frustration, process · standing: yes
+
+### E2436 · Trusts his eye over the rule
+- quote: "I changed it back to 48, and it looks way better. Number one, and I'm really good at seeing this kind of thing."
+- source: session_019uRDY9aAZ6xpHgHHnEhniY · 7e621a55-3a78-4a74-b4c7-e92cc377e045 2026-09-25T21:31:49.080177Z (wave-2.md)
+- date: 2026-09-25
+- context: Region gap rule
+- tags: style, process · standing: yes
+
+### E2437 · Original next to variant options plus a comment button
+- quote: "show me what the original component looks like next to the variant and maybe give me like a couple options for the variant so I can choose which one I like better, or and maybe add like another button there so I can add comments into how it needs to be fixed"
+- source: session_011cjKfHa8msXL2CWdUyFQyC · 92e0f21e-4cdd-4920-a62a-97429cd9cad0 2026-10-09T17:58:07.943801Z (wave-2.md)
+- date: 2026-10-09
+- context: Component variant picker
+- tags: decision-board, review-board · standing: yes
+
+### E2438 · Did not look at the components after building
+- quote: "you clearly didn't take a look at them after to see how they turned out"
+- source: session_01NtNprssidcxRurKXU2huzn · d76e8c98-7c82-40c8-b666-b5fe0f63ff59 2026-11-15T19:59:41.084419Z (wave-2.md)
+- date: 2026-11-15
+- context: Action hub onboarding components
+- tags: process, frustration · standing: yes
+
+### E2439 · Will not review until it is in canvas
+- quote: "I'm not gonna look at these until they're in Canvas."
+- source: session_01NtNprpKFvvW8JQMmd8qsHE · 8968e1e6-7485-4357-84a9-438482c2a8fc 2026-11-13T23:13:01.842389Z (wave-2.md)
+- date: 2026-11-13
+- context: Design options
+- tags: delivery, review-board · standing: yes
+
+### E2440 · Wants a tldr for every project
+- quote: "I would like it to be not just a Monday thing though"
+- source: session_01QhioP4THnboM8mQqTdCaNQ · c6f52a53-69f8-456a-a77e-78e946ad52c8 2026-09-18T19:46:14.199563Z (wave-2.md)
+- date: 2026-09-18
+- context: Reply summary
+- tags: copy · standing: one-off
+
+### E2441 · Short version, too much to read
+- quote: "can you just give me a quick like caveman short version of everything here? Because it's a lot. I don't need to read all this, it's too much"
+- source: session_01Mw6hqwsq4fJFxXv4gjmAJB · ce19ad37-76e7-448c-a52e-dc5a0e72cdac 2026-10-08T22:14:55.224121Z (wave-2.md)
+- date: 2026-10-08
+- context: Long session output
+- tags: copy, frustration · standing: yes
+
+### E2442 · Unconfirmed changes were added
+- quote: "I never confirmed adding any of that"
+- source: session_0139Fsmepz9Duj43jc9TrKJu · bdf12853-1e6f-4099-a8bc-d63dfd6bd7e2 2026-09-24T01:19:58.589069Z (wave-2.md)
+- date: 2026-09-24
+- context: Grid system record
+- tags: frustration, process · standing: one-off
+
+### E2443 · Fully responsive, ready for dev
+- quote: "We also still have some issues with responsiveness, pretty serious issues with responsiveness, I'd say."
+- source: session_015KUCuqSpkvQkFLGvyTaukw · 2026-10-09T17:46:49.468502Z (wave-3.md)
+- date: 2026-10-09
+- context: Figma screens review (Mondai product)
+- tags: responsive | frustration | product · standing: yes
+
+### E2444 · Responsive is expected by default
+- quote: "it should be fully responsive"
+- source: session_015KUCuqSpkvQkFLGvyTaukw · 2026-10-09T17:46:49.468502Z (wave-3.md)
+- date: 2026-10-09
+- context: Figma screens, same message
+- tags: responsive | product · standing: yes
+
+### E2445 · Hugging text recurring complaint
+- quote: "you don't really do a good job with like hugging text. I feel like I bring this up almost every time we talk"
+- source: session_015KUCuqSpkvQkFLGvyTaukw · 2026-10-09T17:46:49.468502Z (wave-3.md)
+- date: 2026-10-09
+- context: Figma auto layout on screens
+- tags: frustration | product · standing: yes
+
+### E2446 · Proximity and grouping
+- quote: "The whole thing is with proximity: you make those closer together because of the rule of proximity."
+- source: session_015KUCuqSpkvQkFLGvyTaukw · 2026-10-09T17:46:49.468502Z (wave-3.md)
+- date: 2026-10-09
+- context: M8.3 spacing review
+- tags: style | product · standing: yes
+
+### E2447 · Same layouts recycled
+- quote: "you keep recycling the same layouts over and over again, and we've talked about this probably 60 times now"
+- source: session_015KUCuqSpkvQkFLGvyTaukw · 2026-10-09T17:46:49.468502Z (wave-3.md)
+- date: 2026-10-09
+- context: Screens all using two-column layouts
+- tags: frustration | product · standing: yes
+
+### E2448 · Do not make everything a visible frame
+- quote: "don't like think that me saying any of this stuff means like, oh, well, you need to give everything a frame and make everything a visible frame"
+- source: session_015KUCuqSpkvQkFLGvyTaukw · 2026-10-09T17:46:49.468502Z (wave-3.md)
+- date: 2026-10-09
+- context: Screen feedback
+- tags: style | product · standing: yes
+
+### E2449 · Lists over wrap frames
+- quote: "I don't think you utilize these kind of lists enough, and I feel like these are a lot cleaner"
+- source: session_015KUCuqSpkvQkFLGvyTaukw · 2026-10-09T17:46:49.468502Z (wave-3.md)
+- date: 2026-10-09
+- context: M7.8 list style
+- tags: style | product · standing: yes
+
+### E2450 · Plain, simple patterns
+- quote: "we need to find patterns that we can replicate simply"
+- source: session_015KUCuqSpkvQkFLGvyTaukw · 2026-10-09T17:46:49.468502Z (wave-3.md)
+- date: 2026-10-09
+- context: Calendar date picker pattern
+- tags: process | product · standing: yes
+
+### E2451 · Options view gave only code
+- quote: "I see options R2 to HTML, but that just shows me the code when I click it. I don't know what I'm supposed to do with that"
+- source: session_015KUCuqSpkvQkFLGvyTaukw · 2026-10-09T18:38:12.366993Z (wave-3.md)
+- date: 2026-10-09
+- context: HTML options page for layout choices
+- tags: delivery | frustration · standing: one-off
+
+### E2452 · No visible way to browse options
+- quote: "I don't see anything I can click, or I don't know where to look to look at the different layout options"
+- source: session_015KUCuqSpkvQkFLGvyTaukw · 2026-10-09T18:38:12.366993Z (wave-3.md)
+- date: 2026-10-09
+- context: Layout options page
+- tags: navigation | review-board | frustration · standing: yes
+
+### E2453 · Wants an existing review UI, not a new one
+- quote: "they put it in a UI interface for me and they did like some UX fixes and all that"
+- source: session_015KUCuqSpkvQkFLGvyTaukw · 2026-10-09T19:34:52.062130Z (wave-3.md)
+- date: 2026-10-09
+- context: Options review tool
+- tags: review-board | process · standing: one-off
+
+### E2454 · Own review UI: black and white, no scroll
+- quote: "I actually had to build a whole way that we go through this now, like a whole specific UI, like that's like black and white and kind of like vintage looking, and there's a UI laid out in a nice way for this type of thing. So I don't have to scroll."
+- source: session_015KUCuqSpkvQkFLGvyTaukw · 2026-10-09T19:46:41.755493Z (wave-3.md)
+- date: 2026-10-09
+- context: A/B options review
+- tags: review-board | style | shell · standing: yes
+
+### E2455 · A and B images cannot be zoomed to full screen
+- quote: "if I try to like zoom in on one, I can only get a slightly glimpse of it, I can't even view the full screen"
+- source: session_015KUCuqSpkvQkFLGvyTaukw · 2026-10-09T19:46:41.755493Z (wave-3.md)
+- date: 2026-10-09
+- context: A/B image options
+- tags: interaction | review-board | frustration · standing: yes
+
+### E2456 · Canvas to zoom and pan with margins
+- quote: "I think you need to make the left section like where the actual frame of the UI is like almost a canvas where I can like zoom in and out and move around on it."
+- source: session_015KUCuqSpkvQkFLGvyTaukw · 2026-10-09T19:54:09.369495Z (wave-3.md)
+- date: 2026-10-09
+- context: Options review tool, left pane
+- tags: interaction | shell | review-board · standing: yes
+
+### E2457 · Significant margins around UI on canvas
+- quote: "there needs to be significant margins or something around, like, however, you want to do it, around the UI"
+- source: session_015KUCuqSpkvQkFLGvyTaukw · 2026-10-09T19:54:09.369495Z (wave-3.md)
+- date: 2026-10-09
+- context: Options review tool canvas
+- tags: interaction | style · standing: yes
+
+### E2458 · Options switcher at top of preview box
+- quote: "Probably should be an option at the top of the box that contains the left section, like the UI."
+- source: session_015KUCuqSpkvQkFLGvyTaukw · 2026-10-09T19:56:57.449069Z (wave-3.md)
+- date: 2026-10-09
+- context: Options review tool
+- tags: navigation | review-board · standing: yes
+
+### E2459 · Next and previous adjacent, current only, simple
+- quote: "the next and previous buttons should be next to each other and only needs to show the current one that we're on"
+- source: session_015KUCuqSpkvQkFLGvyTaukw · 2026-10-09T19:56:57.449069Z (wave-3.md)
+- date: 2026-10-09
+- context: Options review tool
+- tags: navigation | review-board · standing: yes
+
+### E2460 · Nothing at the bottom, simplified
+- quote: "Nothing should be at the bottom, and it shouldn't be this big, it should be simplified."
+- source: session_015KUCuqSpkvQkFLGvyTaukw · 2026-10-09T19:56:57.449069Z (wave-3.md)
+- date: 2026-10-09
+- context: Options review tool
+- tags: shell | style · standing: yes
+
+### E2461 · Needs a clear done state
+- quote: "I think I'm done, but it doesn't like say done or anything"
+- source: session_015KUCuqSpkvQkFLGvyTaukw · 2026-10-09T20:19:23.270624Z (wave-3.md)
+- date: 2026-10-09
+- context: Options review tool
+- tags: review-board | frustration · standing: yes
+
+### E2462 · Show which item is still open
+- quote: "it says one's still open, but I don't know what it doesn't it's not clear to me what one's still open"
+- source: session_015KUCuqSpkvQkFLGvyTaukw · 2026-10-09T20:20:00.457136Z (wave-3.md)
+- date: 2026-10-09
+- context: Options review tool progress
+- tags: navigation | review-board | frustration · standing: yes
+
+### E2463 · Completed step must not look like current step
+- quote: "Why would you suggest then for me to make the completed step look like the current step? That is crazy to me"
+- source: session_015KUCuqSpkvQkFLGvyTaukw · 2026-10-09T20:28:48.637287Z (wave-3.md)
+- date: 2026-10-09
+- context: Progress stepper
+- tags: style | product · standing: one-off
+
+### E2464 · Breadcrumbs not everywhere
+- quote: "The question is if we really need breadcrumbs everywhere because I'm kind of getting sick of the breadcrumbs."
+- source: session_015KUCuqSpkvQkFLGvyTaukw · 2026-10-09T23:19:54.666148Z (wave-3.md)
+- date: 2026-10-09
+- context: Mondai screens
+- tags: navigation | product · standing: yes
+
+### E2465 · Do not squish to fit above the fold
+- quote: "it feels like you're trying to squish things in sometimes like to make everything over the fold that's not necessary"
+- source: session_015KUCuqSpkvQkFLGvyTaukw · 2026-10-09T23:19:54.666148Z (wave-3.md)
+- date: 2026-10-09
+- context: Mondai screens spacing
+- tags: style | product · standing: yes
+
+### E2466 · Use spacing tokens
+- quote: "I don't know why you're not using tokens for spacing"
+- source: session_015KUCuqSpkvQkFLGvyTaukw · 2026-10-09T23:19:54.666148Z (wave-3.md)
+- date: 2026-10-09
+- context: Mondai screens
+- tags: process | product · standing: yes
+
+### E2467 · Text directly above buttons
+- quote: "you keep putting these like lines of text right below or right yeah right above text or buttons and I don't know why that should never be there"
+- source: session_015KUCuqSpkvQkFLGvyTaukw · 2026-10-09T23:19:54.666148Z (wave-3.md)
+- date: 2026-10-09
+- context: Mondai screens
+- tags: style | product · standing: yes
+
+### E2468 · Clip content
+- quote: "you need to remember to unclick content when content needs to be unclipped and clip it when it needs to be clipped"
+- source: session_015KUCuqSpkvQkFLGvyTaukw · 2026-10-09T23:19:54.666148Z (wave-3.md)
+- date: 2026-10-09
+- context: Figma frames
+- tags: frustration | product · standing: yes
+
+### E2469 · No time for iteration
+- quote: "I just can't keep going through the iteration. We don't have time"
+- source: session_015KUCuqSpkvQkFLGvyTaukw · 2026-10-09T23:24:25.981054Z (wave-3.md)
+- date: 2026-10-09
+- context: End of Figma session
+- tags: process | frustration · standing: one-off
+
+### E2470 · Stop asking, just do it
+- quote: "Why are you asking me all these things? Can we just get it done"
+- source: session_015KUCuqSpkvQkFLGvyTaukw · 2026-10-09T22:29:02.148322Z (wave-3.md)
+- date: 2026-10-09
+- context: Mid-session
+- tags: process | frustration · standing: yes
+
+### E2471 · Show me before you change
+- quote: "But I need you to like show me them before you do it"
+- source: session_019TMvtLPLFecAz9fEbEisVn · 2026-09-24T23:50:55.983163Z (wave-3.md)
+- date: 2026-09-24
+- context: Layout audit of Figma screens
+- tags: process | review-board · standing: yes
+
+### E2472 · Prompt in a plain copy box, not a document
+- quote: "Why would you say send an MD document and not just send me the prompt here to send? Like in a plain text box, where I can click the copy button and just paste it in a new chat"
+- source: session_019TMvtLPLFecAz9fEbEisVn · 2026-09-25T18:23:57.885690Z (wave-3.md)
+- date: 2026-09-25
+- context: Handoff prompt
+- tags: delivery | frustration · standing: yes
+
+### E2473 · Session map: full screen, tabs, canvas feel
+- quote: "I want to have it taking up most of the screen, and maybe we just like tab them"
+- source: session_019TMvtLPLFecAz9fEbEisVn · 2026-09-25T17:28:01.414625Z (wave-3.md)
+- date: 2026-09-25
+- context: Session map board for parallel Claude sessions
+- tags: shell | navigation · standing: one-off
+
+### E2474 · Canvassy, not article page
+- quote: "It should feel too like more like canvassy. Like, I don't want it to feel so like blocked in, like a page. Like, this feels too much like an article page or something like that now."
+- source: session_019TMvtLPLFecAz9fEbEisVn · 2026-09-25T17:28:01.414625Z (wave-3.md)
+- date: 2026-09-25
+- context: Session map board
+- tags: shell | style · standing: yes
+
+### E2475 · Dark mode, mineral, outline, soft colours
+- quote: "I want it to be dark mode, or what, like, maybe you can look at what taste scales would be best for this. Something simple."
+- source: session_019TMvtLPLFecAz9fEbEisVn · 2026-09-25T17:28:01.414625Z (wave-3.md)
+- date: 2026-09-25
+- context: Session map board
+- tags: style · standing: yes
+
+### E2476 · Darker, outline or soft colours, not full brutalist
+- quote: "something more in that realm where it's like darker, mineralized more like outline or like soft colors"
+- source: session_019TMvtLPLFecAz9fEbEisVn · 2026-09-25T17:28:01.414625Z (wave-3.md)
+- date: 2026-09-25
+- context: Session map board
+- tags: style · standing: yes
+
+### E2477 · Did not add extras
+- quote: "So, you added things I didn't need."
+- source: session_019TMvtLPLFecAz9fEbEisVn · 2026-09-25T17:28:01.414625Z (wave-3.md)
+- date: 2026-09-25
+- context: Session map board added Open and Copy link
+- tags: frustration | process · standing: yes
+
+### E2478 · Clickable status circles with feedback
+- quote: "I said the circles should be clickable, they should be pulsating or something, or change the colors, and/or both."
+- source: session_019TMvtLPLFecAz9fEbEisVn · 2026-09-25T17:28:01.414625Z (wave-3.md)
+- date: 2026-09-25
+- context: Session map circles
+- tags: interaction · standing: one-off
+
+### E2479 · No redundant titles or tags
+- quote: "don't need like the session map title, the example sessions information, we don't need the example sessions tag"
+- source: session_019TMvtLPLFecAz9fEbEisVn · 2026-09-25T17:28:01.414625Z (wave-3.md)
+- date: 2026-09-25
+- context: Session map board
+- tags: copy | style · standing: yes
+
+### E2480 · Colours matching Claude, modern sans, no serif
+- quote: "if I can use colors that Claude uses, since it's a Claude thing, I think that would make the most sense and it wouldn't be as jarring for my eyes to switch back and forth from."
+- source: session_019TMvtLPLFecAz9fEbEisVn · 2026-09-25T17:37:32.284101Z (wave-3.md)
+- date: 2026-09-25
+- context: Session map style options
+- tags: style · standing: yes
+
+### E2481 · Dislikes serif; wants modern
+- quote: "I don't love the serif text. For instance, I feel like it should feel like a little bit more modern."
+- source: session_019TMvtLPLFecAz9fEbEisVn · 2026-09-25T17:37:32.284101Z (wave-3.md)
+- date: 2026-09-25
+- context: Session map style options
+- tags: style · standing: yes
+
+### E2482 · Canvas to tweak and comment
+- quote: "do that canvas thing so I can like make little like tweaks and stuff if I want to so definitely see and then I can like add comments to anything specific that I want you to change the look of"
+- source: session_019TMvtLPLFecAz9fEbEisVn · 2026-09-25T17:37:32.284101Z (wave-3.md)
+- date: 2026-09-25
+- context: Session map style options
+- tags: editor | review-board · standing: yes
+
+### E2483 · Real blacks, not grays
+- quote: "I want the dark Like the blacks, not the gray"
+- source: session_019TMvtLPLFecAz9fEbEisVn · 2026-09-25T17:47:52.748217Z (wave-3.md)
+- date: 2026-09-25
+- context: Session map palette
+- tags: style · standing: yes
+
+### E2484 · Edit in canvas must visibly change
+- quote: "if I click on something and change the color, should I see the color change?"
+- source: session_019TMvtLPLFecAz9fEbEisVn · 2026-09-25T17:51:18.216430Z (wave-3.md)
+- date: 2026-09-25
+- context: Editable canvas, first time using Canva-style editor
+- tags: editor | interaction · standing: yes
+
+### E2485 · Some elements not editable
+- quote: "I'm trying to change like the gold color of this circle, but I can't do that. Like, I tried clicking everything, and there's no spot for that."
+- source: session_019TMvtLPLFecAz9fEbEisVn · 2026-09-25T17:54:59.852584Z (wave-3.md)
+- date: 2026-09-25
+- context: Canvas editor
+- tags: editor | frustration · standing: one-off
+
+### E2486 · No overkill controls
+- quote: "We don't need that. That's extraordinary overkill."
+- source: session_019TMvtLPLFecAz9fEbEisVn · 2026-09-25T19:16:10.062018Z (wave-3.md)
+- date: 2026-09-25
+- context: Session map top-left buttons
+- tags: style | process · standing: yes
+
+### E2487 · Drill-in layers
+- quote: "we actually have like layers of the circle maps or something? So, I have like a base one that has like all the groups"
+- source: session_019TMvtLPLFecAz9fEbEisVn · 2026-09-26T15:32:16.611607Z (wave-3.md)
+- date: 2026-09-26
+- context: Session map structure
+- tags: navigation · standing: one-off
+
+### E2488 · Always a way back
+- quote: "As long as we use some way, as we have some way to go back, like maybe in the back, you know, in the top left corner, it's like a back button or like a breadcrumb type of thing"
+- source: session_019TMvtLPLFecAz9fEbEisVn · 2026-09-26T15:33:18.926217Z (wave-3.md)
+- date: 2026-09-26
+- context: Session map drill in
+- tags: navigation · standing: yes
+
+### E2489 · Claude weak at UI styling
+- quote: "it's really hard obviously for you to pick up like UI styles and like how to be creative in like creating things like this and like following my you know instruction in terms of styling"
+- source: session_019TMvtLPLFecAz9fEbEisVn · 2026-09-26T16:53:36.654358Z (wave-3.md)
+- date: 2026-09-26
+- context: Session map styling
+- tags: style | frustration · standing: yes
+
+### E2490 · Send a zip
+- quote: "Why don't you just send me a zip?"
+- source: session_019TMvtLPLFecAz9fEbEisVn · 2026-09-26T18:04:08.487332Z (wave-3.md)
+- date: 2026-09-26
+- context: Delivery of a built tool
+- tags: delivery · standing: one-off
+
+### E2491 · Condense replies
+- quote: "this is a lot of unecessary info please focus on condensing ur responses while not losing the important information"
+- source: session_01X9REygeJpuQjbse6ABNafC · 2026-08-28T18:18:08.921077Z (wave-3.md)
+- date: 2026-08-28
+- context: Design system page plan
+- tags: copy | process | frustration · standing: yes
+
+### E2492 · Must be responsive when dragged
+- quote: "None of this is responsive. If I try to drag it around, nothing fails, nothing adapts."
+- source: session_01X9REygeJpuQjbse6ABNafC · 2026-08-28T18:52:55.114195Z (wave-3.md)
+- date: 2026-08-28
+- context: Design system page in Figma
+- tags: responsive | frustration · standing: yes
+
+### E2493 · Responsive is the surface level
+- quote: "it being responsive is, like, the number one, like, the surface level part of this whole thing to me"
+- source: session_01X9REygeJpuQjbse6ABNafC · 2026-08-28T19:06:25.236978Z (wave-3.md)
+- date: 2026-08-28
+- context: Design system page in Figma
+- tags: responsive | frustration · standing: yes
+
+### E2494 · Auto layout so it adapts
+- quote: "Auto Layout needs to be used for all this. So it's, like, responsive and adaptive."
+- source: session_01X9REygeJpuQjbse6ABNafC · 2026-08-28T17:45:55.441543Z (wave-3.md)
+- date: 2026-08-28
+- context: Design system page in Figma
+- tags: responsive | process · standing: yes
+
+### E2495 · Clean look: same black background
+- quote: "the background with the same black of these, like, two frames. So it look like there's kinda sitting on the page."
+- source: session_01X9REygeJpuQjbse6ABNafC · 2026-08-28T17:45:55.441543Z (wave-3.md)
+- date: 2026-08-28
+- context: Design system page
+- tags: style · standing: one-off
+
+### E2496 · Use design skills, give options
+- quote: "I feel like it's just, like, the most simplistic thing for you to, like, give multiple solutions or options for me too and to, like, figure out and solve all the problems."
+- source: session_01X9REygeJpuQjbse6ABNafC · 2026-08-28T19:24:03.967262Z (wave-3.md)
+- date: 2026-08-28
+- context: Design system page
+- tags: process | decision-board · standing: yes
+
+### E2497 · Visual compare, artifact, no tokens
+- quote: "show me the difference in some kind of visual way between the sticker sheet and the spec poster so I can understand."
+- source: session_01X9REygeJpuQjbse6ABNafC · 2026-08-28T19:29:05.157623Z (wave-3.md)
+- date: 2026-08-28
+- context: Comparison artifact request
+- tags: review-board | delivery · standing: yes
+
+### E2498 · Tabs per style version
+- quote: "why don't you create, like, an artifact like this? We, like, have separate tabs with, like, different version."
+- source: session_01X9REygeJpuQjbse6ABNafC · 2026-08-28T19:30:24.143513Z (wave-3.md)
+- date: 2026-08-28
+- context: Artifact comparing design skills
+- tags: review-board | navigation · standing: yes
+
+### E2499 · One page per component
+- quote: "1 page per component is crazy....... no one does that"
+- source: session_01X9REygeJpuQjbse6ABNafC · 2026-08-28T18:19:41.266570Z (wave-3.md)
+- date: 2026-08-28
+- context: Design system structure
+- tags: process · standing: one-off
+
+### E2500 · Constraints dropped
+- quote: "dont u have stuff set up to stop this stuff from happening?"
+- source: session_01X9REygeJpuQjbse6ABNafC · 2026-08-28T19:52:18.988526Z (wave-3.md)
+- date: 2026-08-28
+- context: Session losing constraints
+- tags: process | frustration · standing: yes
+
+### E2501 · Clip content again
+- quote: "you keep putting clip content on in frames and it's cutting off the edges of like text and stuff, and it looks really bad"
+- source: session_01NtNprqMthfjWZp8DHiT2VB · 2026-10-30T18:24:58.406250Z (wave-3.md)
+- date: 2026-10-30
+- context: Figma frames ST3.3
+- tags: frustration | product · standing: yes
+
+### E2502 · Cards should be informative, not just open
+- quote: "it should explain in some short text what this is"
+- source: session_01NtNprqMthfjWZp8DHiT2VB · 2026-10-30T18:24:58.406250Z (wave-3.md)
+- date: 2026-10-30
+- context: ST3.3 shelf cards
+- tags: copy | product · standing: one-off
+
+### E2503 · Links vs buttons
+- quote: "Like, why are you just using links? You keep defaulting to links for everything. It's really poor design."
+- source: session_01NtNprqMthfjWZp8DHiT2VB · 2026-10-30T18:37:13.659495Z (wave-3.md)
+- date: 2026-10-30
+- context: ST5.1
+- tags: style | frustration | product · standing: yes
+
+### E2504 · Use breadcrumbs consistently
+- quote: "Like, shouldn't we be using breadcrumbs there? We use breadcrumbs to other places."
+- source: session_01NtNprqMthfjWZp8DHiT2VB · 2026-10-30T18:37:13.659495Z (wave-3.md)
+- date: 2026-10-30
+- context: ST screens back to log
+- tags: navigation | product · standing: yes
+
+### E2505 · Looks like default AI
+- quote: "This kind of looks like default AI in a lot of this."
+- source: session_01NtNprqMthfjWZp8DHiT2VB · 2026-10-30T18:37:13.659495Z (wave-3.md)
+- date: 2026-10-30
+- context: ST screens
+- tags: style | frustration | product · standing: yes
+
+### E2506 · Overlapping spacing
+- quote: "you didn't even allow enough spacing, so like it's overlapping with other things"
+- source: session_01NtNprqMthfjWZp8DHiT2VB · 2026-10-30T18:37:13.659495Z (wave-3.md)
+- date: 2026-10-30
+- context: ST4 screen
+- tags: style | frustration | product · standing: yes
+
+### E2507 · Tokens and margins
+- quote: "you're not using the margins or the tokens and stuff properly at all with these designs"
+- source: session_01NtNprqMthfjWZp8DHiT2VB · 2026-10-30T18:14:32.218260Z (wave-3.md)
+- date: 2026-10-30
+- context: ST screens
+- tags: process | frustration | product · standing: yes
+
+### E2508 · Reference the wider design world
+- quote: "there's way more to figure out how design is done well"
+- source: session_01NtNprqMthfjWZp8DHiT2VB · 2026-10-30T18:47:25.990303Z (wave-3.md)
+- date: 2026-10-30
+- context: Design process
+- tags: process · standing: yes
+
+### E2509 · Short, scannable, lead with answer
+- quote: "Deliver it short and scannable. Lead with the answer, keep paragraphs short and give one recommendation with the reason and what would change it. I'm often in a rush."
+- source: session_01AYG7t1dGvHzvi1TRwzYbW6 · 2026-09-23T20:38:37.946389Z (wave-3.md)
+- date: 2026-09-23
+- context: Handoff brief he wrote for a cost-model session
+- tags: copy | process · standing: yes
+
+### E2510 · Check the real thing
+- quote: "Research, don't answer from memory. When something can be checked, check it."
+- source: session_01AYG7t1dGvHzvi1TRwzYbW6 · 2026-09-23T20:38:37.946389Z (wave-3.md)
+- date: 2026-09-23
+- context: Handoff brief he wrote
+- tags: process · standing: yes
+
+### E2511 · Build forward not backward
+- quote: "you're looking at what we've done so far rather than what can we build"
+- source: session_01Cu22ttWZyMT5ywSzpq6YjG · 2026-10-02T18:42:41.629646Z (wave-3.md)
+- date: 2026-10-02
+- context: Design system planning (not a tool)
+- tags: process · standing: one-off
+
+### E2512 · Show it here
+- quote: "can you sow me what they are here"
+- source: session_01Mw6QJF4YAPY1qCRuJTxWZi · 2026-09-29T04:14:13.554303Z (wave-3.md)
+- date: 2026-09-29
+- context: Blocker list in an artifact
+- tags: delivery | review-board | frustration · standing: yes
+
+### E2513 · Unexplained marks on a page
+- quote: "what are these orange things for?"
+- source: session_01Mw6QJF4YAPY1qCRuJTxWZi · 2026-09-29T04:11:49.396631Z (wave-3.md)
+- date: 2026-09-29
+- context: Artifact comment on flows page
+- tags: review-board | copy | frustration · standing: one-off
+
+### E2514 · Tag vertical centring and darkness
+- quote: "are my tags off centered like this too? vertically? also are my tags this dark in the non selected state? that seems dark."
+- source: session_01Mw6QJF4YAPY1qCRuJTxWZi · 2026-09-29T04:14:45.543110Z (wave-3.md)
+- date: 2026-09-29
+- context: Artifact comment on a tag component
+- tags: style | review-board · standing: one-off
+
+### E2515 · Box padding too tight
+- quote: "make sure we use better spacing in these boxes thats too close to the top and slightly to close to the left."
+- source: session_01Mw6QJF4YAPY1qCRuJTxWZi · 2026-09-29T04:15:02.029014Z (wave-3.md)
+- date: 2026-09-29
+- context: Artifact comment on boxes
+- tags: style · standing: yes
+
+### E2516 · Short list, not crazy list
+- quote: "can you just without doing like a crazy list? Can you just like do a list with the unanswered questions"
+- source: session_01Mw6QJF4YAPY1qCRuJTxWZi · 2026-09-29T15:21:34.403223Z (wave-3.md)
+- date: 2026-09-29
+- context: Open questions list
+- tags: copy | review-board · standing: yes
+
+### E2517 · Implausible counts
+- quote: "You're telling me there are how many questions? Like 50? That's insane."
+- source: session_01Mw6QJF4YAPY1qCRuJTxWZi · 2026-09-29T15:22:15.531453Z (wave-3.md)
+- date: 2026-09-29
+- context: Unanswered questions list
+- tags: frustration | review-board · standing: one-off
+
+### E2518 · Do not make up items to fill categories
+- quote: "You don't make up questions and fill these categories, and no one's ever asking you to make up questions."
+- source: session_01Mw6QJF4YAPY1qCRuJTxWZi · 2026-09-29T15:23:13.953367Z (wave-3.md)
+- date: 2026-09-29
+- context: Gaps and blockers categories
+- tags: process | frustration | review-board · standing: yes
+
+### E2519 · Left categories, right flow
+- quote: "maybe there's like, I don't know, this like categorization of information on the left, and then the flow that goes with it in the right"
+- source: session_01Mw6QJF4YAPY1qCRuJTxWZi · 2026-09-29T15:40:07.770457Z (wave-3.md)
+- date: 2026-09-29
+- context: List of strategy points and flows
+- tags: review-board | shell · standing: one-off
+
+### E2520 · References must not be baked into design
+- quote: "I don't want that to like I don't want the output to look like these, right?"
+- source: session_01Mw6QJF4YAPY1qCRuJTxWZi · 2026-09-29T15:50:08.062669Z (wave-3.md)
+- date: 2026-09-29
+- context: Inspiration UI images
+- tags: process · standing: yes
+
+### E2521 · Prototype to understand
+- quote: "Can you show me a prototype of like what you mean? It's hard for hard for me for some reason to conceptualize this"
+- source: session_01NtNprt76oBh3VEmZw2Gpct · 2026-11-15T22:05:17.859188Z (wave-3.md)
+- date: 2026-11-15
+- context: Chat menu patterns
+- tags: delivery | review-board · standing: yes
+
+### E2522 · Prototype on the canvas
+- quote: "Do it in Canva. Like, not Canva, the canvas"
+- source: session_01NtNprt76oBh3VEmZw2Gpct · 2026-11-15T22:05:28.254246Z (wave-3.md)
+- date: 2026-11-15
+- context: Chat menu prototype
+- tags: delivery · standing: yes
+
+### E2523 · Make it responsive
+- quote: "please make this responsive"
+- source: session_01NtNprt76oBh3VEmZw2Gpct · 2026-11-16T02:50:38.088647Z (wave-3.md)
+- date: 2026-11-16
+- context: Prototype
+- tags: responsive · standing: yes
+
+### E2524 · Make it scrollable
+- quote: "can you make it scrollable too please."
+- source: session_01NtNprt76oBh3VEmZw2Gpct · 2026-11-16T03:31:24.685005Z (wave-3.md)
+- date: 2026-11-16
+- context: Prototype
+- tags: interaction | shell · standing: yes
+
+### E2525 · Chat panel too large at 1440
+- quote: "i am using a macbook with a roughly 1440 width frame and these prototypes the chat feels way too massive like ti doesnt newed to take anywhere near this much space."
+- source: session_01NtNprt76oBh3VEmZw2Gpct · 2026-11-16T03:36:17.920546Z (wave-3.md)
+- date: 2026-11-16
+- context: Prototype of side chat at MacBook width
+- tags: responsive | shell | frustration | product · standing: yes
+
+### E2526 · Columns should respond
+- quote: "i think its becuse its not responding responsively with the columns like it should be"
+- source: session_01NtNprt76oBh3VEmZw2Gpct · 2026-11-16T03:36:17.920546Z (wave-3.md)
+- date: 2026-11-16
+- context: Prototype chat panel
+- tags: responsive | frustration · standing: yes
+
+### E2527 · Show feel in prototype and check Refero
+- quote: "can you show me what that would feel like by modifying the prototypes? also is this the standard pattern with the delete at the top? i m sure there are other patterns. please check reffero"
+- source: session_01NtNprt76oBh3VEmZw2Gpct · 2026-11-16T03:55:27.052018Z (wave-3.md)
+- date: 2026-11-16
+- context: Prototype delete placement
+- tags: delivery | process · standing: yes
+
+### E2528 · Compare against like products
+- quote: "you need to be referencing the correct type of frameworks for all of this"
+- source: session_01NtNprt76oBh3VEmZw2Gpct · 2026-11-16T05:02:23.630139Z (wave-3.md)
+- date: 2026-11-16
+- context: Refero reference choice
+- tags: process | frustration · standing: yes
+
+### E2529 · Fully responsive prototype per option
+- quote: "prototype for each please fully responsive and make sure it fits to the columns as they would be at responsive amounts or whatever"
+- source: session_01NtNprt76oBh3VEmZw2Gpct · 2026-11-16T06:07:19.308487Z (wave-3.md)
+- date: 2026-11-16
+- context: Prototypes of options
+- tags: responsive | review-board · standing: yes
+
+### E2530 · Options must visibly differ
+- quote: "They all seem exactly the same in the prototypes, and then you didn't even make the new ones responsive"
+- source: session_01NtNprt76oBh3VEmZw2Gpct · 2026-11-16T06:22:54.551255Z (wave-3.md)
+- date: 2026-11-16
+- context: Prototypes of options
+- tags: review-board | responsive | frustration · standing: yes
+
+### E2531 · Confusing viewports and visible grids
+- quote: "i honestly dont get it why did u make 4 viewports i am so confused i dont know what to play the only one tried was a 1440 with the same thing ive been seeing and for soem reasona ll the grids are visible"
+- source: session_01NtNprt76oBh3VEmZw2Gpct · 2026-11-16T06:30:56.611298Z (wave-3.md)
+- date: 2026-11-16
+- context: Prototype with 4 viewports
+- tags: interaction | frustration | review-board · standing: yes
+
+### E2532 · Prototypes lacked promised element
+- quote: "there's no three-dot menu in the history view on either of these"
+- source: session_01NtNprt76oBh3VEmZw2Gpct · 2026-11-16T17:58:42.570099Z (wave-3.md)
+- date: 2026-11-16
+- context: Prototype review
+- tags: review-board | frustration · standing: one-off
+
+### E2533 · Wants examples and recreations
+- quote: "give me at least like, give me five if you can"
+- source: session_01NtNprt76oBh3VEmZw2Gpct · 2026-11-16T18:16:24.362057Z (wave-3.md)
+- date: 2026-11-16
+- context: Recreate other products' chat patterns as prototypes
+- tags: review-board | delivery · standing: yes
+
+### E2534 · Recreate their pattern, not ours
+- quote: "don't make it look like ours, just recreate what they have"
+- source: session_01NtNprt76oBh3VEmZw2Gpct · 2026-11-16T18:16:24.362057Z (wave-3.md)
+- date: 2026-11-16
+- context: Reference prototypes
+- tags: review-board | process · standing: yes
+
+### E2535 · Hover reveal of a menu replacing an arrow
+- quote: "the arrow implies that they can click, right? That along with the hover effect."
+- source: session_01NtNprt76oBh3VEmZw2Gpct · 2026-11-16T18:16:24.362057Z (wave-3.md)
+- date: 2026-11-16
+- context: Chat history cards
+- tags: interaction | product · standing: yes
+
+### E2536 · Too slow for a simple task
+- quote: "this is like taking way too long for such a simple task"
+- source: session_01NtNprt76oBh3VEmZw2Gpct · 2026-11-16T18:16:24.362057Z (wave-3.md)
+- date: 2026-11-16
+- context: Prototype loop
+- tags: process | frustration · standing: yes
+
+### E2537 · Keep the arrow, menu inside the item
+- quote: "let's just do the don't have anything in the buttons, keep the arrow, and then just have the menu for the delete and rename within the sessions themselves"
+- source: session_01NtNprt76oBh3VEmZw2Gpct · 2026-11-16T19:27:07.730868Z (wave-3.md)
+- date: 2026-11-16
+- context: Chat history
+- tags: interaction | product · standing: one-off
+
+### E2538 · Left sidebar shrinks as chat grows
+- quote: "if the chat is triggered to be open when the left sidebar is expanded, then the left sidebar automatically shrinks while at the exact same rate that the right chat grows"
+- source: session_01NtNprt76oBh3VEmZw2Gpct · 2026-11-16T19:27:07.730868Z (wave-3.md)
+- date: 2026-11-16
+- context: Side chat with expanded sidebar
+- tags: shell | responsive | interaction | product · standing: yes
+
+### E2539 · Drag edge to resize with min and max
+- quote: "highlight on the edge and then drag it to a certain like min width versus min max width"
+- source: session_01NtNprt76oBh3VEmZw2Gpct · 2026-11-16T19:27:07.730868Z (wave-3.md)
+- date: 2026-11-16
+- context: Resizable chat panel
+- tags: interaction | shell | product · standing: yes
+
+### E2540 · Show three examples to approve
+- quote: "Can you show me what three of my popover cards would look like then, with the rules that you've established, so I can approve it?"
+- source: session_01Uv2N91fB1k3gu8mGzngkFy · 2026-09-24T21:43:03.124606Z (wave-3.md)
+- date: 2026-09-24
+- context: Design system popover rules
+- tags: review-board | decision-board · standing: yes
+
+### E2541 · List of everything so I can see it
+- quote: "Can you make a list of everything that so I can see it that we'd worked on here since it's been a while?"
+- source: session_01Uv2N91fB1k3gu8mGzngkFy · 2026-09-25T16:07:53.865193Z (wave-3.md)
+- date: 2026-09-25
+- context: Branch vs main status
+- tags: review-board | delivery · standing: yes
+
+### E2542 · Check current design, not stale
+- quote: "Do me a favor and go check those original components again because I just modified them. I want to see this with the current design."
+- source: session_01Uv2N91fB1k3gu8mGzngkFy · 2026-09-24T22:32:59.136061Z (wave-3.md)
+- date: 2026-09-24
+- context: Popover cards review
+- tags: process · standing: yes
+
+### E2543 · Three options on canvas with heuristics
+- quote: "okay just create like three options for that like just in canvas for me so we can see"
+- source: session_01UWbrqSJKYhVLLahq9qcjGP · 2026-10-14T17:33:22.030424Z (wave-3.md)
+- date: 2026-10-14
+- context: Design options for a mentor flow
+- tags: decision-board | delivery · standing: yes
+
+### E2544 · Nielsen heuristics always
+- quote: "all Nielsen's heuristics need to always be you know looked at when we're building"
+- source: session_01UWbrqSJKYhVLLahq9qcjGP · 2026-10-14T17:33:22.030424Z (wave-3.md)
+- date: 2026-10-14
+- context: Building screens
+- tags: process | product · standing: yes
+
+### E2545 · Tell me where to look
+- quote: "Please let me know where to look and find them when they're complete"
+- source: session_01UWbrqSJKYhVLLahq9qcjGP · 2026-10-14T17:38:15.993612Z (wave-3.md)
+- date: 2026-10-14
+- context: Screens being built
+- tags: delivery · standing: yes
+
+### E2546 · Canvas styling does not match product
+- quote: "That's like the stuff you do in Canvas before you do anything in Figma. That has nothing to do with the way that Monday looks"
+- source: session_01UWbrqSJKYhVLLahq9qcjGP · 2026-10-14T18:09:33.893893Z (wave-3.md)
+- date: 2026-10-14
+- context: Screen with off-system background
+- tags: style | frustration | product · standing: yes
+
+### E2547 · Show me what it looks like
+- quote: "Can you show me what 48 and 48 look like"
+- source: session_01NkTCKnWLNM1qbnS2LqGvS2 · 2026-09-26T17:31:26.205963Z (wave-3.md)
+- date: 2026-09-26
+- context: Spacing comparison
+- tags: review-board · standing: yes
+
+### E2548 · Compare ratio examples
+- quote: "you could show me an example of if the ratio was like the small, like the region spacing being like 32"
+- source: session_01NkTCKnWLNM1qbnS2LqGvS2 · 2026-09-26T17:23:40.158108Z (wave-3.md)
+- date: 2026-09-26
+- context: Region gap options
+- tags: review-board | decision-board · standing: yes
+
+### E2549 · Screenshots to show
+- quote: "I feel like you need to be taking pictures of this stuff if you're not sure what's going on or something. Can you show me, because I feel like that would make it more clear what we need to do for both of us?"
+- source: session_01MByFtQidCQenDKtpFFbq1W · 2026-09-24T19:51:12.755908Z (wave-3.md)
+- date: 2026-09-24
+- context: Figma cleanup audit
+- tags: process | review-board · standing: yes
+
+### E2550 · Image of both options to choose
+- quote: "Just create an image in here or something that would be easier to show what they both look like"
+- source: session_01MByFtQidCQenDKtpFFbq1W · 2026-09-24T21:15:48.388454Z (wave-3.md)
+- date: 2026-09-24
+- context: Choosing a spacing value
+- tags: review-board | decision-board | delivery · standing: yes
+
+### E2551 · Too many questions
+- quote: "Ten questions is a meeting's worth of questions at least. Easily, once these discussions start. This is way too much."
+- source: session_01HXvYqcABuSzmfnbapvBpFh · 2026-10-20T22:44:25.515289Z (wave-3.md)
+- date: 2026-10-20
+- context: Question list for a meeting
+- tags: review-board | copy | frustration · standing: yes
+
+### E2552 · Inspiration is style, not layout
+- quote: "The style, the style is quite different than the shape or the layout. That shouldn't inform the design."
+- source: session_01TQXMZ3DdSGnHSyKCPDe8Qa · 2026-10-07T18:57:42.441470Z (wave-3.md)
+- date: 2026-10-07
+- context: UI inspiration images
+- tags: process | style · standing: yes
+
+### E2553 · Use Refero and UX research by default
+- quote: "I shouldn't have to give you this much direct UX feedback on things like this. The whole point is that you should have stuff like this figured out"
+- source: session_01TQXMZ3DdSGnHSyKCPDe8Qa · 2026-10-07T19:19:17.081479Z (wave-3.md)
+- date: 2026-10-07
+- context: Report a concern form
+- tags: process | frustration | product · standing: yes
+
+### E2554 · Include an Other option in dropdown
+- quote: "typical patterns are always say other, right?"
+- source: session_01TQXMZ3DdSGnHSyKCPDe8Qa · 2026-10-07T19:19:17.081479Z (wave-3.md)
+- date: 2026-10-07
+- context: Concern form categories
+- tags: product · standing: one-off
+
+### E2555 · Type tuner: drop-down picker at top
+- quote: "there should be a panel somewhere where I can like on the right I'm assuming or no probably on the top from a drop-down list where I can choose each one"
+- source: session_01NtNprr5XEQ7dqjy1UYVTzv · 2026-11-07T19:28:01.295453Z (wave-3.md)
+- date: 2026-11-07
+- context: Type spacing tuner for all font styles
+- tags: editor | navigation | shell · standing: yes
+
+### E2556 · Type tuner: diptych current vs live
+- quote: "below would be a split image a tip-tack up on one side how it currently looks and then the right side will update based on the setting changes I make"
+- source: session_01NtNprr5XEQ7dqjy1UYVTzv · 2026-11-07T19:28:01.295453Z (wave-3.md)
+- date: 2026-11-07
+- context: Type spacing tuner
+- tags: editor | review-board · standing: yes
+
+### E2557 · Type tuner: letter spacing, line height, weight controls
+- quote: "you should also include different settings in terms of like weight but primarily like like letter spacing between the letters and definitely line height as well should be included"
+- source: session_01NtNprr5XEQ7dqjy1UYVTzv · 2026-11-07T19:28:01.295453Z (wave-3.md)
+- date: 2026-11-07
+- context: Type spacing tuner
+- tags: editor · standing: yes
+
+### E2558 · Type tuner: real UI examples in a band
+- quote: "a thin band that has like option one two and three each option being those different examples of actually font being used in the ui interface"
+- source: session_01NtNprr5XEQ7dqjy1UYVTzv · 2026-11-07T19:28:01.295453Z (wave-3.md)
+- date: 2026-11-07
+- context: Type spacing tuner
+- tags: editor | review-board · standing: yes
+
+### E2559 · Decisions, notes, autosave, send back to chat
+- quote: "there should be a way to make decisions and even add notes like a way to save and I want it to automatically or just saves in that system and then once I'm done with all of it there'll be some way for me to like send to that chat the changes I made"
+- source: session_01NtNprr5XEQ7dqjy1UYVTzv · 2026-11-07T19:28:01.295453Z (wave-3.md)
+- date: 2026-11-07
+- context: Type spacing tuner
+- tags: editor | review-board | delivery · standing: yes
+
+### E2560 · Responsive, draggable, proper zoom
+- quote: "the UI should be responsive I should be able to like drag things and modify heights and stuff zoom behavior should be proper"
+- source: session_01NtNprr5XEQ7dqjy1UYVTzv · 2026-11-07T19:28:01.295453Z (wave-3.md)
+- date: 2026-11-07
+- context: Type spacing tuner
+- tags: responsive | interaction | shell · standing: yes
+
+### E2561 · Canvas-like diptychs with room to zoom
+- quote: "they should be somewhat of a canvas not fully even so I can move around and have plenty of room to zoom in and look at details as needed"
+- source: session_01NtNprr5XEQ7dqjy1UYVTzv · 2026-11-07T19:28:01.295453Z (wave-3.md)
+- date: 2026-11-07
+- context: Type spacing tuner
+- tags: interaction | shell · standing: yes
+
+### E2562 · Figma-style scrub inputs
+- quote: "I can like type something specific or I can just like very slowly drag left and right if I like click and hold on the outer edge"
+- source: session_01NtNprr5XEQ7dqjy1UYVTzv · 2026-11-07T19:28:01.295453Z (wave-3.md)
+- date: 2026-11-07
+- context: Type spacing tuner number inputs
+- tags: editor | interaction · standing: yes
+
+### E2563 · Scrub on any numeric field
+- quote: "it should not only be like that for that but also for like anything where there's like numbers related"
+- source: session_01NtNprr5XEQ7dqjy1UYVTzv · 2026-11-07T19:28:01.295453Z (wave-3.md)
+- date: 2026-11-07
+- context: Type spacing tuner
+- tags: editor | interaction · standing: yes
+
+### E2564 · Dark mode, three directions from skills
+- quote: "why don't you have that session recommend three different designs because skills to build a nice dark mode interface that will properly fulfill this task and have full responsive capability"
+- source: session_01NtNprr5XEQ7dqjy1UYVTzv · 2026-11-07T19:28:01.295453Z (wave-3.md)
+- date: 2026-11-07
+- context: Type spacing tuner
+- tags: style | responsive | process · standing: yes
+
+### E2565 · Quote box max width
+- quote: "max width quote boxes t 697 px wide"
+- source: session_01NtNprr5XEQ7dqjy1UYVTzv · 2026-11-07T03:06:27.963590Z (wave-3.md)
+- date: 2026-11-07
+- context: Action item page
+- tags: shell | product · standing: one-off
+
+### E2566 · Show me
+- quote: "Can you like show me what you're talking about"
+- source: session_01NtNprsYRXUwKfkpN1PmEj1 · 2026-10-30T01:18:55.980724Z (wave-3.md)
+- date: 2026-10-30
+- context: Component reuse discussion
+- tags: review-board | delivery · standing: yes
+
+### E2567 · Reusable components not one-offs
+- quote: "why do we have one version of a button in only one spot?"
+- source: session_01NtNprsYRXUwKfkpN1PmEj1 · 2026-10-30T01:27:27.592724Z (wave-3.md)
+- date: 2026-10-30
+- context: Design system buttons
+- tags: product | process · standing: yes
+
+### E2568 · Sidebar missing
+- quote: "where the heck is the sidebar?"
+- source: session_01NtNprtC1xmLGeNzPS13mps · 2026-11-06T00:56:00.966525Z (wave-3.md)
+- date: 2026-11-06
+- context: Case study page
+- tags: shell | frustration · standing: one-off
+
+### E2569 · Do not put judgement back on me
+- quote: "But what is the whole thing about putting it back on me to begin with?"
+- source: session_01D1UWT76nyYVFUnVLM41hsh · 2026-10-09T18:36:42.950972Z (wave-3.md)
+- date: 2026-10-09
+- context: Claude asked him whether the UX improved
+- tags: process | frustration · standing: yes
+
+### E2570 · No manual work for me
+- quote: "I don't need to do any of this manually. This is not the right solution here"
+- source: session_01NtNprqu5gZ35REiBycPu6h · 2026-11-08T22:41:43.502750Z (wave-3.md)
+- date: 2026-11-08
+- context: Satoshi font load in builds
+- tags: process | frustration · standing: yes
+
+### E2571 · Do now, not later
+- quote: "Just do it now. Don't make me do it later"
+- source: session_01NtNprqu5gZ35REiBycPu6h · 2026-11-08T23:19:19.438305Z (wave-3.md)
+- date: 2026-11-08
+- context: Cuts
+- tags: process · standing: yes
+
+### E2572 · No one more thing endings
+- quote: "why do you keep doing that shit at the end of every freaking message where you're like, oh, one more thing?"
+- source: session_01LUEVs8U8o6YLu6PYcHqiKM · 2026-09-26T21:54:11.228893Z (wave-3.md)
+- date: 2026-09-26
+- context: End of reply
+- tags: copy | frustration · standing: yes
+
+### E2573 · Endings make him think more to do
+- quote: "It makes it really annoying because I need to like leave these chats and then you like make me think there's something else I need to do and half the time it's not important at all."
+- source: session_01LUEVs8U8o6YLu6PYcHqiKM · 2026-09-26T21:54:11.228893Z (wave-3.md)
+- date: 2026-09-26
+- context: End of reply
+- tags: copy | frustration · standing: yes
+
+### E2574 · Info icons need a hover response
+- quote: "the problem with those icons is they require a hover response if we don't have those so they shouldn't exist without it"
+- source: session_01LUEVs8U8o6YLu6PYcHqiKM · 2026-09-26T20:55:40.124885Z (wave-3.md)
+- date: 2026-09-26
+- context: Info icons added next to labels
+- tags: interaction | style | product · standing: yes
+
+### E2575 · Did what was not asked
+- quote: "I did not ask you to do that. I'm talking about the text. That's it"
+- source: session_01LUEVs8U8o6YLu6PYcHqiKM · 2026-09-26T20:51:09.151272Z (wave-3.md)
+- date: 2026-09-26
+- context: Label edits
+- tags: process | frustration · standing: yes
+
+### E2576 · Show me before building
+- quote: "you're gonna be showing me something here before you build anything, right?"
+- source: session_01MpPNxPE2U8rhtXsYaq5isY · 2026-09-18T20:43:36.149570Z (wave-3.md)
+- date: 2026-09-18
+- context: Design system component page
+- tags: process | review-board · standing: yes
+
+### E2577 · Refero before drawing screens
+- quote: "that's an issue if you're designing screens without accessing referral. That's part of the process."
+- source: session_015Y2PBWVreBn31v3K2fcFfv · 2026-10-22T00:01:13.031053Z (wave-3.md)
+- date: 2026-10-22
+- context: Screens for a mentor page
+- tags: process | frustration · standing: yes
+
+### E2578 · No unasked hourly checks
+- quote: "Why are you doing hourly checks? Like, what are you checking? Is this necessary?"
+- source: session_01J8Sz8RhFXFTYvnqQHLXJfQ · 2026-09-25T21:02:20.798746Z (wave-3.md)
+- date: 2026-09-25
+- context: Claude scheduled PR check
+- tags: process | frustration · standing: yes
+
+### E2579 · Settings at top, sticky menu
+- quote: "can you please put the scroll settings at the top and make it so the menu sticks to the top like it should as well, too?"
+- source: session_01574yD68fUWBWkcivcbxruV · 2026-10-01T23:00:24.296439Z (wave-3.md)
+- date: 2026-10-01
+- context: Smooth scroll tuner page
+- tags: shell | navigation · standing: yes
+
+### E2580 · Full screen would not open
+- quote: "when I try to use full screen, it's not there's an issue and it's like not letting me open"
+- source: session_01574yD68fUWBWkcivcbxruV · 2026-10-01T23:00:24.296439Z (wave-3.md)
+- date: 2026-10-01
+- context: Smooth scroll tuner page
+- tags: interaction | frustration · standing: one-off
+
+### E2581 · Minimise top bar
+- quote: "Can you add one more thing just so I can minimize the top bar, like table thing, like the controls do?"
+- source: session_01574yD68fUWBWkcivcbxruV · 2026-10-01T23:40:05.198795Z (wave-3.md)
+- date: 2026-10-01
+- context: Smooth scroll tuner page
+- tags: shell | interaction · standing: yes
+
+### E2582 · HTML file in zip for developers
+- quote: "Do you have the HTML file in the zip as well so they can see what it looks like?"
+- source: session_01574yD68fUWBWkcivcbxruV · 2026-10-02T00:20:19.752737Z (wave-3.md)
+- date: 2026-10-02
+- context: Handoff of scroll settings to developers
+- tags: delivery · standing: yes
+
+### E2583 · Write settings down for developers
+- quote: "I think these are all set. Can we write these down somewhere? And then I need to find a way to get this information to the developer."
+- source: session_01574yD68fUWBWkcivcbxruV · 2026-10-01T23:51:44.851263Z (wave-3.md)
+- date: 2026-10-01
+- context: Smooth scroll tuner result
+- tags: editor | delivery · standing: yes
+
+### E2584 · Show me
+- quote: "Can you show me what you're talking about"
+- source: session_01NtNprqJfVMuTNoDdMJJ7Ue · 2026-10-31T16:23:24.775931Z (wave-3.md)
+- date: 2026-10-31
+- context: Figma spacing discussion
+- tags: review-board | delivery · standing: yes
+
+### E2585 · No coding knowledge
+- quote: "I don't know anything about coding, so this is all like. I don't know. I don't know what you're talking about"
+- source: session_01NtNprqJfVMuTNoDdMJJ7Ue · 2026-10-31T16:27:09.783129Z (wave-3.md)
+- date: 2026-10-31
+- context: Technical explanation
+- tags: copy | frustration · standing: yes
+
+### E2586 · Prompt in plain chat box
+- quote: "You should just be sending it in a like freaking chat box, like a like a simple text, you know"
+- source: session_01Mndv5oox3Zu4P1YA7hgpdt · 2026-09-25T21:43:33.390143Z (wave-3.md)
+- date: 2026-09-25
+- context: Handoff prompt for another chat
+- tags: delivery | frustration · standing: yes
+
+### E2587 · Scope creep makes him nervous
+- quote: "I feel like you're editing more than I thought"
+- source: session_01RCWPNX2pQLGs22RPQq7Pyt · 2026-10-02T00:20:58.815857Z (wave-3.md)
+- date: 2026-10-02
+- context: Context menu component fix
+- tags: process | frustration · standing: yes
+
+### E2588 · Simplify
+- quote: "Can you like simplify this for me?"
+- source: session_01NtNprqgrins8FECeJoE3Cb · 2026-11-04T07:29:26.370351Z (wave-3.md)
+- date: 2026-11-04
+- context: Process review reply
+- tags: copy | frustration · standing: yes
+
+### E2589 · Spacing scale board too complicated
+- quote: "I think it can be a lot more simplistic than this for the spacing scale."
+- source: session_01JxXbWdC96AwJkUQEPhAfi2 · 1871be13-5ca1-432d-ac10-426e957f1373 (2026-09-18T22:39:58.162392Z) (wave-4.md)
+- date: 2026-09-18
+- context: Design system page, spacing scale section
+- tags: style | review-board · standing: standing
+
+### E2590 · Three options for a section
+- quote: "I actually want you to give me three different options for how that can look"
+- source: session_01JxXbWdC96AwJkUQEPhAfi2 · 1871be13-5ca1-432d-ac10-426e957f1373 (2026-09-18T22:39:58.162392Z) (wave-4.md)
+- date: 2026-09-18
+- context: Design system page, spacing scale section
+- tags: decision-board · standing: standing
+
+### E2591 · Bright white too harsh
+- quote: "the white is like strikingly hard"
+- source: session_01JxXbWdC96AwJkUQEPhAfi2 · 1871be13-5ca1-432d-ac10-426e957f1373 (2026-09-18T22:39:58.162392Z) (wave-4.md)
+- date: 2026-09-18
+- context: Design system page, corner radius boxes
+- tags: style · standing: standing
+
+### E2592 · Dark fill with stroke for tool tiles
+- quote: "a darker black color fill with like a stroke on it matching like what we're using in the design system more often"
+- source: session_01JxXbWdC96AwJkUQEPhAfi2 · 1871be13-5ca1-432d-ac10-426e957f1373 (2026-09-18T22:39:58.162392Z) (wave-4.md)
+- date: 2026-09-18
+- context: Design system page, corner radius boxes
+- tags: style · standing: standing
+
+### E2593 · No bright white except text
+- quote: "Anywhere that there's like this bright white right now, aside from like text, it's too striking. That's not, that doesn't feel like on brand at all."
+- source: session_01JxXbWdC96AwJkUQEPhAfi2 · 1871be13-5ca1-432d-ac10-426e957f1373 (2026-09-18T22:39:58.162392Z) (wave-4.md)
+- date: 2026-09-18
+- context: Design system page
+- tags: style · standing: standing
+
+### E2594 · Not all a vertical stack
+- quote: "this should be like probably done in some other kind of way rather than it just being all a vertical stack. So I need to see some options for that as well."
+- source: session_01JxXbWdC96AwJkUQEPhAfi2 · 1871be13-5ca1-432d-ac10-426e957f1373 (2026-09-18T22:39:58.162392Z) (wave-4.md)
+- date: 2026-09-18
+- context: Design system page layout
+- tags: shell | decision-board · standing: standing
+
+### E2595 · Tile size too big
+- quote: "I think these boxes need to be way smaller. Like not like way smaller. Maybe like two-thirds the size of this."
+- source: session_01JxXbWdC96AwJkUQEPhAfi2 · 1871be13-5ca1-432d-ac10-426e957f1373 (2026-09-18T22:39:58.162392Z) (wave-4.md)
+- date: 2026-09-18
+- context: Design system page, corner radius boxes
+- tags: style · standing: one-off
+
+### E2596 · Page must communicate its distinction clearly
+- quote: "it feels a little bit like unfinished in terms of communication. Like there's it's just not fully clear here"
+- source: session_01JxXbWdC96AwJkUQEPhAfi2 · 1871be13-5ca1-432d-ac10-426e957f1373 (2026-09-18T22:39:58.162392Z) (wave-4.md)
+- date: 2026-09-18
+- context: Design system page, margins section
+- tags: copy | style · standing: one-off
+
+### E2597 · Value in bright text, unit in gray
+- quote: "You could do the brighter white four and then do PX next to it and just make the px like gray in that same font style."
+- source: session_01JxXbWdC96AwJkUQEPhAfi2 · 1871be13-5ca1-432d-ac10-426e957f1373 (2026-09-18T22:39:58.162392Z) (wave-4.md)
+- date: 2026-09-18
+- context: Design system page, spacing scale values
+- tags: style · standing: one-off
+
+### E2598 · Show a visual, not a description
+- quote: "I need to like see visual solutions because right now whatever you're trying to show me I'm not understanding without an actual visualization"
+- source: session_015yBZm2USLNDRrKq9YG6Gc8 · 5e17e2b2-27ac-4ae3-baba-f1c4801433ae (2026-09-18T22:57:40.156578Z) (wave-4.md)
+- date: 2026-09-18
+- context: Design system documentation layout discussion
+- tags: review-board | process · standing: standing
+
+### E2599 · Over-analysis of a layout problem
+- quote: "I feel like this is like overanalyzation"
+- source: session_015yBZm2USLNDRrKq9YG6Gc8 · 5e17e2b2-27ac-4ae3-baba-f1c4801433ae (2026-09-18T22:57:40.156578Z) (wave-4.md)
+- date: 2026-09-18
+- context: Design system documentation layout discussion
+- tags: frustration | process · standing: standing
+
+### E2600 · Over-engineering
+- quote: "you're like over-engineering it I think that's becoming a bit of a problem"
+- source: session_015yBZm2USLNDRrKq9YG6Gc8 · 5e17e2b2-27ac-4ae3-baba-f1c4801433ae (2026-09-18T22:57:40.156578Z) (wave-4.md)
+- date: 2026-09-18
+- context: Design system documentation layout discussion
+- tags: frustration | process · standing: standing
+
+### E2601 · Default vertical stack called lazy
+- quote: "you keep just being kind of lazy about these and making everything just like a vertical stack"
+- source: session_015yBZm2USLNDRrKq9YG6Gc8 · 11102034-54f8-4572-99f9-3cdd6f6c2413 (2026-09-18T23:05:29.162499Z) (wave-4.md)
+- date: 2026-09-18
+- context: Action items layout on a design system page
+- tags: frustration | shell · standing: standing
+
+### E2602 · Reuse an existing page's pattern
+- quote: "Can't you just treat this like a button and like use the labels in the same way the button page is designed?"
+- source: session_015yBZm2USLNDRrKq9YG6Gc8 · 11102034-54f8-4572-99f9-3cdd6f6c2413 (2026-09-18T23:05:29.162499Z) (wave-4.md)
+- date: 2026-09-18
+- context: Action items layout on a design system page
+- tags: shell · standing: one-off
+
+### E2603 · Execution quality bar
+- quote: "this feels like very low level of execution to be completely honest with you"
+- source: session_015yBZm2USLNDRrKq9YG6Gc8 · 11102034-54f8-4572-99f9-3cdd6f6c2413 (2026-09-18T23:05:29.162499Z) (wave-4.md)
+- date: 2026-09-18
+- context: Action items layout on a design system page
+- tags: frustration | style · standing: standing
+
+### E2604 · Blanket layout approach across pages
+- quote: "you gave them a blanket approach to use on everything or something"
+- source: session_01U7d4aySi9vtTBQPgHYk2WB · 0339edb5-e57f-4ac7-8393-c3a9ea7ba06a (2026-09-19T02:07:57.961142Z) (wave-4.md)
+- date: 2026-09-19
+- context: Typography page output
+- tags: frustration | shell · standing: standing
+
+### E2605 · Use the known layout for the content type
+- quote: "this is a typical layout for typography stuff. It's not that complicated to figure that out."
+- source: session_01U7d4aySi9vtTBQPgHYk2WB · 0339edb5-e57f-4ac7-8393-c3a9ea7ba06a (2026-09-19T02:07:57.961142Z) (wave-4.md)
+- date: 2026-09-19
+- context: Typography page output
+- tags: style | process · standing: standing
+
+### E2606 · Reference existing design systems
+- quote: "Like, there's so many different design systems out there to reference."
+- source: session_01U7d4aySi9vtTBQPgHYk2WB · 0339edb5-e57f-4ac7-8393-c3a9ea7ba06a (2026-09-19T02:07:57.961142Z) (wave-4.md)
+- date: 2026-09-19
+- context: Typography page output
+- tags: process · standing: standing
+
+### E2607 · Tall frames, no wrapping or organisation
+- quote: "all of them are just horizontal stacks of really really tall frames containing allt he components. no one is wrappinga anything or doing anything to make it feel organized"
+- source: session_01U7d4aySi9vtTBQPgHYk2WB · 9718099f-c749-4fa6-915d-f7d8eb09cc25 (2026-09-19T02:28:22.861484Z) (wave-4.md)
+- date: 2026-09-19
+- context: Design system pages generated by agents
+- tags: frustration | shell · standing: standing
+
+### E2608 · Layout should adapt per component type
+- quote: "there would need to be changes for different components to be organized more effectively"
+- source: session_01U7d4aySi9vtTBQPgHYk2WB · 9718099f-c749-4fa6-915d-f7d8eb09cc25 (2026-09-19T02:28:22.861484Z) (wave-4.md)
+- date: 2026-09-19
+- context: Design system pages
+- tags: shell · standing: standing
+
+### E2609 · Narrow colour boxes
+- quote: "more narrow boxes for all the colors"
+- source: session_01U7d4aySi9vtTBQPgHYk2WB · 948230d4-04f4-4902-985b-bd19d312ddd6 (2026-09-19T03:03:39.294203Z) (wave-4.md)
+- date: 2026-09-19
+- context: Branding page, colour swatches
+- tags: style · standing: one-off
+
+### E2610 · Tighten swatch spacing
+- quote: "you can actually tighten the spacing for each color and like the number above it"
+- source: session_01U7d4aySi9vtTBQPgHYk2WB · 948230d4-04f4-4902-985b-bd19d312ddd6 (2026-09-19T03:03:39.294203Z) (wave-4.md)
+- date: 2026-09-19
+- context: Branding page, colour swatches
+- tags: style · standing: one-off
+
+### E2611 · Mixed centered and left text over blocks
+- quote: "we're kind of ending up back in this issue where you have like text like the text over top of an item like over right now I'm looking at the semantic and so right now we have the we have like a color block and then over top of it is like centered looking text and then above that is left align text it looks horrible"
+- source: session_01U7d4aySi9vtTBQPgHYk2WB · 948230d4-04f4-4902-985b-bd19d312ddd6 (2026-09-19T03:03:39.294203Z) (wave-4.md)
+- date: 2026-09-19
+- context: Branding page, semantic colour section
+- tags: style | frustration · standing: standing
+
+### E2612 · Board too big, split into boards
+- quote: "I also think this is like too big of a board"
+- source: session_01U7d4aySi9vtTBQPgHYk2WB · 948230d4-04f4-4902-985b-bd19d312ddd6 (2026-09-19T03:03:39.294203Z) (wave-4.md)
+- date: 2026-09-19
+- context: Branding page
+- tags: shell · standing: standing
+
+### E2613 · Group related items by proximity
+- quote: "it should feel closer to that right it's the same way like you put the semanta together right like they go together"
+- source: session_01U7d4aySi9vtTBQPgHYk2WB · 948230d4-04f4-4902-985b-bd19d312ddd6 (2026-09-19T03:03:39.294203Z) (wave-4.md)
+- date: 2026-09-19
+- context: Branding page, logo variants
+- tags: style · standing: standing
+
+### E2614 · Frame so long it cannot be seen
+- quote: "I also cannot even see one of them because it's just so long. The content one is like so long. I cannot even see that"
+- source: session_01U7d4aySi9vtTBQPgHYk2WB · 2fd845c1-0242-4bf3-8f4b-1c4f815df98e (2026-09-19T05:02:07.830604Z) (wave-4.md)
+- date: 2026-09-19
+- context: Design system page, content frame
+- tags: frustration | shell · standing: standing
+
+### E2615 · Organisation needs visible logic
+- quote: "Was there any logic to how you organized any of this, or was it just you just kind of threw it together? Like vibes"
+- source: session_01U7d4aySi9vtTBQPgHYk2WB · ad5d4851-10a3-43f4-a104-06cf0fdd7b53 (2026-09-19T04:59:13.392292Z) (wave-4.md)
+- date: 2026-09-19
+- context: Design system pages
+- tags: frustration | shell · standing: standing
+
+### E2616 · Show the work before moving on
+- quote: "I'm confused why you're acting like you're done when you move on to the next thing. You haven't shown me anything else that you've done"
+- source: session_01U7d4aySi9vtTBQPgHYk2WB · 265198a7-8a55-44c4-916a-cc2bddeadff9 (2026-09-19T04:56:01.398957Z) (wave-4.md)
+- date: 2026-09-19
+- context: Design system page edits
+- tags: process | frustration · standing: standing
+
+### E2617 · Pages too vertically long
+- quote: "a lot of them are like vertically really long in ways they don't need to be"
+- source: session_01U7d4aySi9vtTBQPgHYk2WB · 3837d98a-d36c-4227-836d-d1d39a69abe6 (2026-09-23T16:44:38.722435Z) (wave-4.md)
+- date: 2026-09-23
+- context: Design system pages
+- tags: shell | responsive · standing: standing
+
+### E2618 · Balanced vertical and horizontal ratio
+- quote: "I want everything to feel more balanced in terms of like vertical and horizontal ratio"
+- source: session_01U7d4aySi9vtTBQPgHYk2WB · 3837d98a-d36c-4227-836d-d1d39a69abe6 (2026-09-23T16:44:38.722435Z) (wave-4.md)
+- date: 2026-09-23
+- context: Design system pages
+- tags: shell · standing: standing
+
+### E2619 · Zoom out and see what is where
+- quote: "You can kind of like zoom out to and get a good glimpse of what's where, you know, like to make it easier to actually use and access"
+- source: session_01U7d4aySi9vtTBQPgHYk2WB · 3837d98a-d36c-4227-836d-d1d39a69abe6 (2026-09-23T16:44:38.722435Z) (wave-4.md)
+- date: 2026-09-23
+- context: Design system pages
+- tags: navigation | shell · standing: standing
+
+### E2620 · Lay variants out horizontally
+- quote: "make the nav bars horizontal not vertical like that would really help that frame look like 10 times better"
+- source: session_01U7d4aySi9vtTBQPgHYk2WB · b1aaf100-4d44-4909-b252-224256facf60 (2026-09-23T20:08:10.828200Z) (wave-4.md)
+- date: 2026-09-23
+- context: Navigation component page
+- tags: shell · standing: standing
+
+### E2621 · Variants side by side
+- quote: "you want to be able to see them next to each other visually when you're looking at the component variants"
+- source: session_01U7d4aySi9vtTBQPgHYk2WB · b1aaf100-4d44-4909-b252-224256facf60 (2026-09-23T20:08:10.828200Z) (wave-4.md)
+- date: 2026-09-23
+- context: Navigation component page
+- tags: review-board · standing: standing
+
+### E2622 · Horizontal stack with labels on top
+- quote: "Can you stack those like vertically sorry horizontally instead of vertically and then like put the labels on top instead of to the left"
+- source: session_01U7d4aySi9vtTBQPgHYk2WB · b1aaf100-4d44-4909-b252-224256facf60 (2026-09-23T20:08:10.828200Z) (wave-4.md)
+- date: 2026-09-23
+- context: Pathway cards on journey cards page
+- tags: shell · standing: one-off
+
+### E2623 · No empty grid cells
+- quote: "this feels weird to have all these empty spaces because there's never going to probably be an active event or a complete event"
+- source: session_01U7d4aySi9vtTBQPgHYk2WB · b1aaf100-4d44-4909-b252-224256facf60 (2026-09-23T20:08:10.828200Z) (wave-4.md)
+- date: 2026-09-23
+- context: Calendar event component page
+- tags: shell · standing: standing
+
+### E2624 · Clean up leftovers as you go
+- quote: "you should be cleaning that up as you go please"
+- source: session_01U7d4aySi9vtTBQPgHYk2WB · b1aaf100-4d44-4909-b252-224256facf60 (2026-09-23T20:08:10.828200Z) (wave-4.md)
+- date: 2026-09-23
+- context: Navigation component page
+- tags: process · standing: standing
+
+### E2625 · List every ask then check against it
+- quote: "make a list, and then you know, check yourself before you send me any output and make sure that you tackled everything on the list"
+- source: session_01U7d4aySi9vtTBQPgHYk2WB · b1aaf100-4d44-4909-b252-224256facf60 (2026-09-23T20:08:10.828200Z) (wave-4.md)
+- date: 2026-09-23
+- context: Design system page pass
+- tags: process · standing: standing
+
+### E2626 · Silence reads as stopped
+- quote: "It looks like you stopped or something, but you didn't really say anything to me."
+- source: session_017JWEnbn9MPsibt4cwzjqLb · c4d81697-68aa-4457-9701-234dc358ea80 (2026-09-23T17:33:08.177300Z) (wave-4.md)
+- date: 2026-09-23
+- context: Design system audit session
+- tags: navigation | frustration · standing: standing
+
+### E2627 · Screenshots over HTML when cheaper
+- quote: "I think it's less token-wise to create a screenshot than HTML, but if we want to do HTML-wise, it's fine."
+- source: session_017JWEnbn9MPsibt4cwzjqLb · 8296a0c5-4dd5-4af2-9d88-eb051aeeea87 (2026-09-23T17:58:02.045325Z) (wave-4.md)
+- date: 2026-09-23
+- context: Design system audit, showing comparisons
+- tags: delivery | process · standing: standing
+
+### E2628 · Show all combinations to pick
+- quote: "choose one of the values, apply it like to both pages, choose the other value and apply it to both pages, and then like show me all four"
+- source: session_017JWEnbn9MPsibt4cwzjqLb · 8296a0c5-4dd5-4af2-9d88-eb051aeeea87 (2026-09-23T17:58:02.045325Z) (wave-4.md)
+- date: 2026-09-23
+- context: Design system audit, resolving inconsistent values
+- tags: review-board | decision-board · standing: standing
+
+### E2629 · Decision UI for row by row calls
+- quote: "some kind of like decision-making UI interface or something maybe is the best way to do that"
+- source: session_017JWEnbn9MPsibt4cwzjqLb · c4d90d0f-613f-4e45-8b4b-53cccc8db78d (2026-09-23T18:33:59.190140Z) (wave-4.md)
+- date: 2026-09-23
+- context: Design system text style audit
+- tags: decision-board · standing: standing
+
+### E2630 · Three column compare layout
+- quote: "maybe it's like we have three columns"
+- source: session_017JWEnbn9MPsibt4cwzjqLb · c4d90d0f-613f-4e45-8b4b-53cccc8db78d (2026-09-23T18:33:59.190140Z) (wave-4.md)
+- date: 2026-09-23
+- context: Design system text style audit
+- tags: review-board · standing: standing
+
+### E2631 · Column one: current state
+- quote: "maybe like column one is like what's actually there, like the style, and I can like see it and it has like the info"
+- source: session_017JWEnbn9MPsibt4cwzjqLb · c4d90d0f-613f-4e45-8b4b-53cccc8db78d (2026-09-23T18:33:59.190140Z) (wave-4.md)
+- date: 2026-09-23
+- context: Design system text style audit
+- tags: review-board · standing: standing
+
+### E2632 · Interactive column with a note field
+- quote: "there's actually something I can interact with right in like the right column. So, I can say, either, you know, I can say like there should be a note place or something"
+- source: session_017JWEnbn9MPsibt4cwzjqLb · c4d90d0f-613f-4e45-8b4b-53cccc8db78d (2026-09-23T18:33:59.190140Z) (wave-4.md)
+- date: 2026-09-23
+- context: Design system text style audit
+- tags: review-board | interaction · standing: standing
+
+### E2633 · Confirm button per row
+- quote: "And then another place where I can just like confirm, like, yes, make that change."
+- source: session_017JWEnbn9MPsibt4cwzjqLb · c4d90d0f-613f-4e45-8b4b-53cccc8db78d (2026-09-23T18:33:59.190140Z) (wave-4.md)
+- date: 2026-09-23
+- context: Design system text style audit
+- tags: review-board | interaction · standing: standing
+
+### E2634 · Not a developer, plain words
+- quote: "You know, I'm not like a developer, right? So, like, you're like talking to me in this developer language"
+- source: session_01QArnoEjABhtqNbBBNfZFHw · 073e0441-6be5-48c5-959e-f48fcc89653d (2026-09-19T17:44:11.336862Z) (wave-4.md)
+- date: 2026-09-19
+- context: Claude settings and usage explanation
+- tags: copy | frustration · standing: standing
+
+### E2635 · Show before and after, do not make me check
+- quote: "Why am I going to go manually check all this? Like, can you just show me the before and afters or something if you have something to show me?"
+- source: session_01JWY6nnbJWeAu47g4rynJEx · 9e936ca4-469e-456a-8b07-8021b55d5f56 (2026-10-18T17:50:21.048464Z) (wave-4.md)
+- date: 2026-10-18
+- context: Figma fixes verification
+- tags: review-board | process · standing: standing
+
+### E2636 · Needs orientation on what is shown
+- quote: "what am i looking at in figma?"
+- source: session_01JWY6nnbJWeAu47g4rynJEx · 16b0aa82-f986-4fd4-a968-cb2a8ca24867 (2026-10-18T17:49:13.160950Z) (wave-4.md)
+- date: 2026-10-18
+- context: Figma fixes verification
+- tags: navigation · standing: one-off
+
+### E2637 · Status: what is done, not the issue
+- quote: "I JUST NEED TO KNOW WHAT IS DONE WITH THIS FEATURE AND NOT LIKE WHAT IS THE ISSUE WHY CANT THIS JUST BE FIXED JESUS"
+- source: session_01JWY6nnbJWeAu47g4rynJEx · 2f880b43-d249-47f7-91f6-1f11bd1e9666 (2026-10-18T18:04:47.159317Z) (wave-4.md)
+- date: 2026-10-18
+- context: Feature status check
+- tags: navigation | frustration · standing: standing
+
+### E2638 · Before and after images in chat first
+- quote: "Show before and after images in chat first."
+- source: session_01KYnAdaA7vwc1VVEeXfroDt · 53e87967-afd0-4625-81f8-8d8a06b6b64c (2026-09-25T03:17:57.959662Z) (wave-4.md)
+- date: 2026-09-25
+- context: Layout damage fixes brief on the MVP file
+- tags: review-board | delivery · standing: standing
+
+### E2639 · No links to go and look at
+- quote: "Don't send him Figma links to go and look at."
+- source: session_01KYnAdaA7vwc1VVEeXfroDt · 53e87967-afd0-4625-81f8-8d8a06b6b64c (2026-09-25T03:17:57.959662Z) (wave-4.md)
+- date: 2026-09-25
+- context: Layout damage fixes brief on the MVP file
+- tags: delivery · standing: standing
+
+### E2640 · One line per pair, one ask
+- quote: "Give each pair one line saying what changes."
+- source: session_01KYnAdaA7vwc1VVEeXfroDt · 53e87967-afd0-4625-81f8-8d8a06b6b64c (2026-09-25T03:17:57.959662Z) (wave-4.md)
+- date: 2026-09-25
+- context: Layout damage fixes brief on the MVP file
+- tags: review-board | copy · standing: standing
+
+### E2641 · Screenshot check against the preview
+- quote: "Screenshot each fixed screen and check it against its AFTER preview."
+- source: session_01KYnAdaA7vwc1VVEeXfroDt · 53e87967-afd0-4625-81f8-8d8a06b6b64c (2026-09-25T03:17:57.959662Z) (wave-4.md)
+- date: 2026-09-25
+- context: Layout damage fixes brief on the MVP file
+- tags: process · standing: standing
+
+### E2642 · Comparisons drawn as images outside Figma
+- quote: "Draw those comparisons outside Figma, as images built from values read out of the file."
+- source: session_01JbgsNBwAq2zNxpyUKbADxi · c02c1c72-e0a8-436f-a7f8-21ffe762086d (2026-09-23T23:34:49.971753Z) (wave-4.md)
+- date: 2026-09-23
+- context: Design system text style decision page
+- tags: delivery | review-board · standing: standing
+
+### E2643 · Decision page: approve or annotate row by row
+- quote: "A decision page I can approve or annotate row by row, one row per context, each with the comparison images, node counts, example Figma links and the proposed rule. Send me the link."
+- source: session_01JbgsNBwAq2zNxpyUKbADxi · c02c1c72-e0a8-436f-a7f8-21ffe762086d (2026-09-23T23:34:49.971753Z) (wave-4.md)
+- date: 2026-09-23
+- context: Design system text style decision page
+- tags: decision-board | delivery · standing: standing
+
+### E2644 · Open items need a visual
+- quote: "I can't understand what you're saying for the four things that are still open without getting some kind of visual"
+- source: session_01JbgsNBwAq2zNxpyUKbADxi · 874e19f8-3d1a-42a2-869d-aecd6b9c6ef3 (2026-09-24T23:14:22.903949Z) (wave-4.md)
+- date: 2026-09-24
+- context: Design system decision page
+- tags: review-board · standing: standing
+
+### E2645 · Never change how things look unprompted
+- quote: "We should never be changing the way anything looks, unless I specifically say that's okay."
+- source: session_01JbgsNBwAq2zNxpyUKbADxi · d093e5e9-a5fe-4fc4-9e87-08413d709fe7 (2026-09-24T23:17:21.822316Z) (wave-4.md)
+- date: 2026-09-24
+- context: Design system text style work
+- tags: process · standing: standing
+
+### E2646 · Multiple versions, which is current
+- quote: "I don't know which one I should be looking at which one's the most recent"
+- source: session_01CfEVQdLvBQFR8Y3iTPs2B6 · c9cd156c-fbc4-4018-bbe1-53d6676dcaa2 (2026-09-24T00:39:36.693650Z) (wave-4.md)
+- date: 2026-09-24
+- context: Wrapped text line height decision docs
+- tags: navigation | frustration · standing: standing
+
+### E2647 · Plain words and what to approve
+- quote: "Before building anything, show me the Patterns table from PLAN.md section 4 in plain words and tell me what I need to approve."
+- source: session_01LYobnc7iW3DYhwnxiS23xV · 5e6801f4-9d0c-48f0-92d8-64221bf94a6c (2026-09-25T03:14:18.506826Z) (wave-4.md)
+- date: 2026-09-25
+- context: Patterns page approval brief
+- tags: copy | review-board · standing: standing
+
+### E2648 · Visual check, not only data
+- quote: "Check visually with screenshots, not only data."
+- source: session_01LYobnc7iW3DYhwnxiS23xV · 5e6801f4-9d0c-48f0-92d8-64221bf94a6c (2026-09-25T03:14:18.506826Z) (wave-4.md)
+- date: 2026-09-25
+- context: Patterns page build rules
+- tags: process · standing: standing
+
+### E2649 · Plain and short, lead with the ask
+- quote: "How to talk to me: plain and short. Lead with what you need from me, explain anything technical simply, and decide small things yourself."
+- source: session_01LYobnc7iW3DYhwnxiS23xV · 5e6801f4-9d0c-48f0-92d8-64221bf94a6c (2026-09-25T03:14:18.506826Z) (wave-4.md)
+- date: 2026-09-25
+- context: Patterns page brief
+- tags: copy | process · standing: standing
+
+### E2650 · Approve before building
+- quote: "Build nothing in Figma until I approve the Patterns page."
+- source: session_01LYobnc7iW3DYhwnxiS23xV · 5e6801f4-9d0c-48f0-92d8-64221bf94a6c (2026-09-25T03:14:18.506826Z) (wave-4.md)
+- date: 2026-09-25
+- context: Patterns page brief
+- tags: process · standing: standing
+
+### E2651 · Understandable and practical, not over-engineered
+- quote: "Okay, is this set up in a way that's not over-engineered though, and it's very understandable and practical."
+- source: session_01LYobnc7iW3DYhwnxiS23xV · 7bb21155-d021-43ac-ba0b-f3123b9815a4 (2026-09-25T19:28:04.936422Z) (wave-4.md)
+- date: 2026-09-25
+- context: Design system patterns research
+- tags: style | process · standing: standing
+
+### E2652 · Unrelated groups need more spacing than related
+- quote: "the law of proximity makes it hard to really do that when you're trying to separate two different sections. They should have a little bit more spacing in a lot of instances."
+- source: session_013aZBbKtn3SFxK5jRj2RMbT · 6447ff07-071a-4206-b058-9fa426340d2c (2026-09-25T18:03:41.599802Z) (wave-4.md)
+- date: 2026-09-25
+- context: Cohorts screens grid spacing
+- tags: product | style · standing: standing
+
+### E2653 · Options as images, shared file read only
+- quote: "Do not edit the shared MVP Figma screens. Read from Figma; draw options as images."
+- source: session_01KtQMERsMSTeVT7P3VLn9fj · 558018d6-4e10-480f-92e0-463e201e1fcf (2026-09-26T18:12:53.717219Z) (wave-4.md)
+- date: 2026-09-26
+- context: Side by side spacing rules brief
+- tags: process | delivery · standing: standing
+
+### E2654 · Draw it, images not frames
+- quote: "Draw it, do not just reason about it"
+- source: session_01KtQMERsMSTeVT7P3VLn9fj · 558018d6-4e10-480f-92e0-463e201e1fcf (2026-09-26T18:12:53.717219Z) (wave-4.md)
+- date: 2026-09-26
+- context: Side by side spacing rules brief
+- tags: process | review-board · standing: standing
+
+### E2655 · Recommendation, not a menu
+- quote: "Give me a recommendation with reasons, not a menu."
+- source: session_01KtQMERsMSTeVT7P3VLn9fj · 558018d6-4e10-480f-92e0-463e201e1fcf (2026-09-26T18:12:53.717219Z) (wave-4.md)
+- date: 2026-09-26
+- context: Side by side spacing rules brief
+- tags: decision-board · standing: standing
+
+### E2656 · Examples must use the real screens
+- quote: "The examples that you built are not good because they're based on screens that don't use that grid"
+- source: session_01KtQMERsMSTeVT7P3VLn9fj · 3ef09716-60d4-4c25-bc24-81a6033a5545 (2026-09-26T18:57:56.062806Z) (wave-4.md)
+- date: 2026-09-26
+- context: Spacing rule example images
+- tags: review-board | frustration · standing: standing
+
+### E2657 · Preview before applying
+- quote: "before I have you go in and update anything, I can see what they would look like"
+- source: session_01KtQMERsMSTeVT7P3VLn9fj · 7509d22e-a25e-460f-8f74-b1fd1adee1ad (2026-09-26T20:53:08.846520Z) (wave-4.md)
+- date: 2026-09-26
+- context: Spacing rules applied to real pages
+- tags: review-board | process · standing: standing
+
+### E2658 · Option to hide grid and annotations
+- quote: "Can you show me these without like the grid on and like all the annotations and stuff so I can like see it without all that"
+- source: session_01KtQMERsMSTeVT7P3VLn9fj · 19c7e586-d33d-41f1-b038-80b3635e81f1 (2026-09-26T21:09:07.049704Z) (wave-4.md)
+- date: 2026-09-26
+- context: Spacing example images
+- tags: interaction | review-board · standing: standing
+
+### E2659 · Annotations must not hide the design
+- quote: "get rid of the pink annotations at the top. I can't tell what it looks like"
+- source: session_01KtQMERsMSTeVT7P3VLn9fj · 628a0f20-6232-4c06-ad1a-67dba634db63 (2026-09-27T19:17:07.312556Z) (wave-4.md)
+- date: 2026-09-27
+- context: Spacing example images
+- tags: style | frustration · standing: standing
+
+### E2660 · Label each image with its settings
+- quote: "can u label what all those are? ssettings wise?"
+- source: session_01KtQMERsMSTeVT7P3VLn9fj · d5f3559e-aad9-4fdc-bbcb-50a51a573f31 (2026-09-27T19:12:12.552464Z) (wave-4.md)
+- date: 2026-09-27
+- context: Spacing example images
+- tags: review-board · standing: standing
+
+### E2661 · Labels belong on the images
+- quote: "no i mean on the images"
+- source: session_01KtQMERsMSTeVT7P3VLn9fj · 6d53533a-62f5-46c4-8df1-681186dbf560 (2026-09-27T19:13:52.880197Z) (wave-4.md)
+- date: 2026-09-27
+- context: Spacing example images
+- tags: review-board · standing: standing
+
+### E2662 · Show the real screen at a value
+- quote: "show me wat they look like at 48"
+- source: session_01KtQMERsMSTeVT7P3VLn9fj · 17c9cab0-2eb0-42fb-a3d7-2f86b6cae63a (2026-09-27T23:26:38.822283Z) (wave-4.md)
+- date: 2026-09-27
+- context: Spacing check on real pages
+- tags: review-board · standing: one-off
+
+### E2663 · Show, do not just list
+- quote: "what pages are still 64? can you show me?"
+- source: session_01KtQMERsMSTeVT7P3VLn9fj · 7d24c3e0-c919-4e36-946d-c08461feaf0b (2026-09-27T23:21:03.450734Z) (wave-4.md)
+- date: 2026-09-27
+- context: Spacing check on real pages
+- tags: review-board · standing: one-off
+
+### E2664 · Everything responsive to the grid
+- quote: "So if a resolution shrinks, because everything is always responsive to the grid, that will change as well"
+- source: session_01KtQMERsMSTeVT7P3VLn9fj · f99cf8d4-37ab-4c56-ac8d-2f727ad6669f (2026-09-27T21:58:41.165428Z) (wave-4.md)
+- date: 2026-09-27
+- context: Spacing rules for 1920 design
+- tags: responsive | product · standing: standing
+
+### E2665 · No overlap or clipping, screenshots after
+- quote: "No new text overlaps or clipping anywhere on the page, and screenshots of Cohort match 03, 04, 13, Cohorts 02 Invitation and one cohort home screen after the change."
+- source: session_01WMM1YYX2MUcJKbcRMk7xX1 · f4ed0acf-f463-4897-a4da-714348f6a255 (2026-09-25T19:51:18.966688Z) (wave-4.md)
+- date: 2026-09-25
+- context: Region gap rule applied in Figma
+- tags: process | review-board · standing: standing
+
+### E2666 · Show the evidence
+- quote: "Verify, and show me the evidence:"
+- source: session_01WMM1YYX2MUcJKbcRMk7xX1 · f4ed0acf-f463-4897-a4da-714348f6a255 (2026-09-25T19:51:18.966688Z) (wave-4.md)
+- date: 2026-09-25
+- context: Region gap rule applied in Figma
+- tags: process · standing: standing
+
+### E2667 · Internal codes are jargon
+- quote: "Are you talking about P10 in terms of what is P10? What are these what are these number combinations?"
+- source: session_01WMM1YYX2MUcJKbcRMk7xX1 · a79d679c-7993-4d06-a864-1858ceeb9d81 (2026-09-25T20:43:37.212141Z) (wave-4.md)
+- date: 2026-09-25
+- context: Region gap audit report
+- tags: copy | frustration · standing: standing
+
+### E2668 · Show it, codes unexplained
+- quote: "Can you show me what you're talking about for P12? I don't understand"
+- source: session_01WMM1YYX2MUcJKbcRMk7xX1 · e61e3356-2127-41e3-8e4e-7e6e5e159806 (2026-09-25T20:41:37.456739Z) (wave-4.md)
+- date: 2026-09-25
+- context: Region gap audit report
+- tags: copy | frustration · standing: standing
+
+### E2669 · Questions clear on the page
+- quote: "when you send this back to me, it should be like it should be clear what you're talking about."
+- source: session_01FXxcJggVkCNNmDRYKa2jmZ · 47775f29-6ba8-4d65-aa87-e312b9602ec8 (2026-10-21T16:59:01.502113Z) (wave-4.md)
+- date: 2026-10-21
+- context: HTML events flow document
+- tags: review-board | copy · standing: standing
+
+### E2670 · Answer inline then save
+- quote: "maybe I can put my answer right in there and then save it."
+- source: session_01FXxcJggVkCNNmDRYKa2jmZ · 47775f29-6ba8-4d65-aa87-e312b9602ec8 (2026-10-21T16:59:01.502113Z) (wave-4.md)
+- date: 2026-10-21
+- context: HTML events flow document
+- tags: review-board | interaction · standing: standing
+
+### E2671 · Separate focused page per question
+- quote: "maybe just create a separate document for this one instance only where I can see specifically the flow you're talking about, maybe add a little bit more detail so I'm clear in what I'm answering"
+- source: session_01FXxcJggVkCNNmDRYKa2jmZ · 47775f29-6ba8-4d65-aa87-e312b9602ec8 (2026-10-21T16:59:01.502113Z) (wave-4.md)
+- date: 2026-10-21
+- context: HTML events flow document
+- tags: decision-board | delivery · standing: standing
+
+### E2672 · Plain explanation of a term
+- quote: "Can you just really simply for me like clarify what that is?"
+- source: session_01FXxcJggVkCNNmDRYKa2jmZ · 3fc952ec-95c4-4da5-8f49-0ae1e44ae16e (2026-10-21T18:06:16.238110Z) (wave-4.md)
+- date: 2026-10-21
+- context: HTML events flow document
+- tags: copy · standing: standing
+
+### E2673 · Design ideas explored in Claude Code
+- quote: "we should be using Claude Code now so I can see some of like these ideas"
+- source: session_01NtNprpgEVvGHe7e2D326Pw · 8021633b-144e-4b62-b4f2-b6c8aec4f7d2 (2026-11-13T01:06:47.738871Z) (wave-4.md)
+- date: 2026-11-13
+- context: AI chat panel design options
+- tags: delivery · standing: standing
+
+### E2674 · Easier to edit in Claude Code
+- quote: "it's easier for me to make edits and stuff like that if need be"
+- source: session_01NtNprpgEVvGHe7e2D326Pw · 8021633b-144e-4b62-b4f2-b6c8aec4f7d2 (2026-11-13T01:06:47.738871Z) (wave-4.md)
+- date: 2026-11-13
+- context: AI chat panel design options
+- tags: delivery · standing: standing
+
+### E2675 · Options must reflect the design system
+- quote: "just make sure it's like an accurate reflection of like our design system and how we use things"
+- source: session_01NtNprpgEVvGHe7e2D326Pw · 8021633b-144e-4b62-b4f2-b6c8aec4f7d2 (2026-11-13T01:06:47.738871Z) (wave-4.md)
+- date: 2026-11-13
+- context: AI chat panel design options
+- tags: style | process · standing: standing
+
+### E2676 · Polish bar met: remember this level
+- quote: "these are incredibly well designed so this needs to be mrked down for the record in turns of design output and how good it looks"
+- source: session_01NtNprpgEVvGHe7e2D326Pw · 323d2fa5-4276-412b-ad51-7e440992b7c7 (2026-11-13T04:10:44.253601Z) (wave-4.md)
+- date: 2026-11-13
+- context: AI chat panel options in Claude Code
+- tags: style · standing: standing
+
+### E2677 · Selected state contrast too low
+- quote: "the menu highlight for seelected on a4 is far too close to the original color the contrast is almost nonexistent"
+- source: session_01NtNprpgEVvGHe7e2D326Pw · 323d2fa5-4276-412b-ad51-7e440992b7c7 (2026-11-13T04:10:44.253601Z) (wave-4.md)
+- date: 2026-11-13
+- context: AI chat panel option A4 history list
+- tags: style | product · standing: standing
+
+### E2678 · Soft contrast, but not too soft
+- quote: "i really like it to be a soft contrast but this is just a little too soft"
+- source: session_01NtNprpgEVvGHe7e2D326Pw · 323d2fa5-4276-412b-ad51-7e440992b7c7 (2026-11-13T04:10:44.253601Z) (wave-4.md)
+- date: 2026-11-13
+- context: AI chat panel option A4 history list
+- tags: style | product · standing: standing
+
+### E2679 · Likes the hover colour transition
+- quote: "I really like the color transition from in the chat box, like for the hover"
+- source: session_01NtNprpgEVvGHe7e2D326Pw · 339dfbe3-40f5-4516-b718-9eff8460e3d8 (2026-11-13T04:26:16.195664Z) (wave-4.md)
+- date: 2026-11-13
+- context: AI chat panel options
+- tags: interaction | style · standing: one-off
+
+### E2680 · Hover playground across component types
+- quote: "create something in Canvas like this where I can like feel all the like all the hover responses for things like forms and buttons and cards where I can like test them all out and see how they feel towards each other"
+- source: session_01NtNprpgEVvGHe7e2D326Pw · 339dfbe3-40f5-4516-b718-9eff8460e3d8 (2026-11-13T04:26:16.195664Z) (wave-4.md)
+- date: 2026-11-13
+- context: Brief for another session on button states
+- tags: editor | interaction · standing: standing
+
+### E2681 · Analysis of averages and outliers
+- quote: "some kind of analysis of like in there too to kind of show like you know what the averages are if there's like certain like outliers"
+- source: session_01NtNprpgEVvGHe7e2D326Pw · 339dfbe3-40f5-4516-b718-9eff8460e3d8 (2026-11-13T04:26:16.195664Z) (wave-4.md)
+- date: 2026-11-13
+- context: Brief for another session on button states
+- tags: editor | review-board · standing: standing
+
+### E2682 · Drag handles must be visible
+- quote: "on the trim square thing there should be something on each end that shows you can pull and manipulte it"
+- source: session_01NtNprsJiXAfaA6tZKDJzAn · b88452e6-0dd6-43c9-86eb-0683c80fcdac (2026-10-31T03:41:11.267167Z) (wave-4.md)
+- date: 2026-10-31
+- context: Trim square control on a screen
+- tags: interaction | style · standing: standing
+
+### E2683 · Three options on a canvas
+- quote: "have a chat design 3 options for me to choose from and present the on a canvas"
+- source: session_01NtNprsJiXAfaA6tZKDJzAn · b88452e6-0dd6-43c9-86eb-0683c80fcdac (2026-10-31T03:41:11.267167Z) (wave-4.md)
+- date: 2026-10-31
+- context: Trim handle design
+- tags: decision-board | delivery · standing: standing
+
+### E2684 · Research before designing options
+- quote: "no i asked it do to research on the trim handle chevron vs lines the ux"
+- source: session_01NtNprsJiXAfaA6tZKDJzAn · 17b598e0-4f1d-4c5c-8c89-b70f57ab8357 (2026-10-31T05:44:21.558971Z) (wave-4.md)
+- date: 2026-10-31
+- context: Trim handle design
+- tags: process · standing: one-off
+
+### E2685 · Too much work in Figma
+- quote: "it feels like too much of the work is happening in Figma"
+- source: session_01NtNprsJiXAfaA6tZKDJzAn · 8c450f6e-7a31-4e2d-9353-a4029d89757a (2026-10-31T17:37:41.196856Z) (wave-4.md)
+- date: 2026-10-31
+- context: Design process, token cost
+- tags: process | delivery · standing: standing
+
+### E2686 · Do work outside Figma where possible
+- quote: "like some of these things could be done not in Figma or figured out otherwise like in other ways that's making this take longer but using more tokens as well"
+- source: session_01NtNprsJiXAfaA6tZKDJzAn · 8c450f6e-7a31-4e2d-9353-a4029d89757a (2026-10-31T17:37:41.196856Z) (wave-4.md)
+- date: 2026-10-31
+- context: Design process, token cost
+- tags: process · standing: standing
+
+### E2687 · Popover over veil, no masking
+- quote: "I just put the pop over on top of the veil, and then there's not a need for this weird like masking thing"
+- source: session_01NtNprsJiXAfaA6tZKDJzAn · 550a8528-d55f-421f-b3b4-f2abf037853f (2026-10-31T18:37:54.185667Z) (wave-4.md)
+- date: 2026-10-31
+- context: Overlay construction in Figma
+- tags: style | process · standing: one-off
+
+### E2688 · Repeated wrong overlay method
+- quote: "Cause you keep doing that and then it's like not done properly."
+- source: session_01NtNprsJiXAfaA6tZKDJzAn · 550a8528-d55f-421f-b3b4-f2abf037853f (2026-10-31T18:37:54.185667Z) (wave-4.md)
+- date: 2026-10-31
+- context: Overlay construction in Figma
+- tags: frustration · standing: standing
+
+### E2689 · No dollar costs for usage
+- quote: "giving me a usage cost when I'm not using an API is not helpful"
+- source: session_01NtNprsJiXAfaA6tZKDJzAn · 76258f22-fa5e-4421-8058-d24ec522ddd9 (2026-10-31T17:19:09.329990Z) (wave-4.md)
+- date: 2026-10-31
+- context: Time and usage estimate
+- tags: process | copy · standing: standing
+
+### E2690 · Ask for time left without interrupting
+- quote: "How much longer is this going to take? Because I only have 6% left for the week Do not stop any process yet. I'm just asking a question"
+- source: session_01NtNprsJiXAfaA6tZKDJzAn · 2ce96e0e-e82e-4155-ad39-e24fcea9c683 (2026-10-31T17:17:57.494871Z) (wave-4.md)
+- date: 2026-10-31
+- context: Long running build
+- tags: navigation | process · standing: standing
+
+### E2691 · Likes commenting in place on the canvas
+- quote: "I like the canvas because I can comment in place"
+- source: session_012npadsWtaDCnTxznUvRtmZ · f40bacd9-b856-4055-9889-08c41be78ee3 (2026-10-02T22:31:46.663438Z) (wave-4.md)
+- date: 2026-10-02
+- context: Stage 4 HTML canvas review
+- tags: review-board | interaction · standing: standing
+
+### E2692 · Canvas screens feel wireframey
+- quote: "But on the canvas the screens don't use my real components, so they feel wireframey"
+- source: session_012npadsWtaDCnTxznUvRtmZ · f40bacd9-b856-4055-9889-08c41be78ee3 (2026-10-02T22:31:46.663438Z) (wave-4.md)
+- date: 2026-10-02
+- context: Stage 4 HTML canvas review
+- tags: style | frustration · standing: standing
+
+### E2693 · Canvas cannot show what he must check
+- quote: "can't check or fine-tune what actually matters at the end: auto layout, spacing, sizing, real"
+- source: session_012npadsWtaDCnTxznUvRtmZ · f40bacd9-b856-4055-9889-08c41be78ee3 (2026-10-02T22:31:46.663438Z) (wave-4.md)
+- date: 2026-10-02
+- context: Stage 4 HTML canvas review
+- tags: review-board | frustration · standing: standing
+
+### E2694 · Keep it simple
+- quote: "Keep it simple. Use judgment over rules."
+- source: session_012npadsWtaDCnTxznUvRtmZ · f40bacd9-b856-4055-9889-08c41be78ee3 (2026-10-02T22:31:46.663438Z) (wave-4.md)
+- date: 2026-10-02
+- context: Process brief
+- tags: process · standing: standing
+
+### E2695 · Fewer steps
+- quote: "Fewer steps, not more."
+- source: session_012npadsWtaDCnTxznUvRtmZ · f40bacd9-b856-4055-9889-08c41be78ee3 (2026-10-02T22:31:46.663438Z) (wave-4.md)
+- date: 2026-10-02
+- context: Process brief
+- tags: process · standing: standing
+
+### E2696 · See options before building in Figma
+- quote: "not seeing that at all before it's actually built is like a waste of tokens"
+- source: session_012npadsWtaDCnTxznUvRtmZ · 696b6e7e-63a4-48e8-a457-72a6af2fb4d8 (2026-10-02T22:59:03.748807Z) (wave-4.md)
+- date: 2026-10-02
+- context: Canvas versus Figma review
+- tags: process | delivery · standing: standing
+
+### E2697 · Reviews by voice
+- quote: "I use my voice all the time when I'm communicating"
+- source: session_012npadsWtaDCnTxznUvRtmZ · 696b6e7e-63a4-48e8-a457-72a6af2fb4d8 (2026-10-02T22:59:03.748807Z) (wave-4.md)
+- date: 2026-10-02
+- context: Figma review
+- tags: process · standing: standing
+
+### E2698 · Wants to change spacing live and see it
+- quote: "I can't like change that spacing and see what it would actually look like and make a confirmation."
+- source: session_012npadsWtaDCnTxznUvRtmZ · 96c4dd05-bf1f-4638-9ff2-001c56307e0e (2026-10-02T23:02:53.720454Z) (wave-4.md)
+- date: 2026-10-02
+- context: Canvas versus Figma review
+- tags: editor | interaction · standing: standing
+
+### E2699 · Everything two columns
+- quote: "they're also still following a stupid, like, everything's two columns."
+- source: session_01KVSsjbDxZKjFS3B3CSHr36 · 52a0a3d6-7bcb-4fac-a2a7-05c4e8f831bd (2026-10-22T05:03:14.345708Z) (wave-4.md)
+- date: 2026-10-22
+- context: Mentor event screens
+- tags: style | frustration · standing: standing
+
+### E2700 · Too calm a layout
+- quote: "it's just everything's too calm layout"
+- source: session_01KVSsjbDxZKjFS3B3CSHr36 · 52a0a3d6-7bcb-4fac-a2a7-05c4e8f831bd (2026-10-22T05:03:14.345708Z) (wave-4.md)
+- date: 2026-10-22
+- context: Mentor event screens
+- tags: style · standing: standing
+
+### E2701 · Two column is AI slop
+- quote: "the two-column layout like this is a known AI slop thing"
+- source: session_01KVSsjbDxZKjFS3B3CSHr36 · 255180ea-3198-42a6-8a6b-cdfd84bb299f (2026-10-22T16:49:26.643975Z) (wave-4.md)
+- date: 2026-10-22
+- context: Mentor event screens
+- tags: style · standing: standing
+
+### E2702 · More abstraction in layouts
+- quote: "there should be more, way more abstraction done by figuring out the layouts"
+- source: session_01KVSsjbDxZKjFS3B3CSHr36 · 255180ea-3198-42a6-8a6b-cdfd84bb299f (2026-10-22T16:49:26.643975Z) (wave-4.md)
+- date: 2026-10-22
+- context: Mentor event screens
+- tags: style · standing: standing
+
+### E2703 · Creative use of space, not column counts
+- quote: "it's not even about columns not about having like three column or four column layouts it's not about that it's just about being more creative with the space"
+- source: session_01KVSsjbDxZKjFS3B3CSHr36 · cfd85450-a6df-4a90-8536-cc8ba7adbbe5 (2026-10-24T18:22:03.482263Z) (wave-4.md)
+- date: 2026-10-24
+- context: Process review notes on screen design
+- tags: style · standing: standing
+
+### E2704 · Emphasis through varied block sizes
+- quote: "I'm not asking for bento box designs but thinking about bento boxes right like how you have different sections for each and you have these different squares and you kind of make them overlap based on like you know what you want to emphasize"
+- source: session_01KVSsjbDxZKjFS3B3CSHr36 · cfd85450-a6df-4a90-8536-cc8ba7adbbe5 (2026-10-24T18:22:03.482263Z) (wave-4.md)
+- date: 2026-10-24
+- context: Process review notes on screen design
+- tags: style · standing: standing
+
+### E2705 · Do not copy references, adapt them
+- quote: "carbon copies look weird right because they're based on different design systems they're probably in light mode"
+- source: session_01KVSsjbDxZKjFS3B3CSHr36 · cfd85450-a6df-4a90-8536-cc8ba7adbbe5 (2026-10-24T18:22:03.482263Z) (wave-4.md)
+- date: 2026-10-24
+- context: Process review notes on reference options
+- tags: style | process · standing: standing
+
+### E2706 · Three layouts, not two
+- quote: "Should it be three layouts? Two doesn't seem like a good way of looking at doing it"
+- source: session_01KVSsjbDxZKjFS3B3CSHr36 · 3baff9c6-c47f-4e7f-9af5-b2bdd06a4660 (2026-10-22T15:16:02.558719Z) (wave-4.md)
+- date: 2026-10-22
+- context: Base screens options
+- tags: decision-board · standing: standing
+
+### E2707 · Three layouts for each screen every time
+- quote: "You could even suggest like three layouts for each one every time."
+- source: session_01KVSsjbDxZKjFS3B3CSHr36 · 3baff9c6-c47f-4e7f-9af5-b2bdd06a4660 (2026-10-22T15:16:02.558719Z) (wave-4.md)
+- date: 2026-10-22
+- context: Base screens options
+- tags: decision-board · standing: standing
+
+### E2708 · Likes three versions from real patterns
+- quote: "it actually gave like three different versions based on like direct like patterns and examples, which is cool"
+- source: session_01KVSsjbDxZKjFS3B3CSHr36 · d8a368b4-704c-4825-83d3-3403491289da (2026-10-22T15:09:55.234025Z) (wave-4.md)
+- date: 2026-10-22
+- context: Mentor event screens after feedback
+- tags: review-board · standing: standing
+
+### E2709 · Design system used, organisation senseless
+- quote: "it's using my design system, but it's just like the organization of it is senseless"
+- source: session_01KVSsjbDxZKjFS3B3CSHr36 · 926e43a5-557a-4cf7-a83e-c97f811f299c (2026-10-22T00:10:53.790569Z) (wave-4.md)
+- date: 2026-10-22
+- context: Mentor event screens
+- tags: style | frustration · standing: standing
+
+### E2710 · Flat, plain design
+- quote: "It just means it looks like flat, like plain design."
+- source: session_01KVSsjbDxZKjFS3B3CSHr36 · 926e43a5-557a-4cf7-a83e-c97f811f299c (2026-10-22T00:10:53.790569Z) (wave-4.md)
+- date: 2026-10-22
+- context: Mentor event screens
+- tags: style | frustration · standing: standing
+
+### E2711 · No money figures
+- quote: "why is it putting financial costs on it? We're not like using an API"
+- source: session_01KVSsjbDxZKjFS3B3CSHr36 · 2c842e1d-6982-415f-b5ee-1aad1dd8a3d8 (2026-10-28T17:36:17.754338Z) (wave-4.md)
+- date: 2026-10-28
+- context: Process review
+- tags: process | copy · standing: standing
+
+### E2712 · Too long, simpler and clearer
+- quote: "I just feel like it's too long. It doesn't need to be this long. It should be a lot more simple and clear"
+- source: session_01KVSsjbDxZKjFS3B3CSHr36 · 94874180-f8f4-4df2-a8ae-526a7f9ebe5c (2026-10-29T19:26:31.759858Z) (wave-4.md)
+- date: 2026-10-29
+- context: Note to send to a colleague
+- tags: copy · standing: standing
+
+### E2713 · A rule needs a system that uses it
+- quote: "You can't just put a rule into place and expect it to be read."
+- source: session_01KVSsjbDxZKjFS3B3CSHr36 · 750954f4-4ba7-4832-a1b3-98f63a681895 (2026-10-30T18:44:08.576683Z) (wave-4.md)
+- date: 2026-10-30
+- context: Process review of referral checks
+- tags: process | frustration · standing: standing
+
+### E2714 · Check the real flows, not memory
+- quote: "I'm a little worried because of something else I was working on that it may be recalling everything about the product from memory instead of like actually understanding the other flows."
+- source: session_01YNpTxFqCPrdNFXKUk7km6U · 7f60e5cd-dcfb-4f2d-b05d-d73dace552f5 (2026-10-21T23:37:49.670672Z) (wave-4.md)
+- date: 2026-10-21
+- context: Process for new features
+- tags: process · standing: standing
+
+### E2715 · Resets his component settings
+- quote: "you keep doing this thing where you keep like resetting chips and shit"
+- source: session_01NtNprrnvP7GXF9dfnV14ue · ebfa504f-42b5-43c2-8fee-8557d23d90d0 (2026-11-07T21:04:06.800168Z) (wave-4.md)
+- date: 2026-11-07
+- context: Page mockup update
+- tags: frustration · standing: standing
+
+### E2716 · Keep all versions in sync
+- quote: "Can you update everything, including this mock-up and the other versions of the page and everything accordingly, you know, so their styles match"
+- source: session_01NtNprrnvP7GXF9dfnV14ue · ca953634-50dd-43aa-b4fc-f3a5b7b14adf (2026-11-07T19:59:20.567504Z) (wave-4.md)
+- date: 2026-11-07
+- context: Page mock-up and variants
+- tags: process | style · standing: standing
+
+### E2717 · Finish fully, do not hand back half done
+- quote: "Shouldn't all this just be done the first time? Can we do it this time without having to come back to me and say things aren't done yet?"
+- source: session_01NtNprqNKVxMHCtJ6VtqGJP · ee42f396-7ab7-420f-9ddd-40860acc6397 (2026-11-08T22:13:54.026745Z) (wave-4.md)
+- date: 2026-11-08
+- context: Case study copy review
+- tags: process | frustration · standing: standing
+
+### E2718 · No manual work for him
+- quote: "You're asking me to manually place all the copy. I'm not doing that. That's ridiculous. I don't need to do that. I don't need to do any of this manually."
+- source: session_01NtNprqNKVxMHCtJ6VtqGJP · 97385fde-6d7c-42b5-a4aa-542b4b4fa2aa (2026-11-08T22:41:43.502750Z) (wave-4.md)
+- date: 2026-11-08
+- context: Case study copy placed in Figma
+- tags: delivery | frustration · standing: standing
+
+### E2719 · Sidebar unselected items too dark
+- quote: "also i feel like the non selected items are very dark nd they look very odd with the mondai logo and the whiter text i think in the designs...  can u lighten it a couple of shades"
+- source: session_01NtNprqNKVxMHCtJ6VtqGJP · 8c478f3a-705f-44bf-ae67-15da0c559a4e (2026-11-11T23:42:40.439870Z) (wave-4.md)
+- date: 2026-11-11
+- context: Sidebar menu in the product
+- tags: product | style · standing: one-off
+
+### E2720 · Reference sidebar as a model
+- quote: "I know that this menu is quite different, but it does things differently than ours. I think maybe it would be a good model of something we eventually moved towards"
+- source: session_01NtNprqNKVxMHCtJ6VtqGJP · 23fc63a4-cc54-45d3-a042-be21ffa5a705 (2026-11-11T18:07:18.350919Z) (wave-4.md)
+- date: 2026-11-11
+- context: Sidebar menu in the product
+- tags: product | style · standing: one-off
+
+### E2721 · Show the idea rendered with real colours
+- quote: "maybe you show like this people in the journey advisement core or superior connect. Maybe you like create an icon for each of those, and then like show me what it'll look like, like using the colors from our system."
+- source: session_01NtNprqNKVxMHCtJ6VtqGJP · 23fc63a4-cc54-45d3-a042-be21ffa5a705 (2026-11-11T18:07:18.350919Z) (wave-4.md)
+- date: 2026-11-11
+- context: Sidebar menu in the product
+- tags: review-board · standing: standing
+
+### E2722 · Show each alternative
+- quote: "Can you show me like each alternative"
+- source: session_01NtNprrh7dBR8mHw56a7A8m · 90864aba-1ef2-4947-92c3-9d4e8d12489c (2026-11-16T01:20:56.263064Z) (wave-4.md)
+- date: 2026-11-16
+- context: Responsive behaviour of right chat panel
+- tags: review-board · standing: standing
+
+### E2723 · Table of behaviour per viewport size
+- quote: "Can you, like, make a table or something and tell me how it works?"
+- source: session_01NtNprrh7dBR8mHw56a7A8m · 082302a8-b2c9-4b46-9b5c-f1472c17ec96 (2026-11-16T01:24:29.961512Z) (wave-4.md)
+- date: 2026-11-16
+- context: Responsive behaviour of menus and chat panel
+- tags: review-board | responsive · standing: standing
+
+### E2724 · Expects viewport behaviour of menus answered
+- quote: "with the menus and like the different viewport sizes, obviously, like we talk about all this, but I feel like I'm not getting any answers"
+- source: session_01NtNprrh7dBR8mHw56a7A8m · 082302a8-b2c9-4b46-9b5c-f1472c17ec96 (2026-11-16T01:24:29.961512Z) (wave-4.md)
+- date: 2026-11-16
+- context: Responsive behaviour of menus and chat panel
+- tags: responsive | frustration · standing: standing
+
+### E2725 · Left and right panels squeeze, not restructure
+- quote: "I feel like this is not this unusual of a concept to have where you have like the right and left panel and then things need to be squeezed a bit."
+- source: session_01NtNprrh7dBR8mHw56a7A8m · 85f3d3dc-465c-485a-87ab-f4e7a60a4120 (2026-11-15T21:16:09.600336Z) (wave-4.md)
+- date: 2026-11-15
+- context: Action items at 1440 with chat panel
+- tags: responsive | product · standing: standing
+
+### E2726 · Show it
+- quote: "Like, can you show me?"
+- source: session_01NtNprrh7dBR8mHw56a7A8m · 85f3d3dc-465c-485a-87ab-f4e7a60a4120 (2026-11-15T21:16:09.600336Z) (wave-4.md)
+- date: 2026-11-15
+- context: Action items at 1440 with chat panel
+- tags: review-board · standing: standing
+
+### E2727 · Unexplained numbers
+- quote: "I'm confused. Why this 425 is a lot?"
+- source: session_01NtNprrh7dBR8mHw56a7A8m · 3ebf60a4-48d6-4057-a9ec-05661ee5169b (2026-11-16T01:22:22.643616Z) (wave-4.md)
+- date: 2026-11-16
+- context: Responsive behaviour discussion
+- tags: copy | frustration · standing: standing
+
+### E2728 · Irrelevant detail raised
+- quote: "Then I don't know why you would ever be mentioning that to me"
+- source: session_01NtNprrh7dBR8mHw56a7A8m · db90113b-157b-45cd-9e64-3b45bacdb961 (2026-11-16T01:23:08.574318Z) (wave-4.md)
+- date: 2026-11-16
+- context: Responsive behaviour discussion
+- tags: copy | frustration · standing: standing
+
+### E2729 · Do not over-engineer
+- quote: "Do not over-engineer your output."
+- source: session_01UwzkoCFMCFpK2ZDiMEH8oE · f83a9327-7423-4869-94bf-72d311826d10 (2026-09-16T05:17:54.639040Z) (wave-4.md)
+- date: 2026-09-16
+- context: Brochure site responsive build brief
+- tags: process · standing: standing
+
+### E2730 · Breakpoint grids: tablet 8 col, phone 4 col
+- quote: "for the tablet breakpoint it is an eight column grid 62 pixel margins and 20 pix or 20 pixel gutters and then phone four columns 20 pixel margins"
+- source: session_01UwzkoCFMCFpK2ZDiMEH8oE · f83a9327-7423-4869-94bf-72d311826d10 (2026-09-16T05:17:54.639040Z) (wave-4.md)
+- date: 2026-09-16
+- context: Brochure site responsive build
+- tags: responsive · standing: one-off
+
+### E2731 · Design with responsiveness in mind
+- quote: "the grids are going to be all the desktop grids until they switch to tablet are going to be completely responsive. So you need to be designing with that responsiveness in mind."
+- source: session_01UwzkoCFMCFpK2ZDiMEH8oE · 793071d2-3520-4f49-b2aa-7c3165b98638 (2026-09-16T05:31:58.850945Z) (wave-4.md)
+- date: 2026-09-16
+- context: Brochure site responsive build
+- tags: responsive · standing: standing
+
+### E2732 · Not every element stretches
+- quote: "So no, you're not just going to make every single element responsive."
+- source: session_01UwzkoCFMCFpK2ZDiMEH8oE · 793071d2-3520-4f49-b2aa-7c3165b98638 (2026-09-16T05:31:58.850945Z) (wave-4.md)
+- date: 2026-09-16
+- context: Brochure site responsive build
+- tags: responsive · standing: standing
+
+### E2733 · Above 1920 stays centered, margins grow
+- quote: "anything above that just has like, you know, large margins and it kind of stays centered and doesn't get wider."
+- source: session_01UwzkoCFMCFpK2ZDiMEH8oE · 793071d2-3520-4f49-b2aa-7c3165b98638 (2026-09-16T05:31:58.850945Z) (wave-4.md)
+- date: 2026-09-16
+- context: Brochure site responsive build
+- tags: responsive · standing: standing
+
+### E2734 · Designer, not developer
+- quote: "I'm a designer, not an engineer or a developer."
+- source: session_01UwzkoCFMCFpK2ZDiMEH8oE · 793071d2-3520-4f49-b2aa-7c3165b98638 (2026-09-16T05:31:58.850945Z) (wave-4.md)
+- date: 2026-09-16
+- context: Brochure site build
+- tags: copy · standing: standing
+
+### E2735 · No manual setup for him
+- quote: "I don't think I should have to do any of that manual work."
+- source: session_01UwzkoCFMCFpK2ZDiMEH8oE · 793071d2-3520-4f49-b2aa-7c3165b98638 (2026-09-16T05:31:58.850945Z) (wave-4.md)
+- date: 2026-09-16
+- context: Brochure site build
+- tags: delivery | frustration · standing: standing
+
+### E2736 · Stay in scope
+- quote: "I don't want you to overengineer what we were working on here."
+- source: session_01UwzkoCFMCFpK2ZDiMEH8oE · 793071d2-3520-4f49-b2aa-7c3165b98638 (2026-09-16T05:31:58.850945Z) (wave-4.md)
+- date: 2026-09-16
+- context: Brochure site build
+- tags: process · standing: standing
+
+### E2737 · Cards max out, rest grows
+- quote: "make feature cards and state of the industry cards at their max wids at 1440. that way everything else grows but those staay that width."
+- source: session_01UwzkoCFMCFpK2ZDiMEH8oE · f796d046-fe80-41ec-98ac-d2620554b371 (2026-09-16T06:26:06.085402Z) (wave-4.md)
+- date: 2026-09-16
+- context: Brochure site responsive build
+- tags: responsive · standing: one-off
+
+### E2738 · Intro stays aligned with cards
+- quote: "the intro right above the cards should lso stay left aligned with the cards."
+- source: session_01UwzkoCFMCFpK2ZDiMEH8oE · f796d046-fe80-41ec-98ac-d2620554b371 (2026-09-16T06:26:06.085402Z) (wave-4.md)
+- date: 2026-09-16
+- context: Brochure site responsive build
+- tags: responsive | style · standing: one-off
+
+### E2739 · Wants to see a width live
+- quote: "go ahead and max it out at 1440 i want to see how that looks"
+- source: session_01UwzkoCFMCFpK2ZDiMEH8oE · 7c211e0c-3c8c-4520-a00a-7fd2d1610ccf (2026-09-16T06:21:55.663195Z) (wave-4.md)
+- date: 2026-09-16
+- context: Brochure site responsive build
+- tags: responsive | review-board · standing: standing
+
+### E2740 · Squares stay same size relative to viewport
+- quote: "the squares need to same stay relatively the same size versus the viewport"
+- source: session_01UwzkoCFMCFpK2ZDiMEH8oE · dff7e762-561f-4742-b7b0-241463b3d4f2 (2026-09-16T17:52:44.005508Z) (wave-4.md)
+- date: 2026-09-16
+- context: Hero background effect
+- tags: responsive | style · standing: one-off
+
+### E2741 · Not a static fallback
+- quote: "I don't really want it to be a static PNG, right? Like the effect is part of what makes it look nice."
+- source: session_01UwzkoCFMCFpK2ZDiMEH8oE · bcdeb3c2-1ca8-47e8-8d8e-87e905e6477f (2026-09-16T18:10:08.536327Z) (wave-4.md)
+- date: 2026-09-16
+- context: Hero background effect
+- tags: style · standing: one-off
+
+### E2742 · Anchor to position so it grows with the viewport
+- quote: "You anchor it to its position So then if it grows like they move with it"
+- source: session_01UwzkoCFMCFpK2ZDiMEH8oE · bcdeb3c2-1ca8-47e8-8d8e-87e905e6477f (2026-09-16T18:10:08.536327Z) (wave-4.md)
+- date: 2026-09-16
+- context: Hero background effect
+- tags: responsive · standing: one-off
+
+### E2743 · Always centered
+- quote: "Can you please just make sure that's centered always?"
+- source: session_01UwzkoCFMCFpK2ZDiMEH8oE · 2422d089-3dd2-4c6f-976b-7dae5d8a0de4 (2026-09-16T23:19:13.618911Z) (wave-4.md)
+- date: 2026-09-16
+- context: Brochure site build
+- tags: responsive | style · standing: standing
+
+### E2744 · Imagery must line up at every breakpoint
+- quote: "it doesn't seem like the imagery for the feature section or the map here next episode Monday section, whatever you want to call it, always line up properly"
+- source: session_01UwzkoCFMCFpK2ZDiMEH8oE · 2422d089-3dd2-4c6f-976b-7dae5d8a0de4 (2026-09-16T23:19:13.618911Z) (wave-4.md)
+- date: 2026-09-16
+- context: Brochure site build
+- tags: responsive · standing: standing
+
+### E2745 · Browser build must match Figma
+- quote: "look at my figma screenshot vs my code/browser screenshot. not the same styling."
+- source: session_01UwzkoCFMCFpK2ZDiMEH8oE · dbb3dec3-a6d5-45ad-9e35-e5fb6599b28a (2026-09-17T00:03:04.216066Z) (wave-4.md)
+- date: 2026-09-17
+- context: Brochure site build
+- tags: style | frustration · standing: standing
+
+### E2746 · Fix did not land
+- quote: "tsst styles for header text are not fixed... it actually looks even worse?"
+- source: session_01UwzkoCFMCFpK2ZDiMEH8oE · fb1f128c-24f6-44ce-bb44-783f4fa771ad (2026-09-16T23:55:22.935921Z) (wave-4.md)
+- date: 2026-09-16
+- context: Brochure site build
+- tags: frustration · standing: one-off
+
+### E2747 · Motion must match the reference
+- quote: "there's no gray image or gray version faded version that you see before it loads in your timing with the load in on the main images is also incorrect overall it doesn't feel like even slightly the same so I'm not sure why you thought this was the same"
+- source: session_0182BYAD1AngZCXfgFhviwVq · 78fafba9-a43c-4fe6-abf0-73d1af49af5b (2026-09-28T18:09:16.149275Z) (wave-4.md)
+- date: 2026-09-28
+- context: Scroll animation study from a video
+- tags: interaction | frustration · standing: standing
+
+### E2748 · Match scroll timing and speed
+- quote: "watch the way and like the timing of all the text in the scroll and fine-tune ours, and then also like match the scroll speed if possible"
+- source: session_0182BYAD1AngZCXfgFhviwVq · 123e6ef9-1504-48f4-a5ec-681fbd0f14ef (2026-09-28T21:27:41.230127Z) (wave-4.md)
+- date: 2026-09-28
+- context: Scroll animation study
+- tags: interaction · standing: one-off
+
+### E2749 · Trigger animation earlier
+- quote: "It feels like it's too far down before the animation gets triggered now. So, can you make it appear a little bit earlier"
+- source: session_0182BYAD1AngZCXfgFhviwVq · dc64425b-0c09-44af-a773-f567fe12a47e (2026-09-29T15:59:48.112472Z) (wave-4.md)
+- date: 2026-09-29
+- context: Journey flow animation
+- tags: interaction · standing: one-off
+
+### E2750 · Match animation to the updated Figma
+- quote: "this one doesn't have a container, so you'll have to get rid of like the container loading animation"
+- source: session_0182BYAD1AngZCXfgFhviwVq · 5269f00d-6662-4fba-a030-705ac76fd2dd (2026-09-29T15:46:34.897444Z) (wave-4.md)
+- date: 2026-09-29
+- context: Journey flow animation
+- tags: interaction | process · standing: one-off
+
+### E2751 · Short is simpler
+- quote: "I know this is a lot, so there's going to be the tendency for you to kind of overly explain and make this like super long, but the longer it is, I think the more complex it is."
+- source: session_01NtNprtTQgF2VqzM49JwnZ4 · aa28d6ab-cf78-4bb8-ad26-69dc26e8eaad (2026-11-06T19:44:08.026260Z) (wave-4.md)
+- date: 2026-11-06
+- context: Request for a cost explainer
+- tags: copy · standing: standing
+
+### E2752 · A teach-me style explainer
+- quote: "Maybe that would be a good way for you to show me how we do all this and stuff."
+- source: session_01NtNprtTQgF2VqzM49JwnZ4 · aa28d6ab-cf78-4bb8-ad26-69dc26e8eaad (2026-11-06T19:44:08.026260Z) (wave-4.md)
+- date: 2026-11-06
+- context: Request for a cost explainer
+- tags: delivery · standing: standing
+
+### E2753 · Explainer of the strategy document expected
+- quote: "Where are the where's that step that's supposed to happen now where they create that thing to show me and teach me the current strategy document in an easier more efficient way"
+- source: session_01NtNprqYa9UbxTwCCnddG4H · 34815414-d373-4ebf-8830-4f05668240e3 (2026-11-06T19:59:58.580567Z) (wave-4.md)
+- date: 2026-11-06
+- context: Sprint start
+- tags: delivery · standing: standing
+
+### E2754 · Keep a test small
+- quote: "I literally said one design and now this seems to become a huge thing with like multiple different screens and that's gonna cost way too many tokens to test"
+- source: session_01NtNprqYa9UbxTwCCnddG4H · 34815414-d373-4ebf-8830-4f05668240e3 (2026-11-06T19:59:58.580567Z) (wave-4.md)
+- date: 2026-11-06
+- context: Sprint start
+- tags: process | frustration · standing: standing
+
+### E2755 · Keep a list of every ask
+- quote: "Make sure that you're taking good check of everything I'm saying here and making a list of everything I'm saying so that you're missing anything."
+- source: session_01NtNprsTFyJkXKEGQybxBUm · acdcdb53-ec72-40ae-8766-c47684e06b9c (2026-11-11T17:44:34.559925Z) (wave-4.md)
+- date: 2026-11-11
+- context: New sprint start
+- tags: process · standing: standing
+
+### E2756 · Ongoing list he can see
+- quote: "And if you can create an ongoing list or something that I can see to, that would be great."
+- source: session_01NtNprsTFyJkXKEGQybxBUm · acdcdb53-ec72-40ae-8766-c47684e06b9c (2026-11-11T17:44:34.559925Z) (wave-4.md)
+- date: 2026-11-11
+- context: New sprint start
+- tags: review-board | process · standing: standing
+
+### E2757 · Visible checklist to verify coverage
+- quote: "some way that I can see and like verify that we're hitting everything we need to hit and not letting anything go"
+- source: session_01NtNprsTFyJkXKEGQybxBUm · acdcdb53-ec72-40ae-8766-c47684e06b9c (2026-11-11T17:44:34.559925Z) (wave-4.md)
+- date: 2026-11-11
+- context: New sprint start
+- tags: review-board | process · standing: standing
+
+### E2758 · Note every ask
+- quote: "You need to make a note of everything I said there, okay? Like it's really, really important."
+- source: session_01NtNprrT4Xh23GTEt8sGDWp · b90e3668-fe10-4539-a2c0-b39e948935ac (2026-10-30T22:29:45.579215Z) (wave-4.md)
+- date: 2026-10-30
+- context: Case study structure work
+- tags: process · standing: standing
+
+### E2759 · Say so when a link is not readable
+- quote: "it's not proper for you to make any evaluation if you are not able to access the Figma link, so you should have held off and just told me"
+- source: session_01NtNprrT4Xh23GTEt8sGDWp · b90e3668-fe10-4539-a2c0-b39e948935ac (2026-10-30T22:29:45.579215Z) (wave-4.md)
+- date: 2026-10-30
+- context: Case study structure work
+- tags: process | frustration · standing: standing
+
+### E2760 · Outline, not prose
+- quote: "can you write this like a little bit more simplified, like an outline"
+- source: session_01NtNprrT4Xh23GTEt8sGDWp · 11eef6ad-9648-467d-a6a1-3e8f01877f19 (2026-10-31T23:54:28.304833Z) (wave-4.md)
+- date: 2026-10-31
+- context: Case study structure
+- tags: copy | delivery · standing: standing
+
+### E2761 · Wants an MD file
+- quote: "Can you create me an MD file with this all written down on there?"
+- source: session_01NtNprrT4Xh23GTEt8sGDWp · cb544af7-1e15-453b-9ff5-ece390184757 (2026-11-01T00:01:00.618934Z) (wave-4.md)
+- date: 2026-11-01
+- context: Case study structure
+- tags: delivery · standing: one-off
+
+### E2762 · Wants a file to read
+- quote: "where's the file for me to look at your copy? I don't see anything"
+- source: session_01XMsoBW2Px4UFP5BPRcLyup · 1d803ab7-337c-4323-8006-8914c4813873 (2026-10-23T00:15:23.734805Z) (wave-4.md)
+- date: 2026-10-23
+- context: Case study copy
+- tags: delivery | frustration · standing: standing
+
+### E2763 · Send the content, not where it is
+- quote: "Girl, can you send me the new copy though? Like, not just tell me where it is"
+- source: session_01XMsoBW2Px4UFP5BPRcLyup · 733e8aed-3db6-4eb4-ba13-deda42d92b0b (2026-10-24T23:06:30.008772Z) (wave-4.md)
+- date: 2026-10-24
+- context: Case study copy
+- tags: delivery | frustration · standing: standing
+
+### E2764 · Send all of it
+- quote: "Why are you sending me just this section? I'm asking for you to read me the copy."
+- source: session_01XMsoBW2Px4UFP5BPRcLyup · c380f455-2eba-4c21-8d78-259aecd0f126 (2026-10-24T22:38:17.362562Z) (wave-4.md)
+- date: 2026-10-24
+- context: Case study copy
+- tags: delivery | frustration · standing: standing
+
+### E2765 · Questions must be needed
+- quote: "how mny of these do i actually need to answer or is this just you explaining wht you want to do and a creating an unnecessary hurdle?"
+- source: session_01Xz5vfVjHDGxbXsCPL5Dy6h · 648e5381-4bf0-4085-beb4-215b2843b99f (2026-10-20T23:22:28.568087Z) (wave-4.md)
+- date: 2026-10-20
+- context: Research strand questions
+- tags: process | frustration · standing: standing
+
+### E2766 · Send a link for any action
+- quote: "If there's something I need to do, send me a link."
+- source: session_01Kt7gBqPdUBCpbesZd9tLuH · 50ddac9a-b267-4380-ba3c-d3697099175a (2026-09-28T00:49:12.107956Z) (wave-4.md)
+- date: 2026-09-28
+- context: Process setup
+- tags: delivery · standing: standing
+
+### E2767 · Do not assume screenshots
+- quote: "there shouldn't be anything built into the process that assumes I'm sending screenshots every time."
+- source: session_01Kt7gBqPdUBCpbesZd9tLuH · 50ddac9a-b267-4380-ba3c-d3697099175a (2026-09-28T00:49:12.107956Z) (wave-4.md)
+- date: 2026-09-28
+- context: Process setup
+- tags: process · standing: standing
+
+### E2768 · Check it for me
+- quote: "Can't you just check this for me? Why would I need to?"
+- source: session_01V9NnTigs7DWGwqGtRK8DYU · 871ff92b-30a2-41d4-9ce9-2609af0e356c (2026-09-26T17:34:22.645968Z) (wave-4.md)
+- date: 2026-09-26
+- context: Figma file check
+- tags: process | frustration · standing: standing
+
+### E2769 · Progress percentage without interrupting
+- quote: "Can you give me an estimated percentage of completion for the Monday Studio Screens Action Hub and Home chat while it works? I don't want to interrupt it"
+- source: session_01NtNprpQberpjhEcC4oh4Gr · e83ef9fa-e59d-4759-8e17-354f15f50b73 (2026-10-30T01:17:59.808379Z) (wave-4.md)
+- date: 2026-10-30
+- context: Long running chat
+- tags: navigation | process · standing: standing
+
+### E2770 · Unclear writing
+- quote: "I don't even know what you're saying. Like, what are you actually writing"
+- source: session_01WDYHKfHNsUZNXgqfFcNyzt · cc0a5c5a-2882-4cd6-9d00-07a27c0aa663 (2026-10-22T20:34:34.964638Z) (wave-4.md)
+- date: 2026-10-22
+- context: Chat message
+- tags: copy | frustration · standing: standing
+
+### E2771 · Show the changed part, not the whole page
+- quote: "because you're like sending the whole page and expecting me to see a thing I don't understand"
+- source: session_01CE2mhKG62UDJ3FfJKWLvNu · 79a8145a-f1cd-4e95-9d03-561d3c687b55 (2026-09-26T16:59:14.079346Z) (wave-4.md)
+- date: 2026-09-26
+- context: Design system edit review
+- tags: review-board | frustration · standing: standing
+
+### E2772 · Top three suggestions
+- quote: "can you give me like your top three suggestions"
+- source: session_01Tc9efSzxgej2gf23FAyD69 · e9727d08-99c9-4c12-ac4b-062e4beafe49 (2026-09-25T20:47:57.719563Z) (wave-4.md)
+- date: 2026-09-25
+- context: Icon choice for a nav item
+- tags: decision-board · standing: standing
+
+### E2773 · Liquid button effect on large buttons
+- quote: "the idea was to do that kind of effect with the button like the contact button"
+- source: session_01MXEQZxnS9s6NHJAgeBSybQ · 14caf29b-1847-4939-9267-057ba1ccc460 (2026-11-09T00:21:59.701264Z) (wave-4.md)
+- date: 2026-11-09
+- context: Portfolio buttons
+- tags: style | interaction · standing: one-off
+
+### E2774 · Repeated failure
+- quote: "What is going on right now? Why does this keep happening here over and over again? We need to just stop this."
+- source: session_01NtNprqNKVxMHCtJ6VtqGJP · 5aea2709-0b7d-4582-8510-e8f20d10071c (2026-11-08T22:36:12.759925Z) (wave-4.md)
+- date: 2026-11-08
+- context: Font loading in Figma
+- tags: frustration · standing: one-off
+
+### E2775 · Nav changes must reach home too
+- quote: "I moved that new navigation for the new features onto the navigation page, but didn't set it up at the home. Can you get that organized for me, please?"
+- source: session_01Bw7jrCrsmp2RcU87rVVjsA · 60979bb0-2308-4ba2-8ea0-a9a7a0b8f204 (2026-10-02T05:48:30.278082Z) (wave-4.md)
+- date: 2026-10-02
+- context: Design system navigation page
+- tags: navigation | process · standing: one-off
+
+### E2776 · HTML not images, readable size
+- quote: "You produce these as images. I asked you to create HTML. I can't read that. It's too small, bro."
+- source: session_017qTWyDPU53vg3HKA2EGqG4 · fdad07f7-431e-4c6c-adfe-dbc3fc7c7cbb · 2026-09-24T22:51:16.566509Z (wave-5.md)
+- date: 2026-09-24
+- context: Flow document for Peer Connect delivered as images
+- tags: delivery | frustration | style · standing: yes
+
+### E2777 · Tool should look like the product
+- quote: "can you be using like Monday's like styling to some in some regards so it looks like it goes with this product"
+- source: session_017qTWyDPU53vg3HKA2EGqG4 · 43e1fb04-bb48-4340-8fa2-2f9d4d5a5a52 · 2026-09-24T22:51:58.166391Z (wave-5.md)
+- date: 2026-09-24
+- context: Peer Connect flows HTML document
+- tags: style · standing: one-off
+
+### E2778 · Resizable left panel
+- quote: "so I can like move that and make it less wide or something"
+- source: session_017qTWyDPU53vg3HKA2EGqG4 · b4092e61-d051-47d9-babd-33e412b10e64 · 2026-09-24T23:05:56.757073Z (wave-5.md)
+- date: 2026-09-24
+- context: Left panel of the flows document
+- tags: shell | interaction · standing: yes
+
+### E2779 · Horizontal over vertical flows, see it on one screen
+- quote: "I just think that like vertical flows are kind of crazy and hard to understand it's like way easier when you can like see it on the screen and I don't have to like hide stuff or move things around"
+- source: session_017qTWyDPU53vg3HKA2EGqG4 · b4092e61-d051-47d9-babd-33e412b10e64 · 2026-09-24T23:05:56.757073Z (wave-5.md)
+- date: 2026-09-24
+- context: Flows document layout
+- tags: style | navigation · standing: yes
+
+### E2780 · Collapsible flows menu down to numbers
+- quote: "I should also be able to collapse the Peer Connect flows menu, I think, so I can just have like the numbers and then I should like reopen it if I need to"
+- source: session_017qTWyDPU53vg3HKA2EGqG4 · b4092e61-d051-47d9-babd-33e412b10e64 · 2026-09-24T23:05:56.757073Z (wave-5.md)
+- date: 2026-09-24
+- context: Flows document side menu
+- tags: shell | navigation · standing: yes
+
+### E2781 · Shareable doc kept separate from decisions
+- quote: "That document should be separate from the flows. It's not related to the flows. I didn't mean for you to put that in here."
+- source: session_017qTWyDPU53vg3HKA2EGqG4 · b4092e61-d051-47d9-babd-33e412b10e64 · 2026-09-24T23:05:56.757073Z (wave-5.md)
+- date: 2026-09-24
+- context: Flows document had decisions and audits mixed in
+- tags: delivery | frustration · standing: yes
+
+### E2782 · Built to hand to a colleague clean
+- quote: "I want this to be something that I can give to Michael and say, hey, here's this without this is separate from like any audits or issues or decisions"
+- source: session_017qTWyDPU53vg3HKA2EGqG4 · b4092e61-d051-47d9-babd-33e412b10e64 · 2026-09-24T23:05:56.757073Z (wave-5.md)
+- date: 2026-09-24
+- context: Flows document to share
+- tags: delivery | review-board · standing: yes
+
+### E2783 · Hard to navigate
+- quote: "this document is kind of difficult to navigate"
+- source: session_017qTWyDPU53vg3HKA2EGqG4 · b4092e61-d051-47d9-babd-33e412b10e64 · 2026-09-24T23:05:56.757073Z (wave-5.md)
+- date: 2026-09-24
+- context: Flows document with open questions inline
+- tags: navigation | frustration · standing: one-off
+
+### E2784 · Spacing looks stretched and disconnected
+- quote: "it shouldn't feel so like stretched out and disconnected"
+- source: session_017qTWyDPU53vg3HKA2EGqG4 · 70fa8598-1146-4c62-83c8-15fbc282e1db · 2026-09-24T23:10:12.708846Z (wave-5.md)
+- date: 2026-09-24
+- context: Flows document image
+- tags: style | frustration · standing: one-off
+
+### E2785 · Unwanted download option
+- quote: "Why is there an option for me to download this latest version?"
+- source: session_017qTWyDPU53vg3HKA2EGqG4 · 17b9b925-7d71-4ef6-99b8-214a1ecd14ab · 2026-09-24T23:18:08.387378Z (wave-5.md)
+- date: 2026-09-24
+- context: Artifact view of the flows document
+- tags: delivery | frustration · standing: one-off
+
+### E2786 · No comments in the file he shares
+- quote: "we don't need to have any comments or anything like that. The comments won't be necessary for the file that I'm going to share with the group, so that needs to be removed as well"
+- source: session_017qTWyDPU53vg3HKA2EGqG4 · db729432-d7cd-479f-ad1e-d036f94e249c · 2026-09-24T23:19:13.207658Z (wave-5.md)
+- date: 2026-09-24
+- context: Flows document for the group
+- tags: delivery | interaction · standing: one-off
+
+### E2787 · Do not default to Claude's own system
+- quote: "I really encourage you not to just like try to default to your own default system because that's not going to help at all, never works."
+- source: session_01FTzjutUqaZcHeVLzX6krif · 9dfbf127-0ed4-4c16-b9cc-dcee22ec2db4 · 2026-09-18T20:39:29.706287Z (wave-5.md)
+- date: 2026-09-18
+- context: Asking for an audit process for a feature build
+- tags: process | frustration · standing: yes
+
+### E2788 · Time estimates unwanted
+- quote: "I've been noticing you've been using timeframes a lot recently in 45 minutes, 30 minutes, 90 minutes, 30 minutes, 49 minutes."
+- source: session_01FTzjutUqaZcHeVLzX6krif · e3683652-1484-400d-bee6-0b2616d9a0b8 · 2026-09-18T20:54:51.417167Z (wave-5.md)
+- date: 2026-09-18
+- context: Plan for the build stages
+- tags: copy | frustration · standing: one-off
+
+### E2789 · Do all flows in one move
+- quote: "we dont need to do flows pass by pass you shoul be doing all of them. all flows should be done in one move."
+- source: session_01FTzjutUqaZcHeVLzX6krif · 679df0a3-7760-49e2-b327-432ee23cf9cd · 2026-09-19T04:49:38.624479Z (wave-5.md)
+- date: 2026-09-19
+- context: Flow building
+- tags: process · standing: one-off
+
+### E2790 · Flow document: visual separation and arrows
+- quote: "I think it would be easier if we could like separate them like visually somehow and notate what is a screen and a flow, what is like multi-steps, and kind of showing them as a flow, right? Like step one, step two. It doesn't need to say step one, step two, but have some kind of arrows between them"
+- source: session_01FTzjutUqaZcHeVLzX6krif · a0382ad2-8add-498e-b79b-60eb85542723 · 2026-09-19T16:24:16.409071Z (wave-5.md)
+- date: 2026-09-19
+- context: Flows document layout
+- tags: review-board | style | navigation · standing: yes
+
+### E2791 · Do not over-engineer, keep detail elsewhere
+- quote: "Try not to over-engineer. Some of the information can be kept on record elsewhere."
+- source: session_01FTzjutUqaZcHeVLzX6krif · a0382ad2-8add-498e-b79b-60eb85542723 · 2026-09-19T16:24:16.409071Z (wave-5.md)
+- date: 2026-09-19
+- context: Flows document
+- tags: copy | process · standing: yes
+
+### E2792 · Documentation must be consumable
+- quote: "there needs to be proper documentation about all this, but it needs to be in a consumable way."
+- source: session_01FTzjutUqaZcHeVLzX6krif · a0382ad2-8add-498e-b79b-60eb85542723 · 2026-09-19T16:24:16.409071Z (wave-5.md)
+- date: 2026-09-19
+- context: Flows document
+- tags: copy | delivery · standing: yes
+
+### E2793 · Three drawn concepts instead of building the file
+- quote: "Come back to me with three separate images instead of like building the whole file, like three separate images that kind of show me the different concepts that we could use."
+- source: session_01FTzjutUqaZcHeVLzX6krif · b2ff67ba-8cbc-4943-916d-cddbc0daf348 · 2026-09-19T17:06:54.214026Z (wave-5.md)
+- date: 2026-09-19
+- context: Choosing a flow document format
+- tags: decision-board | process · standing: yes
+
+### E2794 · Not everything in Notion; no code boxes or keyboard glyphs
+- quote: "I don't know why you're like making everything Notion documents right now. I'm looking at for us to build something in here, not necessarily in Notion. So because you're building in Notion, it looks like you defaulted to using code boxes and literally like keyboard glyphs and like stuff, which is kind of insane."
+- source: session_01FTzjutUqaZcHeVLzX6krif · b2ff67ba-8cbc-4943-916d-cddbc0daf348 · 2026-09-19T17:06:54.214026Z (wave-5.md)
+- date: 2026-09-19
+- context: Flow document built in Notion
+- tags: delivery | style | frustration · standing: yes
+
+### E2795 · Show where each screen sits in the flow
+- quote: "You'll say that there's this many screens, but you're not really showing like where those exist within the flow."
+- source: session_01FTzjutUqaZcHeVLzX6krif · b2ff67ba-8cbc-4943-916d-cddbc0daf348 · 2026-09-19T17:06:54.214026Z (wave-5.md)
+- date: 2026-09-19
+- context: Flow document
+- tags: navigation | frustration · standing: yes
+
+### E2796 · Picks by number from options
+- quote: "3 is the clearest."
+- source: session_01FTzjutUqaZcHeVLzX6krif · 6a47118b-f7d4-45dc-b111-1f8582a4909b · 2026-09-19T17:30:12.309704Z (wave-5.md)
+- date: 2026-09-19
+- context: Chose one of three flow document concepts
+- tags: decision-board · standing: one-off
+
+### E2797 · Option images are only for choosing
+- quote: "the images were literally only to show the options. Now you need to actually build that out."
+- source: session_01FTzjutUqaZcHeVLzX6krif · 656832b3-039a-41f2-9b47-1bd8aa0ceff6 · 2026-09-19T17:45:07.735140Z (wave-5.md)
+- date: 2026-09-19
+- context: After picking concept 3
+- tags: decision-board | process · standing: one-off
+
+### E2798 · HTML clickable doc is the deliverable
+- quote: "The HTML file is what matters because I'm trying to hand something off to the team. In fact, I think I'm going to completely delete the sitemaps from the pages. I think it's overkill and that it should live elsewhere. This is why the document is supposed to work as it does, where you can click through the flows, where you can see information on them"
+- source: session_01FTzjutUqaZcHeVLzX6krif · fc9f9d24-286c-428b-aad3-6db879bb2b2a · 2026-09-26T18:03:34.430594Z (wave-5.md)
+- date: 2026-09-26
+- context: Flow map HTML handoff
+- tags: delivery | navigation · standing: yes
+
+### E2799 · Handoff as a zip with prompt and visuals
+- quote: "What I need from you is a document that I can hand off, like a v preferably a zip probably of some kind"
+- source: session_01FTzjutUqaZcHeVLzX6krif · 05336243-328e-4ae6-9aab-bc087eadfd72 · 2026-09-26T18:15:58.682716Z (wave-5.md)
+- date: 2026-09-26
+- context: Handing work to a fresh chat
+- tags: delivery · standing: yes
+
+### E2800 · Desktop, tablet and mobile all needed
+- quote: "we're now needing to design tablet breakpoints as well. So that's something else to consider, right? So we'll need like, and mobile. So we'll need desktop, tablet, and mobile. The design needs to be responsive attached to the grid for desktop"
+- source: session_01FTzjutUqaZcHeVLzX6krif · 41bdac3d-f2c2-447a-b4ed-e874ea4a6936 · 2026-09-18T21:55:24.684862Z (wave-5.md)
+- date: 2026-09-18
+- context: Cohort feature build planning
+- tags: responsive | product · standing: yes
+
+### E2801 · Wants one view of all active sessions
+- quote: "i am trying to figure out how i can visually organize it for myself so i can more easily keep an eye on all parts and stuff in one location rather than trying to figure out where things are and such and where i am at with things by clicking intoa. bunch of lists"
+- source: session_01ByCW6sxio2TTKHk7TnrTvz · 27b9b927-86c0-46a8-a071-465ac3075c96 · 2026-09-25T01:49:06.694981Z (wave-5.md)
+- date: 2026-09-25
+- context: Asking for a session tracking visual
+- tags: navigation | review-board · standing: yes
+
+### E2802 · Links open in desktop app, not browser
+- quote: "The problem with the links in these right now, in this right now, is that it opens in my app on my desktop, not in the browser."
+- source: session_01ByCW6sxio2TTKHk7TnrTvz · 3f9572a0-0682-49e4-8758-668ae067de8b · 2026-09-25T17:14:00.817177Z (wave-5.md)
+- date: 2026-09-25
+- context: Session map tool links
+- tags: delivery | frustration · standing: yes
+
+### E2803 · Not a terminal user
+- quote: "I think a lot of these almost look like they're being done in terminal, which is not how I work. So, and I'm not super familiar with terminals."
+- source: session_01ByCW6sxio2TTKHk7TnrTvz · 3f9572a0-0682-49e4-8758-668ae067de8b · 2026-09-25T17:14:00.817177Z (wave-5.md)
+- date: 2026-09-25
+- context: Evaluating session tracking options
+- tags: delivery · standing: yes
+
+### E2804 · Notifications do not solve the need, organisation does
+- quote: "being notified that one chat has an update really doesn't solve the problem for me, right? Because I constantly have that it's more about like keeping all them organized"
+- source: session_01ByCW6sxio2TTKHk7TnrTvz · 3f9572a0-0682-49e4-8758-668ae067de8b · 2026-09-25T17:14:00.817177Z (wave-5.md)
+- date: 2026-09-25
+- context: Session map tool
+- tags: navigation · standing: yes
+
+### E2805 · Status labels he likes; must live-update
+- quote: "Like, having like needs you working, ready for review, done. But I also am doubtful that these are like updated, like what you created is updating, right? Like with the actual work, and that's an important part of the usefulness of this"
+- source: session_01ByCW6sxio2TTKHk7TnrTvz · 3f9572a0-0682-49e4-8758-668ae067de8b · 2026-09-25T17:14:00.817177Z (wave-5.md)
+- date: 2026-09-25
+- context: Session map tool
+- tags: review-board | interaction · standing: yes
+
+### E2806 · Circles clickable and pulsing
+- quote: "I said the circles should be clickable, they should be pulsating or something, or change the colors, and/or both. You didn't do that, you instead put open and copy link."
+- source: session_01ByCW6sxio2TTKHk7TnrTvz · b3ba6621-9e42-45ad-bd3b-400f1b495c83 · 2026-09-25T17:28:01.414625Z (wave-5.md)
+- date: 2026-09-25
+- context: Session map tool
+- tags: interaction | frustration · standing: one-off
+
+### E2807 · Black background, no individual frames
+- quote: "maybe this is just like a black background, and you don't have all these like little individual frames."
+- source: session_01ByCW6sxio2TTKHk7TnrTvz · b3ba6621-9e42-45ad-bd3b-400f1b495c83 · 2026-09-25T17:28:01.414625Z (wave-5.md)
+- date: 2026-09-25
+- context: Session map tool
+- tags: style · standing: yes
+
+### E2808 · Strip title and example labels
+- quote: "we don't need like the session map title, the example sessions information, we don't need the example sessions tag."
+- source: session_01ByCW6sxio2TTKHk7TnrTvz · b3ba6621-9e42-45ad-bd3b-400f1b495c83 · 2026-09-25T17:28:01.414625Z (wave-5.md)
+- date: 2026-09-25
+- context: Session map tool chrome
+- tags: copy | style · standing: yes
+
+### E2809 · Filter tabs on the left, controls bottom left, tab switcher top right
+- quote: "that needs you working, ready for a view, done, all that is like left horizontally stacked or something on like left side of the screen, but it's sitting at top of that like canvas area"
+- source: session_01ByCW6sxio2TTKHk7TnrTvz · b3ba6621-9e42-45ad-bd3b-400f1b495c83 · 2026-09-25T17:28:01.414625Z (wave-5.md)
+- date: 2026-09-25
+- context: Session map tool layout
+- tags: shell | navigation · standing: one-off
+
+### E2810 · Try three taste versions
+- quote: "Maybe you could find a few taste skills you think would be a good match, and then for what I'm saying, and then maybe like try to show me what those three versions would be."
+- source: session_01ByCW6sxio2TTKHk7TnrTvz · b3ba6621-9e42-45ad-bd3b-400f1b495c83 · 2026-09-25T17:28:01.414625Z (wave-5.md)
+- date: 2026-09-25
+- context: Session map tool styling
+- tags: decision-board | style · standing: yes
+
+### E2811 · Starting point, then canvas to tweak and comment
+- quote: "Can you create three as like a starting point and then do that canvas thing so I can like make little like tweaks and stuff if I want to so definitely see and then I can like add comments to anything specific that I want you to change the look of"
+- source: session_01ByCW6sxio2TTKHk7TnrTvz · ad2fd0db-a1d6-49b9-a0e4-e972c8fc358b · 2026-09-25T17:37:32.284101Z (wave-5.md)
+- date: 2026-09-25
+- context: Session map tool
+- tags: editor | delivery · standing: yes
+
+### E2812 · Editing a colour should show immediately
+- quote: "if I click on something and change the color, should I see the color change? Or does it have to like go through a whole process before that happens."
+- source: session_01ByCW6sxio2TTKHk7TnrTvz · 5ef278b8-f785-41a8-a838-3dbc91588e6b · 2026-09-25T17:51:18.216430Z (wave-5.md)
+- date: 2026-09-25
+- context: First time using the design canvas
+- tags: editor | frustration · standing: yes
+
+### E2813 · Needs obvious save
+- quote: "How do I save my changes"
+- source: session_01ByCW6sxio2TTKHk7TnrTvz · dae3b28f-daa1-42be-a3fc-b0f0e8f53b41 · 2026-09-25T17:56:01.971082Z (wave-5.md)
+- date: 2026-09-25
+- context: Design canvas
+- tags: editor | frustration · standing: yes
+
+### E2814 · Outline colour not editable
+- quote: "I still can't modify the color of this entirely. I think it's the outline that I can't do."
+- source: session_01ByCW6sxio2TTKHk7TnrTvz · feb56c97-bb5e-43fd-a8b1-0c030f3c8e12 · 2026-09-25T18:57:52.871364Z (wave-5.md)
+- date: 2026-09-25
+- context: Design canvas
+- tags: editor | frustration · standing: one-off
+
+### E2815 · Colour-coded statuses
+- quote: "I think green is for me like needing me."
+- source: session_01ByCW6sxio2TTKHk7TnrTvz · 7db84215-fb90-496e-85ab-05f29f69300f · 2026-09-25T19:07:31.387791Z (wave-5.md)
+- date: 2026-09-25
+- context: Session map status colours
+- tags: style | review-board · standing: one-off
+
+### E2816 · Connectors match their circle
+- quote: "I also need the line, the yellow line, or the lines that are connecting each of the circles to the main primary large circle in the middle to match the outlines of their circles."
+- source: session_01ByCW6sxio2TTKHk7TnrTvz · 7db84215-fb90-496e-85ab-05f29f69300f · 2026-09-25T19:07:31.387791Z (wave-5.md)
+- date: 2026-09-25
+- context: Session map tool
+- tags: style · standing: one-off
+
+### E2817 · Cut redundant top-left buttons and status icons
+- quote: "we don't need those top left align buttons. We have that information on screen anyway. We don't need that. That's extraordinary overkill."
+- source: session_01ByCW6sxio2TTKHk7TnrTvz · ef2e0b9f-2388-479d-a486-87c32078ec02 · 2026-09-25T19:16:10.062018Z (wave-5.md)
+- date: 2026-09-25
+- context: Session map tool
+- tags: style | navigation · standing: yes
+
+### E2818 · Needs a responsive strategy, not overlap
+- quote: "There are some responsive issues on this when I try to like get it. I think it's when it gets to a certain point they start like merging on top of each other and things get like covered up and stuff."
+- source: session_01ByCW6sxio2TTKHk7TnrTvz · f870134c-9d48-4200-b80c-71bce3ed5863 · 2026-09-25T19:25:01.141960Z (wave-5.md)
+- date: 2026-09-25
+- context: Session map tool at smaller sizes
+- tags: responsive | frustration · standing: yes
+
+### E2819 · Asks where the tool lives
+- quote: "I need to find out if there's a way I can like utilize this without it being its own session"
+- source: session_01ByCW6sxio2TTKHk7TnrTvz · f870134c-9d48-4200-b80c-71bce3ed5863 · 2026-09-25T19:25:01.141960Z (wave-5.md)
+- date: 2026-09-25
+- context: Session map tool
+- tags: delivery · standing: yes
+
+### E2820 · Claude weak at picking up UI style
+- quote: "it's really hard obviously for you to pick up like UI styles and like how to be creative in like creating things like this and like following my you know instruction in terms of styling and stuff"
+- source: session_01ByCW6sxio2TTKHk7TnrTvz · 5acc486e-96da-4729-9525-06f5f9f41ab5 · 2026-09-26T16:53:36.654358Z (wave-5.md)
+- date: 2026-09-26
+- context: Session map tool
+- tags: frustration | style · standing: yes
+
+### E2821 · Comparison tool must let him pick, zoom, not cut off
+- quote: "I can't zoom into the individual screens correctly. Or it like cuts them off, like it just doesn't really seem like there's a lot of thought in this process. It's not like I can select one or the other."
+- source: session_018FBqbJExZ9WfWSPwp5vf9D · 2b3aef60-9451-47ea-9e55-676e9959fbe8 · 2026-10-09T04:34:34.704891Z (wave-5.md)
+- date: 2026-10-09
+- context: Side by side screen comparison page
+- tags: review-board | interaction | frustration · standing: yes
+
+### E2822 · Build picking into the tool
+- quote: "why don't you just have this built with some kind of ability to do that? That's that's insanity. This is not how we work"
+- source: session_018FBqbJExZ9WfWSPwp5vf9D · 2b3aef60-9451-47ea-9e55-676e9959fbe8 · 2026-10-09T04:34:34.704891Z (wave-5.md)
+- date: 2026-10-09
+- context: Comparison page expected him to type verdicts
+- tags: review-board | interaction | frustration · standing: yes
+
+### E2823 · Wants about six menu variants with hover and animation
+- quote: "Can you explore maybe like six different options, maybe? Which would include different interactions or like different types of like animations and like hover states and stuff like that."
+- source: session_018FBqbJExZ9WfWSPwp5vf9D · 13d7021e-0cff-4ab1-88a9-838ede60ea6f · 2026-10-09T04:54:25.045380Z (wave-5.md)
+- date: 2026-10-09
+- context: Menu exploration
+- tags: decision-board | interaction · standing: one-off
+
+### E2824 · Handoff doc too heavy
+- quote: "Does like the dev really need all of this detail? Like, these feels like a little engineered in terms of how much information is being given"
+- source: session_018FBqbJExZ9WfWSPwp5vf9D · a7b2da77-511d-4918-88ce-6b4ca7182b02 · 2026-10-09T17:02:14.394278Z (wave-5.md)
+- date: 2026-10-09
+- context: Developer handoff document
+- tags: copy | delivery · standing: yes
+
+### E2825 · No Canva step; give base screens, he edits in Figma
+- quote: "there's no necessary reason for you to probably bring into Canva like that. I know that we talked about this previously when we were forming how this is set up, but I just feel like for efficiency's sake, it just seems to make way more sense for me to do kind of like what we just did, where you give me all the base screen designs, right? And then I go through and like make edits and like talk to you as I'm fixing them."
+- source: session_01187BF3yzDKmvAV2jKHAFGr · ceaddca7-a19c-4906-8be3-39c3f168f46e · 2026-10-08T21:33:45.563359Z (wave-5.md)
+- date: 2026-10-08
+- context: Stage 4 screen review
+- tags: delivery | process · standing: yes
+
+### E2826 · Grouped items need clearly more space between groups
+- quote: "that should be at least 20 pixels then if everything individual inside of it is more than that"
+- source: session_01187BF3yzDKmvAV2jKHAFGr · ceaddca7-a19c-4906-8be3-39c3f168f46e · 2026-10-08T21:33:45.563359Z (wave-5.md)
+- date: 2026-10-08
+- context: Proximity and spacing correction on a list
+- tags: style | product · standing: yes
+
+### E2827 · Multiples of four
+- quote: "it shouldn't be 18 because that's not a multiple of 4, you know?"
+- source: session_01187BF3yzDKmvAV2jKHAFGr · ceaddca7-a19c-4906-8be3-39c3f168f46e · 2026-10-08T21:33:45.563359Z (wave-5.md)
+- date: 2026-10-08
+- context: Padding check on a card
+- tags: style | product · standing: yes
+
+### E2828 · Apply a correction everywhere
+- quote: "Make sure you're applying this logic everywhere."
+- source: session_01187BF3yzDKmvAV2jKHAFGr · ceaddca7-a19c-4906-8be3-39c3f168f46e · 2026-10-08T21:33:45.563359Z (wave-5.md)
+- date: 2026-10-08
+- context: Spacing feedback on S3.1
+- tags: process | frustration · standing: yes
+
+### E2829 · Compare with what you produced
+- quote: "Always be comparing these to what you produced, and that's how you're gonna understand what needs to be changed."
+- source: session_01187BF3yzDKmvAV2jKHAFGr · ceaddca7-a19c-4906-8be3-39c3f168f46e · 2026-10-08T21:33:45.563359Z (wave-5.md)
+- date: 2026-10-08
+- context: His edits in Figma vs Claude's build
+- tags: process | review-board · standing: yes
+
+### E2830 · Reference the page that already exists for consistency
+- quote: "Shouldn't you have already the understanding that you would reference it? Like, there needs to be consistency."
+- source: session_01187BF3yzDKmvAV2jKHAFGr · ceaddca7-a19c-4906-8be3-39c3f168f46e · 2026-10-08T21:33:45.563359Z (wave-5.md)
+- date: 2026-10-08
+- context: Calendar differed between screens
+- tags: frustration | process · standing: yes
+
+### E2831 · Explore patterns with Refero first
+- quote: "Why aren't you exploring patterns? Where's the pattern exploration? There's definitely way better patterns for choosing a time than the S5.1."
+- source: session_01187BF3yzDKmvAV2jKHAFGr · ceaddca7-a19c-4906-8be3-39c3f168f46e · 2026-10-08T21:33:45.563359Z (wave-5.md)
+- date: 2026-10-08
+- context: Book a call screen
+- tags: process | frustration · standing: yes
+
+### E2832 · Header sizes too big for use
+- quote: "He's also using these header ones, which I feel like are often too big for what you're using them for. So I keep moving down the size."
+- source: session_01187BF3yzDKmvAV2jKHAFGr · ceaddca7-a19c-4906-8be3-39c3f168f46e · 2026-10-08T21:33:45.563359Z (wave-5.md)
+- date: 2026-10-08
+- context: Screen review
+- tags: style | frustration · standing: yes
+
+### E2833 · Label hugging text
+- quote: "now the list items feel like really close together"
+- source: session_01187BF3yzDKmvAV2jKHAFGr · ceaddca7-a19c-4906-8be3-39c3f168f46e · 2026-10-08T21:33:45.563359Z (wave-5.md)
+- date: 2026-10-08
+- context: List with icons and text
+- tags: style · standing: one-off
+
+### E2834 · Do not make him read documents to follow your logic
+- quote: "It's like you keep thinking that I'm just gonna like read these random documents that you make. So that logic needs to stay out of the way you communicate with me."
+- source: session_01187BF3yzDKmvAV2jKHAFGr · e0508ce9-824b-4c96-8615-737c7c1d9bda · 2026-10-08T22:13:47.109730Z (wave-5.md)
+- date: 2026-10-08
+- context: Claude pointed at a doc instead of showing exceptions
+- tags: copy | delivery | frustration · standing: yes
+
+### E2835 · Rough draft screens may skip his styles
+- quote: "Obviously, you're not using my styles and stuff, but I'm assuming that's just because this is like a rough draft type of thing before the actual designs get built."
+- source: session_01187BF3yzDKmvAV2jKHAFGr · a1fa4170-f75c-40a2-8375-89a6142a4a32 · 2026-10-08T03:42:45.606017Z (wave-5.md)
+- date: 2026-10-08
+- context: Early screen drafts
+- tags: style · standing: one-off
+
+### E2836 · No bold anywhere
+- quote: "we don't even use bold text in our design system anymore. The header sizes are nothing like they are anywhere else."
+- source: session_01187BF3yzDKmvAV2jKHAFGr · 99269a6b-2168-46a6-86bd-517c8be6dd3f · 2026-10-08T03:45:07.264877Z (wave-5.md)
+- date: 2026-10-08
+- context: Screen draft with a bold header
+- tags: style | product | frustration · standing: one-off
+
+### E2837 · Nothing improved after process change
+- quote: "none of these are better, like, UX-wise."
+- source: session_01187BF3yzDKmvAV2jKHAFGr · 29d4fd7d-f82b-411d-ad67-c6534d5d0e42 · 2026-10-08T03:48:26.946139Z (wave-5.md)
+- date: 2026-10-08
+- context: After a process upgrade
+- tags: frustration · standing: one-off
+
+### E2838 · Do not stop to ask unless needed
+- quote: "you're only gonna stop when you actually need something from me."
+- source: session_01UqSXyvinMvrQzgmnD6thjs · 45ca9b19-ced5-47ee-9243-2dc380928d16 · 2026-08-28T18:12:48.733416Z (wave-5.md)
+- date: 2026-08-28
+- context: Case study session
+- tags: process | frustration · standing: yes
+
+### E2839 · Irrelevant questions
+- quote: "You've been asking me a lot of questions that are just, frankly, not relevant."
+- source: session_01UqSXyvinMvrQzgmnD6thjs · 45ca9b19-ced5-47ee-9243-2dc380928d16 · 2026-08-28T18:12:48.733416Z (wave-5.md)
+- date: 2026-08-28
+- context: Case study session
+- tags: process | frustration · standing: yes
+
+### E2840 · Needs a protocol so written rules are applied
+- quote: "there needs to be a protocol in place to avoid this."
+- source: session_01UqSXyvinMvrQzgmnD6thjs · 8df235bb-d0b4-4b24-b932-55fbea2df394 · 2026-08-28T17:54:58.841128Z (wave-5.md)
+- date: 2026-08-28
+- context: Claude asked a question the project rules already answered
+- tags: process | frustration · standing: yes
+
+### E2841 · Decision board lacks the settings it implies
+- quote: "I don't see any of those panels, so where are the additional settings, I guess, in terms of design"
+- source: session_01JaSG94PGkJxzKH1B3Jici2 · f8d20697-191a-409a-a059-e3b93e83de63 · 2026-10-22T14:51:51.171174Z (wave-5.md)
+- date: 2026-10-22
+- context: Decision board comment on an event editor layout
+- tags: decision-board | frustration · standing: one-off
+
+### E2842 · Panel side preference
+- quote: "I like the one that I like B, but I wonder if the info on the right should be on the left instead."
+- source: session_01JaSG94PGkJxzKH1B3Jici2 · f8d20697-191a-409a-a059-e3b93e83de63 · 2026-10-22T14:51:51.171174Z (wave-5.md)
+- date: 2026-10-22
+- context: Decision board, h51 shape
+- tags: decision-board | shell · standing: one-off
+
+### E2843 · Too many permission prompts
+- quote: "do you need like permission for like this many things? Because it's a little ridiculous. I have to basically hover over this chat right now and keep accepting things over and over again."
+- source: session_01JaSG94PGkJxzKH1B3Jici2 · 7d04f244-44b3-4889-aa7f-f758d4639295 · 2026-10-22T15:04:29.897622Z (wave-5.md)
+- date: 2026-10-22
+- context: Figma work in a session
+- tags: process | frustration · standing: yes
+
+### E2844 · Already on auto-allow
+- quote: "I've had it on auto this whole time"
+- source: session_01JaSG94PGkJxzKH1B3Jici2 · 6a012665-0661-4b49-8790-608a959b00a0 · 2026-10-22T15:05:21.941438Z (wave-5.md)
+- date: 2026-10-22
+- context: Permission prompts
+- tags: process | frustration · standing: yes
+
+### E2845 · Responsive is not optional
+- quote: "Making things fully responsive is just part of the process. Like, that's just part of the design process. So, there's I shouldn't have to ask for that anyway"
+- source: session_01EJJCqeeR8xQhZMzbu8iicH · 60692782-1730-4bf4-a69c-868bb30767e2 · 2026-10-14T17:37:18.715050Z (wave-5.md)
+- date: 2026-10-14
+- context: Close-out list for a finished feature
+- tags: responsive | frustration · standing: yes
+
+### E2846 · Said many times already
+- quote: "Duh, I've stated that so many times."
+- source: session_01EJJCqeeR8xQhZMzbu8iicH · 60692782-1730-4bf4-a69c-868bb30767e2 · 2026-10-14T17:37:18.715050Z (wave-5.md)
+- date: 2026-10-14
+- context: Responsive missing from finished designs
+- tags: responsive | frustration · standing: yes
+
+### E2847 · No housekeeping on his list
+- quote: "Don't note that as something that I need to do every time. It's ridiculous."
+- source: session_01EJJCqeeR8xQhZMzbu8iicH · 60692782-1730-4bf4-a69c-868bb30767e2 · 2026-10-14T17:37:18.715050Z (wave-5.md)
+- date: 2026-10-14
+- context: Publish library item on a close-out list
+- tags: process | frustration · standing: yes
+
+### E2848 · Simplify the list
+- quote: "Can you clean this up and make this simpler for me to understand what we need to tackle?"
+- source: session_01EJJCqeeR8xQhZMzbu8iicH · 14c05801-e33e-4ab7-832c-5c52211d2b67 · 2026-10-14T17:34:17.704362Z (wave-5.md)
+- date: 2026-10-14
+- context: Open items list
+- tags: copy | frustration · standing: yes
+
+### E2849 · Claude decides when responsiveness is done
+- quote: "That you should be the one making the call on when we are doing the responsiveness stuff."
+- source: session_01EJJCqeeR8xQhZMzbu8iicH · 0522a454-8a35-4869-95a1-7c0a6957352b · 2026-10-14T18:11:50.020736Z (wave-5.md)
+- date: 2026-10-14
+- context: Process question
+- tags: responsive | process · standing: yes
+
+### E2850 · Look at patterns before deciding
+- quote: "But can you like look at other patterns and figure this out, please?"
+- source: session_01EJJCqeeR8xQhZMzbu8iicH · a114bbda-c9ba-47a1-b508-5380588b2dbd · 2026-10-14T17:47:21.768251Z (wave-5.md)
+- date: 2026-10-14
+- context: Decision board comment on date box option
+- tags: decision-board | process · standing: one-off
+
+### E2851 · Do not default back to a dropped style
+- quote: "We changed the style of this, and you keep defaulting to this one that I proposed changing at one point, then went back on. So make sure that you use the proper styling"
+- source: session_01EJJCqeeR8xQhZMzbu8iicH · a114bbda-c9ba-47a1-b508-5380588b2dbd · 2026-10-14T17:47:21.768251Z (wave-5.md)
+- date: 2026-10-14
+- context: Date box on a decision board
+- tags: frustration | review-board · standing: one-off
+
+### E2852 · Never resend the same drawing with a new caption
+- quote: "Never send me the same drawing again with only a new caption. If my feedback changes the drawing, redraw it. If you can't tell what my feedback means, quote it back and ask."
+- source: session_01NnvGazDHX6m5RAENuAmepR · 30e01b44-19cb-41e9-85a6-8606c2859355 · 2026-09-24T01:01:27.078299Z (wave-5.md)
+- date: 2026-09-24
+- context: Brief for a design system comparisons session
+- tags: review-board | process | frustration · standing: yes
+
+### E2853 · Options drawn outside Figma, values read from the file
+- quote: "Nothing gets built in Figma. The product file is read-only. Options are drawn outside Figma with values read from the file, as the brief says."
+- source: session_01NnvGazDHX6m5RAENuAmepR · 30e01b44-19cb-41e9-85a6-8606c2859355 · 2026-09-24T01:01:27.078299Z (wave-5.md)
+- date: 2026-09-24
+- context: Design system comparisons
+- tags: delivery | process · standing: one-off
+
+### E2854 · Repeated spacing and grouping explanations
+- quote: "I kept having to explain stupid things like over and over again about spacing and like why certain things went together and why separate like basic UX stuff"
+- source: session_01NnvGazDHX6m5RAENuAmepR · 31d88aa7-4fed-45e2-b84d-661e651398ac · 2026-09-24T01:09:19.014487Z (wave-5.md)
+- date: 2026-09-24
+- context: Earlier comparison session that went wrong
+- tags: frustration | style · standing: yes
+
+### E2855 · No self-scheduled re-checks
+- quote: "Stop saying you'll check it again in an hour. I don't want you doing all that. That's a waste of tokens"
+- source: session_01NnvGazDHX6m5RAENuAmepR · 9996c9e6-648e-48f9-8165-d7b7bff983f1 · 2026-09-24T23:42:02.245287Z (wave-5.md)
+- date: 2026-09-24
+- context: Session close
+- tags: process | frustration · standing: yes
+
+### E2856 · Old and new side by side in a screenshot
+- quote: "why don't you show me the old version and the new version side by side in a screenshot, what they would look like, and so we can decide what we're going to do with that"
+- source: session_01EyNnKGwYC1XJNTtCnrN3su · 53c88283-40a3-48b8-b9ae-5bd195b4c932 · 2026-09-25T18:32:10.280625Z (wave-5.md)
+- date: 2026-09-25
+- context: Avatar placeholder replacement
+- tags: review-board | delivery · standing: yes
+
+### E2857 · Screenshot to see before deciding
+- quote: "could you like show me what it would look like and take a screenshot and show it to me, and then we can make a decision from there"
+- source: session_01EyNnKGwYC1XJNTtCnrN3su · 53c88283-40a3-48b8-b9ae-5bd195b4c932 · 2026-09-25T18:32:10.280625Z (wave-5.md)
+- date: 2026-09-25
+- context: Avatar sizing
+- tags: review-board · standing: yes
+
+### E2858 · Audit for stray and hidden leftovers
+- quote: "leftover frames that aren't being utilized anymore, like some of the original ones or something"
+- source: session_01EyNnKGwYC1XJNTtCnrN3su · c74ebbbd-37a4-4918-aeef-f7c37f48e29b · 2026-09-25T16:47:48.548744Z (wave-5.md)
+- date: 2026-09-25
+- context: Design system file cleanup
+- tags: frustration | process · standing: one-off
+
+### E2859 · Bright white too striking on dark
+- quote: "Anywhere that there's like this bright white right now, aside from like text, it's too striking. That's not, that doesn't feel like on brand at all. So I would use like darker grays that we have in our design system"
+- source: session_0166JAzbQuEsW2gByC8QYwyV · fe27042a-ee67-480f-b871-ec1fb6b72fcd · 2026-09-18T22:38:23.359716Z (wave-5.md)
+- date: 2026-09-18
+- context: Design system page being built (spacing, radius, canvas anatomy)
+- tags: style | product · standing: yes
+
+### E2860 · Three options when he dislikes it
+- quote: "I actually want you to give me three different options for how that can look because I'm not loving this right now"
+- source: session_0166JAzbQuEsW2gByC8QYwyV · fe27042a-ee67-480f-b871-ec1fb6b72fcd · 2026-09-18T22:38:23.359716Z (wave-5.md)
+- date: 2026-09-18
+- context: Spacing scale presentation
+- tags: decision-board · standing: yes
+
+### E2861 · Is all this detail needed
+- quote: "I actually kind of wonder if we really need all this detail though."
+- source: session_0166JAzbQuEsW2gByC8QYwyV · fe27042a-ee67-480f-b871-ec1fb6b72fcd · 2026-09-18T22:38:23.359716Z (wave-5.md)
+- date: 2026-09-18
+- context: Spacing scale page
+- tags: copy | style · standing: yes
+
+### E2862 · Horizontal layout that wraps
+- quote: "I would just do them all horizontal, but just like make them wrap, you know."
+- source: session_0166JAzbQuEsW2gByC8QYwyV · ca5a85f1-59fd-4691-83b2-cdcc70e27846 · 2026-09-18T22:51:42.734865Z (wave-5.md)
+- date: 2026-09-18
+- context: Corner radius examples
+- tags: responsive | style · standing: one-off
+
+### E2863 · Top-align right content to the label
+- quote: "Whatever's there, the top of whatever's there should align with the top of that little label tag under the main title"
+- source: session_0166JAzbQuEsW2gByC8QYwyV · ca5a85f1-59fd-4691-83b2-cdcc70e27846 · 2026-09-18T22:51:42.734865Z (wave-5.md)
+- date: 2026-09-18
+- context: Design system page alignment
+- tags: style · standing: yes
+
+### E2864 · Rather nothing than too much
+- quote: "I would rather have nothing than like what you're showing me. It's just like not good, right? Like, it's just too much."
+- source: session_0166JAzbQuEsW2gByC8QYwyV · 3cbd2dcd-a675-4cd9-96d2-926775cf8f79 · 2026-09-18T23:03:18.830135Z (wave-5.md)
+- date: 2026-09-18
+- context: Spacing scale presentation
+- tags: style | copy · standing: yes
+
+### E2865 · No multiple descriptions per item
+- quote: "you don't need to have all, you don't need to have multiple descriptions here. It doesn't make sense, it's just like way too much random text, it feels out of place"
+- source: session_0166JAzbQuEsW2gByC8QYwyV · 3cbd2dcd-a675-4cd9-96d2-926775cf8f79 · 2026-09-18T23:03:18.830135Z (wave-5.md)
+- date: 2026-09-18
+- context: Design system page
+- tags: copy | style · standing: yes
+
+### E2866 · Annotate with numbers inside the shapes
+- quote: "those numbers, like the 20, whatever the pixels is for the margins, should be inside the margins themselves, like the examples, right?"
+- source: session_0166JAzbQuEsW2gByC8QYwyV · 3cbd2dcd-a675-4cd9-96d2-926775cf8f79 · 2026-09-18T23:03:18.830135Z (wave-5.md)
+- date: 2026-09-18
+- context: Page margins and canvas anatomy diagrams
+- tags: style | review-board · standing: yes
+
+### E2867 · Look it up, do not ask
+- quote: "no reason for you to ask me that like all this information you should have already had this knowledge"
+- source: session_0166JAzbQuEsW2gByC8QYwyV · 0b373209-dd93-47d8-81ae-f81882e79eb8 · 2026-09-18T23:17:00.011603Z (wave-5.md)
+- date: 2026-09-18
+- context: Claude asked for info that was in the file
+- tags: process | frustration · standing: yes
+
+### E2868 · A rule alone is not enough
+- quote: "A rule shouldn't be being misread. A rule's not good enough. We already have established this six times over. You can't just put a rule into place and expect it to be read."
+- source: session_01NtNprsZ2zUjFXRKCZK9Bjs · 750954f4-4ba7-4832-a1b3-98f63a681895 · 2026-10-30T18:44:08.576683Z (wave-5.md)
+- date: 2026-10-30
+- context: Studio design outputs were poor
+- tags: process | frustration · standing: yes
+
+### E2869 · Tell me when long, do not stop
+- quote: "please do not like stop your process. Just like let me know if this is going to be a long-ass time"
+- source: session_01NtNprsZ2zUjFXRKCZK9Bjs · b79ec8e3-5d0d-454f-8aaa-e0de9e4b10e8 · 2026-10-30T19:19:06.931848Z (wave-5.md)
+- date: 2026-10-30
+- context: Usage at 73 percent
+- tags: process · standing: yes
+
+### E2870 · Confusing to be told to compare
+- quote: "Can you please add some clarity to this? What am I doing?"
+- source: session_01NtNprsZ2zUjFXRKCZK9Bjs · a51f9606-551f-485c-b78f-4f655a16449b · 2026-10-30T19:32:50.184719Z (wave-5.md)
+- date: 2026-10-30
+- context: Redraw options and overlapping processes
+- tags: copy | frustration · standing: yes
+
+### E2871 · Do not judge your own work as sound
+- quote: "what judgment are you as the same AI that made these mistakes making to say that two of the 19 were sound."
+- source: session_01NtNprsZ2zUjFXRKCZK9Bjs · f62c323c-4b00-447e-8ce6-f6a2545b390b · 2026-10-30T19:42:07.854905Z (wave-5.md)
+- date: 2026-10-30
+- context: Studio redraw options
+- tags: frustration | process · standing: yes
+
+### E2872 · Do not tell him to skip looking
+- quote: "how am I supposed to know something's plainly wrong unless I look at look at it a little bit, right?"
+- source: session_01NtNprsZ2zUjFXRKCZK9Bjs · 287d087c-858b-42fa-b9eb-362c66fa7050 · 2026-10-30T19:57:44.292504Z (wave-5.md)
+- date: 2026-10-30
+- context: Told to pick the recommended option unseen
+- tags: review-board | frustration · standing: one-off
+
+### E2873 · Ask questions he can answer
+- quote: "please ask it in a way that I can respond more effectively."
+- source: session_01NtNprqbqqrdPxjU7XNeGyz · f5f033f9-0287-48c5-abc7-4a1ec54276d6 · 2026-10-30T23:09:37.262059Z (wave-5.md)
+- date: 2026-10-30
+- context: Question about the weekly flow
+- tags: copy | frustration · standing: yes
+
+### E2874 · Do not draw a whole screen to show navigation
+- quote: "you don't need to design the whole screen just to show me navigation."
+- source: session_01NtNprqbqqrdPxjU7XNeGyz · 7ef71e6f-6b43-47e9-a369-cd127566acb4 · 2026-10-31T00:05:16.098435Z (wave-5.md)
+- date: 2026-10-31
+- context: Action hub navigation change
+- tags: review-board | process · standing: yes
+
+### E2875 · Show the changed area before approval
+- quote: "I need to like show me top of the main column like what that would look like before I can approve it"
+- source: session_01NtNprqbqqrdPxjU7XNeGyz · 5809d469-b28d-42d2-8ecd-9b8ef5ed492e · 2026-10-31T00:50:03.662686Z (wave-5.md)
+- date: 2026-10-31
+- context: Action hub redraw
+- tags: review-board · standing: yes
+
+### E2876 · Do not use vertical space
+- quote: "no i dont like its taking up vertical space like that. can u please do research on refero for ideas?"
+- source: session_01NtNprqbqqrdPxjU7XNeGyz · 66434ca2-00fa-4ba1-afde-6faaf95ad6c5 · 2026-10-31T03:47:06.049716Z (wave-5.md)
+- date: 2026-10-31
+- context: Notification shortcuts on the action hub
+- tags: style | process · standing: yes
+
+### E2877 · Not showing in Figma
+- quote: "no those aernt showign up on figma"
+- source: session_01NtNprqbqqrdPxjU7XNeGyz · 4c16d94b-0ea4-4aeb-a7ec-5d33ab37e209 · 2026-10-31T04:14:07.822202Z (wave-5.md)
+- date: 2026-10-31
+- context: Figma build
+- tags: frustration | delivery · standing: one-off
+
+### E2878 · Random extra button
+- quote: "also what is this btw? this random extra button?"
+- source: session_01NtNprqbqqrdPxjU7XNeGyz · 911d235c-aa0b-4737-a15a-efb4d9d38092 · 2026-10-31T04:18:52.419118Z (wave-5.md)
+- date: 2026-10-31
+- context: Figma screen
+- tags: frustration · standing: one-off
+
+### E2879 · Which version is current
+- quote: "I don't even know which one's the most like recent"
+- source: session_01NtNprqbqqrdPxjU7XNeGyz · d72b7cff-4895-4a0e-b9ce-803ddb083469 · 2026-10-31T18:39:22.912315Z (wave-5.md)
+- date: 2026-10-31
+- context: Frames ST1.1, AH1.1 and 1.2
+- tags: navigation | frustration · standing: yes
+
+### E2880 · Where am I
+- quote: "what are we working on here"
+- source: session_01NtNprqbqqrdPxjU7XNeGyz · 3512cc7b-3c7c-45cd-a931-c82b2785b302 · 2026-10-31T03:42:24.270966Z (wave-5.md)
+- date: 2026-10-31
+- context: Returning to a chat
+- tags: navigation · standing: yes
+
+### E2881 · Touch target is a dev instruction
+- quote: "that would be an instruction for dev to make sure that touch point on mobile is 44 by 44. It doesn't necessarily need to be in Figma"
+- source: session_01NtNprqbqqrdPxjU7XNeGyz · f7bb2c3b-b5cc-453b-ab9f-c19751a1636d · 2026-10-31T20:28:16.971243Z (wave-5.md)
+- date: 2026-10-31
+- context: Button sizing
+- tags: responsive | product · standing: yes
+
+### E2882 · Should not scream AI
+- quote: "I don't want it to like scream AI"
+- source: session_01NtNprsh5Ru4rVbGHLg4nos · 6b85d3fe-a73e-4dff-bbe8-db01d67e9d41 · 2026-11-14T21:03:35.972331Z (wave-5.md)
+- date: 2026-11-14
+- context: Icon choice for the AI mentor
+- tags: style | product · standing: yes
+
+### E2883 · Send another session to research Refero
+- quote: "can you have another session go out and just do the research on this though and figure out what other products are doing on referro"
+- source: session_01NtNprsh5Ru4rVbGHLg4nos · f9461548-2fe0-41de-8f5d-19aab525915e · 2026-11-14T21:18:50.450294Z (wave-5.md)
+- date: 2026-11-14
+- context: Icon choice
+- tags: process · standing: one-off
+
+### E2884 · Token list in order
+- quote: "there's just a lot of stuff like that that's not in order, and that's like really hard to work with."
+- source: session_01NtNprp9NMXQr6F9oyYUyoV · d19905ab-2779-4b56-af21-56fa90fcf877 · 2026-11-11T18:34:22.800874Z (wave-5.md)
+- date: 2026-11-11
+- context: Token variable list
+- tags: style | frustration · standing: yes
+
+### E2885 · Leftover labels look dirty
+- quote: "why is there something that says retiring right now in layout number one? This is not related to what I'm saying, but like, why is that there? Why is that not deleted? That's dirty."
+- source: session_01NtNprp9NMXQr6F9oyYUyoV · d19905ab-2779-4b56-af21-56fa90fcf877 · 2026-11-11T18:34:22.800874Z (wave-5.md)
+- date: 2026-11-11
+- context: Token setup in Figma
+- tags: style | frustration · standing: yes
+
+### E2886 · Track everything he says
+- quote: "I need you to make sure you're making a list of everything I'm saying that needs to be done and handled so that it's all set and set up"
+- source: session_01NtNprp9NMXQr6F9oyYUyoV · d19905ab-2779-4b56-af21-56fa90fcf877 · 2026-11-11T18:34:22.800874Z (wave-5.md)
+- date: 2026-11-11
+- context: Token cleanup
+- tags: process · standing: yes
+
+### E2887 · Prototype in Canvas to feel hover and press
+- quote: "give me a preview of a bunch of different things that matter here in terms of making a decision if one needed to be hypothetically made, like a prototype in Canvas, so I can like feel the highlight hover and like press state of everything and make sure it feels okay at least"
+- source: session_01NtNprrkRKNFA1YfEBEuJzb · b80cae75-b3e2-4355-b50c-391d9ce0220b · 2026-11-14T00:24:50.009810Z (wave-5.md)
+- date: 2026-11-14
+- context: Interaction states for components
+- tags: review-board | interaction | decision-board · standing: yes
+
+### E2888 · Segmented control active item not hoverable
+- quote: "That shouldn't be hoverable to begin with. That's not how a segment and control button works."
+- source: session_01NtNprrkRKNFA1YfEBEuJzb · f7cf0883-6c5f-484a-8b93-17fb90f5fbce · 2026-11-14T00:29:44.525389Z (wave-5.md)
+- date: 2026-11-14
+- context: Canvas prototype of states
+- tags: interaction · standing: yes
+
+### E2889 · Brighter highlight for context menu
+- quote: "The context menu, yes, we do definitely need a brighter color there."
+- source: session_01NtNprrkRKNFA1YfEBEuJzb · f7cf0883-6c5f-484a-8b93-17fb90f5fbce · 2026-11-14T00:29:44.525389Z (wave-5.md)
+- date: 2026-11-14
+- context: Hover and press prototype
+- tags: interaction | style · standing: one-off
+
+### E2890 · Keep fixes small
+- quote: "this cannot like turn into some like huge marathon of like changes. We just need to like look at what actually needs to be changes now, change now, and do that accordingly."
+- source: session_01NtNprrkRKNFA1YfEBEuJzb · 6e40bdc1-35b1-4198-8ac7-37c6ec44b7a1 · 2026-11-14T00:14:06.535035Z (wave-5.md)
+- date: 2026-11-14
+- context: Button state fix
+- tags: process | frustration · standing: yes
+
+### E2891 · Before and after screenshots by a review agent
+- quote: "One review agent compares before and after screenshots of each changed screen, then show me the after shots and which screens changed."
+- source: session_01TFYRxvRwKfCLGEKWJPmUL8 · 8ef22d90-b0b6-4ddf-8429-ee6be7968954 · 2026-10-02T00:13:36.872189Z (wave-5.md)
+- date: 2026-10-02
+- context: Layout fix on Journey Advisement screens
+- tags: review-board | process · standing: yes
+
+### E2892 · Repeated: review agent before showing
+- quote: "have one review agent compare before and after screenshots of each changed screen before you show me"
+- source: session_01TFYRxvRwKfCLGEKWJPmUL8 · 1007c5f3-1b26-4759-9cd7-4600a03c5261 · 2026-10-02T00:18:28.601659Z (wave-5.md)
+- date: 2026-10-02
+- context: Layout fix
+- tags: review-board | process · standing: yes
+
+### E2893 · Edges too dark, list rows look like action items
+- quote: "They look too much like action items, whatever these list items are, and they're like really dark, like the like edges."
+- source: session_01TFYRxvRwKfCLGEKWJPmUL8 · 6971c364-9037-4c0f-9e6f-d08f7414871e · 2026-10-02T00:24:34.436818Z (wave-5.md)
+- date: 2026-10-02
+- context: Home screen M4.1 review
+- tags: style | review-board · standing: one-off
+
+### E2894 · Wasted space
+- quote: "It feels like there's some like wasted space."
+- source: session_01TFYRxvRwKfCLGEKWJPmUL8 · 6971c364-9037-4c0f-9e6f-d08f7414871e · 2026-10-02T00:24:34.436818Z (wave-5.md)
+- date: 2026-10-02
+- context: Hours screen layout
+- tags: style · standing: one-off
+
+### E2895 · Fully responsive when built
+- quote: "just want to make sure that we are gonna make sure this is fully responsive when we build it, yes"
+- source: session_01TFYRxvRwKfCLGEKWJPmUL8 · 6971c364-9037-4c0f-9e6f-d08f7414871e · 2026-10-02T00:24:34.436818Z (wave-5.md)
+- date: 2026-10-02
+- context: Journey Advisement screens
+- tags: responsive · standing: yes
+
+### E2896 · Spread out for no reason
+- quote: "the her journey thing on M6.1 is crazy. Like, I don't know what that is to spread out through the whole page for no reason"
+- source: session_01TFYRxvRwKfCLGEKWJPmUL8 · 37f6bd5b-7c41-4591-b54c-0e3914b415f6 · 2026-10-02T00:29:32.778388Z (wave-5.md)
+- date: 2026-10-02
+- context: M6.1 workspace
+- tags: style | frustration · standing: one-off
+
+### E2897 · Popovers left aligned underneath
+- quote: "usually they're left aligned and like underneath"
+- source: session_01TFYRxvRwKfCLGEKWJPmUL8 · 02111b3a-888d-45f3-9480-d813b88891f0 · 2026-10-02T00:31:49.476848Z (wave-5.md)
+- date: 2026-10-02
+- context: Popover placement
+- tags: style | product · standing: yes
+
+### E2898 · Changes not visibly applied
+- quote: "I think they all look the same. Am I crazy? These look like they did last time, I think."
+- source: session_01TFYRxvRwKfCLGEKWJPmUL8 · 94388b22-1607-4f80-9622-dfb3f5f9e20f · 2026-10-02T00:28:14.374226Z (wave-5.md)
+- date: 2026-10-02
+- context: Figma screens after claimed edits
+- tags: frustration | review-board · standing: yes
+
+### E2899 · No unnecessary wrapper frames
+- quote: "One thing you got to really get out of the habit of doing is just making unnecessary frames."
+- source: session_01NtNprpRp5FonMRTLc9X1Xt · 3255ab09-75ed-44ae-b729-9eac26224dde · 2026-11-14T01:00:43.095619Z (wave-5.md)
+- date: 2026-11-14
+- context: Figma build review of chat screens
+- tags: frustration | process · standing: yes
+
+### E2900 · Use proximity from Refero chat references
+- quote: "really using that rule of proximity to understand why things are the way they are. It just feels like some of these things are too close."
+- source: session_01NtNprpRp5FonMRTLc9X1Xt · 3255ab09-75ed-44ae-b729-9eac26224dde · 2026-11-14T01:00:43.095619Z (wave-5.md)
+- date: 2026-11-14
+- context: Chat screens spacing
+- tags: style | process · standing: yes
+
+### E2901 · Hoverable on desktop
+- quote: "it's obviously high hoverable on a desktop, just to be clear. Needs to be, and so do these buttons"
+- source: session_01NtNprpRp5FonMRTLc9X1Xt · 3255ab09-75ed-44ae-b729-9eac26224dde · 2026-11-14T01:00:43.095619Z (wave-5.md)
+- date: 2026-11-14
+- context: Chat action buttons
+- tags: interaction | responsive · standing: yes
+
+### E2902 · Deck, simple and clear, little text
+- quote: "lay that all out in the form of a PowerPoint presentation. Do not over-engineer your communication to me. Keep it simple and clear."
+- source: session_01SzCxkxLN8uZdBrgrVZYK71 · 7841b273-999b-4e10-924b-96e31e5c50aa · 2026-10-01T20:24:47.017357Z (wave-5.md)
+- date: 2026-10-01
+- context: Design system audit deliverable
+- tags: delivery | copy · standing: yes
+
+### E2903 · Too much text is hard to consume
+- quote: "if there's too much text, it's going to be too difficult to consume. So I need it very, very simplified in terms of communication"
+- source: session_01SzCxkxLN8uZdBrgrVZYK71 · 7841b273-999b-4e10-924b-96e31e5c50aa · 2026-10-01T20:24:47.017357Z (wave-5.md)
+- date: 2026-10-01
+- context: Design system audit deck
+- tags: copy · standing: yes
+
+### E2904 · Clean list helps him see problems
+- quote: "the fact that you gave this nice list and kept it clean is like really good. I can actually like cleanly see and like understand the problems. It's like simplified."
+- source: session_01SzCxkxLN8uZdBrgrVZYK71 · f053650d-ba82-4003-a805-3dee787b30a6 · 2026-10-01T21:53:27.555199Z (wave-5.md)
+- date: 2026-10-01
+- context: Audit deck reaction
+- tags: review-board | copy · standing: yes
+
+### E2905 · Auto layout and responsiveness not guaranteed by builders
+- quote: "Did we make sure that responsiveness was going to be smooth sailing when they build next time in Figma 2? Because that seemed to be a bit of a problem as well since they weren't even using auto layout properly at all"
+- source: session_01SzCxkxLN8uZdBrgrVZYK71 · 69a29cc8-db6b-43a1-976f-8e9e21e2330c · 2026-10-02T00:24:56.027609Z (wave-5.md)
+- date: 2026-10-02
+- context: Figma builds
+- tags: responsive | frustration · standing: yes
+
+### E2906 · Check content fills to the margin
+- quote: "only fills the frames to the like margin so it matches on the left and right and like the green margin with the green I don't know why it's going outside of the container should have caught that"
+- source: session_01NGDLfjwhvxFeA8sveAZGKN · ade256d7-0f2a-406b-9bbd-537a7b0fd395 · 2026-09-30T23:53:43.143021Z (wave-5.md)
+- date: 2026-09-30
+- context: Frame check in Figma
+- tags: responsive | frustration · standing: one-off
+
+### E2907 · Long runs
+- quote: "there's no way that this should have taken 34 minutes. You need to figure out what's going on"
+- source: session_01NGDLfjwhvxFeA8sveAZGKN · ac884928-a646-4d87-823f-e54a621f35c9 · 2026-09-30T23:47:01.272682Z (wave-5.md)
+- date: 2026-09-30
+- context: Updating forms in Figma
+- tags: process | frustration · standing: yes
+
+### E2908 · Clear exact questions
+- quote: "Can you be clear of the exact questions? Like simple response? Like, use cavemen if you have to"
+- source: session_01CmUqgfiUroAewcaEq1EVLq · ab7f0cc0-d0b5-4c05-8eb3-f038676f4424 · 2026-11-07T19:47:05.184107Z (wave-5.md)
+- date: 2026-11-07
+- context: Question from Claude
+- tags: copy | frustration · standing: yes
+
+### E2909 · Image preview of hover effects before building
+- quote: "can you give me like an image or like a multi-image preview depending on what we need for like hover effects and everything? So I can like before you build it, I can make sure that it looks good on my end"
+- source: session_01CmUqgfiUroAewcaEq1EVLq · c18c7874-32b6-4c25-817c-c4ba6b5441a8 · 2026-11-07T19:48:27.315796Z (wave-5.md)
+- date: 2026-11-07
+- context: Hover colour work
+- tags: review-board | interaction | process · standing: yes
+
+### E2910 · Hover not light enough, stop lighter hovers
+- quote: "you keep doing a lighter hover than I want, which we need to like change in general."
+- source: session_01CmUqgfiUroAewcaEq1EVLq · 252fa15d-b66a-4d64-b858-41ddb7032d39 · 2026-11-07T20:00:26.097537Z (wave-5.md)
+- date: 2026-11-07
+- context: Hover states
+- tags: interaction | style | frustration · standing: yes
+
+### E2911 · Mobile press differs from desktop hover
+- quote: "I also don't want the press state on mobile being the same as the hover stand on desktop."
+- source: session_01CmUqgfiUroAewcaEq1EVLq · 7fef572c-fcea-48e9-a10c-73ffdbe01ef3 · 2026-11-07T21:02:28.417911Z (wave-5.md)
+- date: 2026-11-07
+- context: Hover and press colours
+- tags: interaction | responsive · standing: yes
+
+### E2912 · Long runs waste usage
+- quote: "why were you working 56 minutes? That's a crazy waste of my tokens."
+- source: session_01CmUqgfiUroAewcaEq1EVLq · 2056137f-1599-442f-90a1-4fdbd2813e76 · 2026-11-07T20:58:35.222542Z (wave-5.md)
+- date: 2026-11-07
+- context: Hover colour task
+- tags: process | frustration · standing: yes
+
+### E2913 · Wants a personal layout pattern system
+- quote: "we would have like adapted the layout into a system that we could modify, make responsive, and depending on what the grid is and all that kind of stuff, and then eventually create a tool"
+- source: session_015ZnnPryRp4pd9XZDmyKjAX · 6ba9e9be-f163-4505-9ac7-9cb18b303451 · 2026-10-02T03:09:27.876302Z (wave-5.md)
+- date: 2026-10-02
+- context: Layout pattern library idea
+- tags: responsive | process · standing: yes
+
+### E2914 · Same layout over and over
+- quote: "it was one pattern that was being repeated over and over again for all the output"
+- source: session_01UYLHKNRVPyAwH7BfvSc46G · 14125971-518a-4632-8bd7-b6927d2074b8 · 2026-10-02T03:06:32.398694Z (wave-5.md)
+- date: 2026-10-02
+- context: Claude's screen designs
+- tags: frustration | style · standing: yes
+
+### E2915 · Links open the app not the browser
+- quote: "that link is opening my app not in browser"
+- source: session_01UYLHKNRVPyAwH7BfvSc46G · d70d54c6-c392-4ee1-93ee-523224cb68d0 · 2026-10-02T03:19:38.952603Z (wave-5.md)
+- date: 2026-10-02
+- context: Artifact link
+- tags: delivery | frustration · standing: yes
+
+### E2916 · More thought on spacing, positioning, grouping
+- quote: "I'd also like you to be a little bit more thoughtful about spacing and positioning and grouping and how things look."
+- source: session_01HoxzRi5EtGdGQbMBkdL3LK · 9df0e815-f777-4afd-b933-159d34310f4b · 2026-09-25T15:43:46.941760Z (wave-5.md)
+- date: 2026-09-25
+- context: Empty state pattern options
+- tags: style | process · standing: yes
+
+### E2917 · Use UX-strategy tools by default
+- quote: "I don't know if you didn't use a lot of didn't use any tools like Impeccable that has a UX strategy built into it, because you should be using that for things like this"
+- source: session_01HoxzRi5EtGdGQbMBkdL3LK · 9df0e815-f777-4afd-b933-159d34310f4b · 2026-09-25T15:43:46.941760Z (wave-5.md)
+- date: 2026-09-25
+- context: Empty state pattern options
+- tags: process | frustration · standing: yes
+
+### E2918 · Sidebars collapsed, core frame as if collapsed
+- quote: "make sure all of the sidebars are collapsed and make sure the core frame s set up like it would look if the side bars were collapsed?"
+- source: session_01GezimoVGxjpGim2fjRLZp9 · 7981235f-a56a-484b-9b29-48ab736da58e · 2026-10-21T23:36:45.333662Z (wave-5.md)
+- date: 2026-10-21
+- context: Desktop frames rebuilt at 1440 by 1080
+- tags: shell | responsive | review-board · standing: yes
+
+### E2919 · Show how the grid responds at a given size
+- quote: "taking our grid ruling into consideration and stuff, and how things respond, like how the grid responds and things, and however all that is set up"
+- source: session_01GezimoVGxjpGim2fjRLZp9 · 8f977293-0fac-48be-9326-c3cfaf4992e5 · 2026-10-21T23:21:00.643280Z (wave-5.md)
+- date: 2026-10-21
+- context: Onboarding frames at 1440 by 1080
+- tags: responsive · standing: one-off
+
+### E2920 · Dark review styling consistent across pages
+- quote: "In the darker mode, this is really easier for me to use when I'm like reviewing and doing my edits."
+- source: session_01NtNprsxuBiq6aVncH4FH2G · 6bde61e9-b1d0-46e8-b80f-153af5058fc3 · 2026-10-30T16:33:35.529921Z (wave-5.md)
+- date: 2026-10-30
+- context: Studio action hub page in Figma
+- tags: style | review-board · standing: yes
+
+### E2921 · Same styling across pages
+- quote: "we used to make sure all these pages were styled the same"
+- source: session_01NtNprsxuBiq6aVncH4FH2G · 6bde61e9-b1d0-46e8-b80f-153af5058fc3 · 2026-10-30T16:33:35.529921Z (wave-5.md)
+- date: 2026-10-30
+- context: Studio page
+- tags: style · standing: yes
+
+### E2922 · Dangling closers are unclear
+- quote: "you do this thing at the end. Sometimes you're like, one thing is, and I never know if there's actually something we need to deal with, or if you're just like saying that"
+- source: session_01MjLLT8Jd181tGPdGV4agVk · ea07a355-f8c6-4d59-9f89-257291f69193 · 2026-10-16T17:14:54.326466Z (wave-5.md)
+- date: 2026-10-16
+- context: End of reply
+- tags: copy | frustration · standing: yes
+
+### E2923 · Table, no fancy UI
+- quote: "maybe you can create some kind of table of some sort or whatever you think visually makes the most sense for this task yeah but don't do like build a UI or anything fancy"
+- source: session_01BKFvgc8CaLScXF7iREWEtn · 51381b85-23ce-4f66-b21c-89dea3f99aa5 · 2026-09-25T19:53:31.922410Z (wave-5.md)
+- date: 2026-09-25
+- context: Conversation audit
+- tags: style | delivery · standing: yes
+
+### E2924 · Do not drop in a component that cannot do its job
+- quote: "it doesn't make sense to bring in a component that you can't interact with because obviously the teacher can't interact with these so why would this look like this"
+- source: session_018BBDUwmrSUDMeJKkvBgxLE · e886d4f4-d6c4-4ae7-8f4b-c7870766cc2b · 2026-10-02T19:32:40.183546Z (wave-5.md)
+- date: 2026-10-02
+- context: Action item look-alikes on a read-only view
+- tags: style | product · standing: one-off
+
+### E2925 · Bright green reads as a CTA
+- quote: "you can't use the bright green like this in the design systems all the time with the check marks"
+- source: session_018BBDUwmrSUDMeJKkvBgxLE · 75e2a2eb-f903-4990-8e05-713cf11c4ba8 · 2026-10-02T19:42:07.559115Z (wave-5.md)
+- date: 2026-10-02
+- context: Status indicators on a screen
+- tags: style | product | frustration · standing: yes
+
+### E2926 · Give files directly
+- quote: "give me those files directly somehow please dont ask me to getch them"
+- source: session_01FbP6rXRrL83EkJNFPdPZwD · 3a0ac040-2e09-44e2-a0bd-3819ad6358ca · 2026-09-25T02:09:42.685802Z (wave-5.md)
+- date: 2026-09-25
+- context: Getting design files out of the chat
+- tags: delivery | frustration · standing: yes
+
+### E2927 · Show differences clearly, he cannot spot small ones
+- quote: "i am not a computer so i an not analye and notice the small details of differences."
+- source: session_01FbP6rXRrL83EkJNFPdPZwD · cd79d4fa-f0cf-4d2e-9d15-b43e2fe635a0 · 2026-09-25T03:06:48.036911Z (wave-5.md)
+- date: 2026-09-25
+- context: Screen variations that looked identical
+- tags: review-board | frustration · standing: yes
+
+### E2928 · Mark what is new without blocking the page
+- quote: "you need to design options for indicating what is new on the page without liek blocking out the rest of the page"
+- source: session_01FbP6rXRrL83EkJNFPdPZwD · b03c1d5b-b518-4f49-a87b-1edc4e30309f · 2026-09-25T03:19:04.576618Z (wave-5.md)
+- date: 2026-09-25
+- context: Dev annotation of new elements
+- tags: review-board | style · standing: yes
+
+### E2929 · Do not disturb the design frame
+- quote: "it also caant disturb the design frame"
+- source: session_01FbP6rXRrL83EkJNFPdPZwD · 624b1a22-ad40-4c9f-9e90-9d756944a3e5 · 2026-09-25T03:19:26.414075Z (wave-5.md)
+- date: 2026-09-25
+- context: New-element annotation
+- tags: style · standing: yes
+
+### E2930 · Annotation must not outweigh the element
+- quote: "right now it feels kind of like the annotation is taking more visual prominence than the actual element itself, and it feels overly engineered and complex"
+- source: session_01FbP6rXRrL83EkJNFPdPZwD · 48390453-7f7e-4b08-861c-dc88eb331482 · 2026-09-25T16:01:01.392802Z (wave-5.md)
+- date: 2026-09-25
+- context: New-element annotation
+- tags: style | review-board · standing: yes
+
+### E2931 · Not the AI purple
+- quote: "I don't know why we're using this purple color, it's like that AI purple color or whatever. Can you instead use the magenta for my design system?"
+- source: session_01FbP6rXRrL83EkJNFPdPZwD · 48390453-7f7e-4b08-861c-dc88eb331482 · 2026-09-25T16:01:01.392802Z (wave-5.md)
+- date: 2026-09-25
+- context: Annotation colour
+- tags: style · standing: yes
+
+### E2932 · Usable for the developer
+- quote: "it needs to be usable for the developer. This doesn't make sense in that context"
+- source: session_01FbP6rXRrL83EkJNFPdPZwD · fe3a68f5-4dba-42ea-8ec3-c2ceb7c1ec88 · 2026-09-25T16:06:42.453487Z (wave-5.md)
+- date: 2026-09-25
+- context: Annotation outline on a real component
+- tags: delivery | review-board · standing: yes
+
+### E2933 · Needs steps he can follow
+- quote: "I have no idea how to do this. You know, like, you remember I'm a coder, right? Because I this is all I tried doing this, clicking play and stuff, nothing happened. I don't know what it is supposed to do"
+- source: session_01NtNprtSHxnzvYkRk6sqajv · 5af77aa3-bd68-44ee-a080-4403e11fbcaa · 2026-11-08T22:10:10.725629Z (wave-5.md)
+- date: 2026-11-08
+- context: Running a script in Figma for fonts
+- tags: delivery | frustration · standing: yes
+
+### E2934 · Drag and resize the active element
+- quote: "If I could, like, see the active element and like drag it around and like resize it for positioning. Is it possible for us to create something like that"
+- source: session_01NtNprtAermJCTRCQJUds3v · 75dc2c5d-b013-4cb3-88c2-84c4fb28c101 · 2026-11-16T18:03:37.183997Z (wave-5.md)
+- date: 2026-11-16
+- context: Shader gradient frame for the brochure hero
+- tags: editor | interaction · standing: yes
+
+### E2935 · Outline only on hover, grey, not green
+- quote: "it should only appear like on hover, and then if I move my keyway, it should, you know, move my ass away, it should go away. And it definitely shouldn't be green"
+- source: session_01NtNprtAermJCTRCQJUds3v · 129f8775-b74c-45c7-883e-48ce4e8ee0c7 · 2026-11-16T18:17:46.179526Z (wave-5.md)
+- date: 2026-11-16
+- context: Positioning overlay on the effect
+- tags: interaction | style · standing: yes
+
+### E2936 · Adjustable left interface
+- quote: "please make it so the interface on the left is adjustable so I can make it like smaller or whatever if I need be"
+- source: session_01NtNprtAermJCTRCQJUds3v · 129f8775-b74c-45c7-883e-48ce4e8ee0c7 · 2026-11-16T18:17:46.179526Z (wave-5.md)
+- date: 2026-11-16
+- context: Gradient positioning tool
+- tags: shell | editor · standing: yes
+
+### E2937 · Control for the outline colour
+- quote: "can u add a control so i can change the color fo the outline of the frame that the effect is sitting in"
+- source: session_01NtNprtAermJCTRCQJUds3v · 8532f66f-77c7-44cd-9513-f3fd4fbaedd9 · 2026-11-16T18:53:01.465019Z (wave-5.md)
+- date: 2026-11-16
+- context: Gradient positioning tool
+- tags: editor · standing: one-off
+
+### E2938 · Collect references in one place
+- quote: "make sure you're collecting all these and putting them in a specific location for reference here."
+- source: session_01NtNprtAermJCTRCQJUds3v · 20dc8195-b158-42c2-8565-7fa7ebf5c2f5 · 2026-11-16T19:22:10.354093Z (wave-5.md)
+- date: 2026-11-16
+- context: Reference images for the brochure hero
+- tags: process | delivery · standing: yes
+
+### E2939 · Layouts on the design canvas, five to ten
+- quote: "I want you to create on the canvas, the design canvas, like five to ten layouts"
+- source: session_01NtNprtAermJCTRCQJUds3v · 54b21890-2513-4a2f-80e5-e69caab80b86 · 2026-11-16T19:29:02.726851Z (wave-5.md)
+- date: 2026-11-16
+- context: Hero exploration
+- tags: decision-board | delivery · standing: yes
+
+### E2940 · Use the harness and checks
+- quote: "use our harness and use the proper checks to make sure that you're not missing anything I'm saying"
+- source: session_01NtNprtAermJCTRCQJUds3v · 54b21890-2513-4a2f-80e5-e69caab80b86 · 2026-11-16T19:29:02.726851Z (wave-5.md)
+- date: 2026-11-16
+- context: Hero exploration
+- tags: process · standing: yes
+
+### E2941 · Square blank grids are not wanted
+- quote: "I really hate the grids in the background, though. You're like using the same type of like square bakes, like blank grids on all these"
+- source: session_01NtNprtAermJCTRCQJUds3v · b2d3dcd4-bba5-474d-a45b-3ea657c459cb · 2026-11-16T19:53:15.897473Z (wave-5.md)
+- date: 2026-11-16
+- context: Hero layout options
+- tags: style | frustration · standing: yes
+
+### E2942 · Three variants of each that he liked
+- quote: "give me three variants of each of the versions that I liked"
+- source: session_01NtNprtAermJCTRCQJUds3v · b2d3dcd4-bba5-474d-a45b-3ea657c459cb · 2026-11-16T19:53:15.897473Z (wave-5.md)
+- date: 2026-11-16
+- context: Hero layout options
+- tags: decision-board · standing: yes
+
+### E2943 · Components must be adjustable
+- quote: "I also don't really have a lot of control over some of these things because there's like all these additional layers and I can't move things around, so I need to do a better job of making sure these things are adjustable."
+- source: session_01NtNprtAermJCTRCQJUds3v · 29189660-3d28-46e2-8b84-ea7d7a0568d3 · 2026-11-17T00:11:27.211265Z (wave-5.md)
+- date: 2026-11-17
+- context: Options he moved around
+- tags: editor | frustration · standing: yes
+
+### E2944 · Ignored the stated grid type
+- quote: "I literally told you no square grids like this in the background. Like, that's crazy. It literally is so specific."
+- source: session_01NtNprtAermJCTRCQJUds3v · 2b4a0754-f5f7-4d3d-810c-fe83cf8db653 · 2026-11-17T00:39:26.286687Z (wave-5.md)
+- date: 2026-11-17
+- context: Hero options round
+- tags: frustration | style · standing: yes
+
+### E2945 · Not using the references
+- quote: "You literally have the clear references, and I told you this before, you're able to create multiple variations of that."
+- source: session_01NtNprtAermJCTRCQJUds3v · 2b4a0754-f5f7-4d3d-810c-fe83cf8db653 · 2026-11-17T00:39:26.286687Z (wave-5.md)
+- date: 2026-11-17
+- context: Hero options round
+- tags: frustration | process · standing: yes
+
+### E2946 · Stopped referencing images
+- quote: "I think you're just probably not referencing the images at all anymore, even though I keep telling you to."
+- source: session_01NtNprtAermJCTRCQJUds3v · e2d03bd3-8c48-4e62-a1e1-6b5509beb2ce · 2026-11-17T01:18:42.389299Z (wave-5.md)
+- date: 2026-11-17
+- context: Hero options round
+- tags: frustration | process · standing: yes
+
+### E2947 · Five variations of the grid
+- quote: "give me like five different variations of the grid behind it"
+- source: session_01NtNprtAermJCTRCQJUds3v · e2d03bd3-8c48-4e62-a1e1-6b5509beb2ce · 2026-11-17T01:18:42.389299Z (wave-5.md)
+- date: 2026-11-17
+- context: Hero options round
+- tags: decision-board · standing: yes
+
+### E2948 · Grid locked behind movable elements
+- quote: "put the grid part behind the elements like you have it here obviously but then you can put all in a frame and then like lock it so if I move anything on top it doesn't mess anything up"
+- source: session_01NtNprtAermJCTRCQJUds3v · cbfcd813-a1b9-457d-b861-c16ffa4b4d1c · 2026-11-17T01:36:37.699145Z (wave-5.md)
+- date: 2026-11-17
+- context: Figma build of hero composition
+- tags: editor | delivery | style · standing: yes
+
+### E2949 · Smart build, easy to move
+- quote: "make sure you're smart about how you build this too like I don't want a bunch of weird things and making it hard to move things around"
+- source: session_01NtNprtAermJCTRCQJUds3v · cbfcd813-a1b9-457d-b861-c16ffa4b4d1c · 2026-11-17T01:36:37.699145Z (wave-5.md)
+- date: 2026-11-17
+- context: Figma build of hero composition
+- tags: editor | process · standing: yes
+
+### E2950 · Status dot colour legend
+- quote: "I know a gray dot flashing means it's working. What is a yellow dot versus a blue dot?"
+- source: session_01NtNprstwZ3cfjRrp3fa9Wz · 567ae958-6c1e-4848-8bed-89f2420a5869 · 2026-11-11T17:46:46.240532Z (wave-5.md)
+- date: 2026-11-11
+- context: Claude session status indicators
+- tags: navigation | frustration · standing: one-off
+
+### E2951 · Dividers darker than outlines, rule in the system
+- quote: "that needs to be a rule in the system as well that whatever the dividers are within another frame, those should always be a darker color."
+- source: session_01NtNprpNSfzU3LgL2aDw4Tx · ea6a6a0a-d3e4-4395-9eaa-5109b94d0b43 · 2026-11-12T22:04:07.749784Z (wave-5.md)
+- date: 2026-11-12
+- context: Divider token fix
+- tags: style | product · standing: yes
+
+### E2952 · Check the real file, not inference
+- quote: "Because you haven't opened Figma. Literally, go look at Figma and look at what's set up in the variables, obviously"
+- source: session_01NtNprpNSfzU3LgL2aDw4Tx · 7295bae1-a88d-4c39-bdee-80f964bd8154 · 2026-11-12T21:34:05.197087Z (wave-5.md)
+- date: 2026-11-12
+- context: Divider tokens
+- tags: process | frustration · standing: yes
