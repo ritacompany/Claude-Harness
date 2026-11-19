@@ -39,7 +39,7 @@ Layout and shell
   stack or stretch what was there. (E0498, E0499, E1257, E2426, E2525)
 - Any sidebar, side panel or top control bar collapses: a toggle on or beside it hides it to a slim
   rail or out of the way and the main area takes the room. Every side panel can also be dragged
-  wider or narrower by its edge. (E2190, E0052, E1638, E1448, E2581, E2778, E2936)
+  wider or narrower. (E2190, E0052, E1638, E1448, E2581, E2778, E2936)
 - Cap content at a max width on large screens and centre it; reading text sits in a column near
   normal line length. (E0142, E0342, E1047, E1766, E2243, E2733)
 - Containers fill their parent and wrap their contents. No scroll box inside the page and no blank
@@ -55,14 +55,14 @@ Look
   nothing in the chrome competing with the work.
   (E1127, E1585, E2157, E1434, E2020, E2021, E2022, E2198, E2920, E2483)
 - In his tools, no bright white blocks, fills or panels: white is for text, and surfaces use dark
-  greys with a light stroke. (E2206, E2591, E2593, E2859)
+  greys with a light stroke. (E2206, E2591, E2593, E2859, E2592)
 - Every label and line is easy to read: nothing tiny or thin and no text that blends into a grey
   ground. (E0188, E0265, E0411, E1130, E1280)
 - Basic craft everywhere: on a grid, aligned, related things grouped by tighter spacing, no random
   gaps or overlaps. (E0497, E1183, E0175, E2266, E2854, E2916)
 - No default AI look: no two column split by habit, no AI purple, no coloured accent line on a
-  panel edge. No blank square grid backgrounds either. Be creative with the space.
-  (E1925, E2216, E2701, E2703, E2255, E2931, E2944)
+  panel edge. Be creative with the space.
+  (E1925, E2216, E2701, E2703, E2254, E2255, E2931)
 - Layout grids, guides and annotation overlays are off in anything he reviews.
   (E2221, E2225, E2531, E2658, E2659)
 - Use the full web toolkit the job needs (scripts, CSS motion, canvas, libraries); never a
@@ -99,12 +99,12 @@ Behaviour
 
 Scope
 - Build the smallest thing that does the job today: no extra steps, features or plans he did not
-  ask for, and no title, tag or button that repeats what is already on screen.
+  ask for, and no button or icon that repeats what is already on screen.
   (E0416, E0591, E0656, E1580, E2009, E2477, E2817, E2923)
 - Free libraries and what he already has; never route a build through paid software or an account
   he lacks. (E0319, E1556, E2112)
 - On a fix, change only what he named and carry every settled decision forward; no rejected idea
-  comes back. (E1666, E2103, E0173, E1341, E2393, E2575, E2645)
+  comes back. (E1666, E2103, E0173, E1341, E2393, E2575, E2645, E2944)
 - On a new exploration round, change boldly; never return a lightly reworked last round.
   If his feedback changes a drawing, redraw it; never resend it with a new caption.
   (E1896, E0722, E2852, E2898, E2530)
@@ -119,8 +119,8 @@ Scope
 - Show, don't describe: an idea, state or style under discussion gets rendered, not explained. A
   copy only ask, or a fix he already agreed, needs no page.
   (E0036, E0067, E0100, E0279, E1876, E2373, E2654, E2269)
-- Before he approves any change, show before and after side by side as images in the reply or on
-  the page, one line per pair saying what changes; never a link to go and look in Figma.
+- Before he approves a visual change, show before and after side by side as images in the reply
+  or on the page, one line per pair saying what changes; never a link to go and look in Figma.
   (E2370, E2635, E2638, E2639, E2640, E2856)
 - Show only the area that changes, cropped close enough that the difference is plain; never a
   whole page or a redesigned screen to show one part. (E2771, E2874, E2875, E2927)

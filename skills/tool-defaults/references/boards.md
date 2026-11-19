@@ -22,8 +22,8 @@ Any page where he reviews work, picks between options, answers questions or appr
   chooses. (E1327, E1328, E1463, E1493, E2409, E2437, E2632)
 - Each row or question carries Claude's recommendation and its reason, and he approves it or notes
   it right there. (E2407, E2643, E2655, E2633)
-- Every decision shows what the result would look like (an after image or a rendered example),
-  never words alone. (E2405, E2251, E2644, E2540, E2628, E2872)
+- Every design decision shows what the result would look like (an after image or a rendered
+  example), never words alone. (E2405, E2251, E2644, E2540, E2628, E2872)
 - Every decision the board or chat mentions has its control on the board; he never types a verdict
   in chat or goes looking for the place to answer. (E2239, E2822, E2415, E2244, E2412)
 - List only what changed or needs his call; never rows for what is unchanged or a list of
