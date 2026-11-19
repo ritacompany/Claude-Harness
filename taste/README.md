@@ -27,7 +27,7 @@ Decided by: Chadwick, 18 Nov 2026, "yes" to every page build applying the librar
 running its checks. Each project names it at the step that builds or reviews a page, and its own
 rules win where they disagree:
 
-- Mondai brochure design: ritacompany/mondai, `mondai-design/steps/brochure.md` step 7 (ask A204).
+- Mondai brochure design: ritacompany/mondai, `mondai-design/steps/brochure.md` step 7 (ask A205).
 - Mondai brochure code: ritacompany/mondai-site, CLAUDE.md, rules for every change.
 - Portfolio site: ritacompany/portfolio, `docs/PROJECT_CONTEXT.md` guardrails, with `npm run taste`
   running six entries' checks on the shipped pages.
