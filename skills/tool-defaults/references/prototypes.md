@@ -4,10 +4,12 @@ Clickable prototypes, mock pages, website builds, hover and button effects, moti
 
 - A mock of a web product renders as a desktop page that fills the browser, also when opened in a
   new tab; never a phone layout unless asked. The page still holds up at phone width.
-  (E0040, E0048, E0061, E0128, E0957, E0298)
+  It is one live page that responds as the window resizes, never several fixed viewports side by
+  side. (E0040, E0048, E0061, E0128, E0957, E0298, E2531)
 - Every hover, click, menu, state and transition is wired before he sees it; a static or half wired
   build is not done. (E0038, E0070, E0071, E0221)
-- List every state of each screen first, then build each as its own clean view. (E0481, E0534, E0563)
+- Once he has confirmed the screens, list every state of each screen and build each as its own
+  clean view. (E0481, E0534, E0563, E2268)
 - Lay out for the longest and shortest real content: no fixed heights guessed, text wraps, rows of
   cards stay even. (E0325, E0326, E0327, E0352)
 - Hover on every link, button, card and row, small footer links included; never on anything not

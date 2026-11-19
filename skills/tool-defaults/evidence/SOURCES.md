@@ -227,9 +227,300 @@ How the research ran: Sonnet readers pulled his own messages (never Claude's) fr
 - session_0174K5nWLK4ff5sxrN6t4GdM · 2026-09-23 · Design system comparisons brief · read to first message
 - session_011Y5uqrXNsKHrQ4d1Tun42X · 2026-09-11 · Catbook Workstation typography/composition · partial: back to 13 Sep 05:28 UTC; his 11 and 12 Sep board comments are covered by the artifact comment sweep where they were left on artifacts
 
+## Cloud sessions read in the second round, 18 to 19 Nov (288 product and other sessions; 229 to the first message, 59 partial where the server refused older pages or older pages held only subagent output; 269 held his typed messages)
+
+- session_01NtNproyzYpeuiWbrsrS72Q · 2026-11-16 · North Kingdom website fonts · read to first message
+- session_01NtNprrA3bymb63aMu5KK58 · 2026-11-13 · Design system integration with Claude Code · partial
+- session_01NtNprqZgNvxi6bjxYaLhsr · 2026-11-11 · Setup: claude-harness for both accounts · read to first message
+- session_01NtNprp1SsJL5Yj2GtSVMnB · 2026-11-06 · Missing message search · partial
+- session_01NtNprrTKQmhwsDkPVBnPdp · 2026-10-30 · Mondai: Studio redraw build · read to first message
+- session_016VZrRCxPLnNeRr8rkYFk11 · 2026-10-23 · Portfolio: design system case study concept · read to first message
+- session_01F9UX7ywMRLU3YzTuuVwY4y · 2026-10-19 · Portfolio: design system case study readiness · read to first message
+- session_01Fu2mJ1prPVUMzR2KfQWjQ1 · 2026-10-10 · Mondai: student told they have a mentor (notifications) · read to first message
+- session_01YV8VB4pVycXtWbWJzoxbY5 · 2026-10-07 · Mondai: M7.6 call screen redesign · read to first message
+- session_01SNDTo7rNJJD2uUvXE7Q5QM · 2026-10-01 · Mondai: stage 4 screens fix, tested and handed over · read to first message
+- session_01KtQMERsMSTeVT7P3VLn9fj · 2026-09-26 · Mondai: side by side spacing rules and area gap · read to first message
+- session_011khMt7ymjN9HTPcMR7Zd6W · 2026-09-25 · Setup: locating the Cohorts reorganisation chat · partial
+- session_01JdsVs8hwk6Urq6P6yY3J1G · 2026-09-24 · Process information review · read to first message
+- session_0185JU1tYeVQyzNjwKLfB32s · 2026-09-19 · Design system extraction · read to first message
+- session_01UwzkoCFMCFpK2ZDiMEH8oE · 2026-09-16 · Mondai brochure site repo access · read to first message
+- session_01NtNprtBdQKNrvQpu3cp6Ec · 2026-11-15 · Mondai: Tutorial tooltip close X · read to first message · none of his typed messages
+- session_01NtNprrHpAM6HyeHW7rdAqf · 2026-11-12 · Mondai: chat sprint strategy doc and stage 2 research · read to first message
+- session_01NtNprqu5gZ35REiBycPu6h · 2026-11-08 · Setup: CS2 cost guard and stop hook fixes · read to first message
+- session_01NtNprsaJPHougnkCd4RC2t · 2026-11-05 · Portfolio case study calendar images · read to first message
+- session_01NtNprs6bztp1AnhntFxNLK · 2026-10-29 · Mondai: land the speed cuts · read to first message
+- session_01CmUqgfiUroAewcaEq1EVLq · 2026-10-22 · Mondai: design system library pages, wave 1 · read to first message
+- session_01MjLLT8Jd181tGPdGV4agVk · 2026-10-16 · Mentor screens date/caption rulings · read to first message
+- session_01D1UWT76nyYVFUnVLM41hsh · 2026-10-08 · Mondai: how process changes get made · read to first message
+- session_012npadsWtaDCnTxznUvRtmZ · 2026-10-02 · Mondai process: screens built straight in Figma · read to first message
+- session_01A6wtzdsb1K4iAxCSCGeFie · 2026-09-30 · developer check · read to first message
+- session_019uRDY9aAZ6xpHgHHnEhniY · 2026-09-25 · Mondai: region gap rule · read to first message
+- session_01LYobnc7iW3DYhwnxiS23xV · 2026-09-25 · Mondai design system patterns page · read to first message
+- session_01JbgsNBwAq2zNxpyUKbADxi · 2026-09-23 · Mondai: wrapped text line heights · read to first message
+- session_01HYQffWzPSMBmSu7nZQi4t1 · 2026-09-18 · DS page: Cards and containers · read to first message · none of his typed messages
+- session_01NtNprrh7dBR8mHw56a7A8m · 2026-11-14 · Mondai: launcher icon research on Refero · read to first message
+- session_01NtNprp57Nk757XeNDfy1iA · 2026-11-12 · Desktop MVP file publish queue · read to first message
+- session_01NtNprqNKVxMHCtJ6VtqGJP · 2026-11-08 · Mondai: sidebar nesting in the library · read to first message
+- session_01NtNprstwZ3cfjRrp3fa9Wz · 2026-11-05 · Mondai: case study frames, header buttons and notification dots · read to first message
+- session_01NtNprq1tSAXSLMMZvUqzTC · 2026-10-29 · Intelligent Career Tools 1 sprint · read to first message
+- session_01KVSsjbDxZKjFS3B3CSHr36 · 2026-10-22 · Monday mentor events-based screens quality · read to first message
+- session_01MXEQZxnS9s6NHJAgeBSybQ · 2026-10-15 · Portfolio strategy review · read to first message
+- session_018FBqbJExZ9WfWSPwp5vf9D · 2026-10-08 · Mondai: UX deep dive and tested process fixes · read to first message
+- session_01XqYiQ2gyb5fJ8RUTJWjgH4 · 2026-10-02 · Student Advisement: sprint 4 transcript · read to first message
+- session_01AqP2V9bgE1z2oJpRFqB3yJ · 2026-09-30 · Refero vs Mobbin for UI layout · read to first message
+- session_01BTpeKMpQUNEhYx9oMfKUwM · 2026-09-25 · Mondai pull request audit · read to first message
+- session_019TMvtLPLFecAz9fEbEisVn · 2026-09-25 · Mondai MVP layout damage fixes · read to first message
+- session_01Uv2N91fB1k3gu8mGzngkFy · 2026-09-23 · Mondai: text style rulings and library step 1 · read to first message
+- session_019hTXC1WKgUz1Q3cTpPKrDV · 2026-09-18 · DS page: Input fields · read to first message
+- session_01NtNprsh5Ru4rVbGHLg4nos · 2026-11-14 · Mondai chat: launcher icon and placement check · read to first message
+- session_01NtNprreUd3muP6BR6Wd9JB · 2026-11-12 · Mondai: Conversational AI UX methods · read to first message
+- session_01NtNprtSHxnzvYkRk6sqajv · 2026-11-08 · Portfolio: site build from transported Figma frames · read to first message
+- session_01NtNprpUucZb74MR5S4y81a · 2026-11-04 · Setup: why the sidebar cleanup chat used 11% of the week · read to first message · none of his typed messages
+- session_01NtNprsE6T5k57GaYgNQ2Y5 · 2026-10-28 · Mondai: nested sidebar navigation · read to first message
+- session_01YNpTxFqCPrdNFXKUk7km6U · 2026-10-21 · Mondai: why the UX process isn't lifting mentor events screens · read to first message
+- session_0138DPPGxkVAwPWnZtxsuGjG · 2026-10-15 · Monday design system plan · partial
+- session_01Mw6hqwsq4fJFxXv4gjmAJB · 2026-10-08 · Mondai research: line length and max widths in design systems · read to first message
+- session_01WJoqCa6c1auKN9R5exGU8t · 2026-10-02 · Process: sprint audit and rule sweep · read to first message
+- session_016sbiCrVZoRVtCjRfgQMAaP · 2026-09-30 · Mondai: Journey Advisement core screens · read to first message
+- session_01Tc9efSzxgej2gf23FAyD69 · 2026-09-25 · PeerConnect navigation icon · read to first message
+- session_01ByCW6sxio2TTKHk7TnrTvz · 2026-09-25 · Setup: organizing parallel Claude sessions · read to first message
+- session_01MByFtQidCQenDKtpFFbq1W · 2026-09-23 · Design system components shrunk · read to first message
+- session_011N8R71JDXMN9BChxts1cDK · 2026-09-18 · DS page: Progress indicators · read to first message
+- session_01NtNprrFm92C1HJHHLeNQBV · 2026-11-14 · Mondai: Action Hub tour research · read to first message
+- session_01NtNprshUFDwNAx8ECBJS8x · 2026-11-12 · Sidebar conversation status review · read to first message
+- session_01NtNprrXMWL1GbWtA792nWY · 2026-11-07 · Portfolio: going live, Cloudflare hosting and domain · read to first message · none of his typed messages
+- session_01NtNprpMb57iL6nyNC8Gx7N · 2026-11-04 · Process: build the ten lever fixes · partial
+- session_01NtNprs9sxCPGteoMkVruuF · 2026-10-28 · Intelligent Career Tools 1 research · read to first message
+- session_01GezimoVGxjpGim2fjRLZp9 · 2026-10-21 · Desktop One MVP grid layouts · read to first message
+- session_01WyDxDBQpB1N8N7n3t8oKu7 · 2026-10-15 · Mentor/mentee experience sprint closure · read to first message
+- session_01HQBm4gtJ5j4Rbvb9PKdZE5 · 2026-10-08 · Design team task opportunities · read to first message
+- session_01MWwLPKp6RTDcwe7kiTSNpu · 2026-10-02 · Mondai: when to build a new component vs a variant · read to first message
+- session_0165R8JtyFzx85pxytYnrPUd · 2026-09-30 · Mondai: Journey Advisement flows · read to first message
+- session_01KyPCiwuV5oXBySxFTtMwAU · 2026-09-25 · New coding session · read to first message
+- session_01FbP6rXRrL83EkJNFPdPZwD · 2026-09-25 · Mondai: Cohort match reuse options · read to first message
+- session_01FNMfUHePTWtPTQmPexqs1G · 2026-09-23 · Figma thumbnail padding issue · read to first message
+- session_01JxXbWdC96AwJkUQEPhAfi2 · 2026-09-18 · DS page: Icons · read to first message
+- session_01NtNprtGfkxYCd7F6wcbh3u · 2026-11-14 · Mondai: hover and selected, after the library publish · read to first message
+- session_01NtNprtGFTSHUhL4iQY9Xgu · 2026-11-12 · M1.1 mentor brochure design · read to first message
+- session_01NtNprqdnBFYZURyvhiA8Un · 2026-11-07 · Portfolio: CS2 tactics and case study bank pass · read to first message
+- session_01NtNprqgrins8FECeJoE3Cb · 2026-11-04 · Process: speed cuts full replay run · read to first message
+- session_01NtNprrJVLej95m56qWjeEv · 2026-10-28 · Setup: sidebar groups cleanup · read to first message
+- session_01WqXKutb1s4seGenDM8EvFC · 2026-10-21 · Mondai: placeholder text left on handed-off screens · read to first message
+- session_01WFotcMMhGpCXDCBDhMhwRu · 2026-10-14 · Mondai: token collections cleanup · read to first message
+- session_01Cg8GtsX79KJhQ2KJTi2rYv · 2026-10-08 · Mondai: why the screens are not improving (process audit) · partial
+- session_01Bw7jrCrsmp2RcU87rVVjsA · 2026-10-02 · New features navigation setup · partial
+- session_01AfMmaXdb6atkn27vM2WXjz · 2026-09-29 · Journey Advisement: mentor research restart · partial
+- session_01CE2mhKG62UDJ3FfJKWLvNu · 2026-09-25 · Mondai design system User icon component · read to first message
+- session_01EbzvdYk46eoN269wGKRozQ · 2026-09-25 · Mondai: Cohort match repeated screens · read to first message · none of his typed messages
+- session_01AYG7t1dGvHzvi1TRwzYbW6 · 2026-09-23 · AI breakpoint design cost model · read to first message
+- session_01V447h1tC4QgafjwhxygPXc · 2026-09-18 · New iPhone wide screen design guidelines · read to first message
+- session_01NtNprtcAnRcCMyGew6ReLB · 2026-11-14 · Mondai: finalize hover and selected · read to first message
+- session_01NtNprrzJVYyWotnXTnqhhU · 2026-11-12 · Mondai: conversational AI transcript read · partial
+- session_01NtNprtT8oSqpEv3TcDsCL2 · 2026-11-07 · Mondai: style only Figma check and rule 11 merge fix · read to first message
+- session_01NtNprsFtrbozGRyKXiKTk3 · 2026-11-03 · Mondai: agent levers process review · read to first message
+- session_01NtNprpv6gWhkBregVuZrG4 · 2026-10-28 · Mondai: Intelligent Career Tools 1 (Studio) strategy · read to first message
+- session_01SZ6D9sVy4kGFiatshxku9i · 2026-10-21 · Growth journey hierarchy structure · read to first message
+- session_011EdHjBAKyLDqztFuWYayBu · 2026-10-14 · Mondai: design system tokens and case study plan · read to first message
+- session_01187BF3yzDKmvAV2jKHAFGr · 2026-10-08 · Mondai: Student Advisement stage 4 base designs in Figma · read to first message
+- session_01Cu22ttWZyMT5ywSzpq6YjG · 2026-10-02 · Mondai: design system AI integration and case study · read to first message
+- session_01Mw6QJF4YAPY1qCRuJTxWZi · 2026-09-29 · Base screens design review · read to first message
+- session_01BKFvgc8CaLScXF7iREWEtn · 2026-09-25 · Conversation audit and pin status · read to first message
+- session_01H8DU64aeLxejMJTzWmGo6u · 2026-09-24 · Mondai: Cohort match base screens · read to first message
+- session_019XBXkLpwUBXxGK1wZKQnLc · 2026-09-23 · Setup: Session title rules · read to first message
+- session_01FTzjutUqaZcHeVLzX6krif · 2026-09-18 · Cohort feature audit and UX strategy · read to first message
+- session_01NtNprpRp5FonMRTLc9X1Xt · 2026-11-13 · Mondai chat: round 2 states · read to first message
+- session_01NtNprqaWEBgJiatwKttjai · 2026-11-11 · Mondai: token hygiene check · read to first message
+- session_01NtNprrnvP7GXF9dfnV14ue · 2026-11-07 · Mondai: CS action items redesign · read to first message
+- session_01NtNprtbxNXDgVzsoVkVgEB · 2026-10-31 · Onboarding: retune spacing after the stepper fix · read to first message · none of his typed messages
+- session_01NtNprpcGNe4t99CEnbqbER · 2026-10-28 · Navigation reveal decision for Michael · read to first message
+- session_015sQetzbVvAzJ39CNXQboJ7 · 2026-10-21 · Portfolio case study GitHub project · read to first message · none of his typed messages
+- session_01HPfuoBgNs76XWQ3ZpthLMh · 2026-10-14 · Mondai: process review after Student Advisement · partial · none of his typed messages
+- session_01W2vSVkvv8fRMJ93QhoAbY4 · 2026-10-07 · Mondai: design system tokens · partial
+- session_016MV4QnbiotSxUdmEuDfEdp · 2026-10-02 · Journey advisement screens redesign (refero) · partial
+- session_019wKL7mEirCDVwFmTLdCaNE · 2026-09-28 · Flows document · read to first message
+- session_01HfSpAMhDkmGVcGB691RH4v · 2026-09-25 · Conversation audit · read to first message · none of his typed messages
+- session_018CTtLggWoT3mpMtWpjKUc3 · 2026-09-24 · Card dividers color update · read to first message
+- session_01ArWhDJdB6fKqPVhWCSkJo4 · 2026-09-23 · Claude resource discovery and community skills · read to first message · none of his typed messages
+- session_01MpPNxPE2U8rhtXsYaq5isY · 2026-09-18 · DS page: Selection control · read to first message
+- session_01NtNprsBd8hcq2b7wswrJfx · 2026-11-13 · M1.1: copy round 3, length and story · read to first message
+- session_01NtNprsExYeHf6UbLSkUY4Q · 2026-11-11 · Mondai: type tokens and text styles · partial
+- session_01NtNprr5XEQ7dqjy1UYVTzv · 2026-11-07 · Mondai: action item page type and spacing into components · read to first message
+- session_01NtNprqbqqrdPxjU7XNeGyz · 2026-10-30 · Mondai: Studio lead chat · partial
+- session_01NtNprr1eKSZTNPgjEJ4BST · 2026-10-28 · Mondai: calendar weekday header date boxes · read to first message
+- session_01JaSG94PGkJxzKH1B3Jici2 · 2026-10-21 · Mondai: mentor events base screens · read to first message
+- session_01JWY6nnbJWeAu47g4rynJEx · 2026-10-14 · Mondai process: review of the Journey Advisement misses · read to first message
+- session_01SaDdevp4bnYZfqxoDxZdxQ · 2026-10-07 · Copy generation and UX · partial
+- session_015ZnnPryRp4pd9XZDmyKjAX · 2026-10-02 · Personalized pattern system methodology · partial
+- session_01X1D75JPZNmjSbn6wT68taY · 2026-09-28 · Strategy doc transcription · partial
+- session_01Mndv5oox3Zu4P1YA7hgpdt · 2026-09-25 · Mondai: design system tokens and patterns research · read to first message
+- session_019yz6Fk16W5xUZLjYrZpQGt · 2026-09-24 · Mondai design system extraction · partial
+- session_017JWEnbn9MPsibt4cwzjqLb · 2026-09-23 · "hand-drawn" · partial
+- session_01QhioP4THnboM8mQqTdCaNQ · 2026-09-18 · TLDR in skill responses · read to first message
+- session_01NtNprrkRKNFA1YfEBEuJzb · 2026-11-13 · Mondai: grey rename and new selected grey · partial
+- session_01NtNprr6gw2x87qu2tLbsC4 · 2026-11-11 · Mondai: spacing and radius tokens · partial
+- session_01NtNprp4drfXkEKxJu3Qdp8 · 2026-11-07 · Portfolio: Framework CS review restart · partial
+- session_01NtNprsJiXAfaA6tZKDJzAn · 2026-10-30 · Studio build: round 5 screens in Figma · partial
+- session_01NtNprs4XjFaGaBnKRo473E · 2026-10-28 · Mondai: sprint review, mentor events · partial
+- session_01FXxcJggVkCNNmDRYKa2jmZ · 2026-10-21 · Mondai: mentor events flows · partial
+- session_012sq5tF8WqBjLKpKgXG2KJK · 2026-10-14 · Groups cleanup and review · partial
+- session_016vnDpV9z2uYaCLJeEdN8Bq · 2026-10-07 · Process: why UX research misses standard patterns · partial
+- session_01UYLHKNRVPyAwH7BfvSc46G · 2026-10-02 · Layout pattern variety in design · partial
+- session_01Kt7gBqPdUBCpbesZd9tLuH · 2026-09-27 · Mondai: new work process and quality bar · partial
+- session_01WMM1YYX2MUcJKbcRMk7xX1 · 2026-09-25 · Region gap rule for Cohorts NEW · partial
+- session_01HmZxbuKpbDLaLGNL75ZsEy · 2026-09-24 · Mondai: Unsorted event sets and icon export finish · partial
+- session_01FRu24mz7n69ggxjYYHLPHc · 2026-09-23 · Design system tokens and components · partial
+- session_016XHgs1MS6fWw8Q1fodmeU9 · 2026-09-18 · Concise output style settings · partial
+- session_01NtNprrFSYQyqdiR7edy9tv · 2026-11-13 · Mondai: spacing tokens for every multiple of 4 · read to first message · none of his typed messages
+- session_01NtNprp9NMXQr6F9oyYUyoV · 2026-11-11 · Mondai: token cleanup lead · read to first message
+- session_01NtNprqQettKbWMewd6qgu8 · 2026-11-07 · Design system CS: first draft · read to first message · none of his typed messages
+- session_01NtNprqJfVMuTNoDdMJJ7Ue · 2026-10-30 · Process: Studio skipped steps and the two column habit · read to first message
+- session_01JYNxdorQ6km2mExztUGpET · 2026-10-24 · Frame width distribution calculation · read to first message
+- session_01ApRwxVU49z45tMymYo6VGV · 2026-10-20 · Mondai: pure black and white in the colour primitives · read to first message
+- session_01UWbrqSJKYhVLLahq9qcjGP · 2026-10-14 · Mondai: emails and notifications outside the flows · read to first message
+- session_015Y2PBWVreBn31v3K2fcFfv · 2026-10-07 · Mondai: navigation and locked features · read to first message
+- session_018BBDUwmrSUDMeJKkvBgxLE · 2026-10-02 · Mondai: Journey Advisement stage 5, states and spacing roles · read to first message
+- session_0182BYAD1AngZCXfgFhviwVq · 2026-09-27 · Haven: confidante flow reorder animation · read to first message
+- session_0154FssahFrMxoM6pzYxuh1N · 2026-09-25 · Mondai: Figma icon library structure research · read to first message
+- session_017qTWyDPU53vg3HKA2EGqG4 · 2026-09-24 · Peer Connect: user flows from the research · read to first message
+- session_01QArnoEjABhtqNbBBNfZFHw · 2026-09-19 · Design system implementation efficiency · read to first message
+- session_014mzFb6sUyK5MGc9KJoVX95 · 2026-09-18 · Recent conversations transcript review · read to first message
+- session_01NtNprtAermJCTRCQJUds3v · 2026-11-16 · Brochure hero and mentorship section · read to first message
+- session_01NtNprs7hjw6vAM1Mzom8n9 · 2026-11-13 · Mondai chat: stage 4 Figma build · read to first message
+- session_01NtNprrApUSF6mQLfMutxNU · 2026-11-11 · Mondai: process lead (rotation, 11 Nov) · read to first message
+- session_01NtNprpS1ULvJZfzbiTJg7r · 2026-11-06 · Process: size caps blocking his decided rules · read to first message
+- session_01NtNprtTXdCMhnhgRxxZKBL · 2026-10-30 · Mondai process: going off the steps without breaking things · read to first message
+- session_019XuBizNz15FZrMv2VCvWuA · 2026-10-23 · Mondai: MVP re-link to the design system library · read to first message · none of his typed messages
+- session_01Xz5vfVjHDGxbXsCPL5Dy6h · 2026-10-19 · Mentor event strategy v1 research · read to first message
+- session_01EJJCqeeR8xQhZMzbu8iicH · 2026-10-10 · Mondai: call date block options (student screens) · read to first message
+- session_015T5HdpP2j6z8ZgzJhsc9Xq · 2026-10-06 · Student Advisement: locked sidebar item copy · read to first message
+- session_01RCWPNX2pQLGs22RPQq7Pyt · 2026-10-01 · Context menu custom time component · read to first message
+- session_01A2X1Fcjp8LjMkWJ8gKLyc2 · 2026-09-26 · Mondai: design skill and region gap rule · read to first message
+- session_01EyNnKGwYC1XJNTtCnrN3su · 2026-09-25 · Mondai: design system file cleanup · read to first message
+- session_01CGhb311XLDGp81qvUheuhC · 2026-09-24 · Document review for research relevance · read to first message
+- session_0166JAzbQuEsW2gByC8QYwyV · 2026-09-18 · DS page: Grids and spacing · read to first message
+- session_01R5mHuY4SxJnGz1KoskMiHE · 2026-09-12 · Claude code chat workflow · read to first message
+- session_01NtNprpKFvvW8JQMmd8qsHE · 2026-11-13 · Mondai: Neutral/250 study · read to first message
+- session_01NtNprqMtTe3A6wLLX6zRJX · 2026-11-11 · Design system: merge Mono Small Tight into Mono Small · read to first message
+- session_01NtNprsA95rubxrEUG9U9f7 · 2026-11-07 · Portfolio: Mondai framework CS, background, ending and full copy audit · read to first message
+- session_01NtNprrT4Xh23GTEt8sGDWp · 2026-10-30 · Monday product design review · read to first message
+- session_01DkqcMo8mREtvXPH3tC9Tke · 2026-10-23 · Mondai: miniature events component spacing · read to first message
+- session_01HXvYqcABuSzmfnbapvBpFh · 2026-10-20 · Navigation and mentor advisement questions · read to first message
+- session_01NyhXmXE9UXRTnN2V3zKYDs · 2026-10-14 · Journey Advisement: mentor sign-up and application review fixes · partial
+- session_01TQXMZ3DdSGnHSyKCPDe8Qa · 2026-10-07 · Student Advisement screens, stage 4 · read to first message
+- session_01TFYRxvRwKfCLGEKWJPmUL8 · 2026-10-02 · Mondai: Journey Advisement stage 4 layout fix · partial
+- session_01LUEVs8U8o6YLu6PYcHqiKM · 2026-09-26 · Mondai: label sizes in Cohorts and Peer Connect · read to first message
+- session_01J8Sz8RhFXFTYvnqQHLXJfQ · 2026-09-25 · Mondai: spacing as relations · partial
+- session_012NmcLi1kvVvkSyUmyndZ8P · 2026-09-24 · Mondai: sync rules fixes and Impeccable plugin · read to first message
+- session_01YNgrNPmrppw5NyhD5SVQfo · 2026-09-19 · Mondai design system extraction · read to first message
+- session_01U7d4aySi9vtTBQPgHYk2WB · 2026-09-17 · Design system clean up · partial
+- session_01NtNprtjnv5LtKs35YpVWkS · 2026-11-15 · Product branding visual terminology · read to first message
+- session_01NtNprtWNmegDfZjpdNePZh · 2026-11-13 · Mondai: selected state colour for buttons and rows · read to first message
+- session_01NtNprrbEv6vnP8S7zBHsko · 2026-11-11 · Mondai: sidebar look and People group name · read to first message
+- session_01NtNprrJBjUQEV2CQetQjaJ · 2026-11-06 · Design system CS: efficiency numbers · read to first message
+- session_01NtNprsZ2zUjFXRKCZK9Bjs · 2026-10-30 · Mondai: why the Studio screens came out badly · read to first message
+- session_015TMEX3tqewzQipxe53HRTb · 2026-10-23 · Mondai: mentor events round 2, live room and attendee states · read to first message
+- session_017KCoJj9oTjji4GYNvjcLqm · 2026-10-19 · Mentor events research · read to first message
+- session_01T1fBQNveugL6guF9TtZr11 · 2026-10-10 · Mondai: mentee experience developer handoff · read to first message
+- session_015qg39ynLbvwJ2x4yGRMtBS · 2026-10-06 · Student Advisement: stage 3 flows page · read to first message
+- session_01SzCxkxLN8uZdBrgrVZYK71 · 2026-10-01 · Design system audit and recommendations · read to first message
+- session_01T6dwPv5axZLLJXXzGFU3mU · 2026-09-26 · Grid margin discrepancies · read to first message
+- session_01UaCk11dEmdsouAfuBnJdHR · 2026-09-25 · Design system: button sizing rules · read to first message
+- session_0113bMkqBuL4cf74nV6CW3eo · 2026-09-24 · Cohorts matching GitHub information · read to first message
+- session_01U7x2opovHtBqqt65tqcxzr · 2026-09-18 · DS page: Typography · read to first message · none of his typed messages
+- session_01A5H7keCyQ3degcYwdnQsfb · 2026-09-03 · Setup report and instructions review · read to first message
+- session_01NtNprt76oBh3VEmZw2Gpct · 2026-11-15 · Mondai: chat gaps research and small design updates · read to first message
+- session_01NtNprrhpHzzeTuHLgA6fPE · 2026-11-13 · Mondai: finish design system PR #314 · partial · none of his typed messages
+- session_01NtNprq1TdSA6kXqdQEvfbw · 2026-11-11 · Sidebar status · partial · none of his typed messages
+- session_01NtNprtTQgF2VqzM49JwnZ4 · 2026-11-06 · Portfolio deployment strategy and costs · partial
+- session_01NtNprqMrEP4ryxCC5cVgj3 · 2026-10-30 · Number styles in career tools · partial
+- session_01NooCSCdMMWYE2yE5Tbi2TL · 2026-10-23 · Mondai: mentor events round 2, host side states · read to first message
+- session_01SrLpAq3tfJ6TZ4RC4Qpru3 · 2026-10-18 · Mentor events research · partial
+- session_01CNCxTuGmd7nnKe8c9uYQ8C · 2026-10-09 · Research: how others structure autonomous AI design workflows · partial
+- session_016dxziHfxCVE2sr8KGGiBpr · 2026-10-06 · Desktop grid system margins · read to first message
+- session_019evQ7GKtqPdMXBPQDKxq9a · 2026-09-30 · Design system navigation organization · partial · none of his typed messages
+- session_017vRTyX87DYKYmziyHyJNeo · 2026-09-26 · Mondai: Figma text style cleanup · partial
+- session_01LedJNRJFUnJwFnMT6n5Dsj · 2026-09-25 · Mondai: Cohorts developer handoff reorganisation · partial
+- session_01NsNUTjh3CSMKKB4wGUoGzA · 2026-09-24 · Mondai: grid cleanup to the 23 Sep grid · partial
+- session_01RUQsag5qcgKYVPLHBcb9kC · 2026-09-18 · DS page: Branding · partial
+- session_01QVBGYKYwy2wdNfkbhhWFSe · 2026-09-03 · Hook implementation review · read to first message
+- session_01NtNprphnGB3FUZqCCgdo2N · 2026-11-15 · Mondai: chat developer doc · read to first message
+- session_01NtNprpgEVvGHe7e2D326Pw · 2026-11-13 · Mondai: chat stage 4 build · read to first message
+- session_01NtNprsTFyJkXKEGQybxBUm · 2026-11-11 · Sprint strategy for conversational/contextual AI · read to first message
+- session_01NtNprpvVEtsykTmDeXX7gf · 2026-11-06 · Portfolio: Mondai framework CS, falling behind section · partial
+- session_01NtNprsxuBiq6aVncH4FH2G · 2026-10-30 · Studio Screen Action Hub styling · read to first message
+- session_01XMsoBW2Px4UFP5BPRcLyup · 2026-10-22 · Case study copy · partial
+- session_01FED9TmfPRHJu1HnV6BmLzj · 2026-10-18 · Mondai: research stage sprint question · read to first message
+- session_017PV75YgvoACX4SLe3aVxLn · 2026-10-09 · Journey advisement stop verification · read to first message
+- session_01C1E3bEqskrfLLjfNfqwAR1 · 2026-10-03 · Figma grid columns/rows behavior · read to first message
+- session_01NGDLfjwhvxFeA8sveAZGKN · 2026-09-30 · Onboarding form updates not syncing · partial
+- session_01JPoRadrk5AGVXyAJBsu6R2 · 2026-09-26 · Mondai: Peer Connect text style audit · read to first message
+- session_0121qGRyZJFzP7be8pFAHCcL · 2026-09-25 · Pinned conversations cleanup review · read to first message
+- session_0139Fsmepz9Duj43jc9TrKJu · 2026-09-24 · Grid system cleanup · partial
+- session_0174AJ9vFnds5vDhsFFxvnZ4 · 2026-09-18 · DS page: Calendars · read to first message
+- session_016FkzZBjLSsapnsxeyLpLDD · 2026-09-03 · GitHub cross-chat context access · partial
+- session_01NtNprtADpYJXDNW5b6JrxP · 2026-11-15 · Mondai: canvas first guard for Figma builds · read to first message
+- session_01NtNprpBLRRPgwUxL4VHPYF · 2026-11-13 · Mondai: chat stage 3 flows · read to first message
+- session_01NtNprt3M4uggRzoBmLwrKj · 2026-11-09 · Portfolio: handoff to second account · read to first message
+- session_01NtNprqYa9UbxTwCCnddG4H · 2026-11-06 · Test: weekly reflection process run · read to first message
+- session_01NtNprpQberpjhEcC4oh4Gr · 2026-10-30 · Studio Screens Action Hub progress · read to first message
+- session_01MZnrDxMkgvR2irmpVYo18g · 2026-10-22 · Mondai: Figma leftovers, parked screens and scratch pages · read to first message
+- session_01ENCp22AJrJiwXNbCr1RW4U · 2026-10-18 · Mentor events research · read to first message
+- session_01Qcy6VejBERNLaXB2Hh4BE8 · 2026-10-09 · Process: how the rules files get loaded and misapplied · read to first message
+- session_01JqXW1sxWEUEWPoovEEfnfM · 2026-10-02 · Mondai: component or not rule, interaction states · read to first message
+- session_01GfnKXKqHMnNUvDMC9s9cS8 · 2026-09-30 · Input field component states · read to first message
+- session_01V9NnTigs7DWGwqGtRK8DYU · 2026-09-26 · Transcript continuation · read to first message
+- session_01HoxzRi5EtGdGQbMBkdL3LK · 2026-09-25 · Or try one of these pattern · read to first message
+- session_01MGu1ZwjzaqmFMEHgeU8u4A · 2026-09-24 · Setup: text styles chat status check · read to first message
+- session_018Ep4KRctxD7LaEYwMvdJhP · 2026-09-18 · DS page: Navigation · read to first message · none of his typed messages
+- session_01DPuEHiMamC2y1QgJpPKoss · 2026-08-28 · Session hooks and focus management · read to first message
+- session_01NtNprssidcxRurKXU2huzn · 2026-11-15 · Action Hub onboarding component spacing · read to first message
+- session_01NtNprpkAswYM8S8hh5NggF · 2026-11-13 · Mondai: M1.1 become a mentor brochure page · read to first message
+- session_01NtNprrH9Ew5zeCdtAu1urm · 2026-11-09 · Portfolio: Haven tactics pass · read to first message
+- session_01NtNprsYDsJzZHnssVhTKzX · 2026-11-06 · Mondai: design system case study examples · read to first message
+- session_01NtNprsYRXUwKfkpN1PmEj1 · 2026-10-30 · Mondai: action item edit button states and focus · read to first message
+- session_01V2pHwYBy4LjDRQWtjnbUSG · 2026-10-22 · Mondai: mentor events base screens, continued · read to first message
+- session_01VAHz6J5RzejLtzexQ1aByq · 2026-10-18 · Mondai: design system Unsorted page and Cohorts components · read to first message
+- session_01L49ennMZ1qP4qvjb4QbLit · 2026-10-09 · Research: why AI-built Mondai screens ignore UX principles · read to first message
+- session_01HB8aq5iY6iaWCYKXWdqKP3 · 2026-10-02 · Mondai: grid right edge rule · read to first message
+- session_011UDoEmHShDBp1kdYNCLzPA · 2026-09-30 · Design system change tracking · read to first message
+- session_01QneJ6kEAwzrjxetzJzbPP4 · 2026-09-25 · Core frame grid margins · read to first message
+- session_013aZBbKtn3SFxK5jRj2RMbT · 2026-09-25 · Mondai: cohorts grid and region gap rule · read to first message
+- session_01NnvGazDHX6m5RAENuAmepR · 2026-09-24 · Mondai: card spacing comparisons handoff · read to first message
+- session_015yBZm2USLNDRrKq9YG6Gc8 · 2026-09-18 · DS page: Lists · read to first message
+- session_01X9REygeJpuQjbse6ABNafC · 2026-08-28 · Design system organization cleanup · read to first message
+- session_01NtNprtXGqvUNcgX1SU71YM · 2026-11-15 · Mondai: Become a mentor page copy round 3 · read to first message
+- session_01NtNprqEv1yFx1rtdzQc9Eb · 2026-11-12 · Mondai: M1.1 Become a mentor page story · read to first message
+- session_01NtNprsxC2Kzua6FztXjUAR · 2026-11-08 · Portfolio: CS2 opening and ending · partial
+- session_01NtNprtC1xmLGeNzPS13mps · 2026-11-05 · Action item section preview · read to first message
+- session_01NtNprqMthfjWZp8DHiT2VB · 2026-10-29 · Mondai: Studio screens, Action Hub and Home · partial
+- session_01Lgz42B3cYXSEiAdQEhA3B9 · 2026-10-22 · Design system readiness for Claude Code · partial
+- session_01EG8fsw9YeuPWLFkBrHhx5X · 2026-10-18 · Mondai: mentor events · read to first message
+- session_011cjKfHa8msXL2CWdUyFQyC · 2026-10-09 · Mondai: missing library states (list Selected, date Selected and Unavailable) · read to first message
+- session_01DgsbUygnUmHMw7QKCXUgso · 2026-10-02 · Student Advisement: stage 2 research · partial
+- session_01574yD68fUWBWkcivcbxruV · 2026-09-30 · Mondai site: content scroll animations · partial
+- session_01NkTCKnWLNM1qbnS2LqGvS2 · 2026-09-25 · Mondai: Peer Connect split and region gap spacing · read to first message
+- session_01KYnAdaA7vwc1VVEeXfroDt · 2026-09-25 · Mondai MVP layout damage fixes · read to first message
+- session_01JWCZd3YSpWh36izDdThCja · 2026-09-24 · Mondai text styles rulings · read to first message
+- session_01XE4kczNJH687Hd9S8vDjVp · 2026-09-18 · DS page: Content · read to first message
+- session_01UqSXyvinMvrQzgmnD6thjs · 2026-08-26 · Monday case study layout structure · partial
+- session_01NtNprqkKarMVuK54yRtTvP · 2026-11-15 · Mondai chat: stage 5 handoff · read to first message
+- session_01NtNprpNSfzU3LgL2aDw4Tx · 2026-11-12 · Mondai: divider tokens · read to first message
+- session_01NtNprqjdf9Vf9Cai3oq33L · 2026-11-08 · Portfolio: Satoshi font access in Figma · read to first message
+- session_01NtNprreEjmEj5kaERywyrn · 2026-11-05 · Rollover tag styling on action items · read to first message
+- session_01NtNprrAVNxogdessJ2rmaF · 2026-10-29 · Calendar component status versions · read to first message
+- session_01WDYHKfHNsUZNXgqfFcNyzt · 2026-10-22 · Mondai: design system case study evidence · read to first message
+- session_01M7VAL6e2AcxUCNGGqv9XLJ · 2026-10-16 · Mondai: why process fixes do not stick · read to first message
+- session_015KUCuqSpkvQkFLGvyTaukw · 2026-10-09 · Student Advisement · read to first message
+- session_0194prAhYWiiBR1wA2rUGW34 · 2026-10-02 · Case studies portfolio status · read to first message
+- session_01FRiLpEJ88TnjKWnZ52iTGe · 2026-09-30 · Mondai: footer and research hook (turn-check) · read to first message
+- session_018MJumx3gFGrYRrFZf8Mdii · 2026-09-25 · Peer Connect feature documentation · read to first message
+- session_019xMzQmiLqLKpcj9wwzbvz8 · 2026-09-25 · Mondai: Input fields dropdown repair · read to first message
+- session_01CfEVQdLvBQFR8Y3iTPs2B6 · 2026-09-24 · Mondai: wrapped text line height rulings · read to first message
+- session_012bHdGecQTEjkxwsYYDHbrD · 2026-09-18 · DS page: Notifications · read to first message · none of his typed messages
+
 ## Cloud sessions not read
 
-- 315 of the 386 sessions (26 Aug to 16 Nov) were screened by title only: product screens, tokens, research, setup and process chats with no tool built for him. Their tool asks, if any, are not in the evidence.
+- 26 off topic sessions (account, voice, 3D models, TV shows and similar), listed in the research scratch file wave-skipped.tsv.
 
 ## Artifacts and their comments
 

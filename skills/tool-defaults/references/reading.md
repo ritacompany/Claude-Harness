@@ -20,7 +20,7 @@ presenter notes, guides, handoff documents.
 ## Decks
 
 - Slides are visual aids: minimal text, large type, white space; the audience never reads while he
-  talks. Several slides broken up by topic. (E0451, E0692, E0696, E0540, E1100)
+  talks. Several slides broken up by topic. (E0451, E0692, E0696, E0540, E1100, E2903)
 - Every slide fits the screen with no scrolling and no empty band. (E0697, E0702)
 - Dark background, Heebo and IBM Plex Sans Mono, clean and styled. (E0667, E1501, E1537)
 - His real screens and components at a readable size and full resolution. (E0539, E0541, E1106)
@@ -33,8 +33,8 @@ presenter notes, guides, handoff documents.
 - Downloadable PDF in the white house style he approved: clear hierarchy, smart spacing, no section
   broken across pages, no half empty pages. Slides as an HTML deck that fits the screen, or PDF;
   pptx only when he asks. A transcript is never HTML.
-  (E1049, E0318, E0777, E0804, E0805, E0837, E0702, E2174, E0700, E2007)
+  (E1049, E0318, E0777, E0804, E0805, E0837, E0702, E2174, E0700, E2007, E2422)
 - Short and scannable, nothing the reader can see elsewhere. (E0306, E0806, E0840)
 - A handoff document stands alone: why, then the solution, then the steps. (E0565, E0566, E0567)
 - A developer handoff gives only what Figma cannot show: behaviour, rules, edge cases.
-  (E0353, E0421, E0422, E0509)
+  Never a book of detail. (E0353, E0421, E0422, E0509, E2261, E2333, E2824)
