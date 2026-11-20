@@ -56,7 +56,7 @@ model and a rule that restates what Claude does by default. For each finding dec
 - **Move it home.** A rule that exists only outside `CLAUDE.md` (an account preference with no home,
   a rule in one project that is really personal) moves into `CLAUDE.md` first, then the copy goes.
 - **Regenerate or re-upload.** Drift in generated or uploaded copies is fixed at the source, then
-  rebuilt: `node scripts/build-preferences.mjs` and `bash scripts/package-skills.sh` in the harness.
+  rebuilt: `node scripts/build-preferences.mjs` and `bash scripts/skill-zip.sh` in the harness.
 - **Turn off.** A skill loaded twice or a second skill for one job is turned off in the claude.ai
   account by the owner.
 - **Resolve.** A contradiction needs the owner's one line answer on which rule wins.

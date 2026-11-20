@@ -89,7 +89,7 @@ if (part === "migration") {
   console.log(`SKILLS OK (${out.skills} skills checked)`);
 } else if (part === "zips") {
   const out = fs.mkdtempSync(path.join(os.tmpdir(), "zips-"));
-  execFileSync("bash", [path.join(repo, "scripts/package-skills.sh"), out], { encoding: "utf8" });
+  execFileSync("bash", [path.join(repo, "scripts/skill-zip.sh")], { encoding: "utf8", env: { ...process.env, SKILL_ZIP_DIR: out } });
   const need = {
     "unlazy.zip": ["unlazy/SKILL.md", "unlazy/scripts/gate-check.mjs", "unlazy/scripts/lib/gates.mjs", "unlazy/templates/gates-leaf.md", "unlazy/references/gates.md"],
     "resource-sourcing.zip": ["resource-sourcing/SKILL.md", "resource-sourcing/references/sources.md"],
@@ -100,10 +100,11 @@ if (part === "migration") {
     const list = execFileSync("unzip", ["-Z1", path.join(out, zip)], { encoding: "utf8" }).split("\n");
     for (const f of files) if (!list.includes(f)) fail(`${zip} is missing ${f}`);
   }
-  // Every file in each skill folder is in its zip.
+  // Every file in each skill folder is in its zip, except the tests folder, which stays in the repo.
   for (const name of fs.readdirSync(path.join(repo, "skills"))) {
     const list = new Set(execFileSync("unzip", ["-Z1", path.join(out, `${name}.zip`)], { encoding: "utf8" }).split("\n"));
-    const files = execFileSync("find", [name, "-type", "f"], { cwd: path.join(repo, "skills"), encoding: "utf8" }).trim().split("\n");
+    const files = execFileSync("find", [name, "-type", "f", "-not", "-path", `${name}/tests/*`], { cwd: path.join(repo, "skills"), encoding: "utf8" }).trim().split("\n");
+    if (list.has(`${name}/tests/`) || [...list].some((f) => f.startsWith(`${name}/tests/`))) fail(`${name}.zip carries its tests`);
     const lost = files.filter((f) => !list.has(f));
     if (lost.length) fail(`${name}.zip lacks ${lost.slice(0, 3).join(", ")}`);
   }

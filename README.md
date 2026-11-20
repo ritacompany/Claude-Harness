@@ -13,9 +13,11 @@ checks, replay set and product facts in its own repo).
 | `skills/unlazy` | Writes gates before substantial work and checks them before anything is called done (MIT, by Leonxlnx; this copy carries the fix from 4 Nov that lets a turn wait on running agents) |
 | `skills/humanizer` | Strips the signs of AI writing from copy (MIT) |
 | `skills/resource-sourcing` | Searches for an existing skill, plugin or tool before anything is built |
+| `skills/tool-defaults` | My standing defaults for every tool, board, canvas, editor, prototype, dashboard, deck or page built for me, written from 2,190 of my own quotes, with one short file per tool type and `scripts/tool-check.mjs`, which loads a page at five widths and fails on sideways scroll, a sidebar that cannot collapse, inner scroll boxes, tiny text, a light page, unsaved controls, dashes and missing titles |
+| `skills/taste` and `taste/` | The taste library: researched design rules, techniques, terms and textures with my verdicts, read through a short index; `taste/README.md` is how it grows |
 | `skills/tidy` | Reports duplicate, drifted and dead rules and overlapping skills without changing anything, then applies only the fixes I approve |
 | `retired.md`, `tidy-keep.txt` | Where removed rules wait two weeks before deletion, and the restatements kept on purpose |
-| `scripts/package-skills.sh` | Zips each skill as a whole folder for upload to claude.ai |
+| `scripts/skill-zip.sh` | Zips skills as whole folders (tests left out) for upload to claude.ai: one by name, or all with no name |
 | `hooks/usage-guard.sh` | At 75% of the weekly limit it tells Claude to wrap up; at 85% it refuses to start agents or workflows |
 | `hooks/turn-check.mjs` | At the end of each turn, blocks a reply with a dash, an Oxford comma or no footer, and one that started a scheduled task, reminder or PR watch nobody asked for in that chat |
 | `hooks/unlazy-stop.sh` | Runs unlazy's own check, which refuses a done claim while gates are unmet |
@@ -39,9 +41,10 @@ ways in (from Anthropic's docs, checked 11 Nov 2026):
 | Hooks (turn check, unlazy, usage guard) | install script | no: user hooks do not run in the cloud | no |
 
 So the skills also need to be turned on in each claude.ai account; that is the only route into
-cloud sessions and Cowork. The account preferences reach every surface, which is why they are
-built from `CLAUDE.md` instead of written by hand: in Claude Code both load, so they must never say
-different things. A guard that must hold in cloud sessions has to live in that project's
+cloud sessions and Cowork. Upload each skill as the zip that `scripts/skill-zip.sh` makes (it leaves
+out the test files, which stay in this repo). The account preferences reach every surface, which is
+why they are built from `CLAUDE.md` instead of written by hand: in Claude Code both load, so they
+must never say different things. A guard that must hold in cloud sessions has to live in that project's
 own repo.
 
 ## What is enforced and what is only written
@@ -89,7 +92,7 @@ The levels can be changed with `HARNESS_WEEKLY_WARN` and `HARNESS_WEEKLY_STOP`.
 
 On each of the two accounts:
 
-1. Skills: run `bash scripts/package-skills.sh` and upload each zip from `dist/skills/` in the skills
+1. Skills: run `bash scripts/skill-zip.sh` and upload each zip from `dist/` in the skills
    settings on claude.ai (or Customize in the desktop app sidebar), replacing any older copy. Upload
    the whole folder: the account keeps only what is uploaded, so a skill uploaded as SKILL.md alone
    runs without its scripts, templates and references. Skills there reach cloud sessions, Cowork and

@@ -218,7 +218,7 @@ for (const [name, list] of byName) {
   const harnessCopy = distinct.find((s) => s.source === "harness");
   const accountCopy = distinct.find((s) => s.source === "account");
   if (harnessCopy && accountCopy && distinct.length === 2) {
-    if (hashes.size > 1) add("drift", `the account copy of skill "${name}" differs from the harness`, ["upload the harness folder to claude.ai again (scripts/package-skills.sh)"]);
+    if (hashes.size > 1) add("drift", `the account copy of skill "${name}" differs from the harness`, ["upload the harness folder to claude.ai again (bash scripts/skill-zip.sh <name>)"]);
     continue;
   }
   add("loaded-twice", `skill "${name}" loads from ${sources}`, [hashes.size === 1 ? "the copies are identical: one can be turned off with no change in behavior" : "the copies differ: the agent may follow either one"]);
