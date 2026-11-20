@@ -27,8 +27,14 @@ when the job is visual. Entries whose his take says never are out.
 **Critique.** When judging work, run the "How to check it" line of every matching default yes
 entry and report failures with the entry id.
 
-**Capture.** When he sends items, add one line each to INBOX.md with the source and date. Do not
-research in the same turn unless he asks.
+**Capture.** When he sends items, add one line each to INBOX.md with the source and date. An item
+that is already an entry is not added again; say which entry has it. Do not research in the same
+turn unless he asks.
+
+**Landing it.** Every change to the library (a capture, a verdict, new entries) is committed in
+ritacompany/claude-harness and merged into main the same turn, after `node taste/check.mjs` passes,
+because other sessions read the library from main and a change left on a branch is lost to them.
+He never has to merge anything here.
 
 **Research.** When he asks to research the inbox, follow the research standard in README.md:
 three or more opened sources per entry, all sections filled, verify-claims before the row enters
