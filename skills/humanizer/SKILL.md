@@ -35,7 +35,7 @@ If the user provides a writing sample (their own previous writing), analyze it b
 2. Match those habits instead of merely deleting AI patterns. Do not upgrade casual words or regularize deliberate quirks.
 3. Without a sample, use the default behavior below.
 
-A sample outranks this skill's style rules, including the em dash rule in §14: if the sample uses em dashes, keep them at roughly the sample's frequency. Matching the author beats scrubbing the tell.
+A sample outranks this skill's style rules, with one exception: the dash rule in §14 always holds, because the owner's CLAUDE.md bans em and en dashes in every reply and file. Matching the author beats scrubbing the other tells.
 
 ## PERSONALITY AND SOUL
 
@@ -180,7 +180,7 @@ When voice is appropriate, avoid uniform sentence structures, bloodless neutrali
 **After:**
 > The new policy, announced without warning, affects thousands of workers. The changes, long overdue according to critics, will take effect immediately.
 
-Before returning the final rewrite, scan it for `—` and `–`. Any hit means the draft isn't done. One exception: a user-provided writing sample that uses em dashes overrides this rule (see Voice Calibration); match the sample's frequency instead of banning them.
+Before returning the final rewrite, scan it for `—` and `–`. Any hit means the draft isn't done. A writing sample does not change this (see Voice Calibration).
 
 ### 15. Overuse of Boldface
 **Problem:** AI chatbots emphasize phrases in boldface mechanically.
