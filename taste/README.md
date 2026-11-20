@@ -116,6 +116,8 @@ login and automated download was refused). The screenshot of the list is enough 
 since the research does the explaining. If something the creator says matters, a line from
 Chadwick about it goes in the inbox line.
 
+Each change lands on main in the session that makes it (skills/taste/SKILL.md, Landing it).
+
 ## Capturing his verdicts
 
 The entries are craft; his verdicts are what make the library his taste. When he rules on a move in any review ("I
