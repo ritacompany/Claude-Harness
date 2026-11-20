@@ -12,7 +12,7 @@ Scope: one home for every personal rule, generated account preferences, cloud se
 - [x] G2: every CLAUDE.md section has an id comment with surfaces and match phrases, and the file stays under 200 lines
   CHECK: node tests/hygiene-build-checks.mjs claudemd
   EXPECT: CLAUDEMD OK
-  EVIDENCE: exit=0; shell=/bin/sh; cwd=/home/user/claude-harness; path=7f4fb4b02918/15 entries; EXPECT=matched; output-sha256=63aacb437b89f0b48d77946a9f13ddb0c035e6e930ea9e069484076aca40a6ce; output-bytes=37
+  EVIDENCE: exit=0; shell=/bin/sh; cwd=/home/user/claude-harness; path=7f4fb4b02918/15 entries; EXPECT=matched; output-sha256=5a0cd5f7986dc84094d2dfe772d5aaa1ae603201c601bbdc93267d22e75283d7; output-bytes=37
 
 - [x] G3: the committed account preferences equal a fresh build from CLAUDE.md, and a planted edit to CLAUDE.md makes the check fail
   CHECK: node tests/hygiene-build-checks.mjs preferences
@@ -27,7 +27,7 @@ Scope: one home for every personal rule, generated account preferences, cloud se
 - [x] G5: no harness skill points at a file that does not exist, and the humanizer no longer lets a sample bring dashes back
   CHECK: node tests/hygiene-build-checks.mjs skills
   EXPECT: SKILLS OK
-  EVIDENCE: exit=0; shell=/bin/sh; cwd=/home/user/claude-harness; path=7f4fb4b02918/15 entries; EXPECT=matched; output-sha256=86830d69b6d50786371036f46ecf2d59b32e27284c67f5530a2f2282fc9be599; output-bytes=29
+  EVIDENCE: exit=0; shell=/bin/sh; cwd=/home/user/claude-harness; path=7f4fb4b02918/15 entries; EXPECT=matched; output-sha256=3b43aee508da2fa694a47f1466c5a35d9cc184dbb88d92db471e2ac1a6cf5616; output-bytes=29
 
 - [x] G6: the tidy inventory reports every planted mistake, stays quiet on a clean setup and changes no input file
   CHECK: node tests/tidy-cases.mjs
