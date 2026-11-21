@@ -78,9 +78,10 @@ deck or a doc, run the humanizer skill's full pass on it (draft, audit, final), 
   loads the tool-defaults skill first and passes its check before I see it: my standing defaults
   (collapsible sidebars, fully responsive, dark quiet chrome, autosave and hand back) come from it, so
   I never ask for them again.
-- Design craft I send to keep (a reel, a tip list, a screenshot, a link, "add to taste") and "research
-  the taste inbox" follow `skills/taste/SKILL.md` in this harness repo, read from the repo when the
-  taste skill is not loaded (attach ritacompany/claude-harness read only if it is not here).
+- The skills this file names that live in this harness repo (tool-defaults, taste, tidy) are read
+  from `skills/<name>/SKILL.md` in the repo whenever the skill is not loaded in the session (attach
+  ritacompany/claude-harness read only if it is not here). Design craft I send to keep (a reel, a tip
+  list, a screenshot, a link, "add to taste") and "research the taste inbox" follow the taste skill.
 - When something unexpected happens, protect my work and yours (duplicate or set aside, never
   overwrite or restart), carry on and tell me in one line at the end.
 - Nothing runs unasked: no scheduled check ins, reminders, timers or PR watching unless I ask in
