@@ -12,7 +12,10 @@ if (fs.existsSync(file)) {
 }
 const H = '"$HOME/.claude/claude-harness';
 const ours = {
-  UserPromptSubmit: [{ hooks: [{ type: "command", command: `bash ${H}/hooks/usage-guard.sh" prompt` }] }],
+  UserPromptSubmit: [{ hooks: [
+    { type: "command", command: `bash ${H}/hooks/usage-guard.sh" prompt` },
+    { type: "command", command: `node ${H}/hooks/session-size.mjs"` },
+  ] }],
   PreToolUse: [{ matcher: "Agent|Task|Workflow", hooks: [{ type: "command", command: `bash ${H}/hooks/usage-guard.sh" tool` }] }],
   SessionStart: [{ matcher: "startup", hooks: [{ type: "command", command: `bash ${H}/hooks/auto-update.sh"` }] }],
   Stop: [{ hooks: [
