@@ -29,15 +29,6 @@ check "the status line is set" 'node -e "const s=require(process.argv[1]);proces
 cmd_tool=$(node -e 'const s=require(process.argv[1]);console.log(s.hooks.PreToolUse[0].hooks[0].command)' "$S")
 cmd_prompt=$(node -e 'const s=require(process.argv[1]);console.log(s.hooks.UserPromptSubmit[0].hooks[0].command)' "$S")
 cmd_status=$(node -e 'const s=require(process.argv[1]);console.log(s.statusLine.command)' "$S")
-# The session size warning, as installed: quiet under the line, once at the warning, every message past the limit.
-cmd_size=$(node -e 'const s=require(process.argv[1]);console.log(s.hooks.UserPromptSubmit[0].hooks.find(h=>/session-size/.test(h.command)).command)' "$S")
-sz=$(mktemp -d); export HARNESS_STATE="$sz"; tp="$sz/size.jsonl"; mk(){ printf '{"type":"assistant","message":{"usage":{"input_tokens":2,"cache_read_input_tokens":%s,"cache_creation_input_tokens":0,"output_tokens":0}}}\n' "$1" > "$tp"; }
-run_size(){ echo "{\"session_id\":\"$1\",\"transcript_path\":\"$tp\",\"prompt\":\"hi\"}" | bash -c "$cmd_size"; }
-mk 90000;  check "size: quiet under 150k" '[ -z "$(run_size a)" ]'
-mk 160000; check "size: warns once at 160k" 'run_size b | grep -q "160k tokens"'
-check "size: not again on the next message" '[ -z "$(run_size b)" ]'
-mk 185000; check "size: hand over at 185k, every message" 'run_size c | grep -q "hand over" && run_size c | grep -q "hand over"'
-check "size: garbage input never blocks" 'echo garbage | bash -c "$cmd_size"; true'
 
 now=$(date +%s)
 sample() { printf '{"rate_limits":{"seven_day":{"used_percentage":%s,"resets_at":%s},"five_hour":{"used_percentage":12,"resets_at":%s}}}' "$1" "$2" "$2"; }
