@@ -55,7 +55,7 @@ deck or a doc, run the humanizer skill's full pass on it (draft, audit, final), 
 
 A long piece of work has one lead chat at a time and keeps its state in the project's `LEDGER.md`
 with the ledger skill, committed with the work; decisions go in my words. The lead hands over at
-each stop ("park") and whenever it has run long. A new lead runs "pickup": it reads the ledger back
+each stop ("park"), never because the chat has grown long. A new lead runs "pickup": it reads the ledger back
 in five lines and waits for my confirmation, then reads git, never old chats. With several ledgers,
 read back only the one whose Objective covers the work; if none does, say so in one line and start.
 The read-back and the park output are deliverables, not status messages. The ledger is opt in per
