@@ -9,7 +9,7 @@ only once that check has caught a planted mistake.
 | --- | --- | --- | --- | --- |
 | 1. Harness | Usage managed during the work, tool budgets, a named fallback when a tool refuses | | | |
 | 2. Loop | Each loop has a budget, a machine signal that it is done and a reaction to a repeat | | | |
-| 3. Context | Rules load by job; chat size is measured; long chats rotate | | | |
+| 3. Context | Rules load by job; context use is visible to the person; no chat is warned about or handed over for its length | | | |
 | 4. Tools | Few tools, each with a clear description; no duplicates | | | |
 | 5. Memory | The right things kept in git (decisions, handoffs, logs); stale lists cut | | | |
 | 6. Orchestration | Builder and critic kept apart by the setup, not by memory; handoffs in files | | | |
